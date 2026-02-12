@@ -351,7 +351,7 @@ body::before {
 
 .examples-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
     gap: 30px;
 }
 
@@ -462,7 +462,7 @@ body::before {
 
 .captioning-video-wrapper {
     position: relative;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 4 / 3;
     background: #000;
     overflow: hidden;
 }
@@ -470,7 +470,7 @@ body::before {
 .captioning-video {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 .captioning-video-overlay {

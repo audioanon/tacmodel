@@ -382,7 +382,7 @@ function renderCaptioningExamples() {
 
     container.innerHTML = examples.map((example, index) => createCaptioningCardHTML(example, index)).join('');
 
-    // Start playing videos on hover
+    // Play/pause videos on hover
     container.querySelectorAll('.captioning-card').forEach(card => {
         const video = card.querySelector('video');
         if (video) {
@@ -391,7 +391,6 @@ function renderCaptioningExamples() {
             });
             card.addEventListener('mouseleave', () => {
                 video.pause();
-                video.currentTime = 0;
             });
         }
     });
@@ -416,12 +415,9 @@ function createCaptioningCardHTML(example, index) {
     return `
         <div class="captioning-card" onclick="openVideoModal('${videoSrc}', \`${escapeHTML(caption)}\`)">
             <div class="captioning-video-wrapper">
-                <video class="captioning-video" muted loop preload="metadata">
+                <video class="captioning-video" loop preload="metadata" controls>
                     <source src="${videoSrc}" type="video/mp4">
                 </video>
-                <div class="captioning-video-overlay">
-                    <div class="play-icon">▶</div>
-                </div>
                 ${duration ? `<span class="captioning-duration">${duration}</span>` : ''}
             </div>
             <div class="captioning-info">
