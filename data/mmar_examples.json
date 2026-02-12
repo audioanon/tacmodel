@@ -3,7 +3,7 @@
     {
       "id": "mmar_1",
       "benchmark": "mmar",
-      "audio_path": "../assets/f0VchKwpMAk_00-11-10_00-11-30.wav",
+      "audio_path": "assets/f0VchKwpMAk_00-11-10_00-11-30.wav",
       "type": "Speaker Analysis",
       "category": "Semantic Layer",
       "modality": "mix-sound-speech",
@@ -56,7 +56,7 @@
     {
       "id": "mmar_2",
       "benchmark": "mmar",
-      "audio_path": "../assets/BV1o64y1G7p2_00-00-12_00-00-31.wav",
+      "audio_path": "assets/BV1o64y1G7p2_00-00-12_00-00-31.wav",
       "type": "Environmental Perception and Reasoning",
       "category": "Perception Layer",
       "modality": "mix-sound-speech",
@@ -109,7 +109,7 @@
     {
       "id": "mmar_3",
       "benchmark": "mmar",
-      "audio_path": "../assets/BV1j1ABeqEyp_00-06-02_00-06-16.wav",
+      "audio_path": "assets/BV1j1ABeqEyp_00-06-02_00-06-16.wav",
       "type": "Content Analysis",
       "category": "Semantic Layer",
       "modality": "mix-sound-speech",
@@ -162,7 +162,7 @@
     {
       "id": "mmar_4",
       "benchmark": "mmar",
-      "audio_path": "../assets/BV1gt4y1e7U5_00-00-52_00-01-16.wav",
+      "audio_path": "assets/BV1gt4y1e7U5_00-00-52_00-01-16.wav",
       "type": "Counting and Statistics",
       "category": "Perception Layer",
       "modality": "mix-sound-speech",
@@ -215,7 +215,7 @@
     {
       "id": "mmar_5",
       "benchmark": "mmar",
-      "audio_path": "../assets/3Rz18q3p-zY_00-00-00_00-00-21.wav",
+      "audio_path": "assets/3Rz18q3p-zY_00-00-00_00-00-21.wav",
       "type": "Professional Knowledge and Reasoning",
       "category": "Cultural Layer",
       "modality": "speech",
@@ -268,7 +268,7 @@
     {
       "id": "mmar_6",
       "benchmark": "mmar",
-      "audio_path": "../assets/71BsRp4Ehjw_00-01-47_00-02-00.wav",
+      "audio_path": "assets/71BsRp4Ehjw_00-01-47_00-02-00.wav",
       "type": "Correlation Analysis",
       "category": "Perception Layer",
       "modality": "sound",
@@ -291,7 +291,7 @@
     {
       "id": "mmar_7",
       "benchmark": "mmar",
-      "audio_path": "../assets/6iRfi8ZUOG4_00-00-05_00-00-35.wav",
+      "audio_path": "assets/6iRfi8ZUOG4_00-00-05_00-00-35.wav",
       "type": "Aesthetic Evaluation",
       "category": "Cultural Layer",
       "modality": "mix-sound-speech",
@@ -344,7 +344,7 @@
     {
       "id": "mmar_8",
       "benchmark": "mmar",
-      "audio_path": "../assets/BV1io4y1k7gG_00-00-27_00-00-54.wav",
+      "audio_path": "assets/BV1io4y1k7gG_00-00-27_00-00-54.wav",
       "type": "Culture of Speaker",
       "category": "Cultural Layer",
       "modality": "mix-sound-speech",
@@ -396,7 +396,7 @@
     {
       "id": "mmar_9",
       "benchmark": "mmar",
-      "audio_path": "../assets/psWdtMQtq1Y_00-00-42_00-00-49.wav",
+      "audio_path": "assets/psWdtMQtq1Y_00-00-42_00-00-49.wav",
       "type": "Emotion and Intention",
       "category": "Semantic Layer",
       "modality": "mix-sound-speech",
