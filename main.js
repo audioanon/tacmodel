@@ -32,38 +32,39 @@ document.addEventListener('DOMContentLoaded', () => {
 // ============================================
 
 function initNavigation() {
-    const navBtns = document.querySelectorAll('.nav-btn');
+    const navLinks = document.querySelectorAll('.nav-btn[data-section]');
 
-    navBtns.forEach(btn => {
-        btn.addEventListener('click', () => {
-            const tabId = btn.dataset.tab;
-            switchTab(tabId);
+    // Smooth scroll on click
+    navLinks.forEach(link => {
+        link.addEventListener('click', (e) => {
+            e.preventDefault();
+            const sectionId = link.dataset.section;
+            const section = document.getElementById(sectionId);
+            if (section) {
+                section.scrollIntoView({ behavior: 'smooth' });
+            }
+            // Update active state immediately on click
+            navLinks.forEach(l => l.classList.remove('active'));
+            link.classList.add('active');
         });
     });
-}
 
-function switchTab(tabId) {
-    // Update state
-    state.currentTab = tabId;
-
-    // Update nav buttons
-    document.querySelectorAll('.nav-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.dataset.tab === tabId);
+    // Scroll-spy: highlight nav link for the currently visible section
+    const sections = document.querySelectorAll('.tab-content');
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                navLinks.forEach(l => l.classList.remove('active'));
+                const activeLink = document.querySelector(`.nav-btn[data-section="${entry.target.id}"]`);
+                if (activeLink) activeLink.classList.add('active');
+            }
+        });
+    }, {
+        rootMargin: '-20% 0px -70% 0px',
+        threshold: 0
     });
 
-    // Update tab content
-    document.querySelectorAll('.tab-content').forEach(content => {
-        content.classList.toggle('active', content.id === tabId);
-    });
-
-    // Load data if needed
-    if (tabId === 'captioning' && !state.captioningData) {
-        loadCaptioningData();
-    } else if (tabId === 'benchmarks' && !state.benchmarkData) {
-        loadBenchmarkData();
-    } else if (tabId === 'audiobenchmarks' && !state.audioBenchmarkData) {
-        loadAudioBenchmarkData();
-    }
+    sections.forEach(section => observer.observe(section));
 }
 
 // ============================================
@@ -124,7 +125,8 @@ async function loadData() {
     await Promise.all([
         loadCaptioningData(),
         loadBenchmarkData(),
-        loadAudioBenchmarkData()
+        loadAudioBenchmarkData(),
+        loadVideoCaptioningData()
     ]);
 }
 
@@ -879,3 +881,233 @@ function getSampleBenchmarkData() {
         ]
     };
 }
+
+// ============================================
+// Video Captioning
+// ============================================
+
+const vcState = {
+    clips: [],
+    activeFilter: 'all',
+    visibleCount: 6
+};
+
+async function loadVideoCaptioningData() {
+    const container = document.getElementById('videoCaptioningExamples');
+    if (!container) return;
+    container.innerHTML = createLoadingHTML();
+
+    try {
+        const manifestRes = await fetch('data/video_captioning_clips.json');
+        const clipDirs = await manifestRes.json();
+
+        const clipPromises = clipDirs.map(async (dir) => {
+            const basePath = `assets/video_captioning_clips/${dir}`;
+            try {
+                const eventsRes = await fetch(`${basePath}/events.json`);
+                const eventsData = await eventsRes.json();
+                return {
+                    id: dir,
+                    videoSrc: `${basePath}/clip.mp4`,
+                    events: eventsData.events || [],
+                    duration: eventsData.duration,
+                    selStart: eventsData.sel_start,
+                    selEnd: eventsData.sel_end
+                };
+            } catch (e) {
+                console.warn(`Failed to load events for ${dir}`, e);
+                return null;
+            }
+        });
+
+        vcState.clips = (await Promise.all(clipPromises)).filter(Boolean);
+        renderVideoCaptioningExamples();
+        initVCFilterButtons();
+    } catch (error) {
+        console.error('Failed to load video captioning data', error);
+        container.innerHTML = '<p style="color:var(--text-muted);text-align:center;">Failed to load video captioning examples.</p>';
+    }
+}
+
+function initVCFilterButtons() {
+    document.querySelectorAll('.vc-filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            vcState.activeFilter = btn.dataset.filter;
+            document.querySelectorAll('.vc-filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            document.querySelectorAll('.vc-event-item').forEach(item => {
+                const type = item.dataset.eventType;
+                item.style.display = (vcState.activeFilter === 'all' || type === vcState.activeFilter) ? '' : 'none';
+            });
+        });
+    });
+}
+
+function formatTime(seconds) {
+    const m = Math.floor(seconds / 60);
+    const s = seconds % 60;
+    return `${String(m).padStart(2, '0')}:${s.toFixed(2).padStart(5, '0')}`;
+}
+
+function getEventTypeColor(type) {
+    const colors = {
+        visual: { bg: 'rgba(16, 185, 129, 0.12)', border: '#10b981', text: '#10b981' },
+        music: { bg: 'rgba(139, 92, 246, 0.12)', border: '#8b5cf6', text: '#8b5cf6' },
+        speech: { bg: 'rgba(236, 72, 153, 0.12)', border: '#ec4899', text: '#ec4899' },
+        sfx: { bg: 'rgba(245, 158, 11, 0.12)', border: '#f59e0b', text: '#f59e0b' }
+    };
+    return colors[type] || { bg: 'rgba(255,255,255,0.05)', border: 'var(--border-color)', text: 'var(--text-secondary)' };
+}
+
+function renderVideoCaptioningExamples() {
+    const container = document.getElementById('videoCaptioningExamples');
+    const visibleClips = vcState.clips.slice(0, vcState.visibleCount);
+
+    let html = visibleClips.map((clip, idx) => {
+        const filteredEvents = clip.events
+            .filter(e => e.start_time >= clip.selStart && e.start_time < clip.selEnd)
+            .sort((a, b) => a.start_time - b.start_time);
+
+        const eventCards = filteredEvents.map((ev, evIdx) => {
+            const c = getEventTypeColor(ev.type);
+            const hidden = vcState.activeFilter !== 'all' && ev.type !== vcState.activeFilter;
+            return `
+                <div class="vc-event-item" data-event-type="${ev.type}" data-start="${ev.start_time}" data-end="${ev.end_time}" data-clip="${idx}" data-confidence="${ev.confidence || ''}" style="background:${c.bg};border-left:3px solid ${c.border};${hidden ? 'display:none;' : ''}">
+                    <div class="vc-event-time" style="color:${c.text}">
+                        ${formatTime(ev.start_time)} &ndash; ${formatTime(ev.end_time)}
+                        <span class="vc-event-type-badge" style="background:${c.border}">${ev.type.toUpperCase()}</span>
+                    </div>
+                    <div class="vc-event-desc">${ev.description}</div>
+                </div>
+            `;
+        }).join('');
+
+        // Prettified JSON for toggle
+        const jsonStr = JSON.stringify(filteredEvents, null, 2);
+
+        return `
+            <div class="vc-example-card" data-clip-index="${idx}">
+                <div class="vc-video-side">
+                    <div class="vc-video-wrapper">
+                        <video controls preload="metadata" class="vc-video" data-clip-index="${idx}">
+                            <source src="${clip.videoSrc}" type="video/mp4">
+                        </video>
+                        <div class="vc-caption-overlay" data-overlay="${idx}"></div>
+                    </div>
+                </div>
+                <div class="vc-events-side">
+                    <div class="vc-events-header">
+                        <span class="vc-events-title">Events (${filteredEvents.length})</span>
+                        <button class="vc-json-toggle-btn" onclick="toggleVcJson(${idx})">{ } View JSON</button>
+                    </div>
+                    <div class="vc-events-list" data-clip-list="${idx}">
+                        ${eventCards}
+                    </div>
+                </div>
+            </div>
+            <div class="vc-json-view" id="vcJsonView${idx}" style="display:none;">
+                <pre class="vc-json-pre">${escapeHtml(jsonStr)}</pre>
+            </div>
+        `;
+    }).join('');
+
+    if (vcState.visibleCount < vcState.clips.length) {
+        html += `
+            <div style="text-align:center;margin-top:30px;">
+                <button class="show-more-btn" onclick="vcShowMore()">Show More Examples</button>
+            </div>
+        `;
+    }
+
+    container.innerHTML = html;
+    attachVideoSyncListeners();
+}
+
+function escapeHtml(str) {
+    return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function toggleVcJson(idx) {
+    const el = document.getElementById(`vcJsonView${idx}`);
+    const card = el.previousElementSibling;
+    const btn = card.querySelector('.vc-json-toggle-btn');
+    if (el.style.display === 'none') {
+        el.style.display = 'block';
+        btn.textContent = '{ } Hide JSON';
+        btn.classList.add('active');
+    } else {
+        el.style.display = 'none';
+        btn.textContent = '{ } View JSON';
+        btn.classList.remove('active');
+    }
+}
+
+function attachVideoSyncListeners() {
+    document.querySelectorAll('.vc-video').forEach(video => {
+        const clipIdx = video.dataset.clipIndex;
+        const eventList = document.querySelector(`.vc-events-list[data-clip-list="${clipIdx}"]`);
+        const overlay = document.querySelector(`.vc-caption-overlay[data-overlay="${clipIdx}"]`);
+        if (!eventList) return;
+
+        let lastScrolledItem = null;
+        let lastOverlayHtml = '';
+
+        video.addEventListener('timeupdate', () => {
+            const t = video.currentTime;
+            const items = eventList.querySelectorAll('.vc-event-item');
+            let latestActive = null;
+            let latestStart = -1;
+            const activeEvents = [];
+
+            items.forEach(item => {
+                const start = parseFloat(item.dataset.start);
+                const end = parseFloat(item.dataset.end);
+                const isActive = t >= start && t <= end;
+                item.classList.toggle('vc-active', isActive);
+                if (isActive && item.style.display !== 'none') {
+                    activeEvents.push(item);
+                    if (start > latestStart) {
+                        latestStart = start;
+                        latestActive = item;
+                    }
+                }
+            });
+
+            // Scroll to the latest active event
+            if (latestActive && latestActive !== lastScrolledItem) {
+                lastScrolledItem = latestActive;
+                const listRect = eventList.getBoundingClientRect();
+                const itemRect = latestActive.getBoundingClientRect();
+                const relativeTop = itemRect.top - listRect.top + eventList.scrollTop;
+                const targetScroll = relativeTop - eventList.clientHeight / 3;
+                eventList.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
+            }
+
+            // Update caption overlay
+            if (overlay) {
+                const typeColors = {
+                    music: '#e8a850', background: '#e8a850', visual: '#e8a850',
+                    speech: '#e8a850', sfx: '#e8a850'
+                };
+                let overlayHtml = activeEvents.map(item => {
+                    const evType = item.dataset.eventType || '';
+                    const conf = item.dataset.confidence;
+                    const desc = item.querySelector('.vc-event-desc')?.textContent || '';
+                    const confStr = conf ? ` (${Math.round(parseFloat(conf) * 100)}%)` : '';
+                    return `<div class="vc-overlay-line"><span class="vc-overlay-type">${evType}${confStr}</span> ${desc}</div>`;
+                }).join('');
+                if (overlayHtml !== lastOverlayHtml) {
+                    lastOverlayHtml = overlayHtml;
+                    overlay.innerHTML = overlayHtml;
+                    overlay.classList.toggle('visible', activeEvents.length > 0);
+                }
+            }
+        });
+    });
+}
+
+function vcShowMore() {
+    vcState.visibleCount += 6;
+    renderVideoCaptioningExamples();
+}
+

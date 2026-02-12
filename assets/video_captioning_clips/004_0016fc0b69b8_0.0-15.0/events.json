@@ -1,0 +1,1556 @@
+{
+  "cid": "0016fc0b69b803d2d422f437434af3bc",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 74.07165532879819,
+  "events": [
+    {
+      "description": "Purple fireworks explode over Statue of Liberty at night, city skyline lit in background",
+      "start_time": 0.0,
+      "end_time": 20.0,
+      "duration": 20.0,
+      "type": "background",
+      "confidence": 0.946,
+      "audio_description": "Crowd noise in stadium"
+    },
+    {
+      "description": "Cinematic strings and piano swell as camera moves from Statue of Liberty to dark interior with torchlight",
+      "start_time": 0.2,
+      "end_time": 20.0,
+      "duration": 19.8,
+      "type": "music",
+      "confidence": 0.963,
+      "audio_description": "Cinematic strings and piano build to a powerful climax"
+    },
+    {
+      "description": "Man in red cloak speaks with intense expression, dark stone background",
+      "start_time": 0.8,
+      "end_time": 4.8,
+      "duration": 4.0,
+      "type": "speech",
+      "confidence": 0.903,
+      "audio_description": "Male voice (positive)"
+    },
+    {
+      "start_time": 3.7120416666666665,
+      "end_time": 4.713041666666666,
+      "type": "visual",
+      "description": "Man in dark coat and glasses stands on highway, smoke behind him, tentacles visible",
+      "audio_description": null
+    },
+    {
+      "description": "Man in gray cardigan speaks calmly in interview, on-screen text: <text>ALFRED MOLINA DR. OTTO OCTAVIUS / DOC OCK</text>",
+      "start_time": 4.1,
+      "end_time": 8.2,
+      "duration": 4.1,
+      "type": "speech",
+      "confidence": 0.933,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "start_time": 4.713041666666666,
+      "end_time": 5.839166666666666,
+      "type": "visual",
+      "description": "Three men seated in director\u2019s chairs, middle man gesturing, background dark and industrial",
+      "audio_description": null
+    },
+    {
+      "description": "Man in gray cardigan speaks with reflective tone, hands moving as he talks",
+      "start_time": 5.0,
+      "end_time": 8.2,
+      "duration": 3.1999999999999993,
+      "type": "speech",
+      "confidence": 0.918,
+      "audio_description": "Male voice (positive)"
+    },
+    {
+      "start_time": 6.673333333333333,
+      "end_time": 7.75775,
+      "type": "visual",
+      "description": "Car tires screech, smoke erupts from pavement, debris flies as explosion occurs",
+      "audio_description": null
+    },
+    {
+      "description": "Brief audio glitch, no visible change in scene",
+      "start_time": 7.9,
+      "end_time": 8.2,
+      "duration": 0.29999999999999893,
+      "type": "misc",
+      "confidence": 0.949,
+      "audio_description": "Noise [artifact]"
+    },
+    {
+      "start_time": 8.425083333333333,
+      "end_time": 9.634625,
+      "type": "visual",
+      "description": "Man with mechanical tentacles stands on highway, red and metallic arms extending",
+      "audio_description": null
+    },
+    {
+      "description": "Man in dark coat speaks with calm intensity, tentacles visible over his shoulder",
+      "start_time": 8.6,
+      "end_time": 10.0,
+      "duration": 1.4000000000000004,
+      "type": "speech",
+      "confidence": 0.89,
+      "audio_description": "Male voice (positive)"
+    },
+    {
+      "description": "Metal tentacles clank as they swing and strike, Spider-Man pinned against pillar",
+      "start_time": 9.5,
+      "end_time": 11.0,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.616,
+      "audio_description": "Metal chain rattling"
+    },
+    {
+      "start_time": 9.634625,
+      "end_time": 10.635625,
+      "type": "visual",
+      "description": "Spider-Man held upside-down by tentacle, face pressed against cracked concrete pillar",
+      "audio_description": null
+    },
+    {
+      "description": "Man with tentacles speaks with urgent tone, eyes wide, expression intense",
+      "start_time": 10.4,
+      "end_time": 11.5,
+      "duration": 1.0999999999999996,
+      "type": "speech",
+      "confidence": 0.761,
+      "audio_description": "Male voice (positive)"
+    },
+    {
+      "start_time": 11.386375,
+      "end_time": 12.929583333333332,
+      "type": "visual",
+      "description": "Spider-Man pinned to pillar, face visible, eyes wide with confusion, tentacle holding him",
+      "audio_description": null
+    },
+    {
+      "description": "Man with tentacles speaks with intense, low tone, looking down at Spider-Man",
+      "start_time": 11.4,
+      "end_time": 12.9,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.945,
+      "audio_description": "Male voice (fearful)"
+    },
+    {
+      "start_time": 12.929583333333332,
+      "end_time": 14.014,
+      "type": "visual",
+      "description": "Two men seated in chairs, middle man gestures while speaking, dark background",
+      "audio_description": null
+    },
+    {
+      "description": "Man in gray cardigan speaks with reflective tone, eyes closed briefly",
+      "start_time": 13.1,
+      "end_time": 15.3,
+      "duration": 2.200000000000001,
+      "type": "speech",
+      "confidence": 0.933,
+      "audio_description": "Male voice (positive)"
+    },
+    {
+      "start_time": 14.180833333333332,
+      "end_time": 16.641624999999998,
+      "type": "visual",
+      "description": "Green armored figure stands on broken structure, sparks flying, glowing red eyes",
+      "audio_description": null
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.723,
+        "end": 3.907,
+        "text": " We started getting some visitors from every universe.",
+        "words": [
+          {
+            "word": "We",
+            "start": 0.723,
+            "end": 0.883,
+            "score": 0.74
+          },
+          {
+            "word": "started",
+            "start": 0.903,
+            "end": 1.204,
+            "score": 0.793
+          },
+          {
+            "word": "getting",
+            "start": 1.264,
+            "end": 1.504,
+            "score": 0.778
+          },
+          {
+            "word": "some",
+            "start": 1.524,
+            "end": 1.664,
+            "score": 0.9
+          },
+          {
+            "word": "visitors",
+            "start": 1.724,
+            "end": 2.125,
+            "score": 0.883
+          },
+          {
+            "word": "from",
+            "start": 2.425,
+            "end": 2.565,
+            "score": 0.833
+          },
+          {
+            "word": "every",
+            "start": 2.785,
+            "end": 3.126,
+            "score": 0.826
+          },
+          {
+            "word": "universe.",
+            "start": 3.406,
+            "end": 3.907,
+            "score": 0.827
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.067,
+        "end": 4.768,
+        "text": "Hello, Peter.",
+        "words": [
+          {
+            "word": "Hello,",
+            "start": 4.067,
+            "end": 4.387,
+            "score": 0.874
+          },
+          {
+            "word": "Peter.",
+            "start": 4.447,
+            "end": 4.768,
+            "score": 0.835
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.048,
+        "end": 10.094,
+        "text": "It's been very nice to come back to something that is familiar, but at the same time completely new.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 5.048,
+            "end": 5.168,
+            "score": 0.904
+          },
+          {
+            "word": "been",
+            "start": 5.188,
+            "end": 5.328,
+            "score": 0.874
+          },
+          {
+            "word": "very",
+            "start": 5.388,
+            "end": 5.549,
+            "score": 0.677
+          },
+          {
+            "word": "nice",
+            "start": 5.589,
+            "end": 5.809,
+            "score": 0.888
+          },
+          {
+            "word": "to",
+            "start": 5.849,
+            "end": 5.929,
+            "score": 0.972
+          },
+          {
+            "word": "come",
+            "start": 5.969,
+            "end": 6.129,
+            "score": 0.749
+          },
+          {
+            "word": "back",
+            "start": 6.189,
+            "end": 6.349,
+            "score": 0.931
+          },
+          {
+            "word": "to",
+            "start": 6.43,
+            "end": 6.67,
+            "score": 0.902
+          },
+          {
+            "word": "something",
+            "start": 6.71,
+            "end": 7.271,
+            "score": 0.84
+          },
+          {
+            "word": "that",
+            "start": 7.311,
+            "end": 7.451,
+            "score": 0.977
+          },
+          {
+            "word": "is",
+            "start": 7.511,
+            "end": 7.591,
+            "score": 0.506
+          },
+          {
+            "word": "familiar,",
+            "start": 7.651,
+            "end": 8.192,
+            "score": 0.911
+          },
+          {
+            "word": "but",
+            "start": 8.492,
+            "end": 8.552,
+            "score": 0.0
+          },
+          {
+            "word": "at",
+            "start": 8.572,
+            "end": 8.612,
+            "score": 0.0
+          },
+          {
+            "word": "the",
+            "start": 8.632,
+            "end": 8.772,
+            "score": 0.964
+          },
+          {
+            "word": "same",
+            "start": 8.832,
+            "end": 9.033,
+            "score": 0.703
+          },
+          {
+            "word": "time",
+            "start": 9.073,
+            "end": 9.253,
+            "score": 0.723
+          },
+          {
+            "word": "completely",
+            "start": 9.313,
+            "end": 9.853,
+            "score": 0.779
+          },
+          {
+            "word": "new.",
+            "start": 9.874,
+            "end": 10.094,
+            "score": 0.627
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.454,
+        "end": 11.415,
+        "text": "You're not Peter Parker.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 10.454,
+            "end": 10.634,
+            "score": 0.476
+          },
+          {
+            "word": "not",
+            "start": 10.654,
+            "end": 10.775,
+            "score": 0.953
+          },
+          {
+            "word": "Peter",
+            "start": 10.815,
+            "end": 11.055,
+            "score": 0.483
+          },
+          {
+            "word": "Parker.",
+            "start": 11.075,
+            "end": 11.415,
+            "score": 0.856
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.555,
+        "end": 12.917,
+        "text": "I am so confused right now.",
+        "words": [
+          {
+            "word": "I",
+            "start": 11.555,
+            "end": 11.616,
+            "score": 0.92
+          },
+          {
+            "word": "am",
+            "start": 11.676,
+            "end": 11.756,
+            "score": 0.782
+          },
+          {
+            "word": "so",
+            "start": 11.856,
+            "end": 12.056,
+            "score": 0.985
+          },
+          {
+            "word": "confused",
+            "start": 12.096,
+            "end": 12.517,
+            "score": 0.954
+          },
+          {
+            "word": "right",
+            "start": 12.557,
+            "end": 12.717,
+            "score": 0.883
+          },
+          {
+            "word": "now.",
+            "start": 12.757,
+            "end": 12.917,
+            "score": 0.986
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.937,
+        "end": 15.3,
+        "text": "Twenty years since his Green Goblin.",
+        "words": [
+          {
+            "word": "Twenty",
+            "start": 12.937,
+            "end": 13.418,
+            "score": 0.723
+          },
+          {
+            "word": "years",
+            "start": 13.478,
+            "end": 13.738,
+            "score": 0.719
+          },
+          {
+            "word": "since",
+            "start": 13.758,
+            "end": 14.259,
+            "score": 0.735
+          },
+          {
+            "word": "his",
+            "start": 14.439,
+            "end": 14.639,
+            "score": 0.809
+          },
+          {
+            "word": "Green",
+            "start": 14.719,
+            "end": 14.899,
+            "score": 0.652
+          },
+          {
+            "word": "Goblin.",
+            "start": 14.919,
+            "end": 15.3,
+            "score": 0.915
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.701,
+        "end": 19.424,
+        "text": "Seventeen years since my first time as Doc Ock.",
+        "words": [
+          {
+            "word": "Seventeen",
+            "start": 16.701,
+            "end": 17.182,
+            "score": 0.843
+          },
+          {
+            "word": "years",
+            "start": 17.242,
+            "end": 17.482,
+            "score": 0.623
+          },
+          {
+            "word": "since",
+            "start": 17.562,
+            "end": 17.803,
+            "score": 0.811
+          },
+          {
+            "word": "my",
+            "start": 17.983,
+            "end": 18.183,
+            "score": 0.937
+          },
+          {
+            "word": "first",
+            "start": 18.263,
+            "end": 18.523,
+            "score": 0.876
+          },
+          {
+            "word": "time",
+            "start": 18.584,
+            "end": 18.764,
+            "score": 0.866
+          },
+          {
+            "word": "as",
+            "start": 18.844,
+            "end": 18.904,
+            "score": 0.811
+          },
+          {
+            "word": "Doc",
+            "start": 18.944,
+            "end": 19.244,
+            "score": 0.764
+          },
+          {
+            "word": "Ock.",
+            "start": 19.264,
+            "end": 19.424,
+            "score": 0.624
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 19.765,
+        "end": 20.526,
+        "text": "What was your name again?",
+        "words": [
+          {
+            "word": "What",
+            "start": 19.765,
+            "end": 19.865,
+            "score": 0.939
+          },
+          {
+            "word": "was",
+            "start": 19.885,
+            "end": 19.965,
+            "score": 0.909
+          },
+          {
+            "word": "your",
+            "start": 20.005,
+            "end": 20.105,
+            "score": 0.863
+          },
+          {
+            "word": "name",
+            "start": 20.125,
+            "end": 20.265,
+            "score": 0.9
+          },
+          {
+            "word": "again?",
+            "start": 20.305,
+            "end": 20.526,
+            "score": 0.965
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 20.626,
+        "end": 22.228,
+        "text": "Dr. Otto Octavius.",
+        "words": [
+          {
+            "word": "Dr.",
+            "start": 20.626,
+            "end": 20.986,
+            "score": 0.817
+          },
+          {
+            "word": "Otto",
+            "start": 21.166,
+            "end": 21.407,
+            "score": 0.955
+          },
+          {
+            "word": "Octavius.",
+            "start": 21.587,
+            "end": 22.228,
+            "score": 0.922
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 22.949,
+        "end": 24.25,
+        "text": "Seriously, what's your actual name?",
+        "words": [
+          {
+            "word": "Seriously,",
+            "start": 22.949,
+            "end": 23.249,
+            "score": 0.264
+          },
+          {
+            "word": "what's",
+            "start": 23.269,
+            "end": 23.409,
+            "score": 0.591
+          },
+          {
+            "word": "your",
+            "start": 23.449,
+            "end": 23.569,
+            "score": 0.813
+          },
+          {
+            "word": "actual",
+            "start": 23.629,
+            "end": 23.89,
+            "score": 0.924
+          },
+          {
+            "word": "name?",
+            "start": 23.93,
+            "end": 24.25,
+            "score": 0.78
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.466,
+        "end": 26.548,
+        "text": " You've got another chance to stir some things up.",
+        "words": [
+          {
+            "word": "You've",
+            "start": 24.466,
+            "end": 24.606,
+            "score": 0.072
+          },
+          {
+            "word": "got",
+            "start": 24.626,
+            "end": 24.686,
+            "score": 0.328
+          },
+          {
+            "word": "another",
+            "start": 24.726,
+            "end": 25.007,
+            "score": 0.894
+          },
+          {
+            "word": "chance",
+            "start": 25.067,
+            "end": 25.387,
+            "score": 0.766
+          },
+          {
+            "word": "to",
+            "start": 25.427,
+            "end": 25.487,
+            "score": 0.46
+          },
+          {
+            "word": "stir",
+            "start": 25.507,
+            "end": 25.727,
+            "score": 0.743
+          },
+          {
+            "word": "some",
+            "start": 25.827,
+            "end": 25.928,
+            "score": 0.294
+          },
+          {
+            "word": "things",
+            "start": 25.948,
+            "end": 26.248,
+            "score": 0.773
+          },
+          {
+            "word": "up.",
+            "start": 26.428,
+            "end": 26.548,
+            "score": 0.763
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 27.229,
+        "end": 28.17,
+        "text": "How you like the new new?",
+        "words": [
+          {
+            "word": "How",
+            "start": 27.229,
+            "end": 27.349,
+            "score": 0.48
+          },
+          {
+            "word": "you",
+            "start": 27.389,
+            "end": 27.449,
+            "score": 0.197
+          },
+          {
+            "word": "like",
+            "start": 27.509,
+            "end": 27.609,
+            "score": 0.307
+          },
+          {
+            "word": "the",
+            "start": 27.629,
+            "end": 27.75,
+            "score": 0.494
+          },
+          {
+            "word": "new",
+            "start": 27.83,
+            "end": 28.01,
+            "score": 0.374
+          },
+          {
+            "word": "new?",
+            "start": 28.03,
+            "end": 28.17,
+            "score": 0.716
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.51,
+        "end": 31.073,
+        "text": "Electro is like the world did me wrong.",
+        "words": [
+          {
+            "word": "Electro",
+            "start": 28.51,
+            "end": 28.991,
+            "score": 0.756
+          },
+          {
+            "word": "is",
+            "start": 29.051,
+            "end": 29.131,
+            "score": 0.972
+          },
+          {
+            "word": "like",
+            "start": 29.191,
+            "end": 29.351,
+            "score": 0.951
+          },
+          {
+            "word": "the",
+            "start": 29.371,
+            "end": 29.532,
+            "score": 0.863
+          },
+          {
+            "word": "world",
+            "start": 29.672,
+            "end": 30.032,
+            "score": 0.861
+          },
+          {
+            "word": "did",
+            "start": 30.092,
+            "end": 30.332,
+            "score": 0.87
+          },
+          {
+            "word": "me",
+            "start": 30.352,
+            "end": 30.453,
+            "score": 0.796
+          },
+          {
+            "word": "wrong.",
+            "start": 30.593,
+            "end": 31.073,
+            "score": 0.629
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 31.093,
+        "end": 33.596,
+        "text": "Now I got this energy, I'm about to go get mine.",
+        "words": [
+          {
+            "word": "Now",
+            "start": 31.093,
+            "end": 31.213,
+            "score": 0.981
+          },
+          {
+            "word": "I",
+            "start": 31.253,
+            "end": 31.313,
+            "score": 0.961
+          },
+          {
+            "word": "got",
+            "start": 31.353,
+            "end": 31.474,
+            "score": 0.718
+          },
+          {
+            "word": "this",
+            "start": 31.514,
+            "end": 31.714,
+            "score": 0.808
+          },
+          {
+            "word": "energy,",
+            "start": 31.874,
+            "end": 32.315,
+            "score": 0.921
+          },
+          {
+            "word": "I'm",
+            "start": 32.575,
+            "end": 32.655,
+            "score": 0.165
+          },
+          {
+            "word": "about",
+            "start": 32.675,
+            "end": 32.775,
+            "score": 0.125
+          },
+          {
+            "word": "to",
+            "start": 32.795,
+            "end": 32.875,
+            "score": 0.53
+          },
+          {
+            "word": "go",
+            "start": 32.895,
+            "end": 33.055,
+            "score": 0.664
+          },
+          {
+            "word": "get",
+            "start": 33.075,
+            "end": 33.276,
+            "score": 0.913
+          },
+          {
+            "word": "mine.",
+            "start": 33.316,
+            "end": 33.596,
+            "score": 0.651
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 33.896,
+        "end": 35.298,
+        "text": "You're not gonna take this away from me.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 33.896,
+            "end": 34.016,
+            "score": 0.002
+          },
+          {
+            "word": "not",
+            "start": 34.036,
+            "end": 34.096,
+            "score": 0.049
+          },
+          {
+            "word": "gonna",
+            "start": 34.116,
+            "end": 34.217,
+            "score": 0.003
+          },
+          {
+            "word": "take",
+            "start": 34.237,
+            "end": 34.317,
+            "score": 0.046
+          },
+          {
+            "word": "this",
+            "start": 34.337,
+            "end": 34.457,
+            "score": 0.42
+          },
+          {
+            "word": "away",
+            "start": 34.537,
+            "end": 34.697,
+            "score": 0.11
+          },
+          {
+            "word": "from",
+            "start": 34.717,
+            "end": 34.797,
+            "score": 0.133
+          },
+          {
+            "word": "me.",
+            "start": 35.198,
+            "end": 35.298,
+            "score": 0.384
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 35.318,
+        "end": 37.24,
+        "text": "Dark Oak picks up where he left off.",
+        "words": [
+          {
+            "word": "Dark",
+            "start": 35.318,
+            "end": 35.518,
+            "score": 0.472
+          },
+          {
+            "word": "Oak",
+            "start": 35.538,
+            "end": 35.658,
+            "score": 0.451
+          },
+          {
+            "word": "picks",
+            "start": 35.918,
+            "end": 36.179,
+            "score": 0.961
+          },
+          {
+            "word": "up",
+            "start": 36.279,
+            "end": 36.359,
+            "score": 0.981
+          },
+          {
+            "word": "where",
+            "start": 36.379,
+            "end": 36.599,
+            "score": 0.323
+          },
+          {
+            "word": "he",
+            "start": 36.639,
+            "end": 36.699,
+            "score": 0.9
+          },
+          {
+            "word": "left",
+            "start": 36.759,
+            "end": 36.96,
+            "score": 0.904
+          },
+          {
+            "word": "off.",
+            "start": 37.08,
+            "end": 37.24,
+            "score": 0.943
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.32,
+        "end": 38.862,
+        "text": "What have you done with my machine?",
+        "words": [
+          {
+            "word": "What",
+            "start": 37.32,
+            "end": 37.44,
+            "score": 0.393
+          },
+          {
+            "word": "have",
+            "start": 37.48,
+            "end": 37.56,
+            "score": 0.395
+          },
+          {
+            "word": "you",
+            "start": 37.6,
+            "end": 37.72,
+            "score": 0.991
+          },
+          {
+            "word": "done",
+            "start": 37.76,
+            "end": 37.941,
+            "score": 0.739
+          },
+          {
+            "word": "with",
+            "start": 37.981,
+            "end": 38.101,
+            "score": 0.8
+          },
+          {
+            "word": "my",
+            "start": 38.181,
+            "end": 38.321,
+            "score": 0.994
+          },
+          {
+            "word": "machine?",
+            "start": 38.381,
+            "end": 38.862,
+            "score": 0.914
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 39.122,
+        "end": 40.563,
+        "text": "He's looking for revenge.",
+        "words": [
+          {
+            "word": "He's",
+            "start": 39.122,
+            "end": 39.342,
+            "score": 0.861
+          },
+          {
+            "word": "looking",
+            "start": 39.442,
+            "end": 39.783,
+            "score": 0.831
+          },
+          {
+            "word": "for",
+            "start": 39.823,
+            "end": 39.883,
+            "score": 0.333
+          },
+          {
+            "word": "revenge.",
+            "start": 40.043,
+            "end": 40.563,
+            "score": 0.793
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 40.684,
+        "end": 41.665,
+        "text": "You wanna play games?",
+        "words": [
+          {
+            "word": "You",
+            "start": 40.684,
+            "end": 40.784,
+            "score": 0.914
+          },
+          {
+            "word": "wanna",
+            "start": 40.824,
+            "end": 41.004,
+            "score": 0.534
+          },
+          {
+            "word": "play",
+            "start": 41.124,
+            "end": 41.284,
+            "score": 0.474
+          },
+          {
+            "word": "games?",
+            "start": 41.424,
+            "end": 41.665,
+            "score": 0.94
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.146,
+        "end": 46.67,
+        "text": "The Goblin believes in a world of losers and winners.",
+        "words": [
+          {
+            "word": "The",
+            "start": 43.146,
+            "end": 43.246,
+            "score": 0.968
+          },
+          {
+            "word": "Goblin",
+            "start": 43.306,
+            "end": 43.667,
+            "score": 0.829
+          },
+          {
+            "word": "believes",
+            "start": 43.727,
+            "end": 44.187,
+            "score": 0.891
+          },
+          {
+            "word": "in",
+            "start": 44.348,
+            "end": 44.448,
+            "score": 0.805
+          },
+          {
+            "word": "a",
+            "start": 44.628,
+            "end": 44.668,
+            "score": 0.941
+          },
+          {
+            "word": "world",
+            "start": 44.708,
+            "end": 45.028,
+            "score": 0.881
+          },
+          {
+            "word": "of",
+            "start": 45.128,
+            "end": 45.189,
+            "score": 0.876
+          },
+          {
+            "word": "losers",
+            "start": 45.369,
+            "end": 45.869,
+            "score": 0.868
+          },
+          {
+            "word": "and",
+            "start": 46.069,
+            "end": 46.15,
+            "score": 0.799
+          },
+          {
+            "word": "winners.",
+            "start": 46.23,
+            "end": 46.67,
+            "score": 0.746
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.89,
+        "end": 48.432,
+        "text": "Power is all that matters.",
+        "words": [
+          {
+            "word": "Power",
+            "start": 46.89,
+            "end": 47.291,
+            "score": 0.831
+          },
+          {
+            "word": "is",
+            "start": 47.311,
+            "end": 47.411,
+            "score": 0.768
+          },
+          {
+            "word": "all",
+            "start": 47.491,
+            "end": 47.611,
+            "score": 0.931
+          },
+          {
+            "word": "that",
+            "start": 47.651,
+            "end": 47.771,
+            "score": 0.939
+          },
+          {
+            "word": "matters.",
+            "start": 47.831,
+            "end": 48.432,
+            "score": 0.904
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.504,
+        "end": 51.987,
+        "text": " It's a wonderful world to be in.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 50.504,
+            "end": 50.584,
+            "score": 0.655
+          },
+          {
+            "word": "a",
+            "start": 50.644,
+            "end": 50.664,
+            "score": 0.546
+          },
+          {
+            "word": "wonderful",
+            "start": 50.724,
+            "end": 51.125,
+            "score": 0.953
+          },
+          {
+            "word": "world",
+            "start": 51.205,
+            "end": 51.466,
+            "score": 0.912
+          },
+          {
+            "word": "to",
+            "start": 51.506,
+            "end": 51.586,
+            "score": 0.852
+          },
+          {
+            "word": "be",
+            "start": 51.646,
+            "end": 51.807,
+            "score": 0.972
+          },
+          {
+            "word": "in.",
+            "start": 51.887,
+            "end": 51.987,
+            "score": 0.85
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 52.047,
+        "end": 52.909,
+        "text": "We're having a lot of fun.",
+        "words": [
+          {
+            "word": "We're",
+            "start": 52.047,
+            "end": 52.147,
+            "score": 0.126
+          },
+          {
+            "word": "having",
+            "start": 52.167,
+            "end": 52.328,
+            "score": 0.929
+          },
+          {
+            "word": "a",
+            "start": 52.368,
+            "end": 52.388,
+            "score": 0.875
+          },
+          {
+            "word": "lot",
+            "start": 52.428,
+            "end": 52.568,
+            "score": 0.605
+          },
+          {
+            "word": "of",
+            "start": 52.588,
+            "end": 52.628,
+            "score": 0.63
+          },
+          {
+            "word": "fun.",
+            "start": 52.668,
+            "end": 52.909,
+            "score": 0.914
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.089,
+        "end": 54.653,
+        "text": "They're a danger to our universe.",
+        "words": [
+          {
+            "word": "They're",
+            "start": 53.089,
+            "end": 53.33,
+            "score": 0.553
+          },
+          {
+            "word": "a",
+            "start": 53.35,
+            "end": 53.37,
+            "score": 0.994
+          },
+          {
+            "word": "danger",
+            "start": 53.39,
+            "end": 53.731,
+            "score": 0.937
+          },
+          {
+            "word": "to",
+            "start": 53.751,
+            "end": 53.831,
+            "score": 0.71
+          },
+          {
+            "word": "our",
+            "start": 53.931,
+            "end": 54.011,
+            "score": 0.913
+          },
+          {
+            "word": "universe.",
+            "start": 54.051,
+            "end": 54.653,
+            "score": 0.71
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 54.753,
+        "end": 56.116,
+        "text": "We need to send them back.",
+        "words": [
+          {
+            "word": "We",
+            "start": 54.753,
+            "end": 54.893,
+            "score": 0.876
+          },
+          {
+            "word": "need",
+            "start": 54.933,
+            "end": 55.194,
+            "score": 0.913
+          },
+          {
+            "word": "to",
+            "start": 55.214,
+            "end": 55.294,
+            "score": 0.784
+          },
+          {
+            "word": "send",
+            "start": 55.314,
+            "end": 55.534,
+            "score": 0.658
+          },
+          {
+            "word": "them",
+            "start": 55.615,
+            "end": 55.695,
+            "score": 0.001
+          },
+          {
+            "word": "back.",
+            "start": 55.715,
+            "end": 56.116,
+            "score": 0.548
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 56.316,
+        "end": 57.559,
+        "text": "Looks like we got competition.",
+        "words": [
+          {
+            "word": "Looks",
+            "start": 56.316,
+            "end": 56.436,
+            "score": 0.302
+          },
+          {
+            "word": "like",
+            "start": 56.476,
+            "end": 56.617,
+            "score": 0.71
+          },
+          {
+            "word": "we",
+            "start": 56.657,
+            "end": 56.757,
+            "score": 0.628
+          },
+          {
+            "word": "got",
+            "start": 56.797,
+            "end": 56.957,
+            "score": 0.556
+          },
+          {
+            "word": "competition.",
+            "start": 56.997,
+            "end": 57.559,
+            "score": 0.945
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 64.092,
+        "end": 66.317,
+        "text": "I think people are going to be really surprised.",
+        "words": [
+          {
+            "word": "I",
+            "start": 64.092,
+            "end": 64.152,
+            "score": 0.964
+          },
+          {
+            "word": "think",
+            "start": 64.192,
+            "end": 64.332,
+            "score": 0.997
+          },
+          {
+            "word": "people",
+            "start": 64.352,
+            "end": 64.533,
+            "score": 0.69
+          },
+          {
+            "word": "are",
+            "start": 64.573,
+            "end": 64.633,
+            "score": 0.296
+          },
+          {
+            "word": "going",
+            "start": 64.653,
+            "end": 64.753,
+            "score": 0.803
+          },
+          {
+            "word": "to",
+            "start": 64.773,
+            "end": 64.813,
+            "score": 0.536
+          },
+          {
+            "word": "be",
+            "start": 64.874,
+            "end": 64.954,
+            "score": 0.816
+          },
+          {
+            "word": "really",
+            "start": 64.994,
+            "end": 65.715,
+            "score": 0.93
+          },
+          {
+            "word": "surprised.",
+            "start": 65.755,
+            "end": 66.317,
+            "score": 0.84
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 66.337,
+        "end": 69.002,
+        "text": "They're going to marvel.",
+        "words": [
+          {
+            "word": "They're",
+            "start": 66.337,
+            "end": 66.517,
+            "score": 0.165
+          },
+          {
+            "word": "going",
+            "start": 66.537,
+            "end": 66.637,
+            "score": 0.568
+          },
+          {
+            "word": "to",
+            "start": 66.657,
+            "end": 66.697,
+            "score": 0.59
+          },
+          {
+            "word": "marvel.",
+            "start": 66.737,
+            "end": 69.002,
+            "score": 0.887
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a cinematic montage from a superhero film, primarily focusing on Spider-Man battling Doc Ock, with interview segments featuring Alfred Molina. The setting alternates between dark, dramatic nighttime scenes (Statue of Liberty, moonlit sky) and daytime action sequences (bridge, highway). There are also interview shots with actors seated in a studio environment. The audio includes dramatic music, action sounds (explosions, metal impacts, whooshes), and speech from the actor portraying Doc Ock. The visual content shows high-energy combat, explosions, mechanical tentacles, and intense character interactions. The audio model\u2019s labels are mostly accurate for the action and music, but some speech labels can be refined based on context (e.g., correcting \u201cpositive\u201d to \u201cintense\u201d or \u201curgent\u201d when visuals show tension). SFX labels need to match the visuals (e.g., \u201cmetal clanks\u201d for tentacle impacts, \u201cexplosion\u201d for fiery blasts). The speech descriptions should reflect the speaker\u2019s tone and visible expression (e.g., \u201cman in glasses speaks calmly\u201d or \u201cman with tentacles speaks urgently\u201d).\n\nEvent 1: The crowd noise is likely from a stadium, but the visual is a dark cityscape with fireworks \u2014 no stadium visible. This is likely a mislabel; no crowd is present in the frames. The visual is of fireworks over the Statue of Liberty.\n\nEvent 2: Music is accurate \u2014 cinematic strings and piano build to a climax as the scene transitions from dark city to character close-ups.\n\nEvent 3: Male voice speaking \u2014 Alfred Molina in interview, calm and expressive.\n\nEvent 4: Visual is Doc Ock saying \u201cHello, Peter\u201d \u2014 clear visual of him in coat with tentacles, speaking to Spider-Man.\n\nEvent 5: Male voice playful \u2014 Molina in interview, smiling and gesturing.\n\nEvent 6: Visual is Molina speaking in interview with on-screen text identifying him as Dr. Otto Octavius / Doc Ock.\n\nEvent 7: Male voice positive \u2014 Molina speaking in interview, calm and reflective.\n\nEvent 8: Visual is explosion and car wreckage \u2014 smoke, fire, debris on highway.\n\nEvent 9: Noise artifact \u2014 likely a brief audio glitch, no visual change.\n\nEvent 10: Visual is Doc Ock\u2019s mechanical tentacles extending, red and metallic, with Spider-Man held upside-down.\n\nEvent 11: Male voice positive \u2014 Molina speaking, calm and reflective.\n\nEvent 12: SFX metal chain rattling \u2014 but visuals show mechanical tentacles moving, so \u201cmetal tentacles clank\u201d is more accurate.\n\nEvent 13: Visual is Doc Ock holding Spider-Man upside-down against a pillar, Spider-Man\u2019s face visible, eyes wide.\n\nEvent 14: Male voice positive \u2014 Doc Ock speaking, expression intense, not clearly positive.\n\nEvent 15: Visual is Spider-Man pinned against pillar, Doc Ock looking down, Spider-Man\u2019s face showing confusion.\n\nEvent 16: Male voice fearful \u2014 Spider-Man\u2019s voice, visible with wide eyes and trembling lips.\n\nEvent 17: Visual is Molina speaking in interview, gesturing, with another man beside him.\n\nEvent 18: Male voice positive \u2014 Molina speaking, calm and reflective.\n\nEvent 19: Visual is Green Goblin (green armored figure) standing on broken structure, sparks flying.\n\nEvent 20: Loud laugh \u2014 Green Goblin laughing, visible with open mouth, sharp teeth.\n\nEvent 21: Male voice positive \u2014 Molina speaking in interview, calm and thoughtful.\n\nEvent 22: Visual is Doc Ock fighting Spider-Man on highway, cars wrecked, tentacles swinging.\n\nEvent 23: Fast whooshing sound \u2014 Spider-Man dodging tentacle, fast movement, visual of blur and motion.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe video is a montage from a superhero film, likely Spider-Man, featuring scenes with Doctor Octopus, Electro, and interviews with actors Jamie Foxx and Alfred Molina. The setting alternates between dimly lit interiors, outdoor urban environments, and dramatic nighttime sequences with special effects. Audio includes dialogue, sound effects, and music, with some labels needing correction based on visual context.\n\nEvent 1 (0.0-20.0s): Distant traffic and voices are heard throughout, matching the urban setting seen in frames with cityscapes and highways.\n\nEvent 2 (0.0-0.5s): Male voice (playful) \u2014 a man in a blue shirt speaks to others in a dimly lit room, gesturing.\n\nEvent 3 (0.5-2.3s): Male voice (positive) \u2014 the same man continues speaking, smiling, while the others react.\n\nEvent 4 (0.6-4.1s): Male voice (playful) \u2014 the man says \"Dr. Otto Octavius\" as the camera cuts to Octavius in a lab with mechanical arms.\n\nEvent 5 (2.3-3.2s): Sharp metallic whoosh \u2014 visual matches mechanical arms moving rapidly in the lab.\n\nEvent 6 (2.3-2.6s): Pop [artifact] \u2014 likely a sound effect from the mechanical arms or a visual transition.\n\nEvent 7 (4.1-5.0s): Sharp metallic whoosh \u2014 again, mechanical arms moving in the lab.\n\nEvent 8 (4.4-8.1s): Visual \u2014 Jamie Foxx in interview, then cuts to Electro\u2019s transformation scene with lightning.\n\nEvent 9 (4.4-8.1s): Male voice (playful) \u2014 Jamie Foxx speaks during interview, then transitions to Electro\u2019s scene.\n\nEvent 10 (6.2-7.2s): Visual \u2014 Electro in full suit, floating, surrounded by lightning.\n\nEvent 11 (6.2-7.7s): Sharp metallic whoosh \u2014 likely from Electro\u2019s suit or lightning effects.\n\nEvent 12 (7.2-8.1s): Male voice (angry) \u2014 Jamie Foxx as Electro, speaking with intensity.\n\nEvent 13 (8.3-9.6s): Sharp metallic whoosh \u2014 possibly mechanical or electrical effects.\n\nEvent 14 (8.4-10.7s): Male voice (playful) \u2014 Jamie Foxx speaking in interview, then in scene as Electro.\n\nEvent 15 (8.4-10.7s): Male voice (angry) \u2014 Jamie Foxx as Electro, voice tense and aggressive.\n\nEvent 16 (8.9-10.2s): Visual \u2014 Electro\u2019s face close-up, eyes glowing, lightning crackling around him.\n\nEvent 17 (10.2-11.5s): Visual \u2014 Electro\u2019s full body, lightning arcing from his suit.\n\nEvent 18 (11.0-13.6s): Male voice (playful) \u2014 Jamie Foxx in interview, then as Electro.\n\nEvent 19 (11.0-12.3s): Male voice (angry) \u2014 Electro speaking with rage, arms raised.\n\nEvent 20 (11.6-12.2s): Fast whooshing sound \u2014 lightning bolts shooting from Electro\u2019s hands.\n\nEvent 21 (12.5-15.6s): Male voice (angry) \u2014 Electro\u2019s voice, intense and powerful.\n\nEvent 22 (12.9-14.2s): Visual \u2014 Electro\u2019s close-up, chest light pulsing, lightning flashing.\n\nEvent 23 (13.8-17.1s): Male voice (playful) \u2014 Alfred Molina in interview, then Octavius in scene.\n\nEvent 24 (13.8-15.0s): Male voice (whispering) \u2014 Octavius\u2019s voice, low and intense.\n\nEvent 25 (14.9-17.2s): Visual \u2014 Octavius with mechanical arms, standing on a bridge.\n\nEvent 26 (15.9-18.9s): Male voice (angry) \u2014 Octavius speaking, arms poised.\n\nEvent 27 (17.2-18.8s): Visual \u2014 Octavius on bridge, arms raised, city in background.\n\nEvent 28 (17.3-20.0s): Male voice (playful) \u2014 Octavius speaking, then Spider-Man appears.\n\nEvent 29 (18.2-18.5s): Click [artifact] \u2014 possibly a mechanical click from Octavius\u2019s arms or camera sound.\n\nEvent 30 (19.7-20.0s): Visual \u2014 Spider-Man crouched on car, Octavius in background, traffic flowing.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a high-octane superhero action sequence, likely from a Marvel film, featuring multiple villains and Spider-Man. The setting alternates between urban chaos, nighttime battles, and interview segments with actors. Key characters include Doctor Octopus, Green Goblin, Electro, and Doctor Strange. Visuals include explosions, mechanical tentacles, green energy blasts, and dynamic combat. Audio labels are mostly accurate but some need correction based on visuals \u2014 for example, \"crowd noise in a stadium\" at 0.0s is clearly wrong given the visuals; it should be \"explosions and chaos\" or similar. \"Fast-moving object sound\" at 1.8s matches Spider-Man swinging or dodging. \"Door closing with a thud\" at 2.9s is likely mislabeled \u2014 the frame shows a vehicle being lifted, so it should be \"metal structure crashes.\" \"Fast whooshing sound\" at 18.3s matches Spider-Man swinging. \"Fast air movement\" at 18.3s is redundant with \"whooshing\" \u2014 consolidate as \"whooshing air\" for clarity. Music is consistently energetic rock with guitar and drums, matching the action. Speech segments are from actors in interview settings, speaking formally or urgently. Visuals during speech are close-ups of the actors, often with dark backgrounds.",
+    "[Chunk 4: 60.0s - 74.1s]\nScene is a promotional video for \"Spider-Man: No Way Home,\" featuring a mix of cinematic action, title cards, and interview segments. The audio includes heroic music, male voices speaking, and a strained groan, all synchronized with visual content.\n\nEvent 1 (0.0-8.0s): Starts with an action shot of Spider-Man swinging through scaffolding amidst lightning and debris, then transitions to the movie title, followed by interview footage with two men speaking, and then three men laughing. The music is heroic and driving, matching the intensity of the visuals.\n\nEvent 2 (0.2-1.3s): Visual shows Spider-Man in mid-air, swinging near scaffolding as lightning strikes, with debris flying and a large rock formation in the background. The music continues with a heroic theme.\n\nEvent 3 (1.3-2.6s): The movie title \"SPIDER-MAN: No Way Home\" appears in bold, glowing blue and red letters, with the Marvel Studios logo above. The music continues under the title.\n\nEvent 4 (2.6-3.9s): Same title card remains on screen, with no change in visuals. Music continues.\n\nEvent 5 (3.9-6.2s): Two men sit in chairs, one with arms crossed, the other gesturing. The man on the right speaks with a serious expression. The background is dimly lit, resembling a stone-walled room.\n\nEvent 6 (4.0-5.0s): The man on the right speaks, his mouth moving, hands clasped. He appears to be making a point, with a focused expression. The audio matches a male voice speaking negatively (low confidence, but visually confirmed).\n\nEvent 7 (5.4-7.4s): Close-up on the man on the right, who continues speaking with a serious look, eyes slightly narrowed. The audio matches a male voice speaking negatively (high confidence).\n\nEvent 8 (6.2-7.7s): The man on the right continues speaking, now with a slight nod, eyes closing briefly. The audio matches a male voice speaking (high confidence, content \"They're going to marvel\" \u2014 likely a misheard \"marvel\" as in \"marvel at\" or \"amazed\").\n\nEvent 9 (7.7-9.9s): Three men sit in chairs, laughing. The middle man leans forward, hands on knees, laughing hard. The man on the right claps. The man on the left smiles. The audio includes a strained, painful groan \u2014 likely a mislabel for laughter or a comedic reaction.\n\nEvent 10 (7.9-9.9s): The three men continue laughing, with the middle man now bending over, gripping his knees. The audio includes a strained groan \u2014 visually, it\u2019s clearly laughter, so the label should be corrected.\n\nEvent 11 (9.0-9.9s): No clear sfx of a metal door sliding open \u2014 the scene is just the laughing men. The sfx label is inaccurate; no such sound is present.\n\nEvent 12 (9.8-12.8s): Credits roll on black screen with white text listing cast and crew. Music continues with heroic theme.\n\nEvent 13 (9.9-12.2s): Credits continue, with production details and names. Music remains.\n\nEvent 14 (12.2-14.1s): Final screen shows \"IN CINEMAS DECEMBER 16\" in glowing blue and red text, with \"TICKETS ON SALE NOW\" below. Logos for Marvel Studios and Columbia Pictures appear. Music continues."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      74.07165532879819
+    ]
+  ]
+}

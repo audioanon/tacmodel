@@ -1,0 +1,607 @@
+{
+  "cid": "001a29358fd7bae9d59bf398e0dd1a32",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 26.772607709750567,
+  "events": [
+    {
+      "description": "Man coughs, blood visible on shirt as he leans against car in dimly lit street",
+      "start_time": 0.4,
+      "end_time": 2.2,
+      "duration": 1.8000000000000003,
+      "type": "sfx",
+      "confidence": 0.989,
+      "audio_description": "Human coughing sound"
+    },
+    {
+      "description": "Urban traffic and distant voices echo under neon-lit alleyway with three figures",
+      "start_time": 0.5,
+      "end_time": 20.0,
+      "duration": 19.5,
+      "type": "background",
+      "confidence": 0.996,
+      "audio_description": "Urban traffic and voices"
+    },
+    {
+      "start_time": 1.5014999999999998,
+      "end_time": 3.294958333333333,
+      "type": "visual",
+      "description": "Injured man in suit, blood on chest, gasping, leaning on black car in dark alley",
+      "audio_description": null
+    },
+    {
+      "start_time": 3.294958333333333,
+      "end_time": 6.756749999999999,
+      "type": "visual",
+      "description": "Stallone and woman stand together, she smiles slightly, both look at injured man",
+      "audio_description": null
+    },
+    {
+      "description": "Woman speaks, lips moving, slight smile fading as she looks at injured man",
+      "start_time": 4.5,
+      "end_time": 4.8,
+      "duration": 0.2999999999999998,
+      "type": "speech",
+      "confidence": 0.768,
+      "audio_description": "Female voice (negative)"
+    },
+    {
+      "description": "Woman speaks, gesturing with hand, eyes focused on injured man\u2019s chest",
+      "start_time": 5.4,
+      "end_time": 8.1,
+      "duration": 2.6999999999999993,
+      "type": "speech",
+      "confidence": 0.778,
+      "audio_description": "Female voice (negative)"
+    },
+    {
+      "start_time": 6.756749999999999,
+      "end_time": 8.216541666666666,
+      "type": "visual",
+      "description": "Injured man looks up, mouth slightly open, sweat on face, eyes wide",
+      "audio_description": null
+    },
+    {
+      "start_time": 8.216541666666666,
+      "end_time": 9.968291666666666,
+      "type": "visual",
+      "description": "Stallone speaks, mouth moving, eyes narrowed, looking at injured man",
+      "audio_description": null
+    },
+    {
+      "description": "Stallone speaks, jaw tensed, eyes fixed on injured man",
+      "start_time": 8.4,
+      "end_time": 8.9,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.726,
+      "audio_description": "Male voice (negative)"
+    },
+    {
+      "description": "Stallone speaks, head tilted, voice low, eyes tracking injured man",
+      "start_time": 9.5,
+      "end_time": 11.3,
+      "duration": 1.8000000000000007,
+      "type": "speech",
+      "confidence": 0.866,
+      "audio_description": "Male voice (negative)"
+    },
+    {
+      "start_time": 9.968291666666666,
+      "end_time": 11.5115,
+      "type": "visual",
+      "description": "Woman looks at injured man, eyes wide, hair falling over shoulder",
+      "audio_description": null
+    },
+    {
+      "start_time": 11.5115,
+      "end_time": 13.054708333333332,
+      "type": "visual",
+      "description": "Injured man looks down, then up, face strained, breathing heavy",
+      "audio_description": null
+    },
+    {
+      "description": "Sustained electronic tone from flashing police lights on car roof",
+      "start_time": 12.0,
+      "end_time": 17.1,
+      "duration": 5.100000000000001,
+      "type": "sfx",
+      "confidence": 0.45,
+      "audio_description": "Sustained electronic tone"
+    },
+    {
+      "start_time": 13.054708333333332,
+      "end_time": 14.389375,
+      "type": "visual",
+      "description": "Woman speaks, lips moving, head tilted, eyes on injured man",
+      "audio_description": null
+    },
+    {
+      "description": "Woman speaks, mouth open, slight smirk, hand raised",
+      "start_time": 13.2,
+      "end_time": 14.0,
+      "duration": 0.8000000000000007,
+      "type": "speech",
+      "confidence": 0.898,
+      "audio_description": "Female voice (negative)"
+    },
+    {
+      "start_time": 14.389375,
+      "end_time": 15.890875,
+      "type": "visual",
+      "description": "Stallone looks concerned, mouth slightly open, eyes fixed on injured man",
+      "audio_description": null
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 4.52,
+        "end": 4.781,
+        "text": " No.",
+        "words": [
+          {
+            "word": "No.",
+            "start": 4.52,
+            "end": 4.781,
+            "score": 0.805
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.442,
+        "end": 5.963,
+        "text": "This guy, no.",
+        "words": [
+          {
+            "word": "This",
+            "start": 5.442,
+            "end": 5.582,
+            "score": 0.371
+          },
+          {
+            "word": "guy,",
+            "start": 5.642,
+            "end": 5.823,
+            "score": 0.814
+          },
+          {
+            "word": "no.",
+            "start": 5.863,
+            "end": 5.963,
+            "score": 0.945
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.043,
+        "end": 8.027,
+        "text": "He doesn't look like one of your usual little life buddies.",
+        "words": [
+          {
+            "word": "He",
+            "start": 6.043,
+            "end": 6.103,
+            "score": 0.844
+          },
+          {
+            "word": "doesn't",
+            "start": 6.143,
+            "end": 6.284,
+            "score": 0.501
+          },
+          {
+            "word": "look",
+            "start": 6.304,
+            "end": 6.404,
+            "score": 0.87
+          },
+          {
+            "word": "like",
+            "start": 6.444,
+            "end": 6.544,
+            "score": 0.977
+          },
+          {
+            "word": "one",
+            "start": 6.665,
+            "end": 6.745,
+            "score": 0.288
+          },
+          {
+            "word": "of",
+            "start": 6.765,
+            "end": 6.805,
+            "score": 0.028
+          },
+          {
+            "word": "your",
+            "start": 6.825,
+            "end": 6.905,
+            "score": 0.354
+          },
+          {
+            "word": "usual",
+            "start": 6.985,
+            "end": 7.246,
+            "score": 0.865
+          },
+          {
+            "word": "little",
+            "start": 7.306,
+            "end": 7.426,
+            "score": 0.111
+          },
+          {
+            "word": "life",
+            "start": 7.446,
+            "end": 7.647,
+            "score": 0.777
+          },
+          {
+            "word": "buddies.",
+            "start": 7.687,
+            "end": 8.027,
+            "score": 0.711
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.388,
+        "end": 8.909,
+        "text": "He's a cop.",
+        "words": [
+          {
+            "word": "He's",
+            "start": 8.388,
+            "end": 8.468,
+            "score": 0.148
+          },
+          {
+            "word": "a",
+            "start": 8.549,
+            "end": 8.589,
+            "score": 0.879
+          },
+          {
+            "word": "cop.",
+            "start": 8.609,
+            "end": 8.909,
+            "score": 0.867
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.511,
+        "end": 11.134,
+        "text": "He made a mistake of saving his life.",
+        "words": [
+          {
+            "word": "He",
+            "start": 9.511,
+            "end": 9.631,
+            "score": 0.564
+          },
+          {
+            "word": "made",
+            "start": 9.651,
+            "end": 9.771,
+            "score": 0.984
+          },
+          {
+            "word": "a",
+            "start": 9.831,
+            "end": 9.851,
+            "score": 0.964
+          },
+          {
+            "word": "mistake",
+            "start": 9.871,
+            "end": 10.212,
+            "score": 0.773
+          },
+          {
+            "word": "of",
+            "start": 10.292,
+            "end": 10.352,
+            "score": 0.589
+          },
+          {
+            "word": "saving",
+            "start": 10.392,
+            "end": 10.693,
+            "score": 0.642
+          },
+          {
+            "word": "his",
+            "start": 10.713,
+            "end": 10.813,
+            "score": 0.497
+          },
+          {
+            "word": "life.",
+            "start": 10.873,
+            "end": 11.134,
+            "score": 0.941
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.238,
+        "end": 13.96,
+        "text": "Well, that's a first.",
+        "words": [
+          {
+            "word": "Well,",
+            "start": 13.238,
+            "end": 13.339,
+            "score": 0.512
+          },
+          {
+            "word": "that's",
+            "start": 13.359,
+            "end": 13.499,
+            "score": 0.634
+          },
+          {
+            "word": "a",
+            "start": 13.539,
+            "end": 13.559,
+            "score": 0.239
+          },
+          {
+            "word": "first.",
+            "start": 13.599,
+            "end": 13.96,
+            "score": 0.78
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.225,
+        "end": 16.525,
+        "text": "All right.",
+        "words": [
+          {
+            "word": "All",
+            "start": 16.225,
+            "end": 16.325,
+            "score": 0.694
+          },
+          {
+            "word": "right.",
+            "start": 16.345,
+            "end": 16.525,
+            "score": 0.783
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.287,
+        "end": 17.548,
+        "text": "Whatever.",
+        "words": [
+          {
+            "word": "Whatever.",
+            "start": 17.287,
+            "end": 17.548,
+            "score": 0.665
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.568,
+        "end": 17.988,
+        "text": "Let's get him in.",
+        "words": [
+          {
+            "word": "Let's",
+            "start": 17.568,
+            "end": 17.688,
+            "score": 0.677
+          },
+          {
+            "word": "get",
+            "start": 17.708,
+            "end": 17.788,
+            "score": 0.847
+          },
+          {
+            "word": "him",
+            "start": 17.808,
+            "end": 17.888,
+            "score": 0.846
+          },
+          {
+            "word": "in.",
+            "start": 17.928,
+            "end": 17.988,
+            "score": 0.927
+          }
+        ],
+        "detected_language": "sv"
+      },
+      {
+        "start": 18.57,
+        "end": 19.231,
+        "text": "Wait, wait, wait, wait.",
+        "words": [
+          {
+            "word": "Wait,",
+            "start": 18.57,
+            "end": 18.75,
+            "score": 0.247
+          },
+          {
+            "word": "wait,",
+            "start": 18.77,
+            "end": 18.91,
+            "score": 0.253
+          },
+          {
+            "word": "wait,",
+            "start": 18.93,
+            "end": 19.051,
+            "score": 0.248
+          },
+          {
+            "word": "wait.",
+            "start": 19.071,
+            "end": 19.231,
+            "score": 0.486
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 20.834,
+        "end": 21.837,
+        "text": "What kind of doctor are you?",
+        "words": [
+          {
+            "word": "What",
+            "start": 20.834,
+            "end": 20.975,
+            "score": 0.277
+          },
+          {
+            "word": "kind",
+            "start": 21.015,
+            "end": 21.155,
+            "score": 0.553
+          },
+          {
+            "word": "of",
+            "start": 21.215,
+            "end": 21.255,
+            "score": 0.412
+          },
+          {
+            "word": "doctor",
+            "start": 21.275,
+            "end": 21.656,
+            "score": 0.859
+          },
+          {
+            "word": "are",
+            "start": 21.676,
+            "end": 21.736,
+            "score": 0.332
+          },
+          {
+            "word": "you?",
+            "start": 21.756,
+            "end": 21.837,
+            "score": 0.538
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 22.177,
+        "end": 23.26,
+        "text": "He did a year in medical.",
+        "words": [
+          {
+            "word": "He",
+            "start": 22.177,
+            "end": 22.298,
+            "score": 0.808
+          },
+          {
+            "word": "did",
+            "start": 22.318,
+            "end": 22.458,
+            "score": 0.709
+          },
+          {
+            "word": "a",
+            "start": 22.498,
+            "end": 22.538,
+            "score": 0.453
+          },
+          {
+            "word": "year",
+            "start": 22.578,
+            "end": 22.739,
+            "score": 0.612
+          },
+          {
+            "word": "in",
+            "start": 22.759,
+            "end": 22.799,
+            "score": 0.212
+          },
+          {
+            "word": "medical.",
+            "start": 22.819,
+            "end": 23.26,
+            "score": 0.303
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 23.32,
+        "end": 24.402,
+        "text": "The best you're gonna get.",
+        "words": [
+          {
+            "word": "The",
+            "start": 23.32,
+            "end": 23.38,
+            "score": 0.962
+          },
+          {
+            "word": "best",
+            "start": 23.42,
+            "end": 23.6,
+            "score": 0.936
+          },
+          {
+            "word": "you're",
+            "start": 23.64,
+            "end": 23.821,
+            "score": 0.859
+          },
+          {
+            "word": "gonna",
+            "start": 23.841,
+            "end": 24.041,
+            "score": 0.322
+          },
+          {
+            "word": "get.",
+            "start": 24.101,
+            "end": 24.402,
+            "score": 0.844
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a nighttime urban setting, likely outside a bar or club with neon lighting. Three characters are present: a man in a dark shirt (Sylvester Stallone), a woman in a white tank top with tattoos, and a man in a suit who appears injured. The injured man is leaning against a car, blood visible on his shirt. The other two stand nearby, observing him. Audio includes coughing, urban background sounds, dialogue between the characters, and a sustained electronic tone.\n\nEvent 1 (0.4-2.2s): The injured man coughs, visible in close-up with blood on his shirt. Audio matches.\nEvent 2 (0.5-20.0s): Urban traffic and voices in background \u2014 consistent with city street setting, visible in frames.\nEvent 3 (1.5-3.3s): Injured man in suit, leaning on car, blood on shirt, looking up \u2014 visual matches.\nEvent 4 (3.3-6.8s): Stallone and woman stand together, woman smiling slightly, looking at injured man \u2014 visual matches.\nEvent 5 (4.5-4.8s): Woman speaks \u2014 visible, lips moving, slight smile fading \u2014 audio matches.\nEvent 6 (5.4-8.1s): Woman speaks again \u2014 visible, gesturing slightly, looking at injured man \u2014 audio matches.\nEvent 7 (6.8-8.2s): Injured man looks up, speaking \u2014 visible, mouth moving \u2014 audio matches.\nEvent 8 (8.2-10.0s): Stallone speaks \u2014 visible, mouth moving, looking at injured man \u2014 audio matches.\nEvent 9 (8.4-8.9s): Stallone speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 10 (9.5-11.3s): Stallone speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 11 (10.0-11.5s): Woman looks at injured man, eyes wide \u2014 visual matches.\nEvent 12 (11.5-13.1s): Injured man looks down, then up \u2014 visual matches.\nEvent 13 (12.0-17.1s): Sustained electronic tone \u2014 likely from a police siren or device \u2014 visible as flashing lights on car roof.\nEvent 14 (13.1-14.4s): Woman speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 15 (13.2-14.0s): Woman speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 16 (14.4-15.9s): Stallone looks concerned, mouth slightly open \u2014 visual matches.\nEvent 17 (15.9-18.3s): Woman raises hand, then turns away \u2014 visual matches.\nEvent 18 (16.2-16.6s): Woman speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 19 (17.2-18.1s): Woman speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 20 (18.5-19.4s): Stallone speaks \u2014 visible, mouth moving \u2014 audio matches.\nEvent 21 (18.7-20.0s): Woman turns back, looks over shoulder \u2014 visual matches.\n\nAll audio labels are accurate based on visual cues. No corrections needed. Use varied sound vocabulary for [sfx] and [speech] descriptions.",
+    "[Chunk 2: 20.0s - 26.8s]\nScene is a nighttime urban setting, likely a street or alley, with a tense confrontation. The lighting is dim with neon accents, suggesting a gritty, dramatic tone.\n\nEvent 1 (0.0-6.2s): Audio indicates distant traffic and birds \u2014 however, visuals show no birds or traffic; this is a quiet urban night scene. The sound likely comes from background ambience, but no visible traffic or birds are present. Correct to \"distant city hum\" for accuracy.\n\nEvent 2 (0.0-0.3s): Visual shows a woman with dark hair and visible tattoo on her shoulder, wearing a white top, looking forward with a neutral expression. The background has blurred neon lights \u2014 likely a bar or club exterior. No speech or sound source visible.\n\nEvent 3 (0.3-1.9s): Visual shifts to a man with dark hair, wearing a suit jacket over a white shirt, leaning against a car. His chest and shirt are stained with blood, and he appears injured. He is speaking, eyes shifting slightly, mouth open, suggesting distress. This matches the speech onset at 0.5s.\n\nEvent 4 (0.5-1.9s): Speech is male, conversational, with 0.90 confidence. Visual confirms a man speaking \u2014 likely the injured man \u2014 with blood on his shirt, looking pained. The audio matches the visual.\n\nEvent 5 (1.9-4.3s): Visual shows a wider shot: a man (Sylvester Stallone) in a dark shirt, speaking to the injured man, with the woman standing behind him. The injured man is listening, expression tense. This matches the speech onset at 2.2s.\n\nEvent 6 (2.2-4.3s): Speech continues \u2014 male voice, conversational, 0.97 confidence. Visual shows Stallone speaking, gesturing slightly with his hand, while the woman looks on. The injured man listens intently.\n\nEvent 7 (4.3-6.0s): Visual returns to the injured man, now speaking again, eyes wide, mouth moving, still leaning against the car. Blood is visible on his shirt. This matches the final speech segment.\n\nAll audio labels are accurate except Event 1 \u2014 \"distant traffic and birds\" is mismatched with visuals. Correct to \"distant city hum\" as more fitting for the urban night scene."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      26.772607709750567
+    ]
+  ]
+}

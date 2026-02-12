@@ -1,0 +1,3519 @@
+{
+  "cid": "00339d4f2de966e584e3a682ec7905bf",
+  "sel_start": 9.57,
+  "sel_end": 24.57,
+  "duration": 269.93197278911566,
+  "events": [
+    {
+      "description": "Soft piano music swells gently as camera transitions from black screen to crowd at Adelaide Oval under bright sunlight.",
+      "start_time": 0.5,
+      "end_time": 20.0,
+      "duration": 19.5,
+      "type": "music",
+      "confidence": 0.989,
+      "audio_description": "Soft piano, slow, reflective, deep"
+    },
+    {
+      "start_time": 3.32,
+      "end_time": 20.0,
+      "type": "visual",
+      "description": "Close-up of Indian fan wearing ornate headdress and face paint, hand adjusting headgear, surrounded by spectators in casual wear.",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (playful) speaks over crowd shot, numbers \"920408404\" appearing on screen as digits are called out, fan remains focused.",
+      "start_time": 7.8,
+      "end_time": 16.6,
+      "duration": 8.8,
+      "type": "speech",
+      "confidence": 0.836,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "description": "Male voice (playful) continues as camera blurs, focusing on hand holding phone, number \"920408404\" still displayed on screen.",
+      "start_time": 16.9,
+      "end_time": 19.5,
+      "duration": 2.6000000000000014,
+      "type": "speech",
+      "confidence": 0.867,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "description": "Calm, reflective strings swell as blurred crowd scenes transition to black screen with glowing number 920408404",
+      "start_time": 20.0,
+      "end_time": 40.0,
+      "duration": 20.0,
+      "type": "music",
+      "confidence": 0.93,
+      "audio_description": "Calm, reflective, and spacious"
+    },
+    {
+      "start_time": 20.0,
+      "end_time": 21.8,
+      "type": "visual",
+      "description": "Blurred crowd at Adelaide Oval with warm bokeh lights, hands holding phones, number 920408404 and <text>ADELAIDE OVAL</text> on screen",
+      "audio_description": null
+    },
+    {
+      "start_time": 22.12,
+      "end_time": 36.04,
+      "type": "visual",
+      "description": "Black screen with white text boxes appearing sequentially, each quoting former cricket captains criticizing India without Virat Kohli",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (conversational) speaks over black screen with quotes, lips not visible, tone reflective and analytical",
+      "start_time": 22.6,
+      "end_time": 35.4,
+      "duration": 12.8,
+      "type": "speech",
+      "confidence": 0.912,
+      "audio_description": "Male voice (conversational)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 7.76,
+        "end": 9.705,
+        "text": " Look away now, Indian fans.",
+        "words": [
+          {
+            "word": "Look",
+            "start": 7.76,
+            "end": 7.961,
+            "score": 0.445
+          },
+          {
+            "word": "away",
+            "start": 7.981,
+            "end": 8.181,
+            "score": 0.773
+          },
+          {
+            "word": "now,",
+            "start": 8.221,
+            "end": 8.482,
+            "score": 0.925
+          },
+          {
+            "word": "Indian",
+            "start": 8.883,
+            "end": 9.204,
+            "score": 0.934
+          },
+          {
+            "word": "fans.",
+            "start": 9.264,
+            "end": 9.705,
+            "score": 0.936
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.106,
+        "end": 11.009,
+        "text": "It's been a procession.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 10.106,
+            "end": 10.207,
+            "score": 0.768
+          },
+          {
+            "word": "been",
+            "start": 10.287,
+            "end": 10.407,
+            "score": 0.528
+          },
+          {
+            "word": "a",
+            "start": 10.427,
+            "end": 10.467,
+            "score": 0.519
+          },
+          {
+            "word": "procession.",
+            "start": 10.527,
+            "end": 11.009,
+            "score": 0.886
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.069,
+        "end": 12.754,
+        "text": "9-2-0-4-0-8-4-0-4.",
+        "words": [
+          {
+            "word": "9-2-0-4-0-8-4-0-4.",
+            "start": 11.069,
+            "end": 12.754,
+            "score": 0.772
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.897,
+        "end": 16.544,
+        "text": "So nobody in double figures.",
+        "words": [
+          {
+            "word": "So",
+            "start": 13.897,
+            "end": 14.057,
+            "score": 0.812
+          },
+          {
+            "word": "nobody",
+            "start": 14.157,
+            "end": 15.702,
+            "score": 0.886
+          },
+          {
+            "word": "in",
+            "start": 15.742,
+            "end": 15.782,
+            "score": 0.824
+          },
+          {
+            "word": "double",
+            "start": 15.862,
+            "end": 16.103,
+            "score": 0.926
+          },
+          {
+            "word": "figures.",
+            "start": 16.183,
+            "end": 16.544,
+            "score": 0.929
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.005,
+        "end": 19.592,
+        "text": "It is an unbelievable batting card.",
+        "words": [
+          {
+            "word": "It",
+            "start": 17.005,
+            "end": 17.065,
+            "score": 0.928
+          },
+          {
+            "word": "is",
+            "start": 17.145,
+            "end": 17.246,
+            "score": 0.897
+          },
+          {
+            "word": "an",
+            "start": 17.426,
+            "end": 17.687,
+            "score": 0.703
+          },
+          {
+            "word": "unbelievable",
+            "start": 17.867,
+            "end": 18.71,
+            "score": 0.869
+          },
+          {
+            "word": "batting",
+            "start": 18.79,
+            "end": 19.191,
+            "score": 0.992
+          },
+          {
+            "word": "card.",
+            "start": 19.231,
+            "end": 19.592,
+            "score": 0.807
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 22.576,
+        "end": 29.066,
+        "text": " They were former cricketers who talked about a 4-0 win now for Australia, whitewash and stuff like that.",
+        "words": [
+          {
+            "word": "They",
+            "start": 22.576,
+            "end": 22.716,
+            "score": 0.519
+          },
+          {
+            "word": "were",
+            "start": 22.736,
+            "end": 22.836,
+            "score": 0.815
+          },
+          {
+            "word": "former",
+            "start": 22.897,
+            "end": 23.157,
+            "score": 0.927
+          },
+          {
+            "word": "cricketers",
+            "start": 23.217,
+            "end": 23.678,
+            "score": 0.762
+          },
+          {
+            "word": "who",
+            "start": 23.718,
+            "end": 23.858,
+            "score": 0.94
+          },
+          {
+            "word": "talked",
+            "start": 23.918,
+            "end": 24.118,
+            "score": 0.934
+          },
+          {
+            "word": "about",
+            "start": 24.179,
+            "end": 24.419,
+            "score": 0.949
+          },
+          {
+            "word": "a",
+            "start": 24.619,
+            "end": 24.719,
+            "score": 0.901
+          },
+          {
+            "word": "4-0",
+            "start": 24.739,
+            "end": 25.921,
+            "score": 0.89
+          },
+          {
+            "word": "win",
+            "start": 25.961,
+            "end": 26.202,
+            "score": 0.839
+          },
+          {
+            "word": "now",
+            "start": 26.262,
+            "end": 26.462,
+            "score": 0.932
+          },
+          {
+            "word": "for",
+            "start": 26.522,
+            "end": 26.723,
+            "score": 0.797
+          },
+          {
+            "word": "Australia,",
+            "start": 26.803,
+            "end": 27.243,
+            "score": 0.813
+          },
+          {
+            "word": "whitewash",
+            "start": 27.304,
+            "end": 27.884,
+            "score": 0.905
+          },
+          {
+            "word": "and",
+            "start": 28.125,
+            "end": 28.185,
+            "score": 0.0
+          },
+          {
+            "word": "stuff",
+            "start": 28.205,
+            "end": 28.465,
+            "score": 0.814
+          },
+          {
+            "word": "like",
+            "start": 28.485,
+            "end": 28.626,
+            "score": 0.417
+          },
+          {
+            "word": "that.",
+            "start": 28.646,
+            "end": 29.066,
+            "score": 0.937
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 29.086,
+        "end": 32.912,
+        "text": "Not just former Australian cricketers who were in the commentary box or who were in the media.",
+        "words": [
+          {
+            "word": "Not",
+            "start": 29.086,
+            "end": 29.207,
+            "score": 0.964
+          },
+          {
+            "word": "just",
+            "start": 29.247,
+            "end": 29.387,
+            "score": 0.827
+          },
+          {
+            "word": "former",
+            "start": 29.427,
+            "end": 29.687,
+            "score": 0.853
+          },
+          {
+            "word": "Australian",
+            "start": 29.747,
+            "end": 30.108,
+            "score": 0.48
+          },
+          {
+            "word": "cricketers",
+            "start": 30.128,
+            "end": 30.509,
+            "score": 0.691
+          },
+          {
+            "word": "who",
+            "start": 30.869,
+            "end": 31.029,
+            "score": 0.656
+          },
+          {
+            "word": "were",
+            "start": 31.049,
+            "end": 31.15,
+            "score": 0.515
+          },
+          {
+            "word": "in",
+            "start": 31.17,
+            "end": 31.21,
+            "score": 0.801
+          },
+          {
+            "word": "the",
+            "start": 31.25,
+            "end": 31.31,
+            "score": 0.863
+          },
+          {
+            "word": "commentary",
+            "start": 31.35,
+            "end": 31.711,
+            "score": 0.741
+          },
+          {
+            "word": "box",
+            "start": 31.751,
+            "end": 31.931,
+            "score": 0.937
+          },
+          {
+            "word": "or",
+            "start": 31.991,
+            "end": 32.051,
+            "score": 0.655
+          },
+          {
+            "word": "who",
+            "start": 32.071,
+            "end": 32.151,
+            "score": 0.467
+          },
+          {
+            "word": "were",
+            "start": 32.171,
+            "end": 32.291,
+            "score": 0.356
+          },
+          {
+            "word": "in",
+            "start": 32.332,
+            "end": 32.372,
+            "score": 0.714
+          },
+          {
+            "word": "the",
+            "start": 32.412,
+            "end": 32.472,
+            "score": 0.937
+          },
+          {
+            "word": "media.",
+            "start": 32.532,
+            "end": 32.912,
+            "score": 0.942
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 33.313,
+        "end": 38.421,
+        "text": "But everybody said, well, this Indian team is going to be run over by the Australians.",
+        "words": [
+          {
+            "word": "But",
+            "start": 33.313,
+            "end": 33.413,
+            "score": 0.88
+          },
+          {
+            "word": "everybody",
+            "start": 33.493,
+            "end": 33.934,
+            "score": 0.936
+          },
+          {
+            "word": "said,",
+            "start": 33.974,
+            "end": 34.315,
+            "score": 0.722
+          },
+          {
+            "word": "well,",
+            "start": 34.335,
+            "end": 34.595,
+            "score": 0.641
+          },
+          {
+            "word": "this",
+            "start": 34.615,
+            "end": 34.735,
+            "score": 0.888
+          },
+          {
+            "word": "Indian",
+            "start": 34.815,
+            "end": 35.076,
+            "score": 0.882
+          },
+          {
+            "word": "team",
+            "start": 35.116,
+            "end": 35.356,
+            "score": 0.761
+          },
+          {
+            "word": "is",
+            "start": 36.077,
+            "end": 36.238,
+            "score": 0.949
+          },
+          {
+            "word": "going",
+            "start": 36.719,
+            "end": 36.859,
+            "score": 0.776
+          },
+          {
+            "word": "to",
+            "start": 36.879,
+            "end": 36.919,
+            "score": 0.97
+          },
+          {
+            "word": "be",
+            "start": 36.959,
+            "end": 37.039,
+            "score": 0.957
+          },
+          {
+            "word": "run",
+            "start": 37.079,
+            "end": 37.239,
+            "score": 0.881
+          },
+          {
+            "word": "over",
+            "start": 37.319,
+            "end": 37.48,
+            "score": 0.793
+          },
+          {
+            "word": "by",
+            "start": 37.52,
+            "end": 37.7,
+            "score": 0.977
+          },
+          {
+            "word": "the",
+            "start": 37.74,
+            "end": 37.88,
+            "score": 0.581
+          },
+          {
+            "word": "Australians.",
+            "start": 37.94,
+            "end": 38.421,
+            "score": 0.68
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 39.042,
+        "end": 43.049,
+        "text": "You want at the end of a career in sport to have seen glorious highs, right?",
+        "words": [
+          {
+            "word": "You",
+            "start": 39.042,
+            "end": 39.162,
+            "score": 0.837
+          },
+          {
+            "word": "want",
+            "start": 39.222,
+            "end": 39.443,
+            "score": 0.728
+          },
+          {
+            "word": "at",
+            "start": 39.543,
+            "end": 39.603,
+            "score": 0.938
+          },
+          {
+            "word": "the",
+            "start": 39.643,
+            "end": 39.723,
+            "score": 0.962
+          },
+          {
+            "word": "end",
+            "start": 39.803,
+            "end": 39.904,
+            "score": 0.746
+          },
+          {
+            "word": "of",
+            "start": 39.944,
+            "end": 40.024,
+            "score": 0.605
+          },
+          {
+            "word": "a",
+            "start": 40.084,
+            "end": 40.104,
+            "score": 0.876
+          },
+          {
+            "word": "career",
+            "start": 40.164,
+            "end": 40.464,
+            "score": 0.84
+          },
+          {
+            "word": "in",
+            "start": 40.525,
+            "end": 40.625,
+            "score": 0.877
+          },
+          {
+            "word": "sport",
+            "start": 40.665,
+            "end": 41.065,
+            "score": 0.864
+          },
+          {
+            "word": "to",
+            "start": 41.105,
+            "end": 41.186,
+            "score": 0.954
+          },
+          {
+            "word": "have",
+            "start": 41.226,
+            "end": 41.346,
+            "score": 0.971
+          },
+          {
+            "word": "seen",
+            "start": 41.386,
+            "end": 41.606,
+            "score": 0.832
+          },
+          {
+            "word": "glorious",
+            "start": 41.666,
+            "end": 42.347,
+            "score": 0.833
+          },
+          {
+            "word": "highs,",
+            "start": 42.408,
+            "end": 42.788,
+            "score": 0.609
+          },
+          {
+            "word": "right?",
+            "start": 42.848,
+            "end": 43.049,
+            "score": 0.519
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.77,
+        "end": 44.391,
+        "text": "Doesn't always happen.",
+        "words": [
+          {
+            "word": "Doesn't",
+            "start": 43.77,
+            "end": 43.97,
+            "score": 0.664
+          },
+          {
+            "word": "always",
+            "start": 44.01,
+            "end": 44.19,
+            "score": 0.733
+          },
+          {
+            "word": "happen.",
+            "start": 44.21,
+            "end": 44.391,
+            "score": 0.854
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.431,
+        "end": 46.474,
+        "text": "You see, you see the 36 per 9s as well.",
+        "words": [
+          {
+            "word": "You",
+            "start": 44.431,
+            "end": 44.531,
+            "score": 0.978
+          },
+          {
+            "word": "see,",
+            "start": 44.551,
+            "end": 44.671,
+            "score": 0.599
+          },
+          {
+            "word": "you",
+            "start": 44.811,
+            "end": 44.932,
+            "score": 0.731
+          },
+          {
+            "word": "see",
+            "start": 44.952,
+            "end": 45.052,
+            "score": 0.841
+          },
+          {
+            "word": "the",
+            "start": 45.092,
+            "end": 45.152,
+            "score": 0.889
+          },
+          {
+            "word": "36",
+            "start": 45.172,
+            "end": 45.252,
+            "score": 0.508
+          },
+          {
+            "word": "per",
+            "start": 45.272,
+            "end": 45.432,
+            "score": 0.502
+          },
+          {
+            "word": "9s",
+            "start": 45.452,
+            "end": 45.613,
+            "score": 0.846
+          },
+          {
+            "word": "as",
+            "start": 45.693,
+            "end": 45.973,
+            "score": 0.699
+          },
+          {
+            "word": "well.",
+            "start": 46.133,
+            "end": 46.474,
+            "score": 0.856
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 47.028,
+        "end": 50.772,
+        "text": " You can only imagine what that feeling would have been like inside Indian camp.",
+        "words": [
+          {
+            "word": "You",
+            "start": 47.028,
+            "end": 47.188,
+            "score": 0.433
+          },
+          {
+            "word": "can",
+            "start": 47.328,
+            "end": 47.388,
+            "score": 0.0
+          },
+          {
+            "word": "only",
+            "start": 47.408,
+            "end": 47.609,
+            "score": 0.734
+          },
+          {
+            "word": "imagine",
+            "start": 47.709,
+            "end": 48.069,
+            "score": 0.857
+          },
+          {
+            "word": "what",
+            "start": 48.109,
+            "end": 48.209,
+            "score": 0.733
+          },
+          {
+            "word": "that",
+            "start": 48.249,
+            "end": 48.369,
+            "score": 0.878
+          },
+          {
+            "word": "feeling",
+            "start": 48.429,
+            "end": 48.69,
+            "score": 0.794
+          },
+          {
+            "word": "would",
+            "start": 48.71,
+            "end": 48.83,
+            "score": 0.895
+          },
+          {
+            "word": "have",
+            "start": 48.85,
+            "end": 48.93,
+            "score": 0.871
+          },
+          {
+            "word": "been",
+            "start": 48.97,
+            "end": 49.17,
+            "score": 0.754
+          },
+          {
+            "word": "like",
+            "start": 49.35,
+            "end": 49.631,
+            "score": 0.709
+          },
+          {
+            "word": "inside",
+            "start": 49.691,
+            "end": 50.091,
+            "score": 0.602
+          },
+          {
+            "word": "Indian",
+            "start": 50.111,
+            "end": 50.411,
+            "score": 0.803
+          },
+          {
+            "word": "camp.",
+            "start": 50.451,
+            "end": 50.772,
+            "score": 0.795
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.872,
+        "end": 52.514,
+        "text": "They would have been extremely disappointed.",
+        "words": [
+          {
+            "word": "They",
+            "start": 50.872,
+            "end": 50.972,
+            "score": 0.565
+          },
+          {
+            "word": "would",
+            "start": 51.012,
+            "end": 51.132,
+            "score": 0.792
+          },
+          {
+            "word": "have",
+            "start": 51.152,
+            "end": 51.252,
+            "score": 0.81
+          },
+          {
+            "word": "been",
+            "start": 51.272,
+            "end": 51.412,
+            "score": 0.674
+          },
+          {
+            "word": "extremely",
+            "start": 51.473,
+            "end": 51.893,
+            "score": 0.94
+          },
+          {
+            "word": "disappointed.",
+            "start": 51.953,
+            "end": 52.514,
+            "score": 0.935
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 52.534,
+        "end": 58.159,
+        "text": "36 is something you don't expect a team like India had.",
+        "words": [
+          {
+            "word": "36",
+            "start": 52.534,
+            "end": 53.314,
+            "score": 0.713
+          },
+          {
+            "word": "is",
+            "start": 53.455,
+            "end": 53.655,
+            "score": 0.761
+          },
+          {
+            "word": "something",
+            "start": 53.795,
+            "end": 54.335,
+            "score": 0.868
+          },
+          {
+            "word": "you",
+            "start": 54.376,
+            "end": 55.316,
+            "score": 0.95
+          },
+          {
+            "word": "don't",
+            "start": 55.357,
+            "end": 55.497,
+            "score": 0.879
+          },
+          {
+            "word": "expect",
+            "start": 55.557,
+            "end": 55.917,
+            "score": 0.871
+          },
+          {
+            "word": "a",
+            "start": 55.937,
+            "end": 55.957,
+            "score": 0.999
+          },
+          {
+            "word": "team",
+            "start": 55.997,
+            "end": 56.478,
+            "score": 0.794
+          },
+          {
+            "word": "like",
+            "start": 56.518,
+            "end": 56.718,
+            "score": 0.845
+          },
+          {
+            "word": "India",
+            "start": 57.439,
+            "end": 57.799,
+            "score": 0.841
+          },
+          {
+            "word": "had.",
+            "start": 57.859,
+            "end": 58.159,
+            "score": 0.913
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 58.219,
+        "end": 61.363,
+        "text": "And at that time, you know, Pujara was in form.",
+        "words": [
+          {
+            "word": "And",
+            "start": 58.219,
+            "end": 58.32,
+            "score": 0.865
+          },
+          {
+            "word": "at",
+            "start": 58.44,
+            "end": 58.5,
+            "score": 0.648
+          },
+          {
+            "word": "that",
+            "start": 58.6,
+            "end": 58.78,
+            "score": 0.93
+          },
+          {
+            "word": "time,",
+            "start": 58.86,
+            "end": 59.1,
+            "score": 0.933
+          },
+          {
+            "word": "you",
+            "start": 59.581,
+            "end": 59.681,
+            "score": 0.979
+          },
+          {
+            "word": "know,",
+            "start": 59.701,
+            "end": 59.881,
+            "score": 0.901
+          },
+          {
+            "word": "Pujara",
+            "start": 60.121,
+            "end": 60.562,
+            "score": 0.726
+          },
+          {
+            "word": "was",
+            "start": 60.622,
+            "end": 60.762,
+            "score": 0.851
+          },
+          {
+            "word": "in",
+            "start": 60.842,
+            "end": 60.922,
+            "score": 0.904
+          },
+          {
+            "word": "form.",
+            "start": 61.022,
+            "end": 61.363,
+            "score": 0.965
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.543,
+        "end": 62.964,
+        "text": "Virat Kohli was in form.",
+        "words": [
+          {
+            "word": "Virat",
+            "start": 61.543,
+            "end": 61.903,
+            "score": 0.723
+          },
+          {
+            "word": "Kohli",
+            "start": 61.943,
+            "end": 62.264,
+            "score": 0.853
+          },
+          {
+            "word": "was",
+            "start": 62.304,
+            "end": 62.424,
+            "score": 0.818
+          },
+          {
+            "word": "in",
+            "start": 62.504,
+            "end": 62.644,
+            "score": 0.816
+          },
+          {
+            "word": "form.",
+            "start": 62.664,
+            "end": 62.964,
+            "score": 0.908
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 63.685,
+        "end": 65.747,
+        "text": "Uh, Ajinkya Rane was reasonably okay.",
+        "words": [
+          {
+            "word": "Uh,",
+            "start": 63.685,
+            "end": 63.765,
+            "score": 0.581
+          },
+          {
+            "word": "Ajinkya",
+            "start": 63.785,
+            "end": 64.166,
+            "score": 0.572
+          },
+          {
+            "word": "Rane",
+            "start": 64.306,
+            "end": 64.526,
+            "score": 0.582
+          },
+          {
+            "word": "was",
+            "start": 64.606,
+            "end": 64.786,
+            "score": 0.844
+          },
+          {
+            "word": "reasonably",
+            "start": 64.826,
+            "end": 65.407,
+            "score": 0.762
+          },
+          {
+            "word": "okay.",
+            "start": 65.507,
+            "end": 65.747,
+            "score": 0.55
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 65.807,
+        "end": 70.612,
+        "text": "So it wasn't a team that was down in the dumps and really short of confidence.",
+        "words": [
+          {
+            "word": "So",
+            "start": 65.807,
+            "end": 65.847,
+            "score": 0.374
+          },
+          {
+            "word": "it",
+            "start": 65.887,
+            "end": 65.947,
+            "score": 0.82
+          },
+          {
+            "word": "wasn't",
+            "start": 66.007,
+            "end": 66.268,
+            "score": 0.876
+          },
+          {
+            "word": "a",
+            "start": 66.348,
+            "end": 66.388,
+            "score": 0.856
+          },
+          {
+            "word": "team",
+            "start": 66.428,
+            "end": 66.648,
+            "score": 0.84
+          },
+          {
+            "word": "that",
+            "start": 66.688,
+            "end": 66.788,
+            "score": 0.936
+          },
+          {
+            "word": "was",
+            "start": 66.848,
+            "end": 66.948,
+            "score": 0.689
+          },
+          {
+            "word": "down",
+            "start": 67.149,
+            "end": 67.469,
+            "score": 0.933
+          },
+          {
+            "word": "in",
+            "start": 67.969,
+            "end": 68.07,
+            "score": 0.807
+          },
+          {
+            "word": "the",
+            "start": 68.11,
+            "end": 68.21,
+            "score": 0.994
+          },
+          {
+            "word": "dumps",
+            "start": 68.29,
+            "end": 68.65,
+            "score": 0.823
+          },
+          {
+            "word": "and",
+            "start": 68.95,
+            "end": 69.091,
+            "score": 0.773
+          },
+          {
+            "word": "really",
+            "start": 69.271,
+            "end": 69.551,
+            "score": 0.899
+          },
+          {
+            "word": "short",
+            "start": 69.631,
+            "end": 69.851,
+            "score": 0.802
+          },
+          {
+            "word": "of",
+            "start": 69.891,
+            "end": 69.931,
+            "score": 0.992
+          },
+          {
+            "word": "confidence.",
+            "start": 70.032,
+            "end": 70.612,
+            "score": 0.936
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 70.652,
+        "end": 72.654,
+        "text": "So clearly an aberration.",
+        "words": [
+          {
+            "word": "So",
+            "start": 70.652,
+            "end": 70.812,
+            "score": 0.891
+          },
+          {
+            "word": "clearly",
+            "start": 70.932,
+            "end": 71.333,
+            "score": 0.874
+          },
+          {
+            "word": "an",
+            "start": 71.353,
+            "end": 72.034,
+            "score": 0.669
+          },
+          {
+            "word": "aberration.",
+            "start": 72.114,
+            "end": 72.654,
+            "score": 0.657
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 72.995,
+        "end": 74.436,
+        "text": "It was going to take the most",
+        "words": [
+          {
+            "word": "It",
+            "start": 72.995,
+            "end": 73.055,
+            "score": 0.789
+          },
+          {
+            "word": "was",
+            "start": 73.095,
+            "end": 73.235,
+            "score": 0.785
+          },
+          {
+            "word": "going",
+            "start": 73.335,
+            "end": 73.575,
+            "score": 0.257
+          },
+          {
+            "word": "to",
+            "start": 73.595,
+            "end": 73.635,
+            "score": 0.306
+          },
+          {
+            "word": "take",
+            "start": 73.715,
+            "end": 73.936,
+            "score": 0.448
+          },
+          {
+            "word": "the",
+            "start": 73.956,
+            "end": 74.036,
+            "score": 0.407
+          },
+          {
+            "word": "most",
+            "start": 74.056,
+            "end": 74.436,
+            "score": 0.669
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 75.58,
+        "end": 78.464,
+        "text": " Ridiculous comeback to be able to win the series.",
+        "words": [
+          {
+            "word": "Ridiculous",
+            "start": 75.58,
+            "end": 76.241,
+            "score": 0.837
+          },
+          {
+            "word": "comeback",
+            "start": 76.321,
+            "end": 76.822,
+            "score": 0.89
+          },
+          {
+            "word": "to",
+            "start": 77.162,
+            "end": 77.463,
+            "score": 0.755
+          },
+          {
+            "word": "be",
+            "start": 77.503,
+            "end": 77.563,
+            "score": 0.7
+          },
+          {
+            "word": "able",
+            "start": 77.583,
+            "end": 77.703,
+            "score": 0.913
+          },
+          {
+            "word": "to",
+            "start": 77.743,
+            "end": 77.803,
+            "score": 0.89
+          },
+          {
+            "word": "win",
+            "start": 77.823,
+            "end": 77.983,
+            "score": 0.803
+          },
+          {
+            "word": "the",
+            "start": 78.024,
+            "end": 78.104,
+            "score": 0.977
+          },
+          {
+            "word": "series.",
+            "start": 78.124,
+            "end": 78.464,
+            "score": 0.897
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 78.484,
+        "end": 82.109,
+        "text": "I mean, I don't think anyone had on their mind that India could win the series.",
+        "words": [
+          {
+            "word": "I",
+            "start": 78.484,
+            "end": 78.544,
+            "score": 0.669
+          },
+          {
+            "word": "mean,",
+            "start": 78.584,
+            "end": 78.725,
+            "score": 0.63
+          },
+          {
+            "word": "I",
+            "start": 78.845,
+            "end": 78.905,
+            "score": 0.486
+          },
+          {
+            "word": "don't",
+            "start": 78.925,
+            "end": 79.025,
+            "score": 0.334
+          },
+          {
+            "word": "think",
+            "start": 79.045,
+            "end": 79.185,
+            "score": 0.983
+          },
+          {
+            "word": "anyone",
+            "start": 79.325,
+            "end": 79.706,
+            "score": 0.919
+          },
+          {
+            "word": "had",
+            "start": 79.766,
+            "end": 79.866,
+            "score": 0.817
+          },
+          {
+            "word": "on",
+            "start": 79.926,
+            "end": 79.986,
+            "score": 0.893
+          },
+          {
+            "word": "their",
+            "start": 80.006,
+            "end": 80.127,
+            "score": 0.63
+          },
+          {
+            "word": "mind",
+            "start": 80.167,
+            "end": 80.347,
+            "score": 0.859
+          },
+          {
+            "word": "that",
+            "start": 80.387,
+            "end": 80.467,
+            "score": 0.641
+          },
+          {
+            "word": "India",
+            "start": 80.527,
+            "end": 80.868,
+            "score": 0.826
+          },
+          {
+            "word": "could",
+            "start": 80.948,
+            "end": 81.088,
+            "score": 0.867
+          },
+          {
+            "word": "win",
+            "start": 81.148,
+            "end": 81.348,
+            "score": 0.829
+          },
+          {
+            "word": "the",
+            "start": 81.388,
+            "end": 81.569,
+            "score": 0.768
+          },
+          {
+            "word": "series.",
+            "start": 81.609,
+            "end": 82.109,
+            "score": 0.746
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 82.35,
+        "end": 84.973,
+        "text": "We never thought Adelaide test match really existed.",
+        "words": [
+          {
+            "word": "We",
+            "start": 82.35,
+            "end": 82.47,
+            "score": 0.972
+          },
+          {
+            "word": "never",
+            "start": 82.51,
+            "end": 82.71,
+            "score": 0.885
+          },
+          {
+            "word": "thought",
+            "start": 82.77,
+            "end": 82.951,
+            "score": 0.983
+          },
+          {
+            "word": "Adelaide",
+            "start": 83.011,
+            "end": 83.712,
+            "score": 0.517
+          },
+          {
+            "word": "test",
+            "start": 83.772,
+            "end": 83.932,
+            "score": 0.76
+          },
+          {
+            "word": "match",
+            "start": 83.952,
+            "end": 84.172,
+            "score": 0.517
+          },
+          {
+            "word": "really",
+            "start": 84.192,
+            "end": 84.453,
+            "score": 0.764
+          },
+          {
+            "word": "existed.",
+            "start": 84.513,
+            "end": 84.973,
+            "score": 0.94
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 85.514,
+        "end": 92.685,
+        "text": "We took it aside and we just thought there were only three test matches where we came to play and it's going to start in Melbourne.",
+        "words": [
+          {
+            "word": "We",
+            "start": 85.514,
+            "end": 85.755,
+            "score": 0.984
+          },
+          {
+            "word": "took",
+            "start": 86.436,
+            "end": 86.596,
+            "score": 0.901
+          },
+          {
+            "word": "it",
+            "start": 86.656,
+            "end": 86.736,
+            "score": 0.896
+          },
+          {
+            "word": "aside",
+            "start": 87.297,
+            "end": 87.637,
+            "score": 0.397
+          },
+          {
+            "word": "and",
+            "start": 87.657,
+            "end": 87.757,
+            "score": 0.662
+          },
+          {
+            "word": "we",
+            "start": 87.778,
+            "end": 87.898,
+            "score": 0.818
+          },
+          {
+            "word": "just",
+            "start": 87.938,
+            "end": 88.118,
+            "score": 0.663
+          },
+          {
+            "word": "thought",
+            "start": 88.158,
+            "end": 88.378,
+            "score": 0.333
+          },
+          {
+            "word": "there",
+            "start": 88.418,
+            "end": 88.579,
+            "score": 0.542
+          },
+          {
+            "word": "were",
+            "start": 88.719,
+            "end": 88.819,
+            "score": 0.208
+          },
+          {
+            "word": "only",
+            "start": 88.939,
+            "end": 89.059,
+            "score": 0.388
+          },
+          {
+            "word": "three",
+            "start": 89.099,
+            "end": 89.28,
+            "score": 0.771
+          },
+          {
+            "word": "test",
+            "start": 89.3,
+            "end": 89.5,
+            "score": 0.431
+          },
+          {
+            "word": "matches",
+            "start": 89.52,
+            "end": 89.8,
+            "score": 0.592
+          },
+          {
+            "word": "where",
+            "start": 89.84,
+            "end": 90.061,
+            "score": 0.314
+          },
+          {
+            "word": "we",
+            "start": 90.081,
+            "end": 90.181,
+            "score": 0.662
+          },
+          {
+            "word": "came",
+            "start": 90.201,
+            "end": 90.381,
+            "score": 0.759
+          },
+          {
+            "word": "to",
+            "start": 90.441,
+            "end": 90.521,
+            "score": 0.843
+          },
+          {
+            "word": "play",
+            "start": 90.582,
+            "end": 90.742,
+            "score": 0.425
+          },
+          {
+            "word": "and",
+            "start": 90.762,
+            "end": 90.942,
+            "score": 0.776
+          },
+          {
+            "word": "it's",
+            "start": 91.523,
+            "end": 91.603,
+            "score": 0.554
+          },
+          {
+            "word": "going",
+            "start": 91.643,
+            "end": 91.763,
+            "score": 0.899
+          },
+          {
+            "word": "to",
+            "start": 91.783,
+            "end": 91.843,
+            "score": 0.85
+          },
+          {
+            "word": "start",
+            "start": 91.863,
+            "end": 92.144,
+            "score": 0.847
+          },
+          {
+            "word": "in",
+            "start": 92.164,
+            "end": 92.244,
+            "score": 0.888
+          },
+          {
+            "word": "Melbourne.",
+            "start": 92.284,
+            "end": 92.685,
+            "score": 0.612
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 94.047,
+        "end": 96.29,
+        "text": "A hundred to cherish and a hundred to remember.",
+        "words": [
+          {
+            "word": "A",
+            "start": 94.047,
+            "end": 94.107,
+            "score": 0.863
+          },
+          {
+            "word": "hundred",
+            "start": 94.167,
+            "end": 94.487,
+            "score": 0.813
+          },
+          {
+            "word": "to",
+            "start": 94.527,
+            "end": 94.647,
+            "score": 0.948
+          },
+          {
+            "word": "cherish",
+            "start": 94.727,
+            "end": 95.108,
+            "score": 0.875
+          },
+          {
+            "word": "and",
+            "start": 95.188,
+            "end": 95.248,
+            "score": 0.732
+          },
+          {
+            "word": "a",
+            "start": 95.308,
+            "end": 95.328,
+            "score": 0.934
+          },
+          {
+            "word": "hundred",
+            "start": 95.408,
+            "end": 95.689,
+            "score": 0.899
+          },
+          {
+            "word": "to",
+            "start": 95.729,
+            "end": 95.829,
+            "score": 0.754
+          },
+          {
+            "word": "remember.",
+            "start": 95.869,
+            "end": 96.29,
+            "score": 0.973
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 96.951,
+        "end": 99.835,
+        "text": "We often use the word captain's knock.",
+        "words": [
+          {
+            "word": "We",
+            "start": 96.951,
+            "end": 97.211,
+            "score": 0.284
+          },
+          {
+            "word": "often",
+            "start": 97.952,
+            "end": 98.132,
+            "score": 0.91
+          },
+          {
+            "word": "use",
+            "start": 98.293,
+            "end": 98.453,
+            "score": 0.785
+          },
+          {
+            "word": "the",
+            "start": 98.493,
+            "end": 98.573,
+            "score": 0.634
+          },
+          {
+            "word": "word",
+            "start": 98.613,
+            "end": 98.853,
+            "score": 0.832
+          },
+          {
+            "word": "captain's",
+            "start": 99.034,
+            "end": 99.494,
+            "score": 0.68
+          },
+          {
+            "word": "knock.",
+            "start": 99.574,
+            "end": 99.835,
+            "score": 0.69
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 100.556,
+        "end": 102.298,
+        "text": "In every sense of the word, this is what it is.",
+        "words": [
+          {
+            "word": "In",
+            "start": 100.556,
+            "end": 100.636,
+            "score": 0.966
+          },
+          {
+            "word": "every",
+            "start": 100.716,
+            "end": 100.916,
+            "score": 0.82
+          },
+          {
+            "word": "sense",
+            "start": 100.976,
+            "end": 101.177,
+            "score": 0.916
+          },
+          {
+            "word": "of",
+            "start": 101.217,
+            "end": 101.277,
+            "score": 0.68
+          },
+          {
+            "word": "the",
+            "start": 101.297,
+            "end": 101.357,
+            "score": 0.975
+          },
+          {
+            "word": "word,",
+            "start": 101.397,
+            "end": 101.597,
+            "score": 0.803
+          },
+          {
+            "word": "this",
+            "start": 101.617,
+            "end": 101.738,
+            "score": 0.859
+          },
+          {
+            "word": "is",
+            "start": 101.778,
+            "end": 101.858,
+            "score": 0.966
+          },
+          {
+            "word": "what",
+            "start": 101.898,
+            "end": 102.038,
+            "score": 0.935
+          },
+          {
+            "word": "it",
+            "start": 102.078,
+            "end": 102.118,
+            "score": 0.95
+          },
+          {
+            "word": "is.",
+            "start": 102.218,
+            "end": 102.298,
+            "score": 0.775
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.358,
+        "end": 104.862,
+        "text": "He's been the glue to this Indian innings.",
+        "words": [
+          {
+            "word": "He's",
+            "start": 102.358,
+            "end": 102.479,
+            "score": 0.857
+          },
+          {
+            "word": "been",
+            "start": 102.519,
+            "end": 102.659,
+            "score": 0.956
+          },
+          {
+            "word": "the",
+            "start": 102.699,
+            "end": 102.759,
+            "score": 0.791
+          },
+          {
+            "word": "glue",
+            "start": 102.819,
+            "end": 103.14,
+            "score": 0.789
+          },
+          {
+            "word": "to",
+            "start": 103.16,
+            "end": 103.2,
+            "score": 0.498
+          },
+          {
+            "word": "this",
+            "start": 103.66,
+            "end": 103.961,
+            "score": 0.696
+          },
+          {
+            "word": "Indian",
+            "start": 104.121,
+            "end": 104.381,
+            "score": 0.835
+          },
+          {
+            "word": "innings.",
+            "start": 104.421,
+            "end": 104.862,
+            "score": 0.545
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 106.343,
+        "end": 111.83,
+        "text": " In many ways that was a series changing hundred because it came on the back of a disastrous inning score by India.",
+        "words": [
+          {
+            "word": "In",
+            "start": 106.343,
+            "end": 106.543,
+            "score": 0.932
+          },
+          {
+            "word": "many",
+            "start": 106.583,
+            "end": 106.764,
+            "score": 0.914
+          },
+          {
+            "word": "ways",
+            "start": 106.804,
+            "end": 106.964,
+            "score": 0.701
+          },
+          {
+            "word": "that",
+            "start": 106.984,
+            "end": 107.104,
+            "score": 0.583
+          },
+          {
+            "word": "was",
+            "start": 107.144,
+            "end": 107.244,
+            "score": 0.455
+          },
+          {
+            "word": "a",
+            "start": 107.304,
+            "end": 107.324,
+            "score": 0.219
+          },
+          {
+            "word": "series",
+            "start": 107.344,
+            "end": 107.685,
+            "score": 0.397
+          },
+          {
+            "word": "changing",
+            "start": 107.705,
+            "end": 108.025,
+            "score": 0.863
+          },
+          {
+            "word": "hundred",
+            "start": 108.085,
+            "end": 108.346,
+            "score": 0.877
+          },
+          {
+            "word": "because",
+            "start": 108.566,
+            "end": 108.806,
+            "score": 0.916
+          },
+          {
+            "word": "it",
+            "start": 108.866,
+            "end": 108.906,
+            "score": 0.974
+          },
+          {
+            "word": "came",
+            "start": 108.946,
+            "end": 109.107,
+            "score": 0.956
+          },
+          {
+            "word": "on",
+            "start": 109.147,
+            "end": 109.207,
+            "score": 0.929
+          },
+          {
+            "word": "the",
+            "start": 109.247,
+            "end": 109.307,
+            "score": 0.994
+          },
+          {
+            "word": "back",
+            "start": 109.347,
+            "end": 109.567,
+            "score": 0.982
+          },
+          {
+            "word": "of",
+            "start": 109.627,
+            "end": 109.687,
+            "score": 0.883
+          },
+          {
+            "word": "a",
+            "start": 109.747,
+            "end": 109.787,
+            "score": 0.455
+          },
+          {
+            "word": "disastrous",
+            "start": 109.888,
+            "end": 110.428,
+            "score": 0.872
+          },
+          {
+            "word": "inning",
+            "start": 110.849,
+            "end": 111.089,
+            "score": 0.848
+          },
+          {
+            "word": "score",
+            "start": 111.109,
+            "end": 111.37,
+            "score": 0.573
+          },
+          {
+            "word": "by",
+            "start": 111.41,
+            "end": 111.55,
+            "score": 0.63
+          },
+          {
+            "word": "India.",
+            "start": 111.57,
+            "end": 111.83,
+            "score": 0.821
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 112.191,
+        "end": 119.921,
+        "text": "Once the captain does, and does well and shows, shows the way, then the entire team also gets charged up and that's exactly what happened.",
+        "words": [
+          {
+            "word": "Once",
+            "start": 112.191,
+            "end": 112.451,
+            "score": 0.879
+          },
+          {
+            "word": "the",
+            "start": 112.491,
+            "end": 112.591,
+            "score": 0.916
+          },
+          {
+            "word": "captain",
+            "start": 112.631,
+            "end": 112.972,
+            "score": 0.962
+          },
+          {
+            "word": "does,",
+            "start": 113.032,
+            "end": 113.252,
+            "score": 0.719
+          },
+          {
+            "word": "and",
+            "start": 113.933,
+            "end": 114.053,
+            "score": 0.945
+          },
+          {
+            "word": "does",
+            "start": 114.313,
+            "end": 114.433,
+            "score": 0.697
+          },
+          {
+            "word": "well",
+            "start": 114.494,
+            "end": 114.694,
+            "score": 0.95
+          },
+          {
+            "word": "and",
+            "start": 114.774,
+            "end": 114.834,
+            "score": 0.811
+          },
+          {
+            "word": "shows,",
+            "start": 114.934,
+            "end": 115.215,
+            "score": 0.919
+          },
+          {
+            "word": "shows",
+            "start": 115.335,
+            "end": 115.555,
+            "score": 0.859
+          },
+          {
+            "word": "the",
+            "start": 115.615,
+            "end": 115.675,
+            "score": 0.854
+          },
+          {
+            "word": "way,",
+            "start": 115.715,
+            "end": 115.915,
+            "score": 0.942
+          },
+          {
+            "word": "then",
+            "start": 116.376,
+            "end": 116.536,
+            "score": 0.956
+          },
+          {
+            "word": "the",
+            "start": 116.576,
+            "end": 116.656,
+            "score": 0.981
+          },
+          {
+            "word": "entire",
+            "start": 116.716,
+            "end": 116.997,
+            "score": 0.903
+          },
+          {
+            "word": "team",
+            "start": 117.037,
+            "end": 117.217,
+            "score": 0.807
+          },
+          {
+            "word": "also",
+            "start": 117.257,
+            "end": 117.477,
+            "score": 0.986
+          },
+          {
+            "word": "gets",
+            "start": 117.538,
+            "end": 117.718,
+            "score": 0.917
+          },
+          {
+            "word": "charged",
+            "start": 117.998,
+            "end": 118.278,
+            "score": 0.97
+          },
+          {
+            "word": "up",
+            "start": 118.339,
+            "end": 118.419,
+            "score": 0.476
+          },
+          {
+            "word": "and",
+            "start": 118.459,
+            "end": 118.519,
+            "score": 0.744
+          },
+          {
+            "word": "that's",
+            "start": 118.559,
+            "end": 118.699,
+            "score": 0.913
+          },
+          {
+            "word": "exactly",
+            "start": 118.759,
+            "end": 119.16,
+            "score": 0.918
+          },
+          {
+            "word": "what",
+            "start": 119.46,
+            "end": 119.58,
+            "score": 0.982
+          },
+          {
+            "word": "happened.",
+            "start": 119.62,
+            "end": 119.921,
+            "score": 0.888
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 122.684,
+        "end": 124.847,
+        "text": "Can you believe it?",
+        "words": [
+          {
+            "word": "Can",
+            "start": 122.684,
+            "end": 123.005,
+            "score": 0.734
+          },
+          {
+            "word": "you",
+            "start": 123.025,
+            "end": 123.125,
+            "score": 0.493
+          },
+          {
+            "word": "believe",
+            "start": 123.425,
+            "end": 123.786,
+            "score": 0.407
+          },
+          {
+            "word": "it?",
+            "start": 124.767,
+            "end": 124.847,
+            "score": 0.631
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 124.927,
+        "end": 127.17,
+        "text": "Easy wicket ki zarurati yahan bharat ko.",
+        "words": [
+          {
+            "word": "Easy",
+            "start": 124.927,
+            "end": 125.047,
+            "score": 0.104
+          },
+          {
+            "word": "wicket",
+            "start": 125.067,
+            "end": 125.328,
+            "score": 0.484
+          },
+          {
+            "word": "ki",
+            "start": 125.388,
+            "end": 125.508,
+            "score": 0.57
+          },
+          {
+            "word": "zarurati",
+            "start": 125.528,
+            "end": 126.109,
+            "score": 0.683
+          },
+          {
+            "word": "yahan",
+            "start": 126.229,
+            "end": 126.409,
+            "score": 0.294
+          },
+          {
+            "word": "bharat",
+            "start": 126.429,
+            "end": 126.749,
+            "score": 0.711
+          },
+          {
+            "word": "ko.",
+            "start": 126.77,
+            "end": 127.17,
+            "score": 0.882
+          }
+        ],
+        "detected_language": "ur"
+      },
+      {
+        "start": 127.91,
+        "end": 131.375,
+        "text": " It felt like it was a dream of my home.",
+        "words": [
+          {
+            "word": "It",
+            "start": 127.91,
+            "end": 128.05,
+            "score": 0.762
+          },
+          {
+            "word": "felt",
+            "start": 128.09,
+            "end": 128.631,
+            "score": 0.578
+          },
+          {
+            "word": "like",
+            "start": 128.691,
+            "end": 128.811,
+            "score": 0.645
+          },
+          {
+            "word": "it",
+            "start": 128.871,
+            "end": 128.932,
+            "score": 0.757
+          },
+          {
+            "word": "was",
+            "start": 129.332,
+            "end": 129.392,
+            "score": 0.0
+          },
+          {
+            "word": "a",
+            "start": 129.412,
+            "end": 129.693,
+            "score": 0.766
+          },
+          {
+            "word": "dream",
+            "start": 130.073,
+            "end": 130.634,
+            "score": 0.736
+          },
+          {
+            "word": "of",
+            "start": 130.734,
+            "end": 130.915,
+            "score": 0.502
+          },
+          {
+            "word": "my",
+            "start": 131.035,
+            "end": 131.095,
+            "score": 0.605
+          },
+          {
+            "word": "home.",
+            "start": 131.115,
+            "end": 131.375,
+            "score": 0.709
+          }
+        ],
+        "detected_language": "ur"
+      },
+      {
+        "start": 131.395,
+        "end": 135.462,
+        "text": "It was a difficult time for me.",
+        "words": [
+          {
+            "word": "It",
+            "start": 131.395,
+            "end": 131.476,
+            "score": 0.616
+          },
+          {
+            "word": "was",
+            "start": 131.816,
+            "end": 132.677,
+            "score": 0.669
+          },
+          {
+            "word": "a",
+            "start": 132.697,
+            "end": 132.737,
+            "score": 0.49
+          },
+          {
+            "word": "difficult",
+            "start": 132.758,
+            "end": 132.938,
+            "score": 0.11
+          },
+          {
+            "word": "time",
+            "start": 133.358,
+            "end": 134.38,
+            "score": 0.718
+          },
+          {
+            "word": "for",
+            "start": 134.46,
+            "end": 134.761,
+            "score": 0.572
+          },
+          {
+            "word": "me.",
+            "start": 134.901,
+            "end": 135.462,
+            "score": 0.758
+          }
+        ],
+        "detected_language": "hi"
+      },
+      {
+        "start": 135.622,
+        "end": 141.912,
+        "text": "It was a difficult time for me.",
+        "words": [
+          {
+            "word": "It",
+            "start": 135.622,
+            "end": 136.203,
+            "score": 0.635
+          },
+          {
+            "word": "was",
+            "start": 136.303,
+            "end": 136.463,
+            "score": 0.794
+          },
+          {
+            "word": "a",
+            "start": 136.563,
+            "end": 136.764,
+            "score": 0.588
+          },
+          {
+            "word": "difficult",
+            "start": 136.784,
+            "end": 138.026,
+            "score": 0.43
+          },
+          {
+            "word": "time",
+            "start": 138.607,
+            "end": 140.269,
+            "score": 0.858
+          },
+          {
+            "word": "for",
+            "start": 141.07,
+            "end": 141.13,
+            "score": 0.322
+          },
+          {
+            "word": "me.",
+            "start": 141.151,
+            "end": 141.912,
+            "score": 0.695
+          }
+        ],
+        "detected_language": "ur"
+      },
+      {
+        "start": 141.932,
+        "end": 150.525,
+        "text": "It was a difficult time for me.",
+        "words": [
+          {
+            "word": "It",
+            "start": 141.932,
+            "end": 142.272,
+            "score": 0.958
+          },
+          {
+            "word": "was",
+            "start": 142.513,
+            "end": 143.114,
+            "score": 0.801
+          },
+          {
+            "word": "a",
+            "start": 143.294,
+            "end": 143.554,
+            "score": 0.601
+          },
+          {
+            "word": "difficult",
+            "start": 143.895,
+            "end": 144.195,
+            "score": 0.31
+          },
+          {
+            "word": "time",
+            "start": 144.215,
+            "end": 144.896,
+            "score": 0.657
+          },
+          {
+            "word": "for",
+            "start": 144.916,
+            "end": 148.842,
+            "score": 0.529
+          },
+          {
+            "word": "me.",
+            "start": 150.405,
+            "end": 150.525,
+            "score": 0.345
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 155.517,
+        "end": 158.623,
+        "text": " There was this real band of brothers vibe to all of them.",
+        "words": [
+          {
+            "word": "There",
+            "start": 155.517,
+            "end": 155.697,
+            "score": 0.255
+          },
+          {
+            "word": "was",
+            "start": 155.757,
+            "end": 155.838,
+            "score": 0.459
+          },
+          {
+            "word": "this",
+            "start": 155.858,
+            "end": 155.998,
+            "score": 0.416
+          },
+          {
+            "word": "real",
+            "start": 156.018,
+            "end": 156.098,
+            "score": 0.447
+          },
+          {
+            "word": "band",
+            "start": 156.278,
+            "end": 156.599,
+            "score": 0.908
+          },
+          {
+            "word": "of",
+            "start": 156.639,
+            "end": 156.679,
+            "score": 0.96
+          },
+          {
+            "word": "brothers",
+            "start": 156.779,
+            "end": 157.22,
+            "score": 0.834
+          },
+          {
+            "word": "vibe",
+            "start": 157.34,
+            "end": 157.681,
+            "score": 0.817
+          },
+          {
+            "word": "to",
+            "start": 158.002,
+            "end": 158.122,
+            "score": 0.99
+          },
+          {
+            "word": "all",
+            "start": 158.182,
+            "end": 158.302,
+            "score": 0.996
+          },
+          {
+            "word": "of",
+            "start": 158.342,
+            "end": 158.382,
+            "score": 0.946
+          },
+          {
+            "word": "them.",
+            "start": 158.443,
+            "end": 158.623,
+            "score": 0.889
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 158.823,
+        "end": 172.75,
+        "text": "It was like we will live for each other, we will die for each other, we will play for each other, we will bleed for each other.",
+        "words": [
+          {
+            "word": "It",
+            "start": 158.823,
+            "end": 158.883,
+            "score": 0.95
+          },
+          {
+            "word": "was",
+            "start": 158.924,
+            "end": 159.044,
+            "score": 0.901
+          },
+          {
+            "word": "like",
+            "start": 159.084,
+            "end": 159.264,
+            "score": 0.863
+          },
+          {
+            "word": "we",
+            "start": 159.404,
+            "end": 159.565,
+            "score": 0.984
+          },
+          {
+            "word": "will",
+            "start": 159.605,
+            "end": 159.845,
+            "score": 0.873
+          },
+          {
+            "word": "live",
+            "start": 160.386,
+            "end": 160.587,
+            "score": 0.981
+          },
+          {
+            "word": "for",
+            "start": 160.627,
+            "end": 160.747,
+            "score": 0.981
+          },
+          {
+            "word": "each",
+            "start": 160.807,
+            "end": 160.907,
+            "score": 0.984
+          },
+          {
+            "word": "other,",
+            "start": 160.987,
+            "end": 161.148,
+            "score": 0.989
+          },
+          {
+            "word": "we",
+            "start": 161.188,
+            "end": 161.248,
+            "score": 0.996
+          },
+          {
+            "word": "will",
+            "start": 161.268,
+            "end": 161.428,
+            "score": 0.593
+          },
+          {
+            "word": "die",
+            "start": 161.508,
+            "end": 161.709,
+            "score": 0.819
+          },
+          {
+            "word": "for",
+            "start": 161.769,
+            "end": 161.889,
+            "score": 0.971
+          },
+          {
+            "word": "each",
+            "start": 161.949,
+            "end": 162.07,
+            "score": 0.749
+          },
+          {
+            "word": "other,",
+            "start": 162.17,
+            "end": 162.35,
+            "score": 0.94
+          },
+          {
+            "word": "we",
+            "start": 162.39,
+            "end": 162.51,
+            "score": 0.716
+          },
+          {
+            "word": "will",
+            "start": 162.53,
+            "end": 162.691,
+            "score": 0.876
+          },
+          {
+            "word": "play",
+            "start": 162.731,
+            "end": 162.931,
+            "score": 0.89
+          },
+          {
+            "word": "for",
+            "start": 162.971,
+            "end": 163.092,
+            "score": 0.942
+          },
+          {
+            "word": "each",
+            "start": 163.132,
+            "end": 163.252,
+            "score": 0.779
+          },
+          {
+            "word": "other,",
+            "start": 163.332,
+            "end": 163.492,
+            "score": 0.982
+          },
+          {
+            "word": "we",
+            "start": 163.532,
+            "end": 163.613,
+            "score": 0.926
+          },
+          {
+            "word": "will",
+            "start": 163.633,
+            "end": 163.793,
+            "score": 0.877
+          },
+          {
+            "word": "bleed",
+            "start": 163.873,
+            "end": 164.134,
+            "score": 0.9
+          },
+          {
+            "word": "for",
+            "start": 164.174,
+            "end": 164.294,
+            "score": 0.984
+          },
+          {
+            "word": "each",
+            "start": 164.334,
+            "end": 164.454,
+            "score": 0.869
+          },
+          {
+            "word": "other.",
+            "start": 164.514,
+            "end": 172.75,
+            "score": 0.88
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 180.205,
+        "end": 195.968,
+        "text": " Highs, lows, twists, and turns.",
+        "words": [
+          {
+            "word": "Highs,",
+            "start": 180.205,
+            "end": 182.649,
+            "score": 0.587
+          },
+          {
+            "word": "lows,",
+            "start": 182.729,
+            "end": 183.97,
+            "score": 0.724
+          },
+          {
+            "word": "twists,",
+            "start": 184.391,
+            "end": 194.846,
+            "score": 0.911
+          },
+          {
+            "word": "and",
+            "start": 195.106,
+            "end": 195.267,
+            "score": 0.747
+          },
+          {
+            "word": "turns.",
+            "start": 195.447,
+            "end": 195.968,
+            "score": 0.882
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 196.188,
+        "end": 202.517,
+        "text": "Seven hours of intriguing cricket coming up to decide what has been an incredible series from the Gabba.",
+        "words": [
+          {
+            "word": "Seven",
+            "start": 196.188,
+            "end": 196.488,
+            "score": 0.882
+          },
+          {
+            "word": "hours",
+            "start": 196.548,
+            "end": 196.869,
+            "score": 0.792
+          },
+          {
+            "word": "of",
+            "start": 196.929,
+            "end": 196.969,
+            "score": 0.998
+          },
+          {
+            "word": "intriguing",
+            "start": 197.049,
+            "end": 197.61,
+            "score": 0.798
+          },
+          {
+            "word": "cricket",
+            "start": 197.67,
+            "end": 197.971,
+            "score": 0.791
+          },
+          {
+            "word": "coming",
+            "start": 198.011,
+            "end": 198.251,
+            "score": 0.797
+          },
+          {
+            "word": "up",
+            "start": 198.311,
+            "end": 198.391,
+            "score": 0.67
+          },
+          {
+            "word": "to",
+            "start": 198.511,
+            "end": 198.591,
+            "score": 0.758
+          },
+          {
+            "word": "decide",
+            "start": 198.631,
+            "end": 199.112,
+            "score": 0.906
+          },
+          {
+            "word": "what",
+            "start": 199.513,
+            "end": 199.633,
+            "score": 0.915
+          },
+          {
+            "word": "has",
+            "start": 199.673,
+            "end": 199.753,
+            "score": 0.98
+          },
+          {
+            "word": "been",
+            "start": 199.793,
+            "end": 199.933,
+            "score": 0.949
+          },
+          {
+            "word": "an",
+            "start": 199.973,
+            "end": 200.214,
+            "score": 0.895
+          },
+          {
+            "word": "incredible",
+            "start": 200.274,
+            "end": 201.015,
+            "score": 0.917
+          },
+          {
+            "word": "series",
+            "start": 201.095,
+            "end": 201.456,
+            "score": 0.902
+          },
+          {
+            "word": "from",
+            "start": 201.596,
+            "end": 201.856,
+            "score": 0.984
+          },
+          {
+            "word": "the",
+            "start": 201.936,
+            "end": 202.036,
+            "score": 0.909
+          },
+          {
+            "word": "Gabba.",
+            "start": 202.096,
+            "end": 202.517,
+            "score": 0.77
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 206.024,
+        "end": 214.717,
+        "text": " So there's a third man there and rightly placed, get a five wicket haul.",
+        "words": [
+          {
+            "word": "So",
+            "start": 206.024,
+            "end": 206.244,
+            "score": 0.694
+          },
+          {
+            "word": "there's",
+            "start": 206.264,
+            "end": 206.465,
+            "score": 0.795
+          },
+          {
+            "word": "a",
+            "start": 206.525,
+            "end": 206.545,
+            "score": 0.834
+          },
+          {
+            "word": "third",
+            "start": 206.585,
+            "end": 206.825,
+            "score": 0.441
+          },
+          {
+            "word": "man",
+            "start": 206.865,
+            "end": 207.086,
+            "score": 0.958
+          },
+          {
+            "word": "there",
+            "start": 207.126,
+            "end": 207.506,
+            "score": 0.818
+          },
+          {
+            "word": "and",
+            "start": 207.647,
+            "end": 207.747,
+            "score": 0.748
+          },
+          {
+            "word": "rightly",
+            "start": 207.847,
+            "end": 208.267,
+            "score": 0.821
+          },
+          {
+            "word": "placed,",
+            "start": 208.328,
+            "end": 208.989,
+            "score": 0.94
+          },
+          {
+            "word": "get",
+            "start": 209.009,
+            "end": 209.129,
+            "score": 0.937
+          },
+          {
+            "word": "a",
+            "start": 209.189,
+            "end": 209.209,
+            "score": 0.695
+          },
+          {
+            "word": "five",
+            "start": 209.249,
+            "end": 209.449,
+            "score": 0.494
+          },
+          {
+            "word": "wicket",
+            "start": 209.469,
+            "end": 209.69,
+            "score": 0.541
+          },
+          {
+            "word": "haul.",
+            "start": 209.71,
+            "end": 214.717,
+            "score": 0.731
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 221.448,
+        "end": 223.431,
+        "text": "Unbelievably talented, this lad.",
+        "words": [
+          {
+            "word": "Unbelievably",
+            "start": 221.448,
+            "end": 222.369,
+            "score": 0.839
+          },
+          {
+            "word": "talented,",
+            "start": 222.409,
+            "end": 222.93,
+            "score": 0.757
+          },
+          {
+            "word": "this",
+            "start": 222.95,
+            "end": 223.11,
+            "score": 0.661
+          },
+          {
+            "word": "lad.",
+            "start": 223.171,
+            "end": 223.431,
+            "score": 0.834
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 224.873,
+        "end": 224.953,
+        "text": "Wow.",
+        "words": [
+          {
+            "word": "Wow.",
+            "start": 224.873,
+            "end": 224.953,
+            "score": 0.001
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 224.973,
+        "end": 225.074,
+        "text": "Wow.",
+        "words": [
+          {
+            "word": "Wow.",
+            "start": 224.973,
+            "end": 225.074,
+            "score": 0.763
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 227.197,
+        "end": 228.198,
+        "text": "Oh, it's another blow.",
+        "words": [
+          {
+            "word": "Oh,",
+            "start": 227.197,
+            "end": 227.297,
+            "score": 0.411
+          },
+          {
+            "word": "it's",
+            "start": 227.317,
+            "end": 227.417,
+            "score": 0.737
+          },
+          {
+            "word": "another",
+            "start": 227.457,
+            "end": 227.758,
+            "score": 0.768
+          },
+          {
+            "word": "blow.",
+            "start": 227.798,
+            "end": 228.198,
+            "score": 0.814
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 228.359,
+        "end": 229.721,
+        "text": "A nasty one on the glove.",
+        "words": [
+          {
+            "word": "A",
+            "start": 228.359,
+            "end": 228.419,
+            "score": 0.895
+          },
+          {
+            "word": "nasty",
+            "start": 228.479,
+            "end": 228.859,
+            "score": 0.87
+          },
+          {
+            "word": "one",
+            "start": 228.96,
+            "end": 229.06,
+            "score": 0.896
+          },
+          {
+            "word": "on",
+            "start": 229.12,
+            "end": 229.18,
+            "score": 0.936
+          },
+          {
+            "word": "the",
+            "start": 229.22,
+            "end": 229.3,
+            "score": 0.935
+          },
+          {
+            "word": "glove.",
+            "start": 229.34,
+            "end": 229.721,
+            "score": 0.853
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 229.801,
+        "end": 230.422,
+        "text": "Pajara.",
+        "words": [
+          {
+            "word": "Pajara.",
+            "start": 229.801,
+            "end": 230.422,
+            "score": 0.827
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 231.944,
+        "end": 234.428,
+        "text": "It was like over my dead body kind of situation.",
+        "words": [
+          {
+            "word": "It",
+            "start": 231.944,
+            "end": 232.004,
+            "score": 0.971
+          },
+          {
+            "word": "was",
+            "start": 232.044,
+            "end": 232.185,
+            "score": 0.599
+          },
+          {
+            "word": "like",
+            "start": 232.225,
+            "end": 232.345,
+            "score": 0.84
+          },
+          {
+            "word": "over",
+            "start": 232.445,
+            "end": 232.685,
+            "score": 0.471
+          },
+          {
+            "word": "my",
+            "start": 232.785,
+            "end": 232.886,
+            "score": 0.988
+          },
+          {
+            "word": "dead",
+            "start": 232.946,
+            "end": 233.106,
+            "score": 0.748
+          },
+          {
+            "word": "body",
+            "start": 233.166,
+            "end": 233.406,
+            "score": 0.917
+          },
+          {
+            "word": "kind",
+            "start": 233.447,
+            "end": 233.607,
+            "score": 0.966
+          },
+          {
+            "word": "of",
+            "start": 233.667,
+            "end": 233.727,
+            "score": 0.94
+          },
+          {
+            "word": "situation.",
+            "start": 233.787,
+            "end": 234.428,
+            "score": 0.929
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 236.956,
+        "end": 246.268,
+        "text": " Amazing series for India.",
+        "words": [
+          {
+            "word": "Amazing",
+            "start": 236.956,
+            "end": 241.462,
+            "score": 0.721
+          },
+          {
+            "word": "series",
+            "start": 241.502,
+            "end": 242.123,
+            "score": 0.639
+          },
+          {
+            "word": "for",
+            "start": 242.884,
+            "end": 243.024,
+            "score": 0.629
+          },
+          {
+            "word": "India.",
+            "start": 243.144,
+            "end": 246.268,
+            "score": 0.542
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 252.136,
+        "end": 254.439,
+        "text": "Test cricket's heart is beating hard.",
+        "words": [
+          {
+            "word": "Test",
+            "start": 252.136,
+            "end": 252.416,
+            "score": 0.857
+          },
+          {
+            "word": "cricket's",
+            "start": 252.496,
+            "end": 252.857,
+            "score": 0.852
+          },
+          {
+            "word": "heart",
+            "start": 252.877,
+            "end": 253.237,
+            "score": 0.78
+          },
+          {
+            "word": "is",
+            "start": 253.358,
+            "end": 253.458,
+            "score": 0.702
+          },
+          {
+            "word": "beating",
+            "start": 253.538,
+            "end": 253.978,
+            "score": 0.843
+          },
+          {
+            "word": "hard.",
+            "start": 254.038,
+            "end": 254.439,
+            "score": 0.857
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 254.499,
+        "end": 255.48,
+        "text": "It's beating true.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 254.499,
+            "end": 254.599,
+            "score": 0.726
+          },
+          {
+            "word": "beating",
+            "start": 254.659,
+            "end": 255.02,
+            "score": 0.943
+          },
+          {
+            "word": "true.",
+            "start": 255.1,
+            "end": 255.48,
+            "score": 0.911
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 255.5,
+        "end": 257.042,
+        "text": "They were down.",
+        "words": [
+          {
+            "word": "They",
+            "start": 255.5,
+            "end": 256.362,
+            "score": 0.887
+          },
+          {
+            "word": "were",
+            "start": 256.382,
+            "end": 256.522,
+            "score": 0.962
+          },
+          {
+            "word": "down.",
+            "start": 256.582,
+            "end": 257.042,
+            "score": 0.993
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 257.443,
+        "end": 258.284,
+        "text": "They were out.",
+        "words": [
+          {
+            "word": "They",
+            "start": 257.443,
+            "end": 257.603,
+            "score": 0.913
+          },
+          {
+            "word": "were",
+            "start": 257.623,
+            "end": 257.803,
+            "score": 0.916
+          },
+          {
+            "word": "out.",
+            "start": 258.084,
+            "end": 258.284,
+            "score": 0.953
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 258.825,
+        "end": 260.567,
+        "text": "And India have risen.",
+        "words": [
+          {
+            "word": "And",
+            "start": 258.825,
+            "end": 258.905,
+            "score": 0.794
+          },
+          {
+            "word": "India",
+            "start": 258.945,
+            "end": 259.506,
+            "score": 0.942
+          },
+          {
+            "word": "have",
+            "start": 259.566,
+            "end": 259.746,
+            "score": 0.743
+          },
+          {
+            "word": "risen.",
+            "start": 259.846,
+            "end": 260.567,
+            "score": 0.916
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a sports event at Adelaide Oval, likely a cricket match, with a focus on Indian fans in the crowd. The setting is bright daylight with a large, diverse audience. The overlay text indicates it's a Sony Pictures Sports Network original, with channel logos visible. The visual focus is on a fan wearing traditional Indian attire and face paint, suggesting cultural pride and engagement with the event. The audio includes a male voice speaking playfully about the score, with numbers being called out. The music is soft piano, reflective, and deep, adding emotional weight to the scene. The numbers \"920408404\" appear on screen in sync with the audio, likely representing a score or statistic being highlighted.\n\nEvent 1 (0.0-3.3s): Black screen with Sony Pictures Sports Network branding and channel logos. The visual is purely textual and graphical with no action or sound source visible.\n\nEvent 2 (0.5-20.0s): Soft piano music plays throughout, matching the reflective tone of the scene. The visual evolves from black screen to crowd shots, maintaining a slow, contemplative pace.\n\nEvent 3 (3.3-20.0s): Visual shifts to a close-up of a fan in traditional Indian headgear and face paint, surrounded by other spectators. The fan\u2019s hand adjusts the headdress, and the camera slowly zooms in. The music continues softly, and the on-screen text \"ADELAIDE OVAL\" appears, confirming the location.\n\nEvent 4 (7.8-16.6s): Male voice speaks playfully, describing the score as \"a procession\" and reciting the number \"920408404\" while the digits appear sequentially on screen. The fan remains in focus, with slight movements of the head and hand.\n\nEvent 5 (16.9-19.5s): Male voice continues playfully, calling the batting card \"unbelievable.\" The camera blurs slightly, focusing on hands holding a phone, suggesting fans are capturing the moment or checking stats. The number \"920408404\" remains on screen.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe video begins with a blurred, warm-toned shot of a crowd, likely spectators at a sports event, with a large number displayed on screen. This transitions to a black screen with a series of white text boxes appearing one by one, each containing quotes from former cricket captains criticizing India\u2019s chances in a Test series without Virat Kohli. The quotes are attributed to Michael Clarke, Ricky Ponting, Mark Waugh, and Michael Vaughan. After the quotes, the scene shifts to a dimly lit studio where Sunil Gavaskar is seated in a chair, with candles and bookshelves in the background, suggesting a reflective or analytical segment. Finally, the video cuts to a bright, minimalist studio with Harsha Bhogle seated in a red chair next to a retro-style television, indicating a shift to a more modern, studio-based commentary setup.\n\nThe audio begins with ambient music described as calm, reflective, and spacious, which sets a contemplative tone. The speech begins at 2.1s with a male voice discussing former cricketers\u2019 predictions of a 4-0 win for Australia, emphasizing the widespread belief in an Indian team collapse without Kohli. The speaker elaborates that not only commentators but also the general media predicted India\u2019s defeat. The tone remains conversational and reflective as the speaker continues, leading into the visual of Sunil Gavaskar, who appears to be offering a counterpoint or deeper analysis. The final segment features Harsha Bhogle, who begins speaking with a reflective tone, possibly building toward a discussion of legacy and career fulfillment in sports.\n\nThe audio labels are mostly accurate: [music] is correctly identified as calm and reflective, matching the mood of the quote montage and studio segments. The [speech] labels are also accurate, with the male voice clearly speaking in a conversational tone throughout. There are no mislabeled sounds\u2014no need to correct \"helicopter\" for fan or \"thunder\" for furniture, as the audio aligns with the visuals. The music continues into the studio segments, maintaining a reflective atmosphere.",
+    "[Chunk 3: 40.0s - 60.0s]\nThe video appears to be a montage of sports commentators and athletes, likely from a cricket-related program. The scenes alternate between a man in a suit seated next to a vintage TV, a close-up of a man in a white t-shirt, and a man in a suit seated in a studio with professional lighting and camera equipment. The audio includes speech from these individuals, with some moments featuring soft piano music. The on-screen text identifies the individuals as Harsha Bhogle, Michael Clarke, and Sanjay Manjrekar, all known cricket commentators or players. The audio labels need to be adjusted to match the visual context \u2014 for example, \"music\" is appropriate when the piano is playing, and \"speech\" should describe the visual speaker and their delivery. The confidence scores are high, so corrections are minimal but necessary for accuracy.",
+    "[Chunk 4: 60.0s - 80.0s]\nScene is a studio interview setup with a male speaker and a female interviewer. The male speaker, Sanjay Manjrekar, is seated against a red backdrop, wearing a suit and glasses, speaking into a microphone. The female interviewer, Isa Guha, is seated in a well-lit room with white walls and framed cricket memorabilia, wearing a green blazer and black pants. The audio transitions between the two speakers, both speaking off-screen with visible lip movement. The music is calm and reflective, playing throughout the segment. The audio labels for speech are mostly accurate based on visuals (male/female voices matching the speakers), but the confidence scores for some speech events are low \u2014 however, the visual evidence confirms the correct speaker. The music label is correct and matches the atmosphere.\n\nEvent 1: Music plays as the scene opens with Sanjay Manjrekar seated, camera focused on him.\nEvent 2: Sanjay Manjrekar speaks, visible in close-up, mouth moving, wearing glasses.\nEvent 3: Same speaker continues, slight head movement, eyes focused.\nEvent 4: Continuation of Sanjay Manjrekar speaking, slight changes in expression.\nEvent 5: Still Sanjay Manjrekar, speaking with emphasis, head tilting slightly.\nEvent 6: Sanjay Manjrekar continues, nodding slightly, speaking with conviction.\nEvent 7: Sanjay Manjrekar concludes his point, still in close-up.\nEvent 8: Cut to Isa Guha, seated in a chair, looking down, then up, beginning to speak.\nEvent 9: Isa Guha speaks, visible in close-up, mouth moving, eyes focused.\nEvent 10: Isa Guha continues speaking, hands clasped, expression serious.\nEvent 11: Wider shot of Isa Guha seated, legs crossed, framed cricket photos on wall behind her.",
+    "[Chunk 5: 80.0s - 100.0s]\nThe video begins with a female speaker in a formal setting, seated in a minimalist room with cricket-themed artwork on the walls. The audio is calm and reflective, matching the serene atmosphere. At 2.2s, the scene transitions to a male speaker, Hanuma Vihari, seated in an elegantly decorated room with floral wallpaper, a fireplace, and warm lighting. He speaks formally, gesturing slightly as he reflects on the cricket series. From 12.8s, the video cuts to live cricket action at the Melbourne Cricket Ground, showing players in white uniforms, a crowd in the stands, and a celebratory moment with a batsman raising his bat. The audio shifts to a more dynamic tone, with a brief sfx of a car speeding past (likely an editing transition), followed by the male voice continuing his commentary. The visuals during the cricket segment are wide shots of the field, capturing the excitement of the match and the audience\u2019s engagement. The audio labels for music and speech are accurate based on context and visuals.",
+    "[Chunk 6: 100.0s - 120.0s]\nThe video begins with a cricket match at the Melbourne Cricket Ground, showing players in white uniforms celebrating on the field. The crowd is visible in the stands, and advertisements for Vodafone are displayed along the boundary. The audio includes a male voice speaking with a sense of urgency or emphasis, possibly commentary on the game. \n\nAt 6.2s, the scene shifts to a close-up of an older man with white hair and a mustache, identified by on-screen text as \"AYAZ MEMON.\" The lighting is dramatic, with shadows cast across his face, suggesting a serious or reflective tone. The audio continues with a conversational male voice, likely providing analysis or commentary.\n\nAt 11.8s, the scene changes again to a dimly lit studio setting. A man, identified as \"SUNIL GAVASKAR,\" is seated in a large armchair, gesturing as he speaks. The room has warm lighting, with candles, books, and framed photos visible in the background. The audio includes a calm, conversational male voice, possibly sharing insights or reflections. \n\nThe music is described as slow, emotional, and reflective, which matches the somber tone of the close-up and the thoughtful ambiance of the interview setting. The audio labels for speech are consistent with the visual cues\u2014conversational tones from individuals speaking directly to the camera or in an interview format. There are no mislabeled sounds; all audio descriptions align with the visual context.",
+    "[Chunk 7: 120.0s - 140.0s]\nThe video opens with a cricket match at the Melbourne Cricket Ground, showing a bowler delivering a ball, followed by a fielder diving to make a catch. The crowd reacts with excitement, and players are seen walking off the field. The scene then transitions to an indoor interview setting with Mohammed Siraj seated in a chair, wearing a grey hoodie, in a room with red curtains and floral wallpaper. The audio includes soft ambient noise and gentle guitar music, with urgent male voices speaking in Urdu and Hindi. The visuals match the audio cues, with no mismatches requiring correction. The music continues throughout the interview segment, adding a reflective mood to the scene.",
+    "[Chunk 8: 140.0s - 160.0s]\nThe video features two different interview settings with male speakers. The first man is seated in front of a fireplace in a richly decorated room with red floral wallpaper and ornate furniture. He wears a grey hoodie with \"Tigers\" logo and speaks with a neutral tone. The second man is in a modern, bright living room with white sofas, plants, and abstract art. He wears a red shirt under a black jacket and gestures while speaking. The audio labels are mostly accurate: speech is clearly audible, soft piano music plays throughout, and the visual transitions match the scene changes. No corrections needed for audio labels as they align with visuals.",
+    "[Chunk 9: 160.0s - 180.0s]\nThe video depicts a cricket team in white uniforms standing on a field, likely during a pre-match or post-match ceremony at the Melbourne Cricket Ground. The players are shown in group shots, close-ups, and interactions, including handshakes and hugs, suggesting camaraderie and emotional moments. The audio includes soft, emotional piano music and male voices speaking with varying tones (positive, angry). The crowd is heard cheering loudly, matching the visual of a large stadium filled with spectators. The video ends with a black screen and the text \"THIS JANUARY\" appearing, indicating a promotional or upcoming event.\n\nFor each audio event:\n- Event 1: Soft piano music plays during the opening wide shot of the team.\n- Event 2: Visual shows the team standing in line, with the speech transcript suggesting emotional team bonding.\n- Events 3-6: Speech overlaps with close-ups of players and side profiles, with the male voice sounding positive.\n- Event 7: Crowd cheering matches the visuals of players interacting and the stadium environment.\n- Events 8-10: Visuals show players greeting each other with handshakes and hugs, with the male voice sounding angry \u2014 this may be a mislabel; the visuals show affection, so the tone likely reflects the content of the speech, not the visual emotion.\n- Events 11-13: Visuals transition to black screen with text \"THIS JANUARY\", with music continuing.\n\nAudio corrections:\n- \"Male voice (angry)\" at 4.8-12.6s: The visuals show affectionate gestures (handshakes, hugs), so the angry tone likely refers to the content of the speech (perhaps the speaker is recounting a past conflict or challenge), not the visual emotion. We keep the audio label as \"Male voice (angry)\" since it is a speech label and not directly tied to visual emotion.\n- Crowd cheering is accurate \u2014 loud and consistent with stadium visuals.\n- Piano music is accurate and matches the emotional tone of the visuals.",
+    "[Chunk 10: 180.0s - 200.0s]\nThe video opens with a close-up of a man wearing glasses, speaking in a dimly lit setting, suggesting an interview or commentary segment. The on-screen text identifies him as \"VIVEK RAZDAN\" and includes channel logos for SONY SIX, TEN 1, TEN 3, and TEN 4. The audio features a male voice with a playful tone, likely narrating or introducing content. At 11.0 seconds, the scene transitions to a black screen with the text \"SONY PICTURES SPORTS NETWORK INVITES YOU\" and a red lens flare, indicating a promotional or introductory sequence. This is followed by aerial and ground-level shots of the Gabba stadium, a major cricket venue, with the on-screen text \"GABBA\" confirming the location. The visuals show the stadium's exterior, surrounding traffic, and colorful seating, all under bright daylight. The audio continues with the same male voice, now discussing a cricket series, as indicated by the transcript. The final frames focus on rows of colorful stadium seats, reinforcing the sports context. The audio model's confidence is high throughout, and no corrections are needed for sound labels as they align with visual content (e.g., music, speech, visual transitions).",
+    "[Chunk 11: 200.0s - 220.0s]\nScene is a cricket match and post-match interview setup. The video opens with a close-up of the ICC World Test Championship trophy at the Gabba cricket ground, followed by a black screen with white text \"TO RELIVE\". Then, action footage shows a batsman hitting a ball, followed by a bowler celebrating a wicket with teammates clapping. The scene transitions to an indoor interview with Mohammed Siraj seated in a luxurious room with red curtains and floral wallpaper. The video ends with a black screen and the text \"INDIA'S GREATEST\" appearing, accompanied by a whooshing sound effect.\n\nEvent 1 (0.0-8.7s): Male voice speaks playfully over visuals of the trophy, cricket action, and celebration \u2014 consistent with commentary.\nEvent 2 (0.0-20.0s): Heroic music with strings, choir, and percussion plays throughout \u2014 matches the dramatic tone of the visuals.\nEvent 3 (0.0-2.4s): Visual shows ICC trophy at Gabba, with \"GABBA\" and \"AUS IND\" on screen \u2014 matches audio about match at Gabba.\nEvent 4 (3.8-7.5s): Visual shows batsman hitting ball, then fielder retrieving it \u2014 matches action described in audio.\nEvent 5 (5.3-10.3s): Crowd cheering is heard during celebration scene \u2014 matches audio about wicket haul.\nEvent 6 (7.5-11.6s): Visual shows bowler raising ball in celebration \u2014 matches audio about five-wicket haul.\nEvent 7 (9.0-11.2s): Male voice speaks playfully during celebration \u2014 matches visual of joyous team moment.\nEvent 8 (11.6-15.8s): Visual shows Mohammed Siraj seated in interview setup \u2014 matches audio of him speaking.\nEvent 9 (11.7-14.7s): Male voice speaks playfully during interview \u2014 matches visual of Siraj talking.\nEvent 10 (15.1-16.5s): Male voice speaks playfully \u2014 matches visual of Siraj continuing interview.\nEvent 11 (15.8-18.6s): Visual shows close-up of Siraj during interview \u2014 matches audio of him speaking.\nEvent 12 (17.0-18.5s): Male voice speaks playfully \u2014 matches visual of Siraj talking.\nEvent 13 (18.6-20.0s): Fast whooshing sound \u2014 matches transition to black screen.\nEvent 14 (19.2-20.0s): Visual shows \"INDIA'S GREATEST\" text on black screen \u2014 matches final branding moment.",
+    "[Chunk 12: 220.0s - 240.0s]\nScene is a cricket match highlight reel with commentary and fan reactions. The video alternates between live cricket action, close-ups of players, fan reactions, and interviews with commentators. The audio includes dramatic music, crowd noise, and commentary from male voices describing key moments. The audio model sometimes mislabels sounds (e.g., \"heavy metal impact\" for a ball hitting the bat, \"sharp gunshot\" for a bat strike). Visuals show players batting, fielding, celebrating, and fans waving flags. Interviews with Nick Knight and Sunil Gavaskar are included. On-screen text includes channel logos and player names.\n\nEvent 1: Music starts with heroic strings and drums as title card \"INDIA'S GREATEST COMEBACK\" appears.\n\nEvent 2: Cricket match scene \u2014 Indian batsman swings bat, ball in motion, wicketkeeper and fielder visible.\n\nEvent 3: Fans in stands waving Indian flags, one wearing red cap, another with green sunglasses.\n\nEvent 4: Interview with Nick Knight \u2014 man in blue shirt, sitting indoors, fireplace behind him.\n\nEvent 5: Batsman gets hit by ball, ducks, ball bounces near stumps, umpire in background.\n\nEvent 6: Close-up of batsman reacting to being hit, helmet on, hand to head, walking away.\n\nEvent 7: Indian team bench \u2014 players and staff, some covering faces, others watching intently.\n\nEvent 8: Interview with Sunil Gavaskar \u2014 man in white blazer, red shirt, seated in leather chair.\n\nEvent 9: Close-up of Indian batsman in helmet, focused, then swings bat powerfully.\n\nEvent 10: Team celebration \u2014 players jump and cheer from bench, bats and coolers on ground.\n\nEvent 11: Batsman runs after hitting ball, fielder dives, \u201cTOYOTA\u201d ad on board.\n\nEvent 12: Crowd noise continues as music fades slightly.\n\nEvent 13: Ball hits bat \u2014 sound corrected to \"bat strike\" as ball connects with bat.\n\nEvent 14: Batsman walks, helmet on, adjusting gloves, then high-fives teammate.\n\nEvent 15: Team bench \u2014 players cheering, jumping, waving arms, celebrating.\n\nEvent 16: Batsman runs, bat in hand, fielder on ground, \u201cTOYOTA\u201d visible.\n\nEvent 17: Music swells as celebration continues, crowd noise rises.\n\nEvent 18: Team celebration continues, players jumping, one in orange jersey.\n\nEvent 19: Batsman runs, ball in air, fielder dives \u2014 sound corrected to \"bat strike\".\n\nEvent 20: Team bench celebration \u2014 players in white and blue, some jumping, others clapping.\n\nEvent 21: Batsman runs, fielder dives, \u201cTOYOTA\u201d ad visible \u2014 sound corrected to \"bat strike\".",
+    "[Chunk 13: 240.0s - 260.0s]\nScene is a cricket match and promotional content for a documentary titled \"Down Underdogs: India's Greatest Comeback\". The video starts with a cricket match scene, transitions to a close-up of Michael Clarke speaking, then shows Indian cricket team celebrations, followed by a title sequence with intense red visuals and music, ending with a date reveal and tagline.\n\nEvent 1 (0.0-13.2s): Crowd cheering is heard throughout, matching the cricket match scenes and celebrations.  \nEvent 2 (0.0-0.5s): Michael Clarke speaks in a close-up shot, voice playful.  \nEvent 3 (0.0-0.7s): Cricket match in progress \u2014 batsman running, bowler following, spectators in stands.  \nEvent 4 (0.7-2.1s): Michael Clarke continues speaking, then transitions to two Indian players embracing in the dugout.  \nEvent 5 (0.9-2.1s): Michael Clarke speaks during the dugout scene.  \nEvent 6 (2.1-3.7s): Indian players hugging and celebrating in the dugout.  \nEvent 7 (2.3-13.5s): Driving rhythmic music begins as the celebration intensifies and title graphics appear.  \nEvent 8 (2.7-4.4s): Voiceover continues over the team celebration and trophy lift.  \nEvent 9 (3.8-6.2s): Indian team celebrates with trophy, raising hands and cheering.  \nEvent 10 (4.7-6.3s): Voiceover continues during the trophy lift and team photo.  \nEvent 11 (6.2-11.6s): Title card \"Down Underdogs: India's Greatest Comeback\" appears with red background and animated effects.  \nEvent 12 (11.6-12.9s): Fast air movement SFX as date \"14.01.2022\" appears with a whoosh.  \nEvent 13 (11.6-20.0s): Black screen with date and tagline \"The Saga Begins\" appears.  \nEvent 14 (12.1-15.6s): Voiceover continues over the black screen with date.  \nEvent 15 (15.8-18.4s): Music swells as tagline \"The Saga Begins\" appears.  \nEvent 16 (16.2-17.1s): Voiceover continues over the tagline.  \nEvent 17 (17.4-20.0s): Voiceover concludes over the final black screen with date and tagline.\n\nAudio labels are mostly accurate. Crowd cheering matches visuals. Michael Clarke\u2019s voice is correctly labeled as playful. Music description matches the intense, cinematic score. SFX for air movement is appropriate for the transition effect. No corrections needed.",
+    "[Chunk 14: 260.0s - 269.9s]\nThe scene is a static black screen with no visible action or movement. The only visual elements are text and logos. The audio consists of a dramatic male voiceover and soft piano and strings music, with a sustained string tone at 3.7s. The visual content does not change throughout the clip \u2014 it remains a black background with centered text. The audio labels are consistent with the mood and tone of the visuals, which suggest an announcement or teaser for an upcoming event. The music is reflective and slow, matching the dramatic tone of the voice. The sustained string tone at 3.7s is a clear musical accent, not a mislabeled sound. The visual description should reflect the static nature of the screen and the presence of on-screen text."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      120.0
+    ],
+    [
+      120.0,
+      140.0
+    ],
+    [
+      140.0,
+      160.0
+    ],
+    [
+      160.0,
+      180.0
+    ],
+    [
+      180.0,
+      200.0
+    ],
+    [
+      200.0,
+      220.0
+    ],
+    [
+      220.0,
+      240.0
+    ],
+    [
+      240.0,
+      260.0
+    ],
+    [
+      260.0,
+      269.93197278911566
+    ]
+  ]
+}

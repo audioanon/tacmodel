@@ -1,0 +1,2538 @@
+{
+  "cid": "00229080d5004bffba7024396724feba",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 145.6587755102041,
+  "events": [
+    {
+      "start_time": 0.0,
+      "end_time": 5.338666666666667,
+      "type": "visual",
+      "description": "Green screen with white text: <text>THE FOLLOWING PREVIEW HAS BEEN APPROVED FOR ALL AUDIENCES BY THE MOTION PICTURE ASSOCIATION OF AMERICA, INC.</text> and R rating box",
+      "audio_description": null
+    },
+    {
+      "description": "Deep beast growl as MGM lion roars within golden filmstrip logo on black background",
+      "start_time": 6.6,
+      "end_time": 20.0,
+      "duration": 13.4,
+      "type": "background",
+      "confidence": 0.977,
+      "audio_description": "Soft synth pad with reverb"
+    },
+    {
+      "description": "Articulus and Quorum Entertainment logos appear on black screen",
+      "start_time": 6.6,
+      "end_time": 7.7,
+      "duration": 1.1000000000000005,
+      "type": "sfx",
+      "confidence": 0.996,
+      "audio_description": "Deep beast growl"
+    },
+    {
+      "description": "Helicopter flying low over jungle, rotor blades whirring, kicking up dust and debris",
+      "start_time": 8.0,
+      "end_time": 12.5,
+      "duration": 4.5,
+      "type": "sfx",
+      "confidence": 0.939,
+      "audio_description": "Futuristic craft passing"
+    },
+    {
+      "description": "Male voice (calm) as close-up of soldier in helmet, looking off-screen with serious expression",
+      "start_time": 9.9,
+      "end_time": 10.8,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.938,
+      "audio_description": "Male voice (calm)"
+    },
+    {
+      "start_time": 10.218541666666665,
+      "end_time": 11.886875,
+      "type": "visual",
+      "description": "Soldier in jungle, holding rifle, looking alert with focused eyes and furrowed brow",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (calm) as soldier in camouflage helmet, eyes scanning surroundings, mouth slightly open",
+      "start_time": 11.3,
+      "end_time": 14.5,
+      "duration": 3.1999999999999993,
+      "type": "speech",
+      "confidence": 0.938,
+      "audio_description": "Male voice (calm)"
+    },
+    {
+      "start_time": 11.886875,
+      "end_time": 13.26325,
+      "type": "visual",
+      "description": "Soldier in dense jungle, holding rifle, moving cautiously through tall bamboo",
+      "audio_description": null
+    },
+    {
+      "start_time": 13.26325,
+      "end_time": 14.639624999999999,
+      "type": "visual",
+      "description": "Soldier in helmet, face tense, eyes wide, looking toward camera with a concerned expression",
+      "audio_description": null
+    },
+    {
+      "start_time": 14.639624999999999,
+      "end_time": 15.807458333333333,
+      "type": "visual",
+      "description": "Soldier\u2019s face close-up, eyes downcast, lips parted, showing signs of fatigue or distress",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (conversational) as soldier stands before group, voice calm, addressing others in circle",
+      "start_time": 14.7,
+      "end_time": 17.4,
+      "duration": 2.6999999999999993,
+      "type": "speech",
+      "confidence": 0.934,
+      "audio_description": "Male voice (conversational)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 9.903,
+        "end": 11.284,
+        "text": " Funny how things happen.",
+        "words": [
+          {
+            "word": "Funny",
+            "start": 9.903,
+            "end": 10.143,
+            "score": 0.658
+          },
+          {
+            "word": "how",
+            "start": 10.183,
+            "end": 10.323,
+            "score": 0.858
+          },
+          {
+            "word": "things",
+            "start": 10.343,
+            "end": 10.524,
+            "score": 0.761
+          },
+          {
+            "word": "happen.",
+            "start": 10.584,
+            "end": 11.284,
+            "score": 0.95
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.304,
+        "end": 14.408,
+        "text": "Only in hindsight do you realize how something can change your entire life.",
+        "words": [
+          {
+            "word": "Only",
+            "start": 11.304,
+            "end": 11.445,
+            "score": 0.838
+          },
+          {
+            "word": "in",
+            "start": 11.505,
+            "end": 11.545,
+            "score": 0.98
+          },
+          {
+            "word": "hindsight",
+            "start": 11.625,
+            "end": 12.105,
+            "score": 0.854
+          },
+          {
+            "word": "do",
+            "start": 12.145,
+            "end": 12.205,
+            "score": 0.984
+          },
+          {
+            "word": "you",
+            "start": 12.225,
+            "end": 12.325,
+            "score": 0.954
+          },
+          {
+            "word": "realize",
+            "start": 12.366,
+            "end": 12.726,
+            "score": 0.814
+          },
+          {
+            "word": "how",
+            "start": 12.766,
+            "end": 12.886,
+            "score": 0.725
+          },
+          {
+            "word": "something",
+            "start": 12.946,
+            "end": 13.206,
+            "score": 0.963
+          },
+          {
+            "word": "can",
+            "start": 13.246,
+            "end": 13.347,
+            "score": 0.977
+          },
+          {
+            "word": "change",
+            "start": 13.387,
+            "end": 13.587,
+            "score": 0.84
+          },
+          {
+            "word": "your",
+            "start": 13.607,
+            "end": 13.707,
+            "score": 0.939
+          },
+          {
+            "word": "entire",
+            "start": 13.747,
+            "end": 14.107,
+            "score": 0.915
+          },
+          {
+            "word": "life.",
+            "start": 14.187,
+            "end": 14.408,
+            "score": 0.938
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.708,
+        "end": 16.069,
+        "text": "I need volunteers to stay behind.",
+        "words": [
+          {
+            "word": "I",
+            "start": 14.708,
+            "end": 14.788,
+            "score": 0.503
+          },
+          {
+            "word": "need",
+            "start": 14.808,
+            "end": 14.908,
+            "score": 0.344
+          },
+          {
+            "word": "volunteers",
+            "start": 14.928,
+            "end": 15.409,
+            "score": 0.87
+          },
+          {
+            "word": "to",
+            "start": 15.449,
+            "end": 15.509,
+            "score": 0.931
+          },
+          {
+            "word": "stay",
+            "start": 15.549,
+            "end": 15.729,
+            "score": 0.946
+          },
+          {
+            "word": "behind.",
+            "start": 15.769,
+            "end": 16.069,
+            "score": 0.957
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.149,
+        "end": 17.331,
+        "text": "This is your chance to be a hero.",
+        "words": [
+          {
+            "word": "This",
+            "start": 16.149,
+            "end": 16.229,
+            "score": 0.044
+          },
+          {
+            "word": "is",
+            "start": 16.249,
+            "end": 16.29,
+            "score": 0.496
+          },
+          {
+            "word": "your",
+            "start": 16.31,
+            "end": 16.43,
+            "score": 0.754
+          },
+          {
+            "word": "chance",
+            "start": 16.47,
+            "end": 16.71,
+            "score": 0.939
+          },
+          {
+            "word": "to",
+            "start": 16.75,
+            "end": 16.79,
+            "score": 0.962
+          },
+          {
+            "word": "be",
+            "start": 16.83,
+            "end": 16.91,
+            "score": 0.78
+          },
+          {
+            "word": "a",
+            "start": 16.97,
+            "end": 16.99,
+            "score": 0.92
+          },
+          {
+            "word": "hero.",
+            "start": 17.05,
+            "end": 17.331,
+            "score": 0.925
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.671,
+        "end": 18.752,
+        "text": "I always wanted to be a hero.",
+        "words": [
+          {
+            "word": "I",
+            "start": 17.671,
+            "end": 17.711,
+            "score": 0.826
+          },
+          {
+            "word": "always",
+            "start": 17.731,
+            "end": 17.891,
+            "score": 0.695
+          },
+          {
+            "word": "wanted",
+            "start": 17.951,
+            "end": 18.171,
+            "score": 0.875
+          },
+          {
+            "word": "to",
+            "start": 18.191,
+            "end": 18.252,
+            "score": 0.748
+          },
+          {
+            "word": "be",
+            "start": 18.272,
+            "end": 18.352,
+            "score": 0.974
+          },
+          {
+            "word": "a",
+            "start": 18.372,
+            "end": 18.392,
+            "score": 0.113
+          },
+          {
+            "word": "hero.",
+            "start": 18.452,
+            "end": 18.752,
+            "score": 0.85
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.902,
+        "end": 31.845,
+        "text": "I was deaf.",
+        "words": [
+          {
+            "word": "I",
+            "start": 28.902,
+            "end": 31.365,
+            "score": 0.929
+          },
+          {
+            "word": "was",
+            "start": 31.405,
+            "end": 31.525,
+            "score": 0.862
+          },
+          {
+            "word": "deaf.",
+            "start": 31.585,
+            "end": 31.845,
+            "score": 0.973
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 34.288,
+        "end": 37.351,
+        "text": "I can't authorize government funds to send you to college.",
+        "words": [
+          {
+            "word": "I",
+            "start": 34.288,
+            "end": 34.308,
+            "score": 0.592
+          },
+          {
+            "word": "can't",
+            "start": 34.368,
+            "end": 34.608,
+            "score": 0.674
+          },
+          {
+            "word": "authorize",
+            "start": 34.748,
+            "end": 35.269,
+            "score": 0.841
+          },
+          {
+            "word": "government",
+            "start": 35.309,
+            "end": 35.749,
+            "score": 0.805
+          },
+          {
+            "word": "funds",
+            "start": 35.849,
+            "end": 36.19,
+            "score": 0.761
+          },
+          {
+            "word": "to",
+            "start": 36.29,
+            "end": 36.37,
+            "score": 0.999
+          },
+          {
+            "word": "send",
+            "start": 36.43,
+            "end": 36.63,
+            "score": 0.902
+          },
+          {
+            "word": "you",
+            "start": 36.67,
+            "end": 36.79,
+            "score": 0.799
+          },
+          {
+            "word": "to",
+            "start": 36.83,
+            "end": 36.87,
+            "score": 0.946
+          },
+          {
+            "word": "college.",
+            "start": 36.931,
+            "end": 37.351,
+            "score": 0.922
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.851,
+        "end": 38.853,
+        "text": "You're deaf.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 37.851,
+            "end": 38.032,
+            "score": 0.782
+          },
+          {
+            "word": "deaf.",
+            "start": 38.092,
+            "end": 38.853,
+            "score": 0.961
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 38.873,
+        "end": 39.353,
+        "text": "I'm what?",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 38.873,
+            "end": 38.933,
+            "score": 0.291
+          },
+          {
+            "word": "what?",
+            "start": 38.993,
+            "end": 39.353,
+            "score": 0.87
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 40.21,
+        "end": 41.452,
+        "text": " The deaf joke.",
+        "words": [
+          {
+            "word": "The",
+            "start": 40.21,
+            "end": 40.31,
+            "score": 0.25
+          },
+          {
+            "word": "deaf",
+            "start": 40.33,
+            "end": 40.591,
+            "score": 0.536
+          },
+          {
+            "word": "joke.",
+            "start": 40.611,
+            "end": 41.452,
+            "score": 0.936
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 41.472,
+        "end": 44.098,
+        "text": "We cannot plan the events that shape us.",
+        "words": [
+          {
+            "word": "We",
+            "start": 41.472,
+            "end": 41.593,
+            "score": 0.936
+          },
+          {
+            "word": "cannot",
+            "start": 41.653,
+            "end": 41.993,
+            "score": 0.955
+          },
+          {
+            "word": "plan",
+            "start": 42.094,
+            "end": 42.514,
+            "score": 0.772
+          },
+          {
+            "word": "the",
+            "start": 42.555,
+            "end": 42.795,
+            "score": 0.361
+          },
+          {
+            "word": "events",
+            "start": 42.875,
+            "end": 43.256,
+            "score": 0.66
+          },
+          {
+            "word": "that",
+            "start": 43.336,
+            "end": 43.496,
+            "score": 0.712
+          },
+          {
+            "word": "shape",
+            "start": 43.637,
+            "end": 43.917,
+            "score": 0.946
+          },
+          {
+            "word": "us.",
+            "start": 44.017,
+            "end": 44.098,
+            "score": 0.884
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.378,
+        "end": 45.861,
+        "text": "Look like you have a cock problem.",
+        "words": [
+          {
+            "word": "Look",
+            "start": 44.378,
+            "end": 44.558,
+            "score": 0.922
+          },
+          {
+            "word": "like",
+            "start": 44.578,
+            "end": 44.699,
+            "score": 0.941
+          },
+          {
+            "word": "you",
+            "start": 44.739,
+            "end": 44.939,
+            "score": 0.394
+          },
+          {
+            "word": "have",
+            "start": 44.959,
+            "end": 45.039,
+            "score": 0.143
+          },
+          {
+            "word": "a",
+            "start": 45.059,
+            "end": 45.079,
+            "score": 0.005
+          },
+          {
+            "word": "cock",
+            "start": 45.099,
+            "end": 45.36,
+            "score": 0.611
+          },
+          {
+            "word": "problem.",
+            "start": 45.4,
+            "end": 45.861,
+            "score": 0.879
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.021,
+        "end": 46.442,
+        "text": "May I?",
+        "words": [
+          {
+            "word": "May",
+            "start": 46.021,
+            "end": 46.202,
+            "score": 0.904
+          },
+          {
+            "word": "I?",
+            "start": 46.222,
+            "end": 46.442,
+            "score": 0.905
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.502,
+        "end": 50.289,
+        "text": "You better wash your hands.",
+        "words": [
+          {
+            "word": "You",
+            "start": 46.502,
+            "end": 47.684,
+            "score": 0.603
+          },
+          {
+            "word": "better",
+            "start": 47.704,
+            "end": 47.945,
+            "score": 0.936
+          },
+          {
+            "word": "wash",
+            "start": 48.666,
+            "end": 49.007,
+            "score": 0.852
+          },
+          {
+            "word": "your",
+            "start": 49.127,
+            "end": 49.308,
+            "score": 0.592
+          },
+          {
+            "word": "hands.",
+            "start": 49.328,
+            "end": 50.289,
+            "score": 0.766
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.33,
+        "end": 52.955,
+        "text": "This may be contagious.",
+        "words": [
+          {
+            "word": "This",
+            "start": 50.33,
+            "end": 50.49,
+            "score": 0.89
+          },
+          {
+            "word": "may",
+            "start": 51.432,
+            "end": 51.572,
+            "score": 0.908
+          },
+          {
+            "word": "be",
+            "start": 51.592,
+            "end": 51.692,
+            "score": 0.962
+          },
+          {
+            "word": "contagious.",
+            "start": 51.752,
+            "end": 52.955,
+            "score": 0.839
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 52.975,
+        "end": 54.918,
+        "text": "You wanna sit down, Einstein?",
+        "words": [
+          {
+            "word": "You",
+            "start": 52.975,
+            "end": 53.115,
+            "score": 0.822
+          },
+          {
+            "word": "wanna",
+            "start": 53.215,
+            "end": 53.676,
+            "score": 0.662
+          },
+          {
+            "word": "sit",
+            "start": 53.776,
+            "end": 53.876,
+            "score": 0.457
+          },
+          {
+            "word": "down,",
+            "start": 53.896,
+            "end": 54.157,
+            "score": 0.766
+          },
+          {
+            "word": "Einstein?",
+            "start": 54.177,
+            "end": 54.918,
+            "score": 0.454
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 54.938,
+        "end": 55.359,
+        "text": "Yeah, sure.",
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 54.938,
+            "end": 55.039,
+            "score": 0.172
+          },
+          {
+            "word": "sure.",
+            "start": 55.059,
+            "end": 55.359,
+            "score": 0.827
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 56.041,
+        "end": 59.367,
+        "text": "We cannot predict the moments that define us.",
+        "words": [
+          {
+            "word": "We",
+            "start": 56.041,
+            "end": 56.141,
+            "score": 0.906
+          },
+          {
+            "word": "cannot",
+            "start": 56.221,
+            "end": 56.582,
+            "score": 0.954
+          },
+          {
+            "word": "predict",
+            "start": 56.662,
+            "end": 57.123,
+            "score": 0.836
+          },
+          {
+            "word": "the",
+            "start": 57.163,
+            "end": 57.564,
+            "score": 0.955
+          },
+          {
+            "word": "moments",
+            "start": 57.684,
+            "end": 58.125,
+            "score": 0.895
+          },
+          {
+            "word": "that",
+            "start": 58.165,
+            "end": 58.485,
+            "score": 0.924
+          },
+          {
+            "word": "define",
+            "start": 58.525,
+            "end": 59.006,
+            "score": 0.938
+          },
+          {
+            "word": "us.",
+            "start": 59.086,
+            "end": 59.367,
+            "score": 0.869
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 59.6,
+        "end": 60.863,
+        "text": " I think you two need to leave.",
+        "words": [
+          {
+            "word": "I",
+            "start": 59.6,
+            "end": 59.62,
+            "score": 0.001
+          },
+          {
+            "word": "think",
+            "start": 59.64,
+            "end": 59.76,
+            "score": 0.401
+          },
+          {
+            "word": "you",
+            "start": 59.78,
+            "end": 59.941,
+            "score": 0.848
+          },
+          {
+            "word": "two",
+            "start": 59.961,
+            "end": 60.121,
+            "score": 0.729
+          },
+          {
+            "word": "need",
+            "start": 60.161,
+            "end": 60.322,
+            "score": 0.633
+          },
+          {
+            "word": "to",
+            "start": 60.362,
+            "end": 60.462,
+            "score": 0.835
+          },
+          {
+            "word": "leave.",
+            "start": 60.542,
+            "end": 60.863,
+            "score": 0.868
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.164,
+        "end": 63.871,
+        "text": "You're making the other customers very uncomfortable.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 61.164,
+            "end": 61.364,
+            "score": 0.806
+          },
+          {
+            "word": "making",
+            "start": 61.405,
+            "end": 61.645,
+            "score": 0.969
+          },
+          {
+            "word": "the",
+            "start": 61.685,
+            "end": 61.745,
+            "score": 0.891
+          },
+          {
+            "word": "other",
+            "start": 61.806,
+            "end": 61.966,
+            "score": 0.856
+          },
+          {
+            "word": "customers",
+            "start": 62.026,
+            "end": 62.567,
+            "score": 0.775
+          },
+          {
+            "word": "very",
+            "start": 62.728,
+            "end": 63.009,
+            "score": 0.949
+          },
+          {
+            "word": "uncomfortable.",
+            "start": 63.169,
+            "end": 63.871,
+            "score": 0.899
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 64.172,
+        "end": 66.918,
+        "text": "He's very sorry for turning your customers' stomachs.",
+        "words": [
+          {
+            "word": "He's",
+            "start": 64.172,
+            "end": 64.332,
+            "score": 0.544
+          },
+          {
+            "word": "very",
+            "start": 64.492,
+            "end": 64.833,
+            "score": 0.871
+          },
+          {
+            "word": "sorry",
+            "start": 64.913,
+            "end": 65.254,
+            "score": 0.834
+          },
+          {
+            "word": "for",
+            "start": 65.314,
+            "end": 65.435,
+            "score": 0.956
+          },
+          {
+            "word": "turning",
+            "start": 65.475,
+            "end": 65.715,
+            "score": 0.94
+          },
+          {
+            "word": "your",
+            "start": 65.756,
+            "end": 65.876,
+            "score": 0.823
+          },
+          {
+            "word": "customers'",
+            "start": 65.936,
+            "end": 66.417,
+            "score": 0.759
+          },
+          {
+            "word": "stomachs.",
+            "start": 66.457,
+            "end": 66.918,
+            "score": 0.86
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 67.119,
+        "end": 69.044,
+        "text": "That's obviously your job.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 67.119,
+            "end": 67.38,
+            "score": 0.781
+          },
+          {
+            "word": "obviously",
+            "start": 67.821,
+            "end": 68.362,
+            "score": 0.913
+          },
+          {
+            "word": "your",
+            "start": 68.402,
+            "end": 68.643,
+            "score": 0.788
+          },
+          {
+            "word": "job.",
+            "start": 68.703,
+            "end": 69.044,
+            "score": 0.933
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 69.385,
+        "end": 71.731,
+        "text": "You guys can leave or I can call the police.",
+        "words": [
+          {
+            "word": "You",
+            "start": 69.385,
+            "end": 69.485,
+            "score": 0.918
+          },
+          {
+            "word": "guys",
+            "start": 69.505,
+            "end": 69.705,
+            "score": 0.631
+          },
+          {
+            "word": "can",
+            "start": 69.746,
+            "end": 69.886,
+            "score": 0.987
+          },
+          {
+            "word": "leave",
+            "start": 69.946,
+            "end": 70.247,
+            "score": 0.659
+          },
+          {
+            "word": "or",
+            "start": 70.287,
+            "end": 70.708,
+            "score": 0.61
+          },
+          {
+            "word": "I",
+            "start": 70.768,
+            "end": 70.808,
+            "score": 0.995
+          },
+          {
+            "word": "can",
+            "start": 70.848,
+            "end": 70.969,
+            "score": 0.983
+          },
+          {
+            "word": "call",
+            "start": 71.009,
+            "end": 71.149,
+            "score": 0.985
+          },
+          {
+            "word": "the",
+            "start": 71.189,
+            "end": 71.269,
+            "score": 0.721
+          },
+          {
+            "word": "police.",
+            "start": 71.33,
+            "end": 71.731,
+            "score": 0.962
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 73.475,
+        "end": 73.896,
+        "text": "Call them.",
+        "words": [
+          {
+            "word": "Call",
+            "start": 73.475,
+            "end": 73.716,
+            "score": 0.857
+          },
+          {
+            "word": "them.",
+            "start": 73.736,
+            "end": 73.896,
+            "score": 0.518
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 78.567,
+        "end": 79.188,
+        "text": " You okay?",
+        "words": [
+          {
+            "word": "You",
+            "start": 78.567,
+            "end": 78.847,
+            "score": 0.399
+          },
+          {
+            "word": "okay?",
+            "start": 79.088,
+            "end": 79.188,
+            "score": 0.357
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 79.648,
+        "end": 80.75,
+        "text": "Hey, next time use a blinker.",
+        "words": [
+          {
+            "word": "Hey,",
+            "start": 79.648,
+            "end": 79.728,
+            "score": 0.178
+          },
+          {
+            "word": "next",
+            "start": 79.748,
+            "end": 80.009,
+            "score": 0.515
+          },
+          {
+            "word": "time",
+            "start": 80.029,
+            "end": 80.129,
+            "score": 0.366
+          },
+          {
+            "word": "use",
+            "start": 80.169,
+            "end": 80.229,
+            "score": 0.649
+          },
+          {
+            "word": "a",
+            "start": 80.289,
+            "end": 80.309,
+            "score": 0.901
+          },
+          {
+            "word": "blinker.",
+            "start": 80.349,
+            "end": 80.75,
+            "score": 0.932
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 81.17,
+        "end": 84.434,
+        "text": "But we can all change the world around us.",
+        "words": [
+          {
+            "word": "But",
+            "start": 81.17,
+            "end": 81.31,
+            "score": 0.957
+          },
+          {
+            "word": "we",
+            "start": 81.37,
+            "end": 81.491,
+            "score": 0.981
+          },
+          {
+            "word": "can",
+            "start": 81.531,
+            "end": 81.691,
+            "score": 0.89
+          },
+          {
+            "word": "all",
+            "start": 81.931,
+            "end": 82.091,
+            "score": 0.849
+          },
+          {
+            "word": "change",
+            "start": 82.211,
+            "end": 82.732,
+            "score": 0.69
+          },
+          {
+            "word": "the",
+            "start": 82.992,
+            "end": 83.093,
+            "score": 0.979
+          },
+          {
+            "word": "world",
+            "start": 83.213,
+            "end": 83.633,
+            "score": 0.87
+          },
+          {
+            "word": "around",
+            "start": 83.853,
+            "end": 84.234,
+            "score": 0.822
+          },
+          {
+            "word": "us.",
+            "start": 84.354,
+            "end": 84.434,
+            "score": 0.942
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 84.654,
+        "end": 86.697,
+        "text": "I'm deaf, but I can see what you're saying from over there.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 84.654,
+            "end": 84.755,
+            "score": 0.749
+          },
+          {
+            "word": "deaf,",
+            "start": 84.795,
+            "end": 85.015,
+            "score": 0.811
+          },
+          {
+            "word": "but",
+            "start": 85.035,
+            "end": 85.135,
+            "score": 0.982
+          },
+          {
+            "word": "I",
+            "start": 85.155,
+            "end": 85.215,
+            "score": 0.731
+          },
+          {
+            "word": "can",
+            "start": 85.235,
+            "end": 85.355,
+            "score": 0.951
+          },
+          {
+            "word": "see",
+            "start": 85.395,
+            "end": 85.496,
+            "score": 0.985
+          },
+          {
+            "word": "what",
+            "start": 85.516,
+            "end": 85.636,
+            "score": 0.873
+          },
+          {
+            "word": "you're",
+            "start": 85.656,
+            "end": 85.816,
+            "score": 0.848
+          },
+          {
+            "word": "saying",
+            "start": 85.856,
+            "end": 86.076,
+            "score": 0.937
+          },
+          {
+            "word": "from",
+            "start": 86.116,
+            "end": 86.236,
+            "score": 0.889
+          },
+          {
+            "word": "over",
+            "start": 86.296,
+            "end": 86.437,
+            "score": 0.777
+          },
+          {
+            "word": "there.",
+            "start": 86.477,
+            "end": 86.697,
+            "score": 0.79
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 86.897,
+        "end": 88.119,
+        "text": "My friend is not a retard.",
+        "words": [
+          {
+            "word": "My",
+            "start": 86.897,
+            "end": 86.977,
+            "score": 0.988
+          },
+          {
+            "word": "friend",
+            "start": 87.037,
+            "end": 87.198,
+            "score": 0.794
+          },
+          {
+            "word": "is",
+            "start": 87.258,
+            "end": 87.318,
+            "score": 0.743
+          },
+          {
+            "word": "not",
+            "start": 87.378,
+            "end": 87.538,
+            "score": 0.963
+          },
+          {
+            "word": "a",
+            "start": 87.598,
+            "end": 87.618,
+            "score": 0.985
+          },
+          {
+            "word": "retard.",
+            "start": 87.658,
+            "end": 88.119,
+            "score": 0.815
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 88.139,
+        "end": 89.22,
+        "text": "He's got cerebral palsy.",
+        "words": [
+          {
+            "word": "He's",
+            "start": 88.139,
+            "end": 88.239,
+            "score": 0.735
+          },
+          {
+            "word": "got",
+            "start": 88.259,
+            "end": 88.399,
+            "score": 0.815
+          },
+          {
+            "word": "cerebral",
+            "start": 88.459,
+            "end": 88.679,
+            "score": 0.243
+          },
+          {
+            "word": "palsy.",
+            "start": 88.78,
+            "end": 89.22,
+            "score": 0.799
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 89.24,
+        "end": 90.562,
+        "text": "See, it affects his motor skills.",
+        "words": [
+          {
+            "word": "See,",
+            "start": 89.24,
+            "end": 89.36,
+            "score": 0.72
+          },
+          {
+            "word": "it",
+            "start": 89.38,
+            "end": 89.42,
+            "score": 0.742
+          },
+          {
+            "word": "affects",
+            "start": 89.48,
+            "end": 89.721,
+            "score": 0.896
+          },
+          {
+            "word": "his",
+            "start": 89.761,
+            "end": 89.841,
+            "score": 0.823
+          },
+          {
+            "word": "motor",
+            "start": 89.901,
+            "end": 90.161,
+            "score": 0.952
+          },
+          {
+            "word": "skills.",
+            "start": 90.201,
+            "end": 90.562,
+            "score": 0.978
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 90.962,
+        "end": 94.446,
+        "text": "It means that his brain is perfectly functioning while his body's more or less useless.",
+        "words": [
+          {
+            "word": "It",
+            "start": 90.962,
+            "end": 91.002,
+            "score": 0.838
+          },
+          {
+            "word": "means",
+            "start": 91.022,
+            "end": 91.162,
+            "score": 0.96
+          },
+          {
+            "word": "that",
+            "start": 91.182,
+            "end": 91.283,
+            "score": 0.499
+          },
+          {
+            "word": "his",
+            "start": 91.303,
+            "end": 91.383,
+            "score": 0.834
+          },
+          {
+            "word": "brain",
+            "start": 91.423,
+            "end": 91.663,
+            "score": 0.754
+          },
+          {
+            "word": "is",
+            "start": 91.703,
+            "end": 91.763,
+            "score": 0.748
+          },
+          {
+            "word": "perfectly",
+            "start": 91.843,
+            "end": 92.284,
+            "score": 0.864
+          },
+          {
+            "word": "functioning",
+            "start": 92.364,
+            "end": 92.784,
+            "score": 0.797
+          },
+          {
+            "word": "while",
+            "start": 92.845,
+            "end": 92.985,
+            "score": 0.834
+          },
+          {
+            "word": "his",
+            "start": 93.025,
+            "end": 93.105,
+            "score": 0.696
+          },
+          {
+            "word": "body's",
+            "start": 93.165,
+            "end": 93.485,
+            "score": 0.82
+          },
+          {
+            "word": "more",
+            "start": 93.525,
+            "end": 93.666,
+            "score": 0.744
+          },
+          {
+            "word": "or",
+            "start": 93.706,
+            "end": 93.746,
+            "score": 0.806
+          },
+          {
+            "word": "less",
+            "start": 93.806,
+            "end": 93.946,
+            "score": 0.874
+          },
+          {
+            "word": "useless.",
+            "start": 94.086,
+            "end": 94.446,
+            "score": 0.896
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 94.707,
+        "end": 95.928,
+        "text": "Think of it as the opposite of you.",
+        "words": [
+          {
+            "word": "Think",
+            "start": 94.707,
+            "end": 94.847,
+            "score": 0.992
+          },
+          {
+            "word": "of",
+            "start": 94.887,
+            "end": 94.927,
+            "score": 0.967
+          },
+          {
+            "word": "it",
+            "start": 94.947,
+            "end": 94.987,
+            "score": 0.895
+          },
+          {
+            "word": "as",
+            "start": 95.047,
+            "end": 95.087,
+            "score": 0.766
+          },
+          {
+            "word": "the",
+            "start": 95.127,
+            "end": 95.187,
+            "score": 0.972
+          },
+          {
+            "word": "opposite",
+            "start": 95.288,
+            "end": 95.588,
+            "score": 0.912
+          },
+          {
+            "word": "of",
+            "start": 95.608,
+            "end": 95.648,
+            "score": 0.501
+          },
+          {
+            "word": "you.",
+            "start": 95.688,
+            "end": 95.928,
+            "score": 0.968
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 99.673,
+        "end": 102.576,
+        "text": "You don't need to change their minds about people's disabilities.",
+        "words": [
+          {
+            "word": "You",
+            "start": 99.673,
+            "end": 99.773,
+            "score": 0.988
+          },
+          {
+            "word": "don't",
+            "start": 99.813,
+            "end": 99.953,
+            "score": 0.858
+          },
+          {
+            "word": "need",
+            "start": 99.993,
+            "end": 100.133,
+            "score": 0.958
+          },
+          {
+            "word": "to",
+            "start": 100.194,
+            "end": 100.254,
+            "score": 0.98
+          },
+          {
+            "word": "change",
+            "start": 100.334,
+            "end": 100.594,
+            "score": 0.863
+          },
+          {
+            "word": "their",
+            "start": 100.654,
+            "end": 100.794,
+            "score": 0.471
+          },
+          {
+            "word": "minds",
+            "start": 100.874,
+            "end": 101.095,
+            "score": 0.97
+          },
+          {
+            "word": "about",
+            "start": 101.155,
+            "end": 101.395,
+            "score": 0.709
+          },
+          {
+            "word": "people's",
+            "start": 101.495,
+            "end": 101.836,
+            "score": 0.861
+          },
+          {
+            "word": "disabilities.",
+            "start": 101.876,
+            "end": 102.576,
+            "score": 0.866
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.596,
+        "end": 104.659,
+        "text": "You need to change their minds about themselves.",
+        "words": [
+          {
+            "word": "You",
+            "start": 102.596,
+            "end": 102.697,
+            "score": 0.966
+          },
+          {
+            "word": "need",
+            "start": 102.717,
+            "end": 102.857,
+            "score": 0.806
+          },
+          {
+            "word": "to",
+            "start": 102.897,
+            "end": 102.977,
+            "score": 0.867
+          },
+          {
+            "word": "change",
+            "start": 103.037,
+            "end": 103.257,
+            "score": 0.801
+          },
+          {
+            "word": "their",
+            "start": 103.297,
+            "end": 103.458,
+            "score": 0.859
+          },
+          {
+            "word": "minds",
+            "start": 103.498,
+            "end": 103.738,
+            "score": 0.979
+          },
+          {
+            "word": "about",
+            "start": 103.818,
+            "end": 104.018,
+            "score": 0.831
+          },
+          {
+            "word": "themselves.",
+            "start": 104.058,
+            "end": 104.659,
+            "score": 0.789
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 105.398,
+        "end": 106.619,
+        "text": " What is it that you're afraid of?",
+        "words": [
+          {
+            "word": "What",
+            "start": 105.398,
+            "end": 105.578,
+            "score": 0.772
+          },
+          {
+            "word": "is",
+            "start": 105.618,
+            "end": 105.678,
+            "score": 0.508
+          },
+          {
+            "word": "it",
+            "start": 105.758,
+            "end": 105.798,
+            "score": 0.953
+          },
+          {
+            "word": "that",
+            "start": 105.838,
+            "end": 105.938,
+            "score": 0.861
+          },
+          {
+            "word": "you're",
+            "start": 105.958,
+            "end": 106.139,
+            "score": 0.669
+          },
+          {
+            "word": "afraid",
+            "start": 106.179,
+            "end": 106.439,
+            "score": 0.745
+          },
+          {
+            "word": "of?",
+            "start": 106.539,
+            "end": 106.619,
+            "score": 0.911
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 106.779,
+        "end": 109.021,
+        "text": "That he can't work with you or that you can't work with him?",
+        "words": [
+          {
+            "word": "That",
+            "start": 106.779,
+            "end": 106.899,
+            "score": 0.865
+          },
+          {
+            "word": "he",
+            "start": 106.939,
+            "end": 106.999,
+            "score": 0.874
+          },
+          {
+            "word": "can't",
+            "start": 107.039,
+            "end": 107.2,
+            "score": 0.943
+          },
+          {
+            "word": "work",
+            "start": 107.24,
+            "end": 107.4,
+            "score": 0.94
+          },
+          {
+            "word": "with",
+            "start": 107.44,
+            "end": 107.54,
+            "score": 0.72
+          },
+          {
+            "word": "you",
+            "start": 107.58,
+            "end": 107.7,
+            "score": 0.829
+          },
+          {
+            "word": "or",
+            "start": 107.8,
+            "end": 107.86,
+            "score": 0.976
+          },
+          {
+            "word": "that",
+            "start": 107.9,
+            "end": 108.0,
+            "score": 0.965
+          },
+          {
+            "word": "you",
+            "start": 108.04,
+            "end": 108.14,
+            "score": 0.901
+          },
+          {
+            "word": "can't",
+            "start": 108.18,
+            "end": 108.341,
+            "score": 0.747
+          },
+          {
+            "word": "work",
+            "start": 108.381,
+            "end": 108.521,
+            "score": 0.989
+          },
+          {
+            "word": "with",
+            "start": 108.561,
+            "end": 108.681,
+            "score": 0.788
+          },
+          {
+            "word": "him?",
+            "start": 108.721,
+            "end": 109.021,
+            "score": 0.856
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 109.041,
+        "end": 110.683,
+        "text": "Comes the story of a man.",
+        "words": [
+          {
+            "word": "Comes",
+            "start": 109.041,
+            "end": 109.241,
+            "score": 0.938
+          },
+          {
+            "word": "the",
+            "start": 109.261,
+            "end": 109.442,
+            "score": 0.475
+          },
+          {
+            "word": "story",
+            "start": 109.522,
+            "end": 109.942,
+            "score": 0.913
+          },
+          {
+            "word": "of",
+            "start": 110.102,
+            "end": 110.182,
+            "score": 0.788
+          },
+          {
+            "word": "a",
+            "start": 110.202,
+            "end": 110.222,
+            "score": 0.986
+          },
+          {
+            "word": "man.",
+            "start": 110.362,
+            "end": 110.683,
+            "score": 0.975
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 110.723,
+        "end": 111.363,
+        "text": "The U.S.",
+        "words": [
+          {
+            "word": "The",
+            "start": 110.723,
+            "end": 110.783,
+            "score": 0.327
+          },
+          {
+            "word": "U.S.",
+            "start": 111.103,
+            "end": 111.363,
+            "score": 0.844
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 111.403,
+        "end": 115.407,
+        "text": "government wants me to create a program on hiring the disabled.",
+        "words": [
+          {
+            "word": "government",
+            "start": 111.403,
+            "end": 111.804,
+            "score": 0.827
+          },
+          {
+            "word": "wants",
+            "start": 111.904,
+            "end": 112.164,
+            "score": 0.878
+          },
+          {
+            "word": "me",
+            "start": 112.284,
+            "end": 112.524,
+            "score": 0.937
+          },
+          {
+            "word": "to",
+            "start": 112.564,
+            "end": 113.025,
+            "score": 0.794
+          },
+          {
+            "word": "create",
+            "start": 113.185,
+            "end": 113.545,
+            "score": 0.784
+          },
+          {
+            "word": "a",
+            "start": 113.585,
+            "end": 113.605,
+            "score": 0.999
+          },
+          {
+            "word": "program",
+            "start": 113.685,
+            "end": 114.226,
+            "score": 0.826
+          },
+          {
+            "word": "on",
+            "start": 114.366,
+            "end": 114.446,
+            "score": 0.949
+          },
+          {
+            "word": "hiring",
+            "start": 114.486,
+            "end": 114.786,
+            "score": 0.858
+          },
+          {
+            "word": "the",
+            "start": 114.826,
+            "end": 114.886,
+            "score": 0.926
+          },
+          {
+            "word": "disabled.",
+            "start": 114.926,
+            "end": 115.407,
+            "score": 0.811
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 115.527,
+        "end": 119.991,
+        "text": "I'll be training every agency, CIA, NASA, all of them.",
+        "words": [
+          {
+            "word": "I'll",
+            "start": 115.527,
+            "end": 115.667,
+            "score": 0.972
+          },
+          {
+            "word": "be",
+            "start": 115.687,
+            "end": 115.767,
+            "score": 0.961
+          },
+          {
+            "word": "training",
+            "start": 115.827,
+            "end": 116.127,
+            "score": 0.832
+          },
+          {
+            "word": "every",
+            "start": 116.167,
+            "end": 116.468,
+            "score": 0.816
+          },
+          {
+            "word": "agency,",
+            "start": 116.568,
+            "end": 117.048,
+            "score": 0.856
+          },
+          {
+            "word": "CIA,",
+            "start": 117.168,
+            "end": 117.889,
+            "score": 0.666
+          },
+          {
+            "word": "NASA,",
+            "start": 117.989,
+            "end": 118.77,
+            "score": 0.884
+          },
+          {
+            "word": "all",
+            "start": 118.79,
+            "end": 118.93,
+            "score": 0.822
+          },
+          {
+            "word": "of",
+            "start": 118.97,
+            "end": 119.03,
+            "score": 0.946
+          },
+          {
+            "word": "them.",
+            "start": 119.09,
+            "end": 119.991,
+            "score": 0.725
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 120.011,
+        "end": 122.593,
+        "text": "Who gave a voice to the voiceless.",
+        "words": [
+          {
+            "word": "Who",
+            "start": 120.011,
+            "end": 120.171,
+            "score": 0.951
+          },
+          {
+            "word": "gave",
+            "start": 120.251,
+            "end": 120.531,
+            "score": 0.888
+          },
+          {
+            "word": "a",
+            "start": 120.571,
+            "end": 120.791,
+            "score": 0.878
+          },
+          {
+            "word": "voice",
+            "start": 120.952,
+            "end": 121.352,
+            "score": 0.868
+          },
+          {
+            "word": "to",
+            "start": 121.372,
+            "end": 121.412,
+            "score": 0.5
+          },
+          {
+            "word": "the",
+            "start": 121.632,
+            "end": 121.872,
+            "score": 0.599
+          },
+          {
+            "word": "voiceless.",
+            "start": 122.012,
+            "end": 122.593,
+            "score": 0.916
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 122.693,
+        "end": 126.576,
+        "text": "You don't have a clue how good this is.",
+        "words": [
+          {
+            "word": "You",
+            "start": 122.693,
+            "end": 122.893,
+            "score": 0.989
+          },
+          {
+            "word": "don't",
+            "start": 122.933,
+            "end": 123.234,
+            "score": 0.728
+          },
+          {
+            "word": "have",
+            "start": 123.394,
+            "end": 123.654,
+            "score": 0.696
+          },
+          {
+            "word": "a",
+            "start": 123.954,
+            "end": 124.094,
+            "score": 0.717
+          },
+          {
+            "word": "clue",
+            "start": 124.114,
+            "end": 124.435,
+            "score": 0.82
+          },
+          {
+            "word": "how",
+            "start": 124.495,
+            "end": 124.835,
+            "score": 0.9
+          },
+          {
+            "word": "good",
+            "start": 124.975,
+            "end": 125.235,
+            "score": 0.763
+          },
+          {
+            "word": "this",
+            "start": 125.776,
+            "end": 125.856,
+            "score": 0.032
+          },
+          {
+            "word": "is.",
+            "start": 125.876,
+            "end": 126.576,
+            "score": 0.625
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 126.596,
+        "end": 128.658,
+        "text": "And hope to the forgotten.",
+        "words": [
+          {
+            "word": "And",
+            "start": 126.596,
+            "end": 126.697,
+            "score": 0.827
+          },
+          {
+            "word": "hope",
+            "start": 126.737,
+            "end": 127.117,
+            "score": 0.712
+          },
+          {
+            "word": "to",
+            "start": 127.737,
+            "end": 127.858,
+            "score": 0.83
+          },
+          {
+            "word": "the",
+            "start": 127.898,
+            "end": 127.978,
+            "score": 0.694
+          },
+          {
+            "word": "forgotten.",
+            "start": 128.118,
+            "end": 128.658,
+            "score": 0.914
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 128.698,
+        "end": 135.304,
+        "text": "Americans with Disabilities Act says that you can't discriminate against people simply because they don't look like you.",
+        "words": [
+          {
+            "word": "Americans",
+            "start": 128.698,
+            "end": 129.399,
+            "score": 0.582
+          },
+          {
+            "word": "with",
+            "start": 129.419,
+            "end": 129.559,
+            "score": 0.672
+          },
+          {
+            "word": "Disabilities",
+            "start": 129.619,
+            "end": 130.2,
+            "score": 0.653
+          },
+          {
+            "word": "Act",
+            "start": 130.22,
+            "end": 130.38,
+            "score": 0.981
+          },
+          {
+            "word": "says",
+            "start": 130.44,
+            "end": 130.62,
+            "score": 0.817
+          },
+          {
+            "word": "that",
+            "start": 130.66,
+            "end": 130.76,
+            "score": 0.984
+          },
+          {
+            "word": "you",
+            "start": 130.8,
+            "end": 130.9,
+            "score": 0.992
+          },
+          {
+            "word": "can't",
+            "start": 130.94,
+            "end": 131.18,
+            "score": 0.717
+          },
+          {
+            "word": "discriminate",
+            "start": 131.22,
+            "end": 131.781,
+            "score": 0.877
+          },
+          {
+            "word": "against",
+            "start": 131.841,
+            "end": 132.081,
+            "score": 0.835
+          },
+          {
+            "word": "people",
+            "start": 132.181,
+            "end": 132.462,
+            "score": 0.806
+          },
+          {
+            "word": "simply",
+            "start": 132.862,
+            "end": 133.142,
+            "score": 0.817
+          },
+          {
+            "word": "because",
+            "start": 133.182,
+            "end": 133.462,
+            "score": 0.88
+          },
+          {
+            "word": "they",
+            "start": 133.502,
+            "end": 133.603,
+            "score": 0.976
+          },
+          {
+            "word": "don't",
+            "start": 133.623,
+            "end": 133.783,
+            "score": 0.65
+          },
+          {
+            "word": "look",
+            "start": 133.863,
+            "end": 134.043,
+            "score": 0.931
+          },
+          {
+            "word": "like",
+            "start": 134.143,
+            "end": 134.323,
+            "score": 0.827
+          },
+          {
+            "word": "you.",
+            "start": 134.363,
+            "end": 135.304,
+            "score": 0.902
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 135.47,
+        "end": 142.38,
+        "text": " The differences that you make, the ones of lasting importance, they're the little differences that you make in the life of another person.",
+        "words": [
+          {
+            "word": "The",
+            "start": 135.47,
+            "end": 135.57,
+            "score": 0.622
+          },
+          {
+            "word": "differences",
+            "start": 135.671,
+            "end": 136.213,
+            "score": 0.835
+          },
+          {
+            "word": "that",
+            "start": 136.314,
+            "end": 136.454,
+            "score": 0.987
+          },
+          {
+            "word": "you",
+            "start": 136.494,
+            "end": 136.655,
+            "score": 0.813
+          },
+          {
+            "word": "make,",
+            "start": 136.695,
+            "end": 137.017,
+            "score": 0.951
+          },
+          {
+            "word": "the",
+            "start": 137.298,
+            "end": 137.398,
+            "score": 0.961
+          },
+          {
+            "word": "ones",
+            "start": 137.499,
+            "end": 137.66,
+            "score": 0.644
+          },
+          {
+            "word": "of",
+            "start": 137.74,
+            "end": 137.78,
+            "score": 0.999
+          },
+          {
+            "word": "lasting",
+            "start": 137.8,
+            "end": 138.403,
+            "score": 0.675
+          },
+          {
+            "word": "importance,",
+            "start": 138.463,
+            "end": 139.005,
+            "score": 0.801
+          },
+          {
+            "word": "they're",
+            "start": 139.126,
+            "end": 139.267,
+            "score": 0.276
+          },
+          {
+            "word": "the",
+            "start": 139.307,
+            "end": 139.367,
+            "score": 0.998
+          },
+          {
+            "word": "little",
+            "start": 139.427,
+            "end": 139.648,
+            "score": 0.966
+          },
+          {
+            "word": "differences",
+            "start": 139.688,
+            "end": 140.211,
+            "score": 0.863
+          },
+          {
+            "word": "that",
+            "start": 140.291,
+            "end": 140.391,
+            "score": 0.982
+          },
+          {
+            "word": "you",
+            "start": 140.432,
+            "end": 140.552,
+            "score": 0.944
+          },
+          {
+            "word": "make",
+            "start": 140.592,
+            "end": 140.773,
+            "score": 0.927
+          },
+          {
+            "word": "in",
+            "start": 140.833,
+            "end": 140.874,
+            "score": 1.0
+          },
+          {
+            "word": "the",
+            "start": 140.914,
+            "end": 140.974,
+            "score": 0.996
+          },
+          {
+            "word": "life",
+            "start": 141.034,
+            "end": 141.255,
+            "score": 0.863
+          },
+          {
+            "word": "of",
+            "start": 141.496,
+            "end": 141.536,
+            "score": 0.982
+          },
+          {
+            "word": "another",
+            "start": 141.617,
+            "end": 141.878,
+            "score": 0.843
+          },
+          {
+            "word": "person.",
+            "start": 141.978,
+            "end": 142.38,
+            "score": 0.968
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 143.364,
+        "end": 144.67,
+        "text": "Music Within.",
+        "words": [
+          {
+            "word": "Music",
+            "start": 143.364,
+            "end": 143.887,
+            "score": 0.933
+          },
+          {
+            "word": "Within.",
+            "start": 144.047,
+            "end": 144.67,
+            "score": 0.837
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a war film set in a jungle environment, likely Vietnam War era, with soldiers in military gear. The audio includes a mix of ambient sounds and speech, with some mislabeled effects. The video opens with MPAA and studio logos, then transitions to military action and dialogue. The \"futuristic craft passing\" audio label is incorrect \u2014 it\u2019s clearly a helicopter in a jungle setting. The \"deep beast growl\" matches the MGM lion roar. The \"sharp metallic impact\" and \"metal door closing\" at the end likely refer to gunfire or weapon handling, not actual doors. The speech is calm and conversational, delivered by soldiers in tense but controlled situations. Visuals show soldiers in combat gear, jungle terrain, and military equipment.\n\nEvent 1: Green MPAA rating screen with R rating text.\nEvent 2: MGM lion logo roars \u2014 correct sound label.\nEvent 3: Articulus and Quorum logos \u2014 no sound.\nEvent 4: Helicopter flying low over jungle \u2014 \"futuristic craft passing\" mislabeled, should be \"helicopter flying\".\nEvent 5: Soldier in helmet, close-up \u2014 calm male voice speaking.\nEvent 6: Soldier in jungle, holding rifle \u2014 calm male voice continues.\nEvent 7: Soldier in jungle, close-up \u2014 calm male voice continues.\nEvent 8: Soldiers in group, one standing \u2014 conversational male voice.\nEvent 9: Close-up of soldier, looking down \u2014 conversational male voice.\nEvent 10: Soldier running, holding grenade \u2014 conversational male voice.\nEvent 11: Soldier holding rifle \u2014 conversational male voice.\nEvent 12: Soldier looking at others \u2014 conversational male voice.\nEvent 13: Group of soldiers \u2014 conversational male voice.\nEvent 14: Soldier running \u2014 conversational male voice.\nEvent 15: Soldier crouched, holding rifle \u2014 conversational male voice.\nEvent 16: Soldier handling rifle \u2014 \"sharp metallic impact\" likely from weapon handling or gunfire.\nEvent 17: Soldier adjusting rifle \u2014 \"metal door closing\" mislabeled; likely weapon mechanism or gear adjustment.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe video opens with a dark, intense scene of a soldier in a combat setting, screaming in agony during a nighttime battle. There are explosions and sparks, suggesting a war environment. The soldier\u2019s face is contorted in pain, and the scene cuts to him lying on the ground, still screaming. This transitions to a medical setting where the same man, now in a hospital bed, is shown sweating and distressed, indicating trauma or illness. A doctor in a white coat speaks to him, and then the scene shifts to an office where the man, now dressed in civilian clothes, is speaking with a bureaucrat who is reviewing documents. The bureaucrat denies government funding for college, citing the man\u2019s deafness. The man appears shocked and confused by this revelation. The video ends with a title card stating \u201cbased on the inspiring true story,\u201d suggesting the narrative is rooted in real events. The audio includes shouts, explosions, metallic ringing, and dialogue with emotional weight, matching the visual intensity.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a dimly lit cafeteria or diner with large windows overlooking trees. Characters include a man in a wheelchair, a man in a plaid shirt, and others seated at tables. The audio includes dialogue, background voices, and soft music. Visuals show interactions between the two main men, with expressions ranging from concern to distress. The setting transitions to a darker exterior and then to a restaurant interior with staff and patrons. The audio model sometimes mislabels speech as negative when it's playful or uncertain. Visuals show clear lip movements and expressions that confirm the nature of the dialogue. For events with low confidence, I will correct based on visual cues (e.g., \"negative\" speech when the speaker is smiling or teasing).",
+    "[Chunk 4: 60.0s - 80.0s]\nScene is a dimly lit diner with two men at a table \u2014 one in a wheelchair, the other seated \u2014 interacting with a waitress. The atmosphere is tense. The man in the wheelchair is loud and animated, while the other appears more reserved. The waitress, wearing a name tag reading \"SHEILA\", speaks firmly to them. Later, the scene shifts to a mugshot-style shot of the seated man, then to a roller rink where the man in the wheelchair is being pushed by the other man, and they encounter a woman in a brown vest. The audio includes dialogue, music, and sound effects that match the visuals \u2014 including a metal door sliding open and a sudden impact sound. The audio labels are generally accurate, but some need refinement based on visuals: \"distant voices in a store\" is misleading as it\u2019s a roller rink; \"metal impact with debris\" is better described as a crash from a falling object; \"metal door sliding open\" matches the visual of a rink door opening. The music is gentle and reflective throughout, fitting the mood. The final line \"Hey, next time use a blinker\" suggests a minor collision or near-miss, likely from roller skating.",
+    "[Chunk 5: 80.0s - 100.0s]\nScene is an indoor roller rink with red lockers, neon signs, and people skating. Later transitions to a sunny outdoor scene with a convertible car. At 0.0s, a blonde woman is seen interacting with a man in a wheelchair. At 2.0s, she pushes him through the rink while others skate around. At 3.0s, a group gathers near lockers, with a man in a leather jacket speaking to the woman. The man with dark hair (who was previously in the wheelchair) speaks to her, gesturing. At 8.0s, the man in the wheelchair (now in a green jacket) looks on. The scene shifts at 16.0s to the woman in a convertible, wearing a hat, driving with two men. The man with dark hair drives, while the bearded man laughs in the back seat. The music is energetic rock throughout, matching the scenes\u2019 tone. Audio labels like \u201cpersuasive\u201d male voice are appropriate for the man speaking to the woman. The \u201cmetal door closing\u201d at 8.7s is likely a mislabel \u2014 no door is visible closing; instead, it\u2019s a transition or editing sound. The final speech about \u201cnot needing to change their minds about disabilities\u201d aligns with the dialogue context, but the visual shows the car scene, so the speaker is likely the driver (dark-haired man) addressing the others.\n\nEvent 1: Distant voices and footsteps \u2014 consistent with a crowded rink.\nEvent 2: Female voice (conversational) \u2014 woman speaking to man in wheelchair.\nEvent 3: Male voice (persuasive) \u2014 man in leather jacket speaking to woman.\nEvent 4: \u201cHey, next time use a blinker.\u201d \u2014 visual: woman in wheelchair pushing man; audio likely from off-screen, possibly the driver later.\nEvent 5: Energetic rock music \u2014 present throughout, matching rink and car scenes.\nEvent 6: \u201cI'm deaf, but I can see what you're saying from over there.\u201d \u2014 visual: man with dark hair speaking to woman, hand near temple.\nEvent 7: Male voice (persuasive) \u2014 same man speaking, gesturing.\nEvent 8: Visual: man with dark hair speaking to woman, hand raised.\nEvent 9: \u201cMy friend is not a retard.\u201d \u2014 visual: man in leather jacket speaking, woman listening.\nEvent 10: \u201cHe's got cerebral palsy.\u201d \u2014 visual: man with dark hair speaking, woman looking down.\nEvent 11: Metal door closing \u2014 no door visible; likely an editing transition or mislabel; replace with \u201cscene transition sound\u201d.\nEvent 12: \u201cSee, it affects his motor skills.\u201d \u2014 visual: man in leather jacket speaking, woman looking concerned.\nEvent 13: \u201cIt means that his brain is perfectly functioning while his body's more or less useless.\u201d \u2014 visual: man with dark hair speaking, hand near temple.\nEvent 14: \u201cThink of it as the opposite of you.\u201d \u2014 visual: woman looking distressed, man speaking.\nEvent 15: Visual: woman in convertible, wearing wide-brimmed hat, driving.\nEvent 16: \u201cYou don't need to change their minds about people's disabilities.\u201d \u2014 visual: man in convertible, speaking to others.",
+    "[Chunk 6: 100.0s - 120.0s]\nScene is a dramatic narrative centered on a man\u2019s journey overcoming disability and advocating for employment opportunities. The setting transitions from outdoor urban environments to formal office and conference spaces. The audio includes formal speech, playful tones, music, and sound effects, often synchronized with visual cues like entrances, phone calls, and presentations.\n\nEvent 1 (0.0-4.6s): Male voice (formal) \u2014 the man in a brown coat speaks earnestly while supporting an injured man on a bench, with a concerned expression. Visuals show a public space with trees and benches, suggesting an emotional or pivotal moment.\n\nEvent 2 (0.0-20.0s): Music \u2014 driving rhythm, soaring strings, heroic tone \u2014 plays throughout, underscoring the protagonist\u2019s journey from struggle to triumph. The music matches the visual arc of his progression from being helped to leading a conference.\n\nEvent 3 (0.0-0.3s): Visual \u2014 man in brown coat holding another man, who is slumped and injured, in a public park. The man speaking appears serious and focused, with background showing urban greenery.\n\nEvent 4 (0.3-1.7s): Visual \u2014 two women in berets and sweaters look on with concerned expressions in a courtyard, suggesting public reaction or witness to the event.\n\nEvent 5 (1.7-2.7s): Visual \u2014 man in brown coat supports injured man on bench, then turns to speak to a bald man in suit, who listens intently with a concerned expression.\n\nEvent 6 (2.7-4.6s): Visual \u2014 close-up of bald man speaking, then reaction shot of man in brown coat looking down, brow furrowed, as if processing the question.\n\nEvent 7 (5.4-6.6s): Speech \u2014 male voice (playful) \u2014 man in tan coat enters a building through a revolving door, smiling with confidence, suggesting a shift in tone or mood.\n\nEvent 8 (5.4-5.9s): SFX \u2014 fast whooshing sound \u2014 matches the man entering the revolving door, indicating movement and transition.\n\nEvent 9 (5.8-7.0s): Visual \u2014 man in tan coat enters building, then transitions to office scene where he sits at a desk, speaking on a white phone, surrounded by papers and a lamp.\n\nEvent 10 (6.2-6.5s): Misc \u2014 pop artifact \u2014 likely a film or audio glitch, but visually the man is on the phone, focused, with a serious expression.\n\nEvent 11 (6.8-8.9s): Speech \u2014 male voice (playful) \u2014 man continues phone conversation, then transitions to standing in a dimly lit room, looking pensive.\n\nEvent 12 (7.0-9.3s): Visual \u2014 man at office desk on phone, then in dim room, suggesting a narrative shift from professional to personal reflection.\n\nEvent 13 (9.0-10.9s): Speech \u2014 male voice (formal) \u2014 man stands in a lecture hall, looking at audience, then transitions to a conference stage with podium.\n\nEvent 14 (9.3-10.4s): Visual \u2014 man in brown coat stands in a darkened auditorium, facing audience, preparing to speak, with rows of empty seats.\n\nEvent 15 (10.9-15.5s): Speech \u2014 male voice (formal) \u2014 man speaks at podium in front of audience, then presents a whiteboard with a grid of names and categories, indicating a structured program.\n\nEvent 16 (11.7-12.7s): Visual \u2014 close-up of blonde woman speaking to man, then back to man in suit listening intently, suggesting an intimate or critical conversation.\n\nEvent 17 (12.7-13.7s): Visual \u2014 man in suit looks thoughtful, then transitions to him presenting at a conference with a NASA sign visible.\n\nEvent 18 (14.5-16.7s): Visual \u2014 man in suit speaking into microphone at podium, audience seated at tables, with chandeliers and red curtains.\n\nEvent 19 (15.5-19.2s): Speech \u2014 male voice (formal) \u2014 man raises hand at conference, then transitions to exiting building with briefcase, smiling triumphantly.\n\nEvent 20 (17.7-18.8s): Visual \u2014 man raises hand in oath or pledge at conference, with NASA logo visible, audience watching.\n\nEvent 21 (18.8-19.9s): Visual \u2014 man exits building, punching the air in celebration, with another man following behind.\n\nEvent 22 (19.1-20.0s): SFX \u2014 loud human scream \u2014 matches man\u2019s triumphant scream as he exits, likely expressing victory or release.",
+    "[Chunk 7: 120.0s - 140.0s]\nThe video appears to be a montage from a drama or inspirational film, focusing on a man's journey of advocacy and personal growth, likely centered around disability rights and human connection. The scenes shift between intimate indoor moments, public celebrations, and emotional confrontations. The audio includes heroic music, uplifting narration, and moments of dialogue, all tied to themes of hope, inclusion, and personal impact.\n\nEvent 1 (0.0-20.0s): The music is heroic, with strings and choir, accompanying a montage of key moments \u2014 writing, therapy, celebration, and public speaking. The visual sequence shows the protagonist in various emotional states: writing, interacting with a person in a wheelchair, celebrating outdoors, speaking into a microphone, and sitting at a formal dinner.\n\nEvent 2 (0.0-2.6s): Male voice (positive) \u2014 the visual shows a man writing \u201cHo\u201d on lined paper, then looking down thoughtfully. The audio matches the tone of hope and intention.\n\nEvent 3 (0.2-1.2s): Visual \u2014 close-up of a pen writing \u201cHo\u201d on paper, then the man looking down, focused. The music swells slightly.\n\nEvent 4 (2.6-5.9s): Male voice (playful) \u2014 visual shows a man in a wheelchair reacting with surprise as another man approaches. The tone is light, matching the playful audio.\n\nEvent 5 (3.0-4.2s): Visual \u2014 man in wheelchair with eyes closed, head back, then opening eyes as another man approaches. The scene suggests a moment of emotional release or connection.\n\nEvent 6 (6.5-8.8s): Male voice (positive) \u2014 visual shows two men raising arms in celebration outside a building, then a woman smiling as she touches a man's head. The audio matches the hopeful tone.\n\nEvent 7 (7.4-8.8s): Visual \u2014 the same celebration scene, with the woman touching the man\u2019s head, both smiling. The audio includes a voiceover about the Americans with Disabilities Act, which aligns with the visual context of inclusion.\n\nEvent 8 (8.8-10.1s): Visual \u2014 close-up of a man speaking into a microphone with headphones, eyes wide, focused. The music continues to swell, suggesting a public address or recording.\n\nEvent 9 (9.1-14.7s): Male voice (positive) \u2014 visual shows the man speaking into a mic, then cuts to him sitting on a bench with an older man, then a group of people watching him. The tone is inspirational.\n\nEvent 10 (10.1-13.1s): Visual \u2014 man on bench with older man, then a group of people watching him, then back to him speaking into a mic. The music continues to build.\n\nEvent 11 (11.1-12.3s): SFX \u2014 metal door slides open \u2014 visual shows a group of people behind a door that slides open, revealing the man in focus. The sound matches the visual.\n\nEvent 12 (13.1-14.6s): Visual \u2014 man speaking into mic, eyes wide, mouth open, then cuts to a birthday celebration with candles. The music swells.\n\nEvent 13 (15.3-17.1s): Visual \u2014 birthday party scene with candles, people laughing, man in wheelchair laughing, then a close-up of the main man smiling. The audio is reflective and emotional.\n\nEvent 14 (15.5-20.0s): Male voice (positive) \u2014 visual shows the birthday scene, then the man in a suit, then a formal dinner with many people, including the man in a wheelchair. The tone is uplifting.\n\nEvent 15 (17.5-18.6s): Visual \u2014 man in suit, looking serious, then cuts to formal dinner with many guests. The music continues to build.\n\nEvent 16 (19.3-20.0s): Visual \u2014 two men at a bar, one raising a glass, the other smiling, glasses clinking. The music fades out with a sense of camaraderie.",
+    "[Chunk 8: 140.0s - 145.7s]\nScene is a cinematic montage transitioning from intimate human moments to a title reveal. The audio includes a male voiceover, cinematic music, and a whoosh effect, aligning with visual shifts.\n\nEvent 1 (0.0-2.3s): Male voiceover begins as two men clink glasses in a dim bar, followed by a woman hugging someone warmly. The voice is conversational, likely narrating or reflecting.\n\nEvent 2 (0.0-0.5s): Visual shows two men toasting with drinks in a dimly lit bar, then cuts to a woman laughing and embracing someone. The voiceover continues over these visuals.\n\nEvent 3 (0.1-5.6s): Cinematic strings and piano build tension as the visuals transition from human interactions to a dark screen with glowing text.\n\nEvent 4 (1.1-2.4s): Visual shows a close-up of a man in a suit and tie, looking thoughtful, with soft lighting and patterned background.\n\nEvent 5 (2.1-3.8s): Cinematic whoosh effect accompanies the transition from the man\u2019s face to a dark screen with the glowing title.\n\nEvent 6 (2.4-5.0s): Visual shows the title \"Music Within\" in glowing white script on a dark background, fading in and out with subtle light effects.\n\nAudio labels are mostly accurate. The whoosh effect at 2.1-3.8s matches the visual transition. The music label is correct for the tension-building orchestral swell. The voiceover is correctly labeled as conversational. No corrections needed."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      120.0
+    ],
+    [
+      120.0,
+      140.0
+    ],
+    [
+      140.0,
+      145.6587755102041
+    ]
+  ]
+}

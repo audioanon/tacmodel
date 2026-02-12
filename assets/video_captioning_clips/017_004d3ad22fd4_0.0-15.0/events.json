@@ -1,0 +1,1876 @@
+{
+  "cid": "004d3ad22fd423e255b32dbda0671e9b",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 110.48054421768707,
+  "events": [
+    {
+      "start_time": 0.0,
+      "end_time": 2.877875,
+      "type": "visual",
+      "description": "Hands gripping chain-link fence, watching children play soccer on a sunlit grassy field",
+      "audio_description": null
+    },
+    {
+      "description": "Melancholic jazz with walking bass plays as scenes shift from a field to job applications and arrest",
+      "start_time": 0.1,
+      "end_time": 20.0,
+      "duration": 19.9,
+      "type": "music",
+      "confidence": 0.969,
+      "audio_description": "Melancholic jazz with walking bass"
+    },
+    {
+      "start_time": 2.877875,
+      "end_time": 5.588916666666666,
+      "type": "visual",
+      "description": "Man\u2019s face in profile, lips moving softly, eyes focused on the field through the fence, appearing contemplative",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (whispering) as man holds fence, face turned away, shadows highlighting his jawline",
+      "start_time": 3.9,
+      "end_time": 5.9,
+      "duration": 2.0000000000000004,
+      "type": "speech",
+      "confidence": 0.927,
+      "audio_description": "Male voice (calm)"
+    },
+    {
+      "description": "Man in blue shirt speaks calmly to a manager at Murray\u2019s clothing store, holding a paper form",
+      "start_time": 3.9,
+      "end_time": 5.9,
+      "duration": 2.0000000000000004,
+      "type": "speech",
+      "confidence": 0.7,
+      "audio_description": "Male voice (whispering)"
+    },
+    {
+      "description": "Male voice (whispering) as manager at Murray\u2019s holds \u201cHelp Wanted\u201d sign, man listens intently",
+      "start_time": 6.6,
+      "end_time": 8.2,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.93,
+      "audio_description": "Male voice (calm)"
+    },
+    {
+      "description": "Man being hired at Pacific Produce warehouse, woman in teal shirt opens door, hand on his arm",
+      "start_time": 6.6,
+      "end_time": 8.2,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.767,
+      "audio_description": "Male voice (whispering)"
+    },
+    {
+      "start_time": 7.549208333333333,
+      "end_time": 8.550208333333332,
+      "type": "visual",
+      "description": "Group of men standing in a room, man in green hoodie at center, arms crossed, looking down",
+      "audio_description": null
+    },
+    {
+      "start_time": 8.550208333333332,
+      "end_time": 9.759749999999999,
+      "type": "visual",
+      "description": "Man in maroon shirt speaks calmly to man in green hoodie, who listens with furrowed brow",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (whispering) as man in green hoodie looks down, then raises eyes slightly",
+      "start_time": 9.0,
+      "end_time": 10.7,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.92,
+      "audio_description": "Male voice (calm)"
+    },
+    {
+      "description": "Metal scraping sound as red \u201cBlocker Street\u201d logo appears on screen",
+      "start_time": 9.0,
+      "end_time": 10.7,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.815,
+      "audio_description": "Male voice (whispering)"
+    },
+    {
+      "description": "Electronic pulse sound during \u201cSWH Pictures\u201d logo with swan in ripples",
+      "start_time": 10.7,
+      "end_time": 11.7,
+      "duration": 1.0,
+      "type": "sfx",
+      "confidence": 0.528,
+      "audio_description": "Metal scraping sound"
+    },
+    {
+      "description": "Aerial view of cityscape with buildings and beach, then cuts to police arresting a man",
+      "start_time": 11.4,
+      "end_time": 14.2,
+      "duration": 2.799999999999999,
+      "type": "sfx",
+      "confidence": 0.587,
+      "audio_description": "Electronic pulse sound"
+    },
+    {
+      "description": "Car skids and stops as police officers grab man in plaid shirt near a car",
+      "start_time": 12.8,
+      "end_time": 15.6,
+      "duration": 2.799999999999999,
+      "type": "sfx",
+      "confidence": 0.949,
+      "audio_description": "Car skids and stops"
+    },
+    {
+      "start_time": 12.929583333333332,
+      "end_time": 13.972291666666665,
+      "type": "visual",
+      "description": "Fast whooshing sound as man is pushed face-down on car hood by officers",
+      "audio_description": null
+    },
+    {
+      "description": "Young boy in gray tank top stands still, staring forward, residential street behind him",
+      "start_time": 14.2,
+      "end_time": 16.0,
+      "duration": 1.8000000000000007,
+      "type": "sfx",
+      "confidence": 0.976,
+      "audio_description": "Heavy metal impact"
+    },
+    {
+      "description": "Male voice (whispering) as boy remains motionless, eyes fixed, slight shadow under chin",
+      "start_time": 14.2,
+      "end_time": 14.8,
+      "duration": 0.6000000000000014,
+      "type": "sfx",
+      "confidence": 0.952,
+      "audio_description": "Fast whooshing sound"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 3.997,
+        "end": 5.799,
+        "text": " Boyhood dreams got no place in a man's life.",
+        "words": [
+          {
+            "word": "Boyhood",
+            "start": 3.997,
+            "end": 4.297,
+            "score": 0.3
+          },
+          {
+            "word": "dreams",
+            "start": 4.317,
+            "end": 4.518,
+            "score": 0.856
+          },
+          {
+            "word": "got",
+            "start": 4.558,
+            "end": 4.698,
+            "score": 0.421
+          },
+          {
+            "word": "no",
+            "start": 4.718,
+            "end": 4.818,
+            "score": 0.55
+          },
+          {
+            "word": "place",
+            "start": 4.858,
+            "end": 5.058,
+            "score": 0.893
+          },
+          {
+            "word": "in",
+            "start": 5.118,
+            "end": 5.159,
+            "score": 0.995
+          },
+          {
+            "word": "a",
+            "start": 5.199,
+            "end": 5.239,
+            "score": 0.499
+          },
+          {
+            "word": "man's",
+            "start": 5.279,
+            "end": 5.539,
+            "score": 0.802
+          },
+          {
+            "word": "life.",
+            "start": 5.599,
+            "end": 5.799,
+            "score": 0.988
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.62,
+        "end": 8.203,
+        "text": "You need to concentrate on getting employed.",
+        "words": [
+          {
+            "word": "You",
+            "start": 6.62,
+            "end": 6.701,
+            "score": 0.689
+          },
+          {
+            "word": "need",
+            "start": 6.741,
+            "end": 6.881,
+            "score": 0.813
+          },
+          {
+            "word": "to",
+            "start": 6.901,
+            "end": 6.941,
+            "score": 0.375
+          },
+          {
+            "word": "concentrate",
+            "start": 6.961,
+            "end": 7.381,
+            "score": 0.392
+          },
+          {
+            "word": "on",
+            "start": 7.402,
+            "end": 7.482,
+            "score": 0.685
+          },
+          {
+            "word": "getting",
+            "start": 7.502,
+            "end": 7.682,
+            "score": 0.412
+          },
+          {
+            "word": "employed.",
+            "start": 7.722,
+            "end": 8.203,
+            "score": 0.914
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.004,
+        "end": 10.686,
+        "text": "Forget about football.",
+        "words": [
+          {
+            "word": "Forget",
+            "start": 9.004,
+            "end": 9.364,
+            "score": 0.979
+          },
+          {
+            "word": "about",
+            "start": 9.624,
+            "end": 9.965,
+            "score": 0.94
+          },
+          {
+            "word": "football.",
+            "start": 10.085,
+            "end": 10.686,
+            "score": 0.914
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.928,
+        "end": 19.538,
+        "text": "When I was young, it was hard to see a way out.",
+        "words": [
+          {
+            "word": "When",
+            "start": 11.928,
+            "end": 16.494,
+            "score": 0.924
+          },
+          {
+            "word": "I",
+            "start": 16.554,
+            "end": 16.614,
+            "score": 0.984
+          },
+          {
+            "word": "was",
+            "start": 16.654,
+            "end": 16.754,
+            "score": 0.979
+          },
+          {
+            "word": "young,",
+            "start": 16.794,
+            "end": 17.094,
+            "score": 0.726
+          },
+          {
+            "word": "it",
+            "start": 18.176,
+            "end": 18.236,
+            "score": 0.744
+          },
+          {
+            "word": "was",
+            "start": 18.276,
+            "end": 18.356,
+            "score": 0.892
+          },
+          {
+            "word": "hard",
+            "start": 18.396,
+            "end": 18.737,
+            "score": 0.539
+          },
+          {
+            "word": "to",
+            "start": 18.777,
+            "end": 18.837,
+            "score": 0.792
+          },
+          {
+            "word": "see",
+            "start": 18.897,
+            "end": 19.057,
+            "score": 0.931
+          },
+          {
+            "word": "a",
+            "start": 19.077,
+            "end": 19.097,
+            "score": 0.555
+          },
+          {
+            "word": "way",
+            "start": 19.197,
+            "end": 19.357,
+            "score": 0.985
+          },
+          {
+            "word": "out.",
+            "start": 19.437,
+            "end": 19.538,
+            "score": 0.807
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 20.599,
+        "end": 22.001,
+        "text": "Football gave me an option.",
+        "words": [
+          {
+            "word": "Football",
+            "start": 20.599,
+            "end": 21.04,
+            "score": 0.928
+          },
+          {
+            "word": "gave",
+            "start": 21.1,
+            "end": 21.28,
+            "score": 0.902
+          },
+          {
+            "word": "me",
+            "start": 21.34,
+            "end": 21.4,
+            "score": 0.832
+          },
+          {
+            "word": "an",
+            "start": 21.46,
+            "end": 21.5,
+            "score": 0.98
+          },
+          {
+            "word": "option.",
+            "start": 21.701,
+            "end": 22.001,
+            "score": 0.893
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 23.363,
+        "end": 29.251,
+        "text": "By the time I was 16, I had the attention of the NFL.",
+        "words": [
+          {
+            "word": "By",
+            "start": 23.363,
+            "end": 26.026,
+            "score": 0.88
+          },
+          {
+            "word": "the",
+            "start": 26.046,
+            "end": 26.146,
+            "score": 0.885
+          },
+          {
+            "word": "time",
+            "start": 26.206,
+            "end": 26.467,
+            "score": 0.912
+          },
+          {
+            "word": "I",
+            "start": 26.527,
+            "end": 26.587,
+            "score": 0.993
+          },
+          {
+            "word": "was",
+            "start": 26.627,
+            "end": 26.747,
+            "score": 0.933
+          },
+          {
+            "word": "16,",
+            "start": 26.767,
+            "end": 27.448,
+            "score": 0.876
+          },
+          {
+            "word": "I",
+            "start": 27.628,
+            "end": 27.708,
+            "score": 0.826
+          },
+          {
+            "word": "had",
+            "start": 27.729,
+            "end": 27.849,
+            "score": 0.94
+          },
+          {
+            "word": "the",
+            "start": 27.889,
+            "end": 27.969,
+            "score": 0.787
+          },
+          {
+            "word": "attention",
+            "start": 28.049,
+            "end": 28.409,
+            "score": 0.956
+          },
+          {
+            "word": "of",
+            "start": 28.449,
+            "end": 28.51,
+            "score": 0.902
+          },
+          {
+            "word": "the",
+            "start": 28.55,
+            "end": 28.61,
+            "score": 0.898
+          },
+          {
+            "word": "NFL.",
+            "start": 28.71,
+            "end": 29.251,
+            "score": 0.579
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 29.291,
+        "end": 31.353,
+        "text": "The sky is the limit for this kid.",
+        "words": [
+          {
+            "word": "The",
+            "start": 29.291,
+            "end": 29.491,
+            "score": 0.442
+          },
+          {
+            "word": "sky",
+            "start": 29.671,
+            "end": 29.811,
+            "score": 0.425
+          },
+          {
+            "word": "is",
+            "start": 29.891,
+            "end": 29.971,
+            "score": 0.914
+          },
+          {
+            "word": "the",
+            "start": 30.012,
+            "end": 30.112,
+            "score": 0.912
+          },
+          {
+            "word": "limit",
+            "start": 30.152,
+            "end": 30.452,
+            "score": 0.86
+          },
+          {
+            "word": "for",
+            "start": 30.492,
+            "end": 30.612,
+            "score": 0.912
+          },
+          {
+            "word": "this",
+            "start": 30.652,
+            "end": 30.893,
+            "score": 0.729
+          },
+          {
+            "word": "kid.",
+            "start": 31.093,
+            "end": 31.353,
+            "score": 0.49
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 31.413,
+        "end": 32.094,
+        "text": "So what happened?",
+        "words": [
+          {
+            "word": "So",
+            "start": 31.413,
+            "end": 31.494,
+            "score": 0.336
+          },
+          {
+            "word": "what",
+            "start": 31.514,
+            "end": 31.654,
+            "score": 0.509
+          },
+          {
+            "word": "happened?",
+            "start": 31.694,
+            "end": 32.094,
+            "score": 0.624
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 32.114,
+        "end": 33.396,
+        "text": "Why don't you play anymore?",
+        "words": [
+          {
+            "word": "Why",
+            "start": 32.114,
+            "end": 32.255,
+            "score": 0.326
+          },
+          {
+            "word": "don't",
+            "start": 32.295,
+            "end": 32.415,
+            "score": 0.602
+          },
+          {
+            "word": "you",
+            "start": 32.435,
+            "end": 32.555,
+            "score": 0.767
+          },
+          {
+            "word": "play",
+            "start": 32.575,
+            "end": 32.935,
+            "score": 0.63
+          },
+          {
+            "word": "anymore?",
+            "start": 33.096,
+            "end": 33.396,
+            "score": 0.264
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 35.418,
+        "end": 39.922,
+        "text": " Brian Banks was 16 years old when he was accused of a crime he did not commit.",
+        "words": [
+          {
+            "word": "Brian",
+            "start": 35.418,
+            "end": 35.698,
+            "score": 0.852
+          },
+          {
+            "word": "Banks",
+            "start": 35.738,
+            "end": 36.039,
+            "score": 0.916
+          },
+          {
+            "word": "was",
+            "start": 36.159,
+            "end": 36.299,
+            "score": 0.894
+          },
+          {
+            "word": "16",
+            "start": 36.319,
+            "end": 36.759,
+            "score": 0.706
+          },
+          {
+            "word": "years",
+            "start": 36.799,
+            "end": 36.999,
+            "score": 0.698
+          },
+          {
+            "word": "old",
+            "start": 37.14,
+            "end": 37.24,
+            "score": 0.853
+          },
+          {
+            "word": "when",
+            "start": 37.68,
+            "end": 37.8,
+            "score": 0.87
+          },
+          {
+            "word": "he",
+            "start": 37.84,
+            "end": 37.9,
+            "score": 0.814
+          },
+          {
+            "word": "was",
+            "start": 37.94,
+            "end": 38.0,
+            "score": 0.904
+          },
+          {
+            "word": "accused",
+            "start": 38.08,
+            "end": 38.481,
+            "score": 0.905
+          },
+          {
+            "word": "of",
+            "start": 38.541,
+            "end": 38.581,
+            "score": 0.996
+          },
+          {
+            "word": "a",
+            "start": 38.601,
+            "end": 38.621,
+            "score": 0.949
+          },
+          {
+            "word": "crime",
+            "start": 38.701,
+            "end": 38.981,
+            "score": 0.904
+          },
+          {
+            "word": "he",
+            "start": 39.021,
+            "end": 39.141,
+            "score": 0.646
+          },
+          {
+            "word": "did",
+            "start": 39.201,
+            "end": 39.322,
+            "score": 0.665
+          },
+          {
+            "word": "not",
+            "start": 39.362,
+            "end": 39.502,
+            "score": 0.857
+          },
+          {
+            "word": "commit.",
+            "start": 39.562,
+            "end": 39.922,
+            "score": 0.736
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 41.263,
+        "end": 42.284,
+        "text": "He lost 11 years.",
+        "words": [
+          {
+            "word": "He",
+            "start": 41.263,
+            "end": 41.363,
+            "score": 0.915
+          },
+          {
+            "word": "lost",
+            "start": 41.383,
+            "end": 41.584,
+            "score": 0.829
+          },
+          {
+            "word": "11",
+            "start": 41.604,
+            "end": 41.944,
+            "score": 0.701
+          },
+          {
+            "word": "years.",
+            "start": 42.004,
+            "end": 42.284,
+            "score": 0.842
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.145,
+        "end": 44.206,
+        "text": "Scholarship.",
+        "words": [
+          {
+            "word": "Scholarship.",
+            "start": 43.145,
+            "end": 44.206,
+            "score": 0.872
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.226,
+        "end": 45.767,
+        "text": "He was prevented from playing football.",
+        "words": [
+          {
+            "word": "He",
+            "start": 44.226,
+            "end": 44.286,
+            "score": 0.977
+          },
+          {
+            "word": "was",
+            "start": 44.306,
+            "end": 44.386,
+            "score": 0.996
+          },
+          {
+            "word": "prevented",
+            "start": 44.426,
+            "end": 44.767,
+            "score": 0.911
+          },
+          {
+            "word": "from",
+            "start": 44.807,
+            "end": 44.927,
+            "score": 0.944
+          },
+          {
+            "word": "playing",
+            "start": 44.987,
+            "end": 45.267,
+            "score": 0.83
+          },
+          {
+            "word": "football.",
+            "start": 45.307,
+            "end": 45.767,
+            "score": 0.944
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.348,
+        "end": 47.529,
+        "text": "The system is broken.",
+        "words": [
+          {
+            "word": "The",
+            "start": 46.348,
+            "end": 46.468,
+            "score": 0.705
+          },
+          {
+            "word": "system",
+            "start": 46.528,
+            "end": 46.889,
+            "score": 0.913
+          },
+          {
+            "word": "is",
+            "start": 47.009,
+            "end": 47.089,
+            "score": 0.767
+          },
+          {
+            "word": "broken.",
+            "start": 47.149,
+            "end": 47.529,
+            "score": 0.979
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 47.729,
+        "end": 49.351,
+        "text": "We have 10 months to clear his name.",
+        "words": [
+          {
+            "word": "We",
+            "start": 47.729,
+            "end": 47.829,
+            "score": 0.976
+          },
+          {
+            "word": "have",
+            "start": 47.869,
+            "end": 47.97,
+            "score": 0.978
+          },
+          {
+            "word": "10",
+            "start": 47.99,
+            "end": 48.25,
+            "score": 0.824
+          },
+          {
+            "word": "months",
+            "start": 48.33,
+            "end": 48.57,
+            "score": 0.786
+          },
+          {
+            "word": "to",
+            "start": 48.61,
+            "end": 48.71,
+            "score": 0.723
+          },
+          {
+            "word": "clear",
+            "start": 48.75,
+            "end": 48.95,
+            "score": 0.792
+          },
+          {
+            "word": "his",
+            "start": 48.99,
+            "end": 49.071,
+            "score": 0.674
+          },
+          {
+            "word": "name.",
+            "start": 49.131,
+            "end": 49.351,
+            "score": 0.965
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 49.591,
+        "end": 53.094,
+        "text": "If in that time they do not overturn your conviction, you'll be a prisoner again.",
+        "words": [
+          {
+            "word": "If",
+            "start": 49.591,
+            "end": 49.671,
+            "score": 0.989
+          },
+          {
+            "word": "in",
+            "start": 49.751,
+            "end": 49.811,
+            "score": 0.932
+          },
+          {
+            "word": "that",
+            "start": 49.851,
+            "end": 49.971,
+            "score": 0.887
+          },
+          {
+            "word": "time",
+            "start": 50.011,
+            "end": 50.232,
+            "score": 0.764
+          },
+          {
+            "word": "they",
+            "start": 50.252,
+            "end": 50.372,
+            "score": 0.81
+          },
+          {
+            "word": "do",
+            "start": 50.412,
+            "end": 50.492,
+            "score": 0.975
+          },
+          {
+            "word": "not",
+            "start": 50.532,
+            "end": 50.632,
+            "score": 0.969
+          },
+          {
+            "word": "overturn",
+            "start": 50.712,
+            "end": 51.072,
+            "score": 0.964
+          },
+          {
+            "word": "your",
+            "start": 51.132,
+            "end": 51.233,
+            "score": 0.968
+          },
+          {
+            "word": "conviction,",
+            "start": 51.253,
+            "end": 51.713,
+            "score": 0.874
+          },
+          {
+            "word": "you'll",
+            "start": 51.993,
+            "end": 52.173,
+            "score": 0.661
+          },
+          {
+            "word": "be",
+            "start": 52.193,
+            "end": 52.253,
+            "score": 0.916
+          },
+          {
+            "word": "a",
+            "start": 52.293,
+            "end": 52.313,
+            "score": 0.898
+          },
+          {
+            "word": "prisoner",
+            "start": 52.374,
+            "end": 52.794,
+            "score": 0.832
+          },
+          {
+            "word": "again.",
+            "start": 52.874,
+            "end": 53.094,
+            "score": 0.966
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.835,
+        "end": 54.956,
+        "text": "I need something big.",
+        "words": [
+          {
+            "word": "I",
+            "start": 53.835,
+            "end": 53.955,
+            "score": 0.619
+          },
+          {
+            "word": "need",
+            "start": 53.975,
+            "end": 54.195,
+            "score": 0.541
+          },
+          {
+            "word": "something",
+            "start": 54.255,
+            "end": 54.616,
+            "score": 0.911
+          },
+          {
+            "word": "big.",
+            "start": 54.696,
+            "end": 54.956,
+            "score": 0.997
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 55.376,
+        "end": 56.818,
+        "text": "Something extraordinary.",
+        "words": [
+          {
+            "word": "Something",
+            "start": 55.376,
+            "end": 55.797,
+            "score": 0.934
+          },
+          {
+            "word": "extraordinary.",
+            "start": 56.137,
+            "end": 56.818,
+            "score": 0.782
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 57.879,
+        "end": 60.721,
+        "text": "It's extraordinary that I'm still here.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 57.879,
+            "end": 57.979,
+            "score": 0.678
+          },
+          {
+            "word": "extraordinary",
+            "start": 58.059,
+            "end": 58.859,
+            "score": 0.69
+          },
+          {
+            "word": "that",
+            "start": 58.96,
+            "end": 59.1,
+            "score": 0.168
+          },
+          {
+            "word": "I'm",
+            "start": 59.12,
+            "end": 59.18,
+            "score": 0.221
+          },
+          {
+            "word": "still",
+            "start": 59.22,
+            "end": 59.5,
+            "score": 0.902
+          },
+          {
+            "word": "here.",
+            "start": 59.54,
+            "end": 60.721,
+            "score": 0.864
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 60.741,
+        "end": 61.882,
+        "text": "I'm still standing.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 60.741,
+            "end": 60.861,
+            "score": 0.444
+          },
+          {
+            "word": "still",
+            "start": 60.961,
+            "end": 61.242,
+            "score": 0.716
+          },
+          {
+            "word": "standing.",
+            "start": 61.422,
+            "end": 61.882,
+            "score": 0.504
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.902,
+        "end": 62.183,
+        "text": "Yeah.",
+        "words": [
+          {
+            "word": "Yeah.",
+            "start": 61.902,
+            "end": 62.183,
+            "score": 0.668
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 63.304,
+        "end": 64.885,
+        "text": "You ever been locked up?",
+        "words": [
+          {
+            "word": "You",
+            "start": 63.304,
+            "end": 63.404,
+            "score": 0.703
+          },
+          {
+            "word": "ever",
+            "start": 63.424,
+            "end": 63.584,
+            "score": 0.414
+          },
+          {
+            "word": "been",
+            "start": 63.624,
+            "end": 63.744,
+            "score": 0.87
+          },
+          {
+            "word": "locked",
+            "start": 63.824,
+            "end": 64.104,
+            "score": 0.492
+          },
+          {
+            "word": "up?",
+            "start": 64.224,
+            "end": 64.885,
+            "score": 0.905
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 65.371,
+        "end": 66.593,
+        "text": " It never killed me.",
+        "words": [
+          {
+            "word": "It",
+            "start": 65.371,
+            "end": 65.511,
+            "score": 0.566
+          },
+          {
+            "word": "never",
+            "start": 65.571,
+            "end": 65.932,
+            "score": 0.623
+          },
+          {
+            "word": "killed",
+            "start": 66.032,
+            "end": 66.392,
+            "score": 0.856
+          },
+          {
+            "word": "me.",
+            "start": 66.432,
+            "end": 66.593,
+            "score": 0.84
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 67.254,
+        "end": 68.235,
+        "text": "How did you survive it?",
+        "words": [
+          {
+            "word": "How",
+            "start": 67.254,
+            "end": 67.334,
+            "score": 0.484
+          },
+          {
+            "word": "did",
+            "start": 67.374,
+            "end": 67.474,
+            "score": 0.54
+          },
+          {
+            "word": "you",
+            "start": 67.514,
+            "end": 67.614,
+            "score": 0.878
+          },
+          {
+            "word": "survive",
+            "start": 67.634,
+            "end": 68.095,
+            "score": 0.58
+          },
+          {
+            "word": "it?",
+            "start": 68.115,
+            "end": 68.235,
+            "score": 0.807
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 69.016,
+        "end": 69.517,
+        "text": "Almost did.",
+        "words": [
+          {
+            "word": "Almost",
+            "start": 69.016,
+            "end": 69.316,
+            "score": 0.858
+          },
+          {
+            "word": "did.",
+            "start": 69.356,
+            "end": 69.517,
+            "score": 0.853
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 70.678,
+        "end": 73.562,
+        "text": "Then I met a man who showed me a different way.",
+        "words": [
+          {
+            "word": "Then",
+            "start": 70.678,
+            "end": 70.819,
+            "score": 0.225
+          },
+          {
+            "word": "I",
+            "start": 70.839,
+            "end": 70.859,
+            "score": 0.861
+          },
+          {
+            "word": "met",
+            "start": 70.899,
+            "end": 71.019,
+            "score": 0.678
+          },
+          {
+            "word": "a",
+            "start": 71.059,
+            "end": 71.119,
+            "score": 0.701
+          },
+          {
+            "word": "man",
+            "start": 71.179,
+            "end": 71.56,
+            "score": 0.89
+          },
+          {
+            "word": "who",
+            "start": 72.16,
+            "end": 72.301,
+            "score": 0.96
+          },
+          {
+            "word": "showed",
+            "start": 72.401,
+            "end": 72.681,
+            "score": 0.855
+          },
+          {
+            "word": "me",
+            "start": 72.721,
+            "end": 72.801,
+            "score": 0.567
+          },
+          {
+            "word": "a",
+            "start": 72.821,
+            "end": 72.841,
+            "score": 0.608
+          },
+          {
+            "word": "different",
+            "start": 72.961,
+            "end": 73.282,
+            "score": 0.937
+          },
+          {
+            "word": "way.",
+            "start": 73.322,
+            "end": 73.562,
+            "score": 0.967
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 74.824,
+        "end": 79.09,
+        "text": "All you can control in life is how you respond to life.",
+        "words": [
+          {
+            "word": "All",
+            "start": 74.824,
+            "end": 74.984,
+            "score": 0.964
+          },
+          {
+            "word": "you",
+            "start": 75.044,
+            "end": 75.225,
+            "score": 0.912
+          },
+          {
+            "word": "can",
+            "start": 75.265,
+            "end": 75.425,
+            "score": 0.471
+          },
+          {
+            "word": "control",
+            "start": 75.485,
+            "end": 76.066,
+            "score": 0.745
+          },
+          {
+            "word": "in",
+            "start": 76.206,
+            "end": 76.326,
+            "score": 0.852
+          },
+          {
+            "word": "life",
+            "start": 76.406,
+            "end": 76.707,
+            "score": 0.968
+          },
+          {
+            "word": "is",
+            "start": 77.327,
+            "end": 77.428,
+            "score": 0.624
+          },
+          {
+            "word": "how",
+            "start": 77.468,
+            "end": 77.648,
+            "score": 0.787
+          },
+          {
+            "word": "you",
+            "start": 77.668,
+            "end": 77.768,
+            "score": 0.77
+          },
+          {
+            "word": "respond",
+            "start": 77.828,
+            "end": 78.389,
+            "score": 0.853
+          },
+          {
+            "word": "to",
+            "start": 78.489,
+            "end": 78.529,
+            "score": 0.002
+          },
+          {
+            "word": "life.",
+            "start": 78.549,
+            "end": 79.09,
+            "score": 0.756
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 80.111,
+        "end": 81.273,
+        "text": "I know what I have to do now.",
+        "words": [
+          {
+            "word": "I",
+            "start": 80.111,
+            "end": 80.171,
+            "score": 0.977
+          },
+          {
+            "word": "know",
+            "start": 80.211,
+            "end": 80.312,
+            "score": 0.634
+          },
+          {
+            "word": "what",
+            "start": 80.332,
+            "end": 80.412,
+            "score": 0.775
+          },
+          {
+            "word": "I",
+            "start": 80.452,
+            "end": 80.532,
+            "score": 0.902
+          },
+          {
+            "word": "have",
+            "start": 80.572,
+            "end": 80.692,
+            "score": 0.597
+          },
+          {
+            "word": "to",
+            "start": 80.752,
+            "end": 80.812,
+            "score": 0.426
+          },
+          {
+            "word": "do",
+            "start": 80.852,
+            "end": 80.993,
+            "score": 0.826
+          },
+          {
+            "word": "now.",
+            "start": 81.053,
+            "end": 81.273,
+            "score": 0.963
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 83.416,
+        "end": 87.261,
+        "text": "You think you'll get another shot at the NFL?",
+        "words": [
+          {
+            "word": "You",
+            "start": 83.416,
+            "end": 85.739,
+            "score": 0.741
+          },
+          {
+            "word": "think",
+            "start": 85.759,
+            "end": 85.859,
+            "score": 0.828
+          },
+          {
+            "word": "you'll",
+            "start": 85.899,
+            "end": 86.06,
+            "score": 0.843
+          },
+          {
+            "word": "get",
+            "start": 86.08,
+            "end": 86.18,
+            "score": 0.632
+          },
+          {
+            "word": "another",
+            "start": 86.22,
+            "end": 86.44,
+            "score": 0.915
+          },
+          {
+            "word": "shot",
+            "start": 86.48,
+            "end": 86.66,
+            "score": 0.871
+          },
+          {
+            "word": "at",
+            "start": 86.72,
+            "end": 86.76,
+            "score": 0.99
+          },
+          {
+            "word": "the",
+            "start": 86.781,
+            "end": 86.861,
+            "score": 0.832
+          },
+          {
+            "word": "NFL?",
+            "start": 86.901,
+            "end": 87.261,
+            "score": 0.684
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 87.942,
+        "end": 90.045,
+        "text": "Trust me, we gotta play.",
+        "words": [
+          {
+            "word": "Trust",
+            "start": 87.942,
+            "end": 88.182,
+            "score": 0.821
+          },
+          {
+            "word": "me,",
+            "start": 88.202,
+            "end": 88.323,
+            "score": 0.891
+          },
+          {
+            "word": "we",
+            "start": 88.343,
+            "end": 88.443,
+            "score": 0.839
+          },
+          {
+            "word": "gotta",
+            "start": 88.463,
+            "end": 88.663,
+            "score": 0.546
+          },
+          {
+            "word": "play.",
+            "start": 88.703,
+            "end": 90.045,
+            "score": 0.801
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 90.768,
+        "end": 93.412,
+        "text": " I am innocent and the truth matters.",
+        "words": [
+          {
+            "word": "I",
+            "start": 90.768,
+            "end": 91.089,
+            "score": 0.779
+          },
+          {
+            "word": "am",
+            "start": 91.109,
+            "end": 91.189,
+            "score": 0.904
+          },
+          {
+            "word": "innocent",
+            "start": 91.429,
+            "end": 91.83,
+            "score": 0.886
+          },
+          {
+            "word": "and",
+            "start": 92.23,
+            "end": 92.311,
+            "score": 0.644
+          },
+          {
+            "word": "the",
+            "start": 92.351,
+            "end": 92.431,
+            "score": 0.766
+          },
+          {
+            "word": "truth",
+            "start": 92.531,
+            "end": 92.791,
+            "score": 0.578
+          },
+          {
+            "word": "matters.",
+            "start": 92.972,
+            "end": 93.412,
+            "score": 0.58
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 94.474,
+        "end": 96.197,
+        "text": "I know the system doesn't care about me.",
+        "words": [
+          {
+            "word": "I",
+            "start": 94.474,
+            "end": 94.554,
+            "score": 0.969
+          },
+          {
+            "word": "know",
+            "start": 94.594,
+            "end": 94.755,
+            "score": 0.845
+          },
+          {
+            "word": "the",
+            "start": 94.855,
+            "end": 94.975,
+            "score": 0.308
+          },
+          {
+            "word": "system",
+            "start": 95.015,
+            "end": 95.296,
+            "score": 0.683
+          },
+          {
+            "word": "doesn't",
+            "start": 95.356,
+            "end": 95.596,
+            "score": 0.896
+          },
+          {
+            "word": "care",
+            "start": 95.636,
+            "end": 95.817,
+            "score": 0.991
+          },
+          {
+            "word": "about",
+            "start": 95.857,
+            "end": 96.057,
+            "score": 0.877
+          },
+          {
+            "word": "me.",
+            "start": 96.097,
+            "end": 96.197,
+            "score": 0.974
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 97.139,
+        "end": 99.002,
+        "text": "But you didn't deserve what happened to you.",
+        "words": [
+          {
+            "word": "But",
+            "start": 97.139,
+            "end": 97.239,
+            "score": 0.972
+          },
+          {
+            "word": "you",
+            "start": 97.299,
+            "end": 97.379,
+            "score": 0.495
+          },
+          {
+            "word": "didn't",
+            "start": 97.419,
+            "end": 97.58,
+            "score": 0.859
+          },
+          {
+            "word": "deserve",
+            "start": 97.62,
+            "end": 97.94,
+            "score": 0.704
+          },
+          {
+            "word": "what",
+            "start": 97.98,
+            "end": 98.08,
+            "score": 0.718
+          },
+          {
+            "word": "happened",
+            "start": 98.181,
+            "end": 98.461,
+            "score": 0.933
+          },
+          {
+            "word": "to",
+            "start": 98.501,
+            "end": 98.561,
+            "score": 0.719
+          },
+          {
+            "word": "you.",
+            "start": 98.742,
+            "end": 99.002,
+            "score": 0.482
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 99.623,
+        "end": 100.705,
+        "text": "Brian's gonna run out of time.",
+        "words": [
+          {
+            "word": "Brian's",
+            "start": 99.623,
+            "end": 99.843,
+            "score": 0.669
+          },
+          {
+            "word": "gonna",
+            "start": 99.863,
+            "end": 100.004,
+            "score": 0.408
+          },
+          {
+            "word": "run",
+            "start": 100.044,
+            "end": 100.144,
+            "score": 0.968
+          },
+          {
+            "word": "out",
+            "start": 100.184,
+            "end": 100.264,
+            "score": 0.854
+          },
+          {
+            "word": "of",
+            "start": 100.304,
+            "end": 100.344,
+            "score": 0.796
+          },
+          {
+            "word": "time.",
+            "start": 100.384,
+            "end": 100.705,
+            "score": 0.885
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.568,
+        "end": 104.071,
+        "text": "I'll tell you what's extraordinary.",
+        "words": [
+          {
+            "word": "I'll",
+            "start": 102.568,
+            "end": 102.768,
+            "score": 0.846
+          },
+          {
+            "word": "tell",
+            "start": 102.808,
+            "end": 102.969,
+            "score": 0.96
+          },
+          {
+            "word": "you",
+            "start": 103.009,
+            "end": 103.109,
+            "score": 0.92
+          },
+          {
+            "word": "what's",
+            "start": 103.149,
+            "end": 103.289,
+            "score": 0.582
+          },
+          {
+            "word": "extraordinary.",
+            "start": 103.369,
+            "end": 104.071,
+            "score": 0.816
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 104.091,
+        "end": 105.553,
+        "text": "I am.",
+        "words": [
+          {
+            "word": "I",
+            "start": 104.091,
+            "end": 104.111,
+            "score": 0.999
+          },
+          {
+            "word": "am.",
+            "start": 105.353,
+            "end": 105.553,
+            "score": 0.81
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nThe video begins with a close-up of hands gripping a chain-link fence, looking at children playing soccer on a field, setting a reflective, possibly nostalgic tone. A melancholic jazz piece with walking bass plays throughout, establishing a somber mood. At 3.9s, a man\u2019s voice speaks softly, whispering about boyhood dreams having no place in a man\u2019s life, while the camera reveals his face in profile \u2014 a man observing the game with a distant, contemplative expression. The scene transitions to a series of quick cuts: the same man applying for jobs at a diner, a clothing store, and a produce warehouse, each time being told to focus on employment. In one frame, a manager at Murray\u2019s clothing store holds a \"Help Wanted\" sign, and the man is handed a form. At 8.0s, he\u2019s seen being hired at the produce warehouse, and then later, standing in a group of men in a room, possibly a job training or orientation session. The camera then shows a close-up of him listening to another man, who tells him to forget about football \u2014 a clear rejection of his past dreams. The video cuts to a red screen with the \"Blocker Street\" logo, then to a black screen with \"SWH Pictures\" and a swan logo, followed by an aerial shot of a cityscape. The tone shifts dramatically as police officers arrest a man in a plaid shirt, pressing him face-down on a car hood \u2014 a moment of violence and tension. A young boy stands in the foreground, watching, his face expressionless, suggesting he\u2019s witnessed this cycle of hardship. The audio during this arrest includes a car skidding and stopping, a heavy metal impact, and a fast whooshing sound \u2014 likely the rush of police arriving or the man being subdued. The boy\u2019s quiet presence contrasts with the chaos. The audio also includes a whispering male voice, possibly reflecting on the difficulty of seeing a way out, aligning with the visual of the boy\u2019s blank stare. The final frames return to the boy, framed in a suburban neighborhood, reinforcing the theme of youth caught in a cycle of struggle. The music remains melancholic throughout, underscoring the emotional weight. The audio labels for \"car skids\" and \"metal impact\" are accurate based on the visuals of the arrest. The whispering voice aligns with the visual of the boy\u2019s stillness, suggesting internal reflection. The \"electronic pulse\" during the logo sequence is likely a stylistic sound design element for the production company, not tied to visuals.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is a dramatic sports drama centered on a high school football player and his life beyond the field. The video opens with aerial shots of a football field and transitions to intense game footage, showing a player in a green \"POLY\" jersey. The atmosphere shifts to emotional moments \u2014 fans cheering, coaches praying, and intimate conversations \u2014 before turning darker with scenes of arrest and a man in distress. The audio includes driving music, crowd noise, and serious narration about a true story involving wrongful accusation. The audio labels are mostly accurate, but some require adjustment: \"fast air movement\" at 2.0s likely refers to a player running or a pass being thrown; \"metal can being crushed\" at 18.2s is more accurately a police officer's hand slamming down or a fist hitting a surface; \"metal door opens and closes\" at 15.4s is actually a police officer entering a room. The visual descriptions must reflect the scenes accurately while integrating the sounds properly.",
+    "[Chunk 3: 40.0s - 60.0s]\nThe video is a montage from a dramatic film, likely a legal or social justice drama, showing key moments in a man\u2019s life \u2014 from arrest, to prison, to legal advocacy, to personal struggle and redemption. The scenes shift between a home arrest, courtroom, prison cell, classroom, and car discussions, suggesting a narrative arc of injustice and fight for exoneration.\n\nEvent 1 (0.0-2.5s): Visuals show police arresting a woman in a home, then a man being taken out \u2014 matching the negative male voice and crowd sounds. The audio \u201cCrowd laughing and talking\u201d is likely mislabeled; it's more like tense, overlapping voices or off-screen shouting during the arrest.\n\nEvent 2 (0.0-2.3s): The \u201cMale voice (negative)\u201d matches the officer\u2019s stern tone during arrest, visible in frame 0.0s.\n\nEvent 3 (0.0-20.0s): The \u201cDriving beat, minor key, intense energy\u201d music is present throughout, especially in darker scenes like prison and car discussions.\n\nEvent 4 (0.0-0.3s): Visual: Police officers restraining a woman in a pink robe inside a home hallway.\n\nEvent 5 (1.1-2.1s): Visual: Officers escorting a man in a white hoodie out of a house; he appears distressed. The speech \u201cHe lost 11 years\u201d fits the context of wrongful imprisonment.\n\nEvent 6 (2.9-3.5s): SFX: Fast air movement \u2014 likely the sudden motion of someone being pushed or dragged, matching the courtroom entry.\n\nEvent 7 (3.2-3.8s): Speech: Male voice (negative) \u2014 in courtroom, judge or lawyer speaking sternly.\n\nEvent 8 (4.2-5.8s): Speech: Male voice (negative) \u2014 man in prison watching football, voice reflecting regret or anger. The speech \u201cHe was prevented from playing football\u201d matches the visual of him watching the game.\n\nEvent 9 (4.4-9.7s): Background: Crowd laughing and talking \u2014 likely mislabeled; it\u2019s more like students in a classroom or legal seminar, so \u201cstudents murmuring\u201d is better.\n\nEvent 10 (4.4-5.6s): Visual: Man in prison cell watching a football game on a small TV, hands clenched.\n\nEvent 11 (5.8-6.8s): SFX: Metal door slams shut \u2014 matches prison cell door closing.\n\nEvent 12 (6.3-7.6s): Speech: Male voice (negative) \u2014 man in prison, eyes downcast, speaking with despair.\n\nEvent 13 (6.3-7.7s): Visual: Man in prison cell, head bowed, graffiti on wall behind him.\n\nEvent 14 (8.8-9.8s): Visual: Man in a brown jacket teaching in a classroom, writing on a whiteboard.\n\nEvent 15 (9.5-11.7s): Speech: Male voice (negative) \u2014 lawyer or mentor speaking seriously to another man, likely about legal consequences.\n\nEvent 16 (10.0-11.1s): Visual: Two men walking outside a courthouse, one in a suit, one in a blue shirt.\n\nEvent 17 (12.0-13.2s): Speech: Male voice (negative) \u2014 man in a gray hoodie listening intently in an office.\n\nEvent 18 (13.8-16.8s): Speech: Male voice (negative) \u2014 two men in a car at night, one speaking urgently.\n\nEvent 19 (17.2-18.6s): Speech: Male voice (dramatic) \u2014 man speaking with intensity, possibly in a monologue.\n\nEvent 20 (17.2-18.6s): SFX: Eerie breath sound \u2014 matches close-up of man\u2019s face in darkness, possibly in prison or car.\n\nEvent 21 (17.8-20.0s): Speech: Male voice (negative) \u2014 man speaking with resignation, hands clasped, possibly outdoors.",
+    "[Chunk 4: 60.0s - 80.0s]\nScene is a dramatic narrative about incarceration and personal transformation, likely from a film or documentary. The setting shifts between a football stadium, prison interiors, and dimly lit rooms, suggesting themes of justice, redemption, and resilience. \n\nEvent 1 (0.0-20.0s): Low-level crowd noise is heard throughout, but visuals show no crowd \u2014 instead, a lone man sits on a bench in an empty stadium. This suggests the noise is either residual or symbolic, not literal. The audio label is retained as it may represent ambient tension or memory.\n\nEvent 2 (0.0-1.8s): Male voice (negative) \u2014 man in plaid shirt speaks with a serious, intense expression. Visuals show him in a dim room, looking distressed. The audio label fits.\n\nEvent 3 (0.1-2.2s): Male voice (playful) \u2014 this conflicts with visuals of a serious man. The audio model likely misclassified the tone. The man\u2019s expression is not playful; he is focused and somber. The label should be corrected to \"serious tone\".\n\nEvent 4 (0.1-14.2s): Driving beat, dark tone, intense energy \u2014 music begins and continues through prison scenes. Visuals include a man in an orange jumpsuit being escorted, then a man in blue prison scrubs, then a close-up of a hand on a shoulder. The music matches the tone.\n\nEvent 5 (2.3-2.9s): Fast air movement \u2014 visual shows a hand moving quickly, possibly during a transfer or struggle. The sound is likely a whoosh from movement, matching the visual.\n\nEvent 6 (3.2-4.3s): Male voice (playful) \u2014 man in blue prison scrubs speaks, but his expression is serious. The audio label is incorrect; should be \"serious tone\".\n\nEvent 7 (3.3-4.3s): Male voice (negative) \u2014 same speaker, same serious look. The audio label \"negative\" is acceptable, but \"serious tone\" is more accurate.\n\nEvent 8 (4.4-5.8s): Visual \u2014 man in blue scrubs stands in a prison cell, looking down. No sound label, so only visual description.\n\nEvent 9 (5.3-6.8s): Male voice (negative) \u2014 man in blue scrubs speaks with a serious expression, eyes downcast. The label fits.\n\nEvent 10 (5.3-5.9s): Fast whooshing sound \u2014 visual shows a hand moving quickly, possibly during a physical interaction. The sound matches.\n\nEvent 11 (7.0-8.0s): Visual \u2014 woman in denim jacket speaks to a man in a stadium. She appears concerned. No sound label, so only visual description.\n\nEvent 12 (8.9-9.6s): Male voice (negative) \u2014 man in blue scrubs speaks, eyes closed, head bowed. The label fits.\n\nEvent 13 (10.6-11.7s): Male voice (negative) \u2014 man in blue scrubs speaks, looking up slightly. The label fits.\n\nEvent 14 (11.7-14.0s): Visual \u2014 close-up of a hand resting on a man\u2019s shoulder, then an older man with gray hair looking down. The hand appears to be comforting.\n\nEvent 15 (12.1-13.5s): Male voice (negative) \u2014 the older man speaks, face serious. The label fits.\n\nEvent 16 (14.0-16.9s): Visual \u2014 older man speaking, then close-up of younger man\u2019s face, eyes closed, head bowed. The scene is emotional, intimate.\n\nEvent 17 (14.6-16.8s): Male voice (negative) \u2014 older man continues speaking. The label fits.\n\nEvent 18 (16.9-19.0s): Visual \u2014 close-up of younger man\u2019s face, eyes closed, then fades to black with text: <text>WHEN JUSTICE FAILED</text>.\n\nEvent 19 (17.2-19.1s): Male voice (negative) \u2014 same speaker, voice fading as text appears. Label fits.\n\nEvent 20 (18.8-20.0s): Driving beat, dark tone, intense energy \u2014 music continues as text appears. The music matches the dramatic tone.",
+    "[Chunk 5: 80.0s - 100.0s]\nThe video appears to be a dramatic film trailer, centered on a Black man facing systemic injustice, likely involving a legal battle, personal struggle, and physical training. The scenes alternate between courtroom, home, gym, and public settings, with strong emotional and thematic undertones. The audio model often mislabels speech as \"uncertain\" or \"negative\" when the visuals suggest more specific emotional tones (e.g., anger, urgency, resolve). The music is consistently energetic and intense, matching the visual tension. Some audio labels like \"distant crowd noise\" are accurate but need to be tied to specific visuals (e.g., reporters, protesters). The \"door slams shut\" sound is clearly tied to a visual of a door closing, which is a key moment. Speech labels should reflect the speaker\u2019s appearance and delivery without paraphrasing content.\n\nEvent 1: Male voice (uncertain) \u2014 visual is a man typing at a desk in dim light, focused, likely internal monologue or planning.\nEvent 2: Male voice (negative) \u2014 same man, same scene, but now with a determined expression, not negative; likely correcting to \"resolute\" or \"determined\".\nEvent 3: Music \u2014 energetic rhythm in minor key, layered \u2014 shown with wide shot of man typing, dim room, creating tension.\nEvent 4: Female voice (angry) \u2014 woman in courtroom, mouth open, eyes wide, clearly yelling \u2014 matches \"angry\" label.\nEvent 5: Distant crowd noise \u2014 visible in scene with reporters and cameras around a man outside a building \u2014 matches.\nEvent 6: Visual \u2014 man being surrounded by reporters, cameras, microphones \u2014 matches \"crowd noise\" context.\nEvent 7: Visual \u2014 man in courtroom, judge looking at him, then man in light blue shirt \u2014 matches dialogue about NFL, likely from judge or lawyer.\nEvent 8: Male voice (negative) \u2014 man outside, being interviewed by reporters \u2014 likely \"defiant\" or \"resolute\" tone, not \"negative\".\nEvent 9: Visual \u2014 man in suit being approached by reporters \u2014 matches \"interview\" setting.\nEvent 10: Male voice (uncertain) \u2014 two men walking together outside, one speaking \u2014 appears confident, not uncertain; should be \"firm\" or \"determined\".\nEvent 11: Male voice (uncertain) \u2014 man speaking in front of a chalkboard, looking up \u2014 visuals suggest conviction, not uncertainty; should be \"resolute\".\nEvent 12: Male voice (uncertain) \u2014 man in dim room, looking upward, brows furrowed \u2014 still suggests inner struggle, but \"determined\" fits better.\nEvent 13: Male voice (uncertain) \u2014 man driving, then family on couch \u2014 dialogue is emotionally heavy, but visuals show distress and reflection, not uncertainty; \"earnest\" or \"distressed\" fits better.\nEvent 14: Door slams shut \u2014 visual of door closing, followed by speech \u2014 sound matches, and visuals confirm.\n\nFixing low-confidence or mismatched audio labels based on visuals: \"uncertain\" \u2192 \"resolute\", \"determined\", \"earnest\" as appropriate; \"negative\" \u2192 \"defiant\" or \"angry\" if applicable; \"crowd noise\" \u2192 tied to reporters; \"door slams\" \u2192 confirmed by visual.",
+    "[Chunk 6: 100.0s - 110.5s]\nScene is a courtroom setting with formal attire, wood paneling, and a serious atmosphere. The audio includes dramatic male voiceovers and smooth jazz music, suggesting a tense narrative. Visuals show a man in a suit standing, then another man in a white shirt reacting intensely, followed by title cards. The music continues through transitions, and a metallic whoosh effect accompanies the title reveal.\n\nEvent 1 (0.0-1.4s): A close-up of a man in a suit with a serious expression, then a wider shot showing him standing in a courtroom. The music is soft jazz with warm bass and drums.\nEvent 2 (0.0-0.8s): Male voice speaks dramatically over the close-up of the man in the suit, who appears concerned or intense.\nEvent 3 (0.8-1.9s): Visual shift to a wider courtroom view with the man standing, audience seated, photographers capturing the moment.\nEvent 4 (1.8-3.0s): Smooth jazz continues as the camera cuts to a Black man in a white shirt, looking intensely forward with furrowed brow.\nEvent 5 (2.1-5.9s): The man in the white shirt remains in focus with intense expression; background audience visible. Music continues.\nEvent 6 (2.5-4.1s): Male voice whispers over the intense close-up of the man in the white shirt.\nEvent 7 (4.9-5.5s): Continued whispering voice over the same intense close-up.\nEvent 8 (5.6-8.8s): Smooth jazz music plays as the screen fades to black, then reveals title text.\nEvent 9 (5.6-9.8s): Metallic whoosh with reverb accompanies the appearance of the title \"BRIAN BANKS\" and then \"AUGUST\".\nEvent 10 (5.9-10.4s): Visuals show the title cards with dramatic lighting and texture, set against a dark background.\n\nAudio labels mostly match, but \"sfx\" at 9.0s should be \"metallic whoosh\" rather than generic \"sfx\" since it's clearly a designed sound effect. Music and speech labels are appropriate. No visual/audio mismatches beyond this."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      110.48054421768707
+    ]
+  ]
+}

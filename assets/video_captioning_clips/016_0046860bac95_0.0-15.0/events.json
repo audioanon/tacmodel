@@ -1,0 +1,1988 @@
+{
+  "cid": "0046860bac957ace4f3c1dea409225db",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 120.8366439909297,
+  "events": [
+    {
+      "start_time": 0.0,
+      "end_time": 1.5849166666666665,
+      "type": "visual",
+      "description": "Bold white \"FAME\" text on blue background with repeating pattern, small inset of woman in red dress",
+      "audio_description": null
+    },
+    {
+      "description": "Driving beat with distorted bass pulses as text \"FAME\" and \"LEGENDS\" flash over green crowd backdrop",
+      "start_time": 0.2,
+      "end_time": 4.7,
+      "duration": 4.5,
+      "type": "music",
+      "confidence": 0.912,
+      "audio_description": "Driving beat, distorted bass, urgent energy"
+    },
+    {
+      "start_time": 1.5849166666666665,
+      "end_time": 2.5859166666666664,
+      "type": "visual",
+      "description": "Green-tinted crowd scene with \"LEGENDS\" in large white letters, people raising hands",
+      "audio_description": null
+    },
+    {
+      "start_time": 2.5859166666666664,
+      "end_time": 4.796458333333333,
+      "type": "visual",
+      "description": "Blue screen with \"Hollywood\" in green, then \"Real\" in white above, \"Story\" in black below, forming \"Real Hollywood Story\"",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (formal) speaks as \"Real Hollywood Story\" text appears on blue background",
+      "start_time": 3.3,
+      "end_time": 4.6,
+      "duration": 1.2999999999999998,
+      "type": "speech",
+      "confidence": 0.936,
+      "audio_description": "Male voice (formal)"
+    },
+    {
+      "description": "Driving beat with distorted bass continues under clips of \"Chip 'n Dale Rescue Rangers\" and memorabilia",
+      "start_time": 4.7,
+      "end_time": 20.0,
+      "duration": 15.3,
+      "type": "music",
+      "confidence": 0.93,
+      "audio_description": "Driving beat, distorted bass, urgent energy"
+    },
+    {
+      "description": "Male voice (conversational) narrates while old TV shows \"Chip 'n Dale Rescue Rangers\" intro and action scenes",
+      "start_time": 4.7,
+      "end_time": 9.5,
+      "duration": 4.8,
+      "type": "speech",
+      "confidence": 0.941,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "start_time": 4.796458333333333,
+      "end_time": 6.172833333333333,
+      "type": "visual",
+      "description": "Old television displays \"Chip 'n Dale Rescue Rangers\" title logo with animated chipmunks in circle",
+      "audio_description": null
+    },
+    {
+      "start_time": 6.172833333333333,
+      "end_time": 8.967291666666666,
+      "type": "visual",
+      "description": "Retro TV shows animated scenes: Chip and Dale flying with parachute, driving car, rescuing character",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (formal) narrates as TV plays clips of Chip and Dale in rescue missions",
+      "start_time": 6.2,
+      "end_time": 9.6,
+      "duration": 3.3999999999999995,
+      "type": "speech",
+      "confidence": 0.966,
+      "audio_description": "Male voice (formal)"
+    },
+    {
+      "description": "Soft ambient hum as TV continues showing animated rescue scenes",
+      "start_time": 7.9,
+      "end_time": 10.2,
+      "duration": 2.299999999999999,
+      "type": "background",
+      "confidence": 0.692,
+      "audio_description": "Soft ambient sounds"
+    },
+    {
+      "start_time": 8.967291666666666,
+      "end_time": 12.804458333333333,
+      "type": "visual",
+      "description": "TV displays Chip and Dale rescuing characters, then transitioning to a cozy room filled with memorabilia",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (formal) narrates over scenes of Chip and Dale memorabilia and animated characters",
+      "start_time": 9.7,
+      "end_time": 12.8,
+      "duration": 3.1000000000000014,
+      "type": "speech",
+      "confidence": 0.965,
+      "audio_description": "Male voice (formal)"
+    },
+    {
+      "description": "Sci-fi transition sound as screen shifts from TV to cluttered room with colorful lights and collectibles",
+      "start_time": 12.5,
+      "end_time": 13.5,
+      "duration": 1.0,
+      "type": "sfx",
+      "confidence": 0.94,
+      "audio_description": "Sci-fi transition sound"
+    },
+    {
+      "start_time": 13.513499999999999,
+      "end_time": 14.556208333333332,
+      "type": "visual",
+      "description": "Close-up of red \"Chip 'n Dale Rescue Rangers\" arcade game and plush toys beside a vintage popcorn bucket",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice (formal) narrates while shelves of Chip and Dale toys, a gramophone, and a microphone are shown",
+      "start_time": 14.3,
+      "end_time": 17.2,
+      "duration": 2.8999999999999986,
+      "type": "speech",
+      "confidence": 0.967,
+      "audio_description": "Male voice (formal)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 3.322,
+        "end": 4.623,
+        "text": " Real Hollywood Story.",
+        "words": [
+          {
+            "word": "Real",
+            "start": 3.322,
+            "end": 3.642,
+            "score": 0.884
+          },
+          {
+            "word": "Hollywood",
+            "start": 3.702,
+            "end": 4.183,
+            "score": 0.886
+          },
+          {
+            "word": "Story.",
+            "start": 4.243,
+            "end": 4.623,
+            "score": 0.96
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.245,
+        "end": 14.172,
+        "text": "Chip and Dale Rescue Rangers, the show that defined the generation and turned two unknown chipmunks into international superstars.",
+        "words": [
+          {
+            "word": "Chip",
+            "start": 6.245,
+            "end": 6.445,
+            "score": 0.572
+          },
+          {
+            "word": "and",
+            "start": 6.465,
+            "end": 6.545,
+            "score": 0.511
+          },
+          {
+            "word": "Dale",
+            "start": 6.565,
+            "end": 6.865,
+            "score": 0.871
+          },
+          {
+            "word": "Rescue",
+            "start": 6.945,
+            "end": 7.305,
+            "score": 0.862
+          },
+          {
+            "word": "Rangers,",
+            "start": 7.366,
+            "end": 7.746,
+            "score": 0.893
+          },
+          {
+            "word": "the",
+            "start": 7.986,
+            "end": 8.086,
+            "score": 0.747
+          },
+          {
+            "word": "show",
+            "start": 8.146,
+            "end": 8.366,
+            "score": 0.959
+          },
+          {
+            "word": "that",
+            "start": 8.406,
+            "end": 8.547,
+            "score": 0.408
+          },
+          {
+            "word": "defined",
+            "start": 8.587,
+            "end": 9.007,
+            "score": 0.833
+          },
+          {
+            "word": "the",
+            "start": 9.047,
+            "end": 9.107,
+            "score": 0.987
+          },
+          {
+            "word": "generation",
+            "start": 9.147,
+            "end": 9.587,
+            "score": 0.874
+          },
+          {
+            "word": "and",
+            "start": 9.748,
+            "end": 9.808,
+            "score": 0.674
+          },
+          {
+            "word": "turned",
+            "start": 9.868,
+            "end": 10.108,
+            "score": 0.876
+          },
+          {
+            "word": "two",
+            "start": 10.188,
+            "end": 10.368,
+            "score": 0.923
+          },
+          {
+            "word": "unknown",
+            "start": 10.548,
+            "end": 10.829,
+            "score": 0.926
+          },
+          {
+            "word": "chipmunks",
+            "start": 10.889,
+            "end": 11.289,
+            "score": 0.935
+          },
+          {
+            "word": "into",
+            "start": 11.389,
+            "end": 11.549,
+            "score": 0.947
+          },
+          {
+            "word": "international",
+            "start": 11.569,
+            "end": 12.17,
+            "score": 0.892
+          },
+          {
+            "word": "superstars.",
+            "start": 12.23,
+            "end": 14.172,
+            "score": 0.875
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.272,
+        "end": 16.694,
+        "text": "But a success took Chip and Dale to new heights.",
+        "words": [
+          {
+            "word": "But",
+            "start": 14.272,
+            "end": 14.392,
+            "score": 0.652
+          },
+          {
+            "word": "a",
+            "start": 14.452,
+            "end": 14.492,
+            "score": 0.886
+          },
+          {
+            "word": "success",
+            "start": 14.552,
+            "end": 15.072,
+            "score": 0.85
+          },
+          {
+            "word": "took",
+            "start": 15.112,
+            "end": 15.373,
+            "score": 0.891
+          },
+          {
+            "word": "Chip",
+            "start": 15.433,
+            "end": 15.613,
+            "score": 0.836
+          },
+          {
+            "word": "and",
+            "start": 15.633,
+            "end": 15.713,
+            "score": 0.498
+          },
+          {
+            "word": "Dale",
+            "start": 15.733,
+            "end": 16.013,
+            "score": 0.842
+          },
+          {
+            "word": "to",
+            "start": 16.053,
+            "end": 16.093,
+            "score": 0.111
+          },
+          {
+            "word": "new",
+            "start": 16.153,
+            "end": 16.293,
+            "score": 0.99
+          },
+          {
+            "word": "heights.",
+            "start": 16.393,
+            "end": 16.694,
+            "score": 0.908
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.054,
+        "end": 19.636,
+        "text": "To many more seasons of the Rescue Rangers.",
+        "words": [
+          {
+            "word": "To",
+            "start": 17.054,
+            "end": 17.094,
+            "score": 0.499
+          },
+          {
+            "word": "many",
+            "start": 17.274,
+            "end": 17.595,
+            "score": 0.797
+          },
+          {
+            "word": "more",
+            "start": 17.655,
+            "end": 17.875,
+            "score": 0.881
+          },
+          {
+            "word": "seasons",
+            "start": 17.955,
+            "end": 18.375,
+            "score": 0.912
+          },
+          {
+            "word": "of",
+            "start": 18.455,
+            "end": 18.515,
+            "score": 0.698
+          },
+          {
+            "word": "the",
+            "start": 18.555,
+            "end": 18.615,
+            "score": 0.986
+          },
+          {
+            "word": "Rescue",
+            "start": 18.635,
+            "end": 19.076,
+            "score": 0.801
+          },
+          {
+            "word": "Rangers.",
+            "start": 19.116,
+            "end": 19.636,
+            "score": 0.916
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 19.937,
+        "end": 21.098,
+        "text": "We were living the dream.",
+        "words": [
+          {
+            "word": "We",
+            "start": 19.937,
+            "end": 20.057,
+            "score": 0.968
+          },
+          {
+            "word": "were",
+            "start": 20.097,
+            "end": 20.197,
+            "score": 0.975
+          },
+          {
+            "word": "living",
+            "start": 20.257,
+            "end": 20.497,
+            "score": 0.852
+          },
+          {
+            "word": "the",
+            "start": 20.537,
+            "end": 20.597,
+            "score": 0.966
+          },
+          {
+            "word": "dream.",
+            "start": 20.657,
+            "end": 21.098,
+            "score": 0.89
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 21.258,
+        "end": 24.02,
+        "text": "Dancing the Roger Rabbit with Roger Rabbit.",
+        "words": [
+          {
+            "word": "Dancing",
+            "start": 21.258,
+            "end": 21.618,
+            "score": 0.862
+          },
+          {
+            "word": "the",
+            "start": 21.658,
+            "end": 21.718,
+            "score": 0.801
+          },
+          {
+            "word": "Roger",
+            "start": 21.758,
+            "end": 22.098,
+            "score": 0.777
+          },
+          {
+            "word": "Rabbit",
+            "start": 22.199,
+            "end": 22.479,
+            "score": 0.913
+          },
+          {
+            "word": "with",
+            "start": 22.619,
+            "end": 22.879,
+            "score": 0.958
+          },
+          {
+            "word": "Roger",
+            "start": 22.979,
+            "end": 23.3,
+            "score": 0.914
+          },
+          {
+            "word": "Rabbit.",
+            "start": 23.36,
+            "end": 24.02,
+            "score": 0.771
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 26.763,
+        "end": 28.264,
+        "text": "No one ever imagined.",
+        "words": [
+          {
+            "word": "No",
+            "start": 26.763,
+            "end": 26.883,
+            "score": 0.994
+          },
+          {
+            "word": "one",
+            "start": 26.963,
+            "end": 27.063,
+            "score": 0.831
+          },
+          {
+            "word": "ever",
+            "start": 27.183,
+            "end": 27.323,
+            "score": 0.92
+          },
+          {
+            "word": "imagined.",
+            "start": 27.383,
+            "end": 28.264,
+            "score": 0.777
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 31.266,
+        "end": 33.008,
+        "text": "It could all come crashing down.",
+        "words": [
+          {
+            "word": "It",
+            "start": 31.266,
+            "end": 31.327,
+            "score": 0.992
+          },
+          {
+            "word": "could",
+            "start": 31.367,
+            "end": 31.507,
+            "score": 0.786
+          },
+          {
+            "word": "all",
+            "start": 31.647,
+            "end": 31.787,
+            "score": 0.82
+          },
+          {
+            "word": "come",
+            "start": 31.887,
+            "end": 32.067,
+            "score": 0.96
+          },
+          {
+            "word": "crashing",
+            "start": 32.147,
+            "end": 32.548,
+            "score": 0.956
+          },
+          {
+            "word": "down.",
+            "start": 32.608,
+            "end": 33.008,
+            "score": 0.81
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 35.114,
+        "end": 36.256,
+        "text": " Torn by vanity.",
+        "words": [
+          {
+            "word": "Torn",
+            "start": 35.114,
+            "end": 35.495,
+            "score": 0.784
+          },
+          {
+            "word": "by",
+            "start": 35.635,
+            "end": 35.755,
+            "score": 0.996
+          },
+          {
+            "word": "vanity.",
+            "start": 35.835,
+            "end": 36.256,
+            "score": 0.961
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 36.516,
+        "end": 38.179,
+        "text": "You look different.",
+        "words": [
+          {
+            "word": "You",
+            "start": 36.516,
+            "end": 36.656,
+            "score": 0.87
+          },
+          {
+            "word": "look",
+            "start": 36.696,
+            "end": 36.937,
+            "score": 0.727
+          },
+          {
+            "word": "different.",
+            "start": 37.437,
+            "end": 38.179,
+            "score": 0.938
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 38.199,
+        "end": 40.622,
+        "text": "Hey, it's no secret I had the CGI surgery done.",
+        "words": [
+          {
+            "word": "Hey,",
+            "start": 38.199,
+            "end": 38.319,
+            "score": 0.32
+          },
+          {
+            "word": "it's",
+            "start": 38.339,
+            "end": 38.439,
+            "score": 0.989
+          },
+          {
+            "word": "no",
+            "start": 38.499,
+            "end": 38.639,
+            "score": 0.818
+          },
+          {
+            "word": "secret",
+            "start": 38.719,
+            "end": 39.02,
+            "score": 0.938
+          },
+          {
+            "word": "I",
+            "start": 39.06,
+            "end": 39.1,
+            "score": 0.966
+          },
+          {
+            "word": "had",
+            "start": 39.16,
+            "end": 39.28,
+            "score": 0.821
+          },
+          {
+            "word": "the",
+            "start": 39.32,
+            "end": 39.38,
+            "score": 0.555
+          },
+          {
+            "word": "CGI",
+            "start": 39.42,
+            "end": 39.921,
+            "score": 0.778
+          },
+          {
+            "word": "surgery",
+            "start": 39.981,
+            "end": 40.382,
+            "score": 0.811
+          },
+          {
+            "word": "done.",
+            "start": 40.402,
+            "end": 40.622,
+            "score": 0.8
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 41.363,
+        "end": 42.605,
+        "text": "Consumed by temptation.",
+        "words": [
+          {
+            "word": "Consumed",
+            "start": 41.363,
+            "end": 41.844,
+            "score": 0.899
+          },
+          {
+            "word": "by",
+            "start": 41.884,
+            "end": 41.984,
+            "score": 0.997
+          },
+          {
+            "word": "temptation.",
+            "start": 42.064,
+            "end": 42.605,
+            "score": 0.873
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 42.705,
+        "end": 44.248,
+        "text": "My love of G's got the best of me.",
+        "words": [
+          {
+            "word": "My",
+            "start": 42.705,
+            "end": 42.806,
+            "score": 0.384
+          },
+          {
+            "word": "love",
+            "start": 42.846,
+            "end": 42.966,
+            "score": 0.523
+          },
+          {
+            "word": "of",
+            "start": 43.006,
+            "end": 43.066,
+            "score": 0.874
+          },
+          {
+            "word": "G's",
+            "start": 43.146,
+            "end": 43.467,
+            "score": 0.697
+          },
+          {
+            "word": "got",
+            "start": 43.487,
+            "end": 43.607,
+            "score": 0.783
+          },
+          {
+            "word": "the",
+            "start": 43.627,
+            "end": 43.707,
+            "score": 0.821
+          },
+          {
+            "word": "best",
+            "start": 43.747,
+            "end": 43.967,
+            "score": 0.66
+          },
+          {
+            "word": "of",
+            "start": 44.027,
+            "end": 44.067,
+            "score": 0.959
+          },
+          {
+            "word": "me.",
+            "start": 44.128,
+            "end": 44.248,
+            "score": 0.974
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.488,
+        "end": 46.03,
+        "text": "I just love it so much.",
+        "words": [
+          {
+            "word": "I",
+            "start": 44.488,
+            "end": 44.568,
+            "score": 0.663
+          },
+          {
+            "word": "just",
+            "start": 44.608,
+            "end": 44.809,
+            "score": 0.741
+          },
+          {
+            "word": "love",
+            "start": 44.869,
+            "end": 45.109,
+            "score": 0.854
+          },
+          {
+            "word": "it",
+            "start": 45.149,
+            "end": 45.249,
+            "score": 0.758
+          },
+          {
+            "word": "so",
+            "start": 45.349,
+            "end": 45.61,
+            "score": 0.964
+          },
+          {
+            "word": "much.",
+            "start": 45.69,
+            "end": 46.03,
+            "score": 0.912
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.491,
+        "end": 48.294,
+        "text": "More please.",
+        "words": [
+          {
+            "word": "More",
+            "start": 46.491,
+            "end": 46.711,
+            "score": 0.348
+          },
+          {
+            "word": "please.",
+            "start": 46.731,
+            "end": 48.294,
+            "score": 0.42
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 48.314,
+        "end": 50.197,
+        "text": "More please.",
+        "words": [
+          {
+            "word": "More",
+            "start": 48.314,
+            "end": 48.534,
+            "score": 0.336
+          },
+          {
+            "word": "please.",
+            "start": 48.554,
+            "end": 50.197,
+            "score": 0.428
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.217,
+        "end": 53.161,
+        "text": "Is it possible that two living legends are destined to reunite?",
+        "words": [
+          {
+            "word": "Is",
+            "start": 50.217,
+            "end": 50.277,
+            "score": 0.693
+          },
+          {
+            "word": "it",
+            "start": 50.337,
+            "end": 50.397,
+            "score": 0.789
+          },
+          {
+            "word": "possible",
+            "start": 50.437,
+            "end": 50.798,
+            "score": 0.828
+          },
+          {
+            "word": "that",
+            "start": 50.878,
+            "end": 50.978,
+            "score": 0.986
+          },
+          {
+            "word": "two",
+            "start": 51.058,
+            "end": 51.198,
+            "score": 0.796
+          },
+          {
+            "word": "living",
+            "start": 51.258,
+            "end": 51.438,
+            "score": 0.88
+          },
+          {
+            "word": "legends",
+            "start": 51.499,
+            "end": 51.799,
+            "score": 0.989
+          },
+          {
+            "word": "are",
+            "start": 51.959,
+            "end": 52.039,
+            "score": 0.597
+          },
+          {
+            "word": "destined",
+            "start": 52.119,
+            "end": 52.5,
+            "score": 0.924
+          },
+          {
+            "word": "to",
+            "start": 52.54,
+            "end": 52.62,
+            "score": 0.719
+          },
+          {
+            "word": "reunite?",
+            "start": 52.7,
+            "end": 53.161,
+            "score": 0.953
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.181,
+        "end": 57.087,
+        "text": "I'm thinking reboot.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 53.181,
+            "end": 55.705,
+            "score": 0.581
+          },
+          {
+            "word": "thinking",
+            "start": 55.745,
+            "end": 56.166,
+            "score": 0.816
+          },
+          {
+            "word": "reboot.",
+            "start": 56.266,
+            "end": 57.087,
+            "score": 0.382
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 57.107,
+        "end": 58.489,
+        "text": "Nobody wants a reboot.",
+        "words": [
+          {
+            "word": "Nobody",
+            "start": 57.107,
+            "end": 57.407,
+            "score": 0.831
+          },
+          {
+            "word": "wants",
+            "start": 57.467,
+            "end": 57.688,
+            "score": 0.91
+          },
+          {
+            "word": "a",
+            "start": 57.748,
+            "end": 57.808,
+            "score": 0.804
+          },
+          {
+            "word": "reboot.",
+            "start": 57.828,
+            "end": 58.489,
+            "score": 0.809
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.051,
+        "end": 61.852,
+        "text": " My best friend.",
+        "words": [
+          {
+            "word": "My",
+            "start": 61.051,
+            "end": 61.231,
+            "score": 0.36
+          },
+          {
+            "word": "best",
+            "start": 61.251,
+            "end": 61.432,
+            "score": 0.628
+          },
+          {
+            "word": "friend.",
+            "start": 61.492,
+            "end": 61.852,
+            "score": 0.346
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.872,
+        "end": 62.914,
+        "text": "Get the rescue rangers.",
+        "words": [
+          {
+            "word": "Get",
+            "start": 61.872,
+            "end": 61.932,
+            "score": 0.025
+          },
+          {
+            "word": "the",
+            "start": 61.952,
+            "end": 62.012,
+            "score": 0.184
+          },
+          {
+            "word": "rescue",
+            "start": 62.053,
+            "end": 62.393,
+            "score": 0.884
+          },
+          {
+            "word": "rangers.",
+            "start": 62.453,
+            "end": 62.914,
+            "score": 0.686
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 62.954,
+        "end": 64.196,
+        "text": "You need a disguise or something.",
+        "words": [
+          {
+            "word": "You",
+            "start": 62.954,
+            "end": 63.074,
+            "score": 0.562
+          },
+          {
+            "word": "need",
+            "start": 63.114,
+            "end": 63.254,
+            "score": 0.496
+          },
+          {
+            "word": "a",
+            "start": 63.274,
+            "end": 63.314,
+            "score": 0.754
+          },
+          {
+            "word": "disguise",
+            "start": 63.335,
+            "end": 63.755,
+            "score": 0.685
+          },
+          {
+            "word": "or",
+            "start": 63.815,
+            "end": 63.875,
+            "score": 0.808
+          },
+          {
+            "word": "something.",
+            "start": 63.915,
+            "end": 64.196,
+            "score": 0.903
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 64.276,
+        "end": 65.177,
+        "text": "Grab the first thing you can.",
+        "words": [
+          {
+            "word": "Grab",
+            "start": 64.276,
+            "end": 64.396,
+            "score": 0.33
+          },
+          {
+            "word": "the",
+            "start": 64.436,
+            "end": 64.496,
+            "score": 0.997
+          },
+          {
+            "word": "first",
+            "start": 64.536,
+            "end": 64.657,
+            "score": 0.922
+          },
+          {
+            "word": "thing",
+            "start": 64.677,
+            "end": 64.777,
+            "score": 0.984
+          },
+          {
+            "word": "you",
+            "start": 64.817,
+            "end": 64.897,
+            "score": 0.995
+          },
+          {
+            "word": "can.",
+            "start": 64.917,
+            "end": 65.177,
+            "score": 0.829
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 66.96,
+        "end": 68.382,
+        "text": "Uh.",
+        "words": [
+          {
+            "word": "Uh.",
+            "start": 66.96,
+            "end": 68.382,
+            "score": 0.495
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 72.148,
+        "end": 72.248,
+        "text": "What?",
+        "words": [
+          {
+            "word": "What?",
+            "start": 72.148,
+            "end": 72.248,
+            "score": 0.126
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 72.268,
+        "end": 73.17,
+        "text": "My best friend.",
+        "words": [
+          {
+            "word": "My",
+            "start": 72.268,
+            "end": 72.308,
+            "score": 0.007
+          },
+          {
+            "word": "best",
+            "start": 72.328,
+            "end": 72.509,
+            "score": 0.626
+          },
+          {
+            "word": "friend.",
+            "start": 72.549,
+            "end": 73.17,
+            "score": 0.673
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 73.19,
+        "end": 74.151,
+        "text": "She a real bad.",
+        "words": [
+          {
+            "word": "She",
+            "start": 73.19,
+            "end": 73.37,
+            "score": 0.907
+          },
+          {
+            "word": "a",
+            "start": 73.41,
+            "end": 73.51,
+            "score": 0.814
+          },
+          {
+            "word": "real",
+            "start": 73.55,
+            "end": 73.771,
+            "score": 0.851
+          },
+          {
+            "word": "bad.",
+            "start": 73.851,
+            "end": 74.151,
+            "score": 0.806
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 74.472,
+        "end": 75.673,
+        "text": "Got her own money.",
+        "words": [
+          {
+            "word": "Got",
+            "start": 74.472,
+            "end": 74.672,
+            "score": 0.817
+          },
+          {
+            "word": "her",
+            "start": 74.992,
+            "end": 75.052,
+            "score": 0.31
+          },
+          {
+            "word": "own",
+            "start": 75.213,
+            "end": 75.313,
+            "score": 0.11
+          },
+          {
+            "word": "money.",
+            "start": 75.333,
+            "end": 75.673,
+            "score": 0.312
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 75.693,
+        "end": 77.296,
+        "text": "She a real good money.",
+        "words": [
+          {
+            "word": "She",
+            "start": 75.693,
+            "end": 76.074,
+            "score": 0.823
+          },
+          {
+            "word": "a",
+            "start": 76.935,
+            "end": 76.955,
+            "score": 0.0
+          },
+          {
+            "word": "real",
+            "start": 76.975,
+            "end": 77.056,
+            "score": 0.0
+          },
+          {
+            "word": "good",
+            "start": 77.076,
+            "end": 77.156,
+            "score": 0.014
+          },
+          {
+            "word": "money.",
+            "start": 77.176,
+            "end": 77.296,
+            "score": 0.067
+          }
+        ],
+        "detected_language": "ko"
+      },
+      {
+        "start": 77.316,
+        "end": 78.077,
+        "text": "My best friend.",
+        "words": [
+          {
+            "word": "My",
+            "start": 77.316,
+            "end": 77.356,
+            "score": 0.286
+          },
+          {
+            "word": "best",
+            "start": 77.436,
+            "end": 77.616,
+            "score": 0.526
+          },
+          {
+            "word": "friend.",
+            "start": 77.677,
+            "end": 78.077,
+            "score": 0.793
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 78.297,
+        "end": 80.441,
+        "text": "She a real bad.",
+        "words": [
+          {
+            "word": "She",
+            "start": 78.297,
+            "end": 78.478,
+            "score": 0.891
+          },
+          {
+            "word": "a",
+            "start": 78.538,
+            "end": 78.638,
+            "score": 0.723
+          },
+          {
+            "word": "real",
+            "start": 78.678,
+            "end": 78.838,
+            "score": 0.51
+          },
+          {
+            "word": "bad.",
+            "start": 80.301,
+            "end": 80.441,
+            "score": 0.489
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 80.561,
+        "end": 82.123,
+        "text": "Rescue Rangers 2.0.",
+        "words": [
+          {
+            "word": "Rescue",
+            "start": 80.561,
+            "end": 80.881,
+            "score": 0.84
+          },
+          {
+            "word": "Rangers",
+            "start": 80.921,
+            "end": 81.302,
+            "score": 0.649
+          },
+          {
+            "word": "2.0.",
+            "start": 81.322,
+            "end": 82.123,
+            "score": 0.848
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 82.284,
+        "end": 83.225,
+        "text": "My best friend.",
+        "words": [
+          {
+            "word": "My",
+            "start": 82.284,
+            "end": 82.604,
+            "score": 0.286
+          },
+          {
+            "word": "best",
+            "start": 82.624,
+            "end": 82.704,
+            "score": 0.19
+          },
+          {
+            "word": "friend.",
+            "start": 82.784,
+            "end": 83.225,
+            "score": 0.374
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 83.245,
+        "end": 83.866,
+        "text": "Best friend.",
+        "words": [
+          {
+            "word": "Best",
+            "start": 83.245,
+            "end": 83.385,
+            "score": 0.522
+          },
+          {
+            "word": "friend.",
+            "start": 83.485,
+            "end": 83.866,
+            "score": 0.415
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 83.886,
+        "end": 84.527,
+        "text": "Best friend.",
+        "words": [
+          {
+            "word": "Best",
+            "start": 83.886,
+            "end": 84.006,
+            "score": 0.348
+          },
+          {
+            "word": "friend.",
+            "start": 84.086,
+            "end": 84.527,
+            "score": 0.343
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 86.093,
+        "end": 93.142,
+        "text": " This place looks weird.",
+        "words": [
+          {
+            "word": "This",
+            "start": 86.093,
+            "end": 91.88,
+            "score": 0.786
+          },
+          {
+            "word": "place",
+            "start": 91.96,
+            "end": 92.181,
+            "score": 0.999
+          },
+          {
+            "word": "looks",
+            "start": 92.221,
+            "end": 92.421,
+            "score": 0.895
+          },
+          {
+            "word": "weird.",
+            "start": 92.641,
+            "end": 93.142,
+            "score": 0.871
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 93.402,
+        "end": 97.748,
+        "text": "Remember that animation style where everything looked real but nothing looked right?",
+        "words": [
+          {
+            "word": "Remember",
+            "start": 93.402,
+            "end": 93.803,
+            "score": 0.949
+          },
+          {
+            "word": "that",
+            "start": 93.843,
+            "end": 93.963,
+            "score": 0.911
+          },
+          {
+            "word": "animation",
+            "start": 94.003,
+            "end": 94.624,
+            "score": 0.823
+          },
+          {
+            "word": "style",
+            "start": 94.664,
+            "end": 95.024,
+            "score": 0.794
+          },
+          {
+            "word": "where",
+            "start": 95.064,
+            "end": 95.204,
+            "score": 0.922
+          },
+          {
+            "word": "everything",
+            "start": 95.325,
+            "end": 95.685,
+            "score": 0.842
+          },
+          {
+            "word": "looked",
+            "start": 95.765,
+            "end": 95.985,
+            "score": 0.802
+          },
+          {
+            "word": "real",
+            "start": 96.106,
+            "end": 96.446,
+            "score": 0.79
+          },
+          {
+            "word": "but",
+            "start": 96.606,
+            "end": 96.746,
+            "score": 0.939
+          },
+          {
+            "word": "nothing",
+            "start": 96.826,
+            "end": 97.107,
+            "score": 0.886
+          },
+          {
+            "word": "looked",
+            "start": 97.167,
+            "end": 97.387,
+            "score": 0.893
+          },
+          {
+            "word": "right?",
+            "start": 97.487,
+            "end": 97.748,
+            "score": 0.973
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 97.908,
+        "end": 99.249,
+        "text": "Who are you?",
+        "words": [
+          {
+            "word": "Who",
+            "start": 97.908,
+            "end": 98.228,
+            "score": 0.7
+          },
+          {
+            "word": "are",
+            "start": 98.729,
+            "end": 98.869,
+            "score": 0.762
+          },
+          {
+            "word": "you?",
+            "start": 98.949,
+            "end": 99.249,
+            "score": 0.94
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 99.33,
+        "end": 100.972,
+        "text": "Are you talking to us?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 99.33,
+            "end": 99.91,
+            "score": 0.608
+          },
+          {
+            "word": "you",
+            "start": 99.97,
+            "end": 100.09,
+            "score": 0.945
+          },
+          {
+            "word": "talking",
+            "start": 100.171,
+            "end": 100.511,
+            "score": 0.961
+          },
+          {
+            "word": "to",
+            "start": 100.531,
+            "end": 100.571,
+            "score": 0.392
+          },
+          {
+            "word": "us?",
+            "start": 100.831,
+            "end": 100.972,
+            "score": 0.872
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 101.372,
+        "end": 101.913,
+        "text": "Obviously.",
+        "words": [
+          {
+            "word": "Obviously.",
+            "start": 101.372,
+            "end": 101.913,
+            "score": 0.898
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.173,
+        "end": 103.895,
+        "text": "But it looks like you're talking to that window.",
+        "words": [
+          {
+            "word": "But",
+            "start": 102.173,
+            "end": 102.293,
+            "score": 0.949
+          },
+          {
+            "word": "it",
+            "start": 102.333,
+            "end": 102.373,
+            "score": 0.999
+          },
+          {
+            "word": "looks",
+            "start": 102.413,
+            "end": 102.594,
+            "score": 0.899
+          },
+          {
+            "word": "like",
+            "start": 102.634,
+            "end": 102.754,
+            "score": 0.992
+          },
+          {
+            "word": "you're",
+            "start": 102.794,
+            "end": 102.954,
+            "score": 0.814
+          },
+          {
+            "word": "talking",
+            "start": 102.994,
+            "end": 103.274,
+            "score": 0.925
+          },
+          {
+            "word": "to",
+            "start": 103.294,
+            "end": 103.355,
+            "score": 0.725
+          },
+          {
+            "word": "that",
+            "start": 103.395,
+            "end": 103.515,
+            "score": 0.866
+          },
+          {
+            "word": "window.",
+            "start": 103.575,
+            "end": 103.895,
+            "score": 0.962
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 104.296,
+        "end": 106.298,
+        "text": "It actually looks like I'm looking right at you.",
+        "words": [
+          {
+            "word": "It",
+            "start": 104.296,
+            "end": 104.376,
+            "score": 0.986
+          },
+          {
+            "word": "actually",
+            "start": 104.456,
+            "end": 104.736,
+            "score": 0.807
+          },
+          {
+            "word": "looks",
+            "start": 104.776,
+            "end": 104.997,
+            "score": 0.794
+          },
+          {
+            "word": "like",
+            "start": 105.057,
+            "end": 105.257,
+            "score": 0.717
+          },
+          {
+            "word": "I'm",
+            "start": 105.337,
+            "end": 105.437,
+            "score": 0.917
+          },
+          {
+            "word": "looking",
+            "start": 105.457,
+            "end": 105.738,
+            "score": 0.805
+          },
+          {
+            "word": "right",
+            "start": 105.778,
+            "end": 105.978,
+            "score": 0.83
+          },
+          {
+            "word": "at",
+            "start": 106.018,
+            "end": 106.058,
+            "score": 0.998
+          },
+          {
+            "word": "you.",
+            "start": 106.098,
+            "end": 106.298,
+            "score": 0.948
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 106.318,
+        "end": 107.34,
+        "text": "Okay.",
+        "words": [
+          {
+            "word": "Okay.",
+            "start": 106.318,
+            "end": 107.34,
+            "score": 0.827
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 107.38,
+        "end": 110.143,
+        "text": "Look at my eyes, looking right at your eyes.",
+        "words": [
+          {
+            "word": "Look",
+            "start": 107.38,
+            "end": 107.58,
+            "score": 0.831
+          },
+          {
+            "word": "at",
+            "start": 107.62,
+            "end": 107.66,
+            "score": 0.997
+          },
+          {
+            "word": "my",
+            "start": 107.72,
+            "end": 107.9,
+            "score": 0.988
+          },
+          {
+            "word": "eyes,",
+            "start": 108.08,
+            "end": 108.261,
+            "score": 0.703
+          },
+          {
+            "word": "looking",
+            "start": 108.561,
+            "end": 108.841,
+            "score": 0.823
+          },
+          {
+            "word": "right",
+            "start": 108.922,
+            "end": 109.142,
+            "score": 0.824
+          },
+          {
+            "word": "at",
+            "start": 109.182,
+            "end": 109.222,
+            "score": 0.994
+          },
+          {
+            "word": "your",
+            "start": 109.282,
+            "end": 109.462,
+            "score": 0.811
+          },
+          {
+            "word": "eyes.",
+            "start": 109.662,
+            "end": 110.143,
+            "score": 0.734
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 112.604,
+        "end": 118.53,
+        "text": " That my best friend, she a real bad, got her own money, she don't need no.",
+        "words": [
+          {
+            "word": "That",
+            "start": 112.604,
+            "end": 113.347,
+            "score": 0.636
+          },
+          {
+            "word": "my",
+            "start": 113.367,
+            "end": 113.408,
+            "score": 0.482
+          },
+          {
+            "word": "best",
+            "start": 113.669,
+            "end": 114.111,
+            "score": 0.686
+          },
+          {
+            "word": "friend,",
+            "start": 114.291,
+            "end": 114.774,
+            "score": 0.359
+          },
+          {
+            "word": "she",
+            "start": 114.794,
+            "end": 114.995,
+            "score": 0.68
+          },
+          {
+            "word": "a",
+            "start": 115.055,
+            "end": 115.095,
+            "score": 0.751
+          },
+          {
+            "word": "real",
+            "start": 115.175,
+            "end": 115.396,
+            "score": 0.655
+          },
+          {
+            "word": "bad,",
+            "start": 115.457,
+            "end": 115.758,
+            "score": 0.911
+          },
+          {
+            "word": "got",
+            "start": 116.099,
+            "end": 116.28,
+            "score": 0.811
+          },
+          {
+            "word": "her",
+            "start": 116.421,
+            "end": 116.481,
+            "score": 0.0
+          },
+          {
+            "word": "own",
+            "start": 116.501,
+            "end": 116.682,
+            "score": 0.482
+          },
+          {
+            "word": "money,",
+            "start": 116.762,
+            "end": 117.064,
+            "score": 0.782
+          },
+          {
+            "word": "she",
+            "start": 117.325,
+            "end": 117.526,
+            "score": 0.331
+          },
+          {
+            "word": "don't",
+            "start": 117.546,
+            "end": 117.646,
+            "score": 0.194
+          },
+          {
+            "word": "need",
+            "start": 117.706,
+            "end": 117.948,
+            "score": 0.842
+          },
+          {
+            "word": "no.",
+            "start": 117.988,
+            "end": 118.53,
+            "score": 0.819
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nThe video begins with a dynamic title sequence using bold text and vibrant colors, transitioning through \"FAME,\" \"LEGENDS,\" and \"Real Hollywood Story.\" The audio is a driving beat with distorted bass, creating an urgent, energetic tone. The visuals shift to an old-fashioned television set displaying clips from the animated series \"Chip 'n Dale Rescue Rangers,\" with scenes of the characters in action \u2014 flying, driving, and rescuing. The music continues throughout, maintaining a fast-paced rhythm. The scene then transitions to a cluttered, nostalgic room filled with memorabilia from the show, including plush toys, a vintage arcade game, and a Nintendo cartridge. This is followed by animated scenes of the characters celebrating with a cake, surrounded by fans. The audio includes a male voice narrating in a formal tone, describing the show's success and impact. The visuals emphasize the cultural legacy of the series, showing both physical memorabilia and animated celebrations. The final frames show a crowd of fans cheering, indicating the show's enduring popularity. All audio labels align with the visuals: music is present during the intro and transitions, speech is from a narrator describing the show, and visual scenes match the audio content without needing corrections.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe video opens with a lively party scene blending live-action and animated characters, set in a dimly lit hall with balloons and dancing. The audio includes crowd noise and playful male voices, matching the energetic and celebratory visuals. The music is upbeat and danceable, fitting the party atmosphere. A transition to the Hollywood sign suggests a shift in time or setting. The scene then cuts to a backstage dressing room where Chip and Dale are getting ready, followed by a glossy magazine cover of \"Variety\" featuring the Rescue Rangers, indicating their fame. The video then jumps forward in time with text overlays (\"30 YEARS LATER\"), showing a stark contrast: a desaturated, modern city street. The tone shifts to somber as we see Chip and Dale in a luxurious but emotionally distant setting, with one character appearing unwell or distressed. The final shot is a high-tech control panel with \"PR\" displayed, hinting at a corporate or digital turn for their story. Throughout, the audio labels need correction \u2014 \"crowd noise\" is accurate for the party, but \"sfx\" like \"fast drum beat\" or \"whooshing sound\" are better described as musical elements or transitions, while \"cinematic impact sound\" likely refers to a dramatic visual transition or text reveal. The \"male voice (playful)\" is consistently present but should be linked to on-screen characters like Chip or Dale.",
+    "[Chunk 3: 40.0s - 60.0s]\nThe video begins with a high-tech control room display showing <text>PROCEDURE COMPLETE</text>, suggesting a scientific or medical context. This transitions to an aerial night view of modern, circular apartment buildings with illuminated windows and a swimming pool, indicating an urban setting. The scene then shifts to a refrigerator interior where a slice of cake sits next to jars of peanut butter and a milk bottle, with a cartoon chipmunk face visible through the glass door\u2014this appears to be a playful, animated moment. Next, a large animated mouse character with a mustache appears, looking nervous or concerned, in a dimly lit room with posters in the background. The setting then changes to a dim, stone-walled underground area where animated characters including a blue cat in a striped suit, a chipmunk in a top hat, and another chipmunk are sneaking around, suggesting a covert or adventurous scenario. Two mice are shown in a similar underground setting, one holding a piece of cheese while the other looks on, with the cheese-eating mouse saying \"More please\" \u2014 this is clearly a comedic, animated scene. Following this, a smartphone displays an animated photo of the chipmunk characters and a large mouse, hinting at a nostalgic or sentimental moment. The scene then cuts to a live-action convention hall where people in costumes interact with animated characters, including a chipmunk in a red shirt and a character in a brown hat, indicating a fan event or crossover. A close-up shows hands holding a golden \"RESCUE RANGERS\" badge, reinforcing the animated theme. The \"FROM Disney\" logo appears, followed by \"AND THE LONELY ISLAND,\" identifying the production. A live-action man in a suit is seen on a phone call at a desk with a laptop, suggesting a corporate or planning role. The animated chipmunks appear again, one in a brown hat and the other in a red flower shirt, looking at each other in what seems like a conversation. The music is fast, loud, and intense, matching the energetic tone of the visuals. The audio includes playful male voices, a whispering female voice, and a mix of sfx like fast air movement and wet squishy sounds, all aligning with the animated and comedic tone of the scenes. The audio labels are mostly accurate, but some like \"fast air movement\" may be better described as \"whoosh\" or \"swoosh\" for more precision. The \"wet squishy sound\" is clearly tied to the cheese-eating mouse, so that label is correct. The music bursts and percussive hits are well-matched to the energetic visuals and transitions.",
+    "[Chunk 4: 60.0s - 80.0s]\nThe video opens with a night scene of a red hot air balloon flying over a cityscape, followed by a transition to a bustling convention center filled with people in costumes, indicating a fan convention. Animated characters Chip and Dale are shown navigating through crowded floors, interacting with each other and the environment. The scene shifts to a vendor selling Indiana Jones-themed merchandise, then back to animated characters in action sequences involving explosions, waterfalls, and rescue operations. The video features intense music and sound effects like car speeds, metal scraping, and loud screams, suggesting high-energy action. The characters are shown in various dynamic scenes, including driving a car, being trapped in a coin-filled machine, and escaping from danger. The setting alternates between dark, rainy urban environments and indoor convention spaces with bright lighting and colorful displays.\n\nEvent 1 (0.0-20.0s): The crowd noise is likely from the convention center, but the visuals show animated characters in action, so the label should be adjusted to match the visual context.\n\nEvent 2 (0.0-20.0s): The music is fast-paced with hi-hats and bass, matching the action scenes, so this label is accurate.\n\nEvent 3 (0.0-0.2s): The visual shows a red hot air balloon flying over a city at night.\n\nEvent 4 (0.2-2.0s): The sfx of a car speeding past matches the visual of a car moving quickly in the background.\n\nEvent 5 (1.3-2.9s): The female voice is urgent, likely off-screen, as the visual shows a crowd at a convention.\n\nEvent 6 (2.9-4.4s): The sfx of a car speeding past continues, matching the visual of a car moving in the background.\n\nEvent 7 (2.9-5.1s): The male voice is playful, and the visual shows Chip and Dale interacting, possibly in a humorous situation.\n\nEvent 8 (3.9-5.5s): The visual shows Chip and Dale navigating through a crowded convention floor, with one character holding a stick.\n\nEvent 9 (5.5-8.5s): The visual shows Chip and Dale standing under a table, with one character wearing a hat and the other in a Hawaiian shirt.\n\nEvent 10 (5.9-7.3s): The sfx of a car speeding past matches the visual of a car moving in the background.\n\nEvent 11 (6.0-7.9s): The male voice is negative, and the visual shows Chip and Dale looking at each other with concerned expressions.\n\nEvent 12 (8.0-11.1s): The sfx of brass fanfare with percussion matches the dramatic visual of characters in action.\n\nEvent 13 (8.5-10.2s): The visual shows a vendor selling Indiana Jones supplies, with hats and jackets on display.\n\nEvent 14 (8.5-8.9s): The sfx of metal door opening and closing matches the visual of a metal door in a dark environment.\n\nEvent 15 (9.9-12.2s): The sfx of a car speeding past continues, matching the visual of a car moving in the background.\n\nEvent 16 (10.8-12.2s): The sudden loud scream matches the visual of a character falling into water.\n\nEvent 17 (10.9-12.0s): The visual shows a character falling into water, creating a splash.\n\nEvent 18 (12.1-13.7s): The visual shows the text \"RESCUING THE WORLD\" on a dark background.\n\nEvent 19 (13.8-15.4s): The sfx of a car speeding past matches the visual of a car moving in the background.\n\nEvent 20 (13.8-14.5s): The sfx of metal scraping sound matches the visual of a character scraping against metal.\n\nEvent 21 (16.2-17.5s): The sfx of a car speeding past continues, matching the visual of a car moving in the background.\n\nEvent 22 (17.2-18.2s): The visual shows Chip and Dale driving a car, with one character at the wheel and the other in the passenger seat.\n\nEvent 23 (19.5-20.0s): The sfx of a car speeding past matches the visual of a car moving in the background.",
+    "[Chunk 5: 80.0s - 100.0s]\nThe video is a montage of scenes from the animated movie \"Chip 'n Dale: Rescue Rangers,\" interspersed with live-action shots. The scenes transition rapidly between animated sequences featuring Chip and Dale in futuristic and urban environments, a live-action woman walking a dog, and a bald man walking on a sidewalk. The audio includes driving electronic music, vocal chops, and various sound effects like metallic hits and fast-moving object sounds. The movie title and release information are displayed prominently. For each event, I will match the audio description with the visual context, correcting any mislabeled sounds based on what is seen (e.g., \"fast-moving object sound\" when a laser beam or object streaks across the screen). I will avoid describing dialogue content and focus on visual and auditory elements as instructed.",
+    "[Chunk 6: 100.0s - 110.4s]\nThe scene alternates between two distinct visual worlds: animated chipmunks in a modern urban setting and a live-action/CGI dwarf in a medieval-style doorway. The audio is dominated by playful male speech, consistent with the chipmunks' character voices, and an intense, fast-paced musical track with hi-hats and deep bass. The sfx \"sharp metallic whoosh\" likely corresponds to the dwarf's axe being drawn or moved. The visual descriptions must reflect the dual nature of the scene \u2014 animated animals interacting with a human-like character \u2014 while accurately matching the audio labels to what's actually happening on screen. For example, the \"speech\" events align with the chipmunks' dialogue, while the \"visual\" events capture the dwarf\u2019s reactions and gestures. The music is present throughout, suggesting an energetic or comedic tone. The sfx \"whoosh\" is likely tied to the dwarf\u2019s axe movement, as seen in frame 0:01-0:02. All audio labels are consistent with visuals \u2014 no corrections needed.",
+    "[Chunk 7: 110.4s - 120.8s]\nScene is a promotional trailer for a Disney+ production, likely a film or series featuring animated characters and live-action elements. The video starts with two animated chipmunks (Chip and Dale) in formal attire, suggesting a comedic or lighthearted tone. This transitions to a live-action character with long hair and a Viking-style axe, indicating a fantasy or action-comedy genre. Then, a series of actor names appear on screen, followed by the Disney+ logo and website, confirming the platform and production company. The audio includes a sudden vocal burst, followed by a loud laugh, then a playful female voice with fast hi-hats and deep bass, suggesting energetic, comedic music. The audio model\u2019s labeling of \"female voice (playful)\" and \"fast hi-hats, deep bass\" aligns with the upbeat, humorous tone of the trailer. The vocal burst and laugh likely come from the animated characters or voice actors, while the music underscores the comedic and dynamic nature of the content. The final frames show the Disney+ branding with a blue arc and website text, signaling the end of the trailer.\n\nEvent 1 (0.0-3.2s): Animated chipmunks appear, one with wide eyes, the other with closed eyes and a smile. A sudden vocal burst likely from one of them.\nEvent 2 (0.0-1.4s): Visual of two animated chipmunks in formal wear, one looking surprised, the other smug, standing side by side in a modern, softly lit environment.\nEvent 3 (1.4-3.2s): A live-action man with long hair, beard, and a large axe over his shoulder laughs loudly \u2014 this is the source of the exaggerated laugh.\nEvent 4 (1.4-3.4s): The same man, now with a wide grin, standing in a dimly lit industrial or warehouse setting, with metal structures and green barrels in the background.\nEvent 5 (2.1-8.0s): Actor names appear in white 3D text on a dark blue background, accompanied by playful female vocals and energetic music with fast hi-hats and deep bass.\nEvent 6 (2.1-8.0s): The music continues with high energy as names like \"JOHN MULANEY,\" \"ANDY SAMBERG,\" and others appear in sequence, building anticipation.\nEvent 7 (3.6-7.0s): The names continue to stack up, ending with \"AND KIKI LAYNE,\" all set against the dark blue background with consistent music.\nEvent 8 (7.0-9.4s): Disney logo appears with a glowing blue arc above it, evolving into the Disney+ logo with the website \"DisneyPlus.com\" below.\nEvent 9 (7.4-9.1s): A sudden vocal burst (likely a shout or exclamation) coincides with the Disney+ logo reveal, emphasizing the brand.\nEvent 10 (9.4-10.4s): Screen cuts to black, signaling the end of the trailer.\n\nNote: The audio model\u2019s \u201cfemale voice (playful)\u201d and \u201cfast hi-hats, deep bass\u201d are accurate for the music track. The \u201csudden vocal burst\u201d and \u201cloud laugh\u201d are correctly attributed to the animated characters and the live-action man, respectively. No corrections needed for audio labels."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      110.41832199546485
+    ],
+    [
+      110.41832199546485,
+      120.8366439909297
+    ]
+  ]
+}

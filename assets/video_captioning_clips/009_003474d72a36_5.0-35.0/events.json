@@ -1,0 +1,3139 @@
+{
+  "cid": "003474d72a366b7a81f0a1e1d493e1da",
+  "sel_start": 5.0,
+  "sel_end": 35.0,
+  "duration": 173.84780045351474,
+  "events": [
+    {
+      "start_time": 5.538866666666666,
+      "end_time": 16.249566666666666,
+      "type": "visual",
+      "description": "Coastal outdoor set with actors in puffer jackets, white tent, lighthouse, and crew preparing",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (playful) \u2014 woman waves, smiling, standing beside man in front of tent",
+      "start_time": 5.6,
+      "end_time": 6.4,
+      "duration": 0.8000000000000007,
+      "type": "speech",
+      "confidence": 0.964,
+      "audio_description": "Female voice (playful)"
+    },
+    {
+      "description": "Crew chatter and clapperboard snap as film crew prepares on rocky shore",
+      "start_time": 5.6,
+      "end_time": 20.0,
+      "duration": 14.4,
+      "type": "background",
+      "confidence": 0.904,
+      "audio_description": "Rhythmic electronic beat"
+    },
+    {
+      "description": "Female voice (playful) \u2014 woman gestures toward set, speaking to camera with bright expression",
+      "start_time": 6.7,
+      "end_time": 10.7,
+      "duration": 3.999999999999999,
+      "type": "speech",
+      "confidence": 0.969,
+      "audio_description": "Female voice (playful)"
+    },
+    {
+      "description": "Female voice (playful) \u2014 woman turns to man, smiling, eyes crinkling at corners",
+      "start_time": 11.0,
+      "end_time": 12.3,
+      "duration": 1.3000000000000007,
+      "type": "speech",
+      "confidence": 0.945,
+      "audio_description": "Female voice (playful)"
+    },
+    {
+      "description": "Male voice (conversational) \u2014 man speaks, looking directly at camera, slight smile",
+      "start_time": 12.5,
+      "end_time": 13.7,
+      "duration": 1.1999999999999993,
+      "type": "speech",
+      "confidence": 0.877,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "description": "Male voice (conversational) \u2014 man gestures toward set, hand raised, explaining location",
+      "start_time": 14.2,
+      "end_time": 16.0,
+      "duration": 1.8000000000000007,
+      "type": "speech",
+      "confidence": 0.923,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "description": "Fast whooshing transition as camera spins, blurring crew and set into motion",
+      "start_time": 16.6,
+      "end_time": 17.0,
+      "duration": 0.3999999999999986,
+      "type": "sfx",
+      "confidence": 0.851,
+      "audio_description": "Fast whooshing sound"
+    },
+    {
+      "description": "Clapperboard snap and crew movement sounds as camera focuses on filming setup",
+      "start_time": 16.8,
+      "end_time": 20.0,
+      "duration": 3.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.532,
+      "audio_description": "Car engine starts and drives away"
+    },
+    {
+      "description": "Male voice (conversational) \u2014 man continues speaking, arm around woman, both smiling",
+      "start_time": 17.7,
+      "end_time": 18.2,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.747,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "start_time": 18.6186,
+      "end_time": 19.619600000000002,
+      "type": "visual",
+      "description": "Crew member in hoodie holds clapperboard, preparing to snap it for take",
+      "audio_description": null
+    },
+    {
+      "description": "Mechanical click of clapperboard snap as board closes sharply",
+      "start_time": 19.1,
+      "end_time": 19.2,
+      "duration": 0.09999999999999787,
+      "type": "sfx",
+      "confidence": 0.803,
+      "audio_description": "Mechanical click of a switch"
+    },
+    {
+      "description": "Female voice speaks as students walk down a wooden dock toward boats, led by a woman in a yellow jacket",
+      "start_time": 20.0,
+      "end_time": 22.6,
+      "duration": 2.6,
+      "type": "speech",
+      "confidence": 0.942,
+      "audio_description": "Female voice (neutral)"
+    },
+    {
+      "description": "Energetic instrumental with driving rhythm as students walk, Claire speaks, and boats sail across water",
+      "start_time": 20.0,
+      "end_time": 40.0,
+      "duration": 20.0,
+      "type": "music",
+      "confidence": 0.976,
+      "audio_description": "Energetic instrumental with driving rhythm"
+    },
+    {
+      "start_time": 20.387033333333335,
+      "end_time": 22.4224,
+      "type": "visual",
+      "description": "Students descend wooden ramp onto dock, woman in yellow jacket leads, small dog walks near water",
+      "audio_description": null
+    },
+    {
+      "start_time": 22.922900000000002,
+      "end_time": 25.158466666666666,
+      "type": "visual",
+      "description": "Students walk along dock toward marina, boats moored on either side, calm water reflects sky",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice speaks as students walk, one in red life vest carries white bucket, boats in background",
+      "start_time": 23.2,
+      "end_time": 24.5,
+      "duration": 1.2999999999999998,
+      "type": "speech",
+      "confidence": 0.928,
+      "audio_description": "Female voice (neutral)"
+    },
+    {
+      "start_time": 25.158466666666666,
+      "end_time": 26.526500000000002,
+      "type": "visual",
+      "description": "Group walks along dock, sailboats and motorboats visible, woman in yellow jacket ahead",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice introduces Claire Richards, visual shows Claire standing before lighthouse on rocky island",
+      "start_time": 25.4,
+      "end_time": 27.5,
+      "duration": 2.0999999999999996,
+      "type": "speech",
+      "confidence": 0.953,
+      "audio_description": "Female voice (neutral)"
+    },
+    {
+      "start_time": 26.559866666666668,
+      "end_time": 29.4294,
+      "type": "visual",
+      "description": "Claire speaks to camera, long blonde hair, red shirt and black jacket, lighthouse behind, flowers in foreground",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice continues, describing Willow Bay and Blue Island, visual shifts to Claire driving motorboat",
+      "start_time": 28.0,
+      "end_time": 30.4,
+      "duration": 2.4000000000000004,
+      "type": "speech",
+      "confidence": 0.945,
+      "audio_description": "Female voice (neutral)"
+    },
+    {
+      "start_time": 29.4294,
+      "end_time": 30.9309,
+      "type": "visual",
+      "description": "Claire steers motorboat, wearing life vest, sunlight glints on water, distant boats and hills behind",
+      "audio_description": null
+    },
+    {
+      "start_time": 30.9309,
+      "end_time": 33.70033333333333,
+      "type": "visual",
+      "description": "Marinas filled with sailboats and motorboats, calm water, hills in background, music continues",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice describes island\u2019s potential sale, visuals show sailboat sailing, then aerial of Blue Island",
+      "start_time": 31.0,
+      "end_time": 36.4,
+      "duration": 5.399999999999999,
+      "type": "speech",
+      "confidence": 0.946,
+      "audio_description": "Female voice (neutral)"
+    },
+    {
+      "start_time": 33.70033333333333,
+      "end_time": 35.20183333333333,
+      "type": "visual",
+      "description": "Sailboat glides across water with crew, island visible in distance, music underscores movement",
+      "audio_description": null
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 5.701,
+        "end": 6.382,
+        "text": " Hi, everyone.",
+        "words": [
+          {
+            "word": "Hi,",
+            "start": 5.701,
+            "end": 5.921,
+            "score": 0.295
+          },
+          {
+            "word": "everyone.",
+            "start": 5.941,
+            "end": 6.382,
+            "score": 0.955
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.703,
+        "end": 12.272,
+        "text": "Welcome to the set of our original countdown to summer movies, Sailing Into Love, with me, Leo Rene.",
+        "words": [
+          {
+            "word": "Welcome",
+            "start": 6.703,
+            "end": 7.003,
+            "score": 0.76
+          },
+          {
+            "word": "to",
+            "start": 7.043,
+            "end": 7.123,
+            "score": 0.968
+          },
+          {
+            "word": "the",
+            "start": 7.164,
+            "end": 7.244,
+            "score": 0.995
+          },
+          {
+            "word": "set",
+            "start": 7.284,
+            "end": 7.464,
+            "score": 0.991
+          },
+          {
+            "word": "of",
+            "start": 7.504,
+            "end": 7.544,
+            "score": 0.998
+          },
+          {
+            "word": "our",
+            "start": 7.644,
+            "end": 7.745,
+            "score": 0.805
+          },
+          {
+            "word": "original",
+            "start": 7.805,
+            "end": 8.205,
+            "score": 0.829
+          },
+          {
+            "word": "countdown",
+            "start": 8.265,
+            "end": 8.686,
+            "score": 0.935
+          },
+          {
+            "word": "to",
+            "start": 8.726,
+            "end": 8.806,
+            "score": 0.994
+          },
+          {
+            "word": "summer",
+            "start": 8.846,
+            "end": 9.167,
+            "score": 0.576
+          },
+          {
+            "word": "movies,",
+            "start": 9.187,
+            "end": 9.688,
+            "score": 0.731
+          },
+          {
+            "word": "Sailing",
+            "start": 9.708,
+            "end": 10.029,
+            "score": 0.946
+          },
+          {
+            "word": "Into",
+            "start": 10.049,
+            "end": 10.349,
+            "score": 0.81
+          },
+          {
+            "word": "Love,",
+            "start": 10.409,
+            "end": 10.65,
+            "score": 0.816
+          },
+          {
+            "word": "with",
+            "start": 11.03,
+            "end": 11.171,
+            "score": 0.973
+          },
+          {
+            "word": "me,",
+            "start": 11.271,
+            "end": 11.651,
+            "score": 0.588
+          },
+          {
+            "word": "Leo",
+            "start": 11.671,
+            "end": 11.972,
+            "score": 0.471
+          },
+          {
+            "word": "Rene.",
+            "start": 11.992,
+            "end": 12.272,
+            "score": 0.653
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.633,
+        "end": 13.755,
+        "text": "And me, Chris McNally.",
+        "words": [
+          {
+            "word": "And",
+            "start": 12.633,
+            "end": 12.733,
+            "score": 0.831
+          },
+          {
+            "word": "me,",
+            "start": 12.773,
+            "end": 12.974,
+            "score": 0.981
+          },
+          {
+            "word": "Chris",
+            "start": 13.054,
+            "end": 13.254,
+            "score": 0.67
+          },
+          {
+            "word": "McNally.",
+            "start": 13.274,
+            "end": 13.755,
+            "score": 0.733
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.256,
+        "end": 15.999,
+        "text": "And come on, we're going to give you a little look behind the scenes.",
+        "words": [
+          {
+            "word": "And",
+            "start": 14.256,
+            "end": 14.356,
+            "score": 0.26
+          },
+          {
+            "word": "come",
+            "start": 14.376,
+            "end": 14.456,
+            "score": 0.266
+          },
+          {
+            "word": "on,",
+            "start": 14.476,
+            "end": 14.536,
+            "score": 0.503
+          },
+          {
+            "word": "we're",
+            "start": 14.556,
+            "end": 14.657,
+            "score": 0.152
+          },
+          {
+            "word": "going",
+            "start": 14.677,
+            "end": 14.777,
+            "score": 0.095
+          },
+          {
+            "word": "to",
+            "start": 14.797,
+            "end": 14.837,
+            "score": 0.438
+          },
+          {
+            "word": "give",
+            "start": 14.857,
+            "end": 14.937,
+            "score": 0.339
+          },
+          {
+            "word": "you",
+            "start": 14.957,
+            "end": 15.017,
+            "score": 0.267
+          },
+          {
+            "word": "a",
+            "start": 15.037,
+            "end": 15.077,
+            "score": 0.351
+          },
+          {
+            "word": "little",
+            "start": 15.097,
+            "end": 15.258,
+            "score": 0.608
+          },
+          {
+            "word": "look",
+            "start": 15.298,
+            "end": 15.418,
+            "score": 0.83
+          },
+          {
+            "word": "behind",
+            "start": 15.478,
+            "end": 15.618,
+            "score": 0.162
+          },
+          {
+            "word": "the",
+            "start": 15.638,
+            "end": 15.718,
+            "score": 0.762
+          },
+          {
+            "word": "scenes.",
+            "start": 15.739,
+            "end": 15.999,
+            "score": 0.527
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 18.704,
+        "end": 25.195,
+        "text": "We're studying in my favorite place in the world, Blue Island.",
+        "words": [
+          {
+            "word": "We're",
+            "start": 18.704,
+            "end": 20.166,
+            "score": 0.488
+          },
+          {
+            "word": "studying",
+            "start": 20.226,
+            "end": 20.627,
+            "score": 0.89
+          },
+          {
+            "word": "in",
+            "start": 20.647,
+            "end": 20.687,
+            "score": 0.5
+          },
+          {
+            "word": "my",
+            "start": 20.928,
+            "end": 21.048,
+            "score": 0.948
+          },
+          {
+            "word": "favorite",
+            "start": 21.328,
+            "end": 21.749,
+            "score": 0.774
+          },
+          {
+            "word": "place",
+            "start": 21.789,
+            "end": 22.03,
+            "score": 0.905
+          },
+          {
+            "word": "in",
+            "start": 22.09,
+            "end": 22.15,
+            "score": 0.954
+          },
+          {
+            "word": "the",
+            "start": 22.19,
+            "end": 22.29,
+            "score": 0.665
+          },
+          {
+            "word": "world,",
+            "start": 22.35,
+            "end": 22.631,
+            "score": 0.878
+          },
+          {
+            "word": "Blue",
+            "start": 23.272,
+            "end": 23.572,
+            "score": 0.82
+          },
+          {
+            "word": "Island.",
+            "start": 23.953,
+            "end": 25.195,
+            "score": 0.809
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.478,
+        "end": 36.315,
+        "text": " Sailing Into Love is about, um, a teacher named Claire Richards, who's my character, who lives in a town called Willow Bay, uh, and has an island just off of it called Blue Island.",
+        "words": [
+          {
+            "word": "Sailing",
+            "start": 25.478,
+            "end": 25.919,
+            "score": 0.546
+          },
+          {
+            "word": "Into",
+            "start": 25.939,
+            "end": 26.039,
+            "score": 0.416
+          },
+          {
+            "word": "Love",
+            "start": 26.099,
+            "end": 26.359,
+            "score": 0.864
+          },
+          {
+            "word": "is",
+            "start": 26.379,
+            "end": 26.419,
+            "score": 0.616
+          },
+          {
+            "word": "about,",
+            "start": 26.52,
+            "end": 27.221,
+            "score": 0.925
+          },
+          {
+            "word": "um,",
+            "start": 27.241,
+            "end": 28.122,
+            "score": 0.84
+          },
+          {
+            "word": "a",
+            "start": 28.142,
+            "end": 28.182,
+            "score": 0.988
+          },
+          {
+            "word": "teacher",
+            "start": 28.222,
+            "end": 28.523,
+            "score": 0.855
+          },
+          {
+            "word": "named",
+            "start": 28.563,
+            "end": 28.723,
+            "score": 0.758
+          },
+          {
+            "word": "Claire",
+            "start": 28.823,
+            "end": 29.023,
+            "score": 0.661
+          },
+          {
+            "word": "Richards,",
+            "start": 29.064,
+            "end": 29.464,
+            "score": 0.758
+          },
+          {
+            "word": "who's",
+            "start": 29.484,
+            "end": 29.705,
+            "score": 0.483
+          },
+          {
+            "word": "my",
+            "start": 29.745,
+            "end": 29.865,
+            "score": 0.988
+          },
+          {
+            "word": "character,",
+            "start": 29.905,
+            "end": 30.265,
+            "score": 0.905
+          },
+          {
+            "word": "who",
+            "start": 30.325,
+            "end": 31.267,
+            "score": 0.749
+          },
+          {
+            "word": "lives",
+            "start": 31.327,
+            "end": 31.607,
+            "score": 0.808
+          },
+          {
+            "word": "in",
+            "start": 31.708,
+            "end": 31.768,
+            "score": 0.989
+          },
+          {
+            "word": "a",
+            "start": 31.828,
+            "end": 31.848,
+            "score": 0.937
+          },
+          {
+            "word": "town",
+            "start": 31.908,
+            "end": 32.108,
+            "score": 0.929
+          },
+          {
+            "word": "called",
+            "start": 32.168,
+            "end": 32.329,
+            "score": 0.943
+          },
+          {
+            "word": "Willow",
+            "start": 32.369,
+            "end": 32.629,
+            "score": 0.547
+          },
+          {
+            "word": "Bay,",
+            "start": 32.649,
+            "end": 32.869,
+            "score": 0.922
+          },
+          {
+            "word": "uh,",
+            "start": 33.751,
+            "end": 33.871,
+            "score": 0.403
+          },
+          {
+            "word": "and",
+            "start": 33.891,
+            "end": 33.971,
+            "score": 0.901
+          },
+          {
+            "word": "has",
+            "start": 34.031,
+            "end": 34.191,
+            "score": 0.989
+          },
+          {
+            "word": "an",
+            "start": 34.231,
+            "end": 34.292,
+            "score": 0.912
+          },
+          {
+            "word": "island",
+            "start": 34.412,
+            "end": 34.652,
+            "score": 0.826
+          },
+          {
+            "word": "just",
+            "start": 34.692,
+            "end": 34.933,
+            "score": 0.809
+          },
+          {
+            "word": "off",
+            "start": 35.013,
+            "end": 35.133,
+            "score": 0.916
+          },
+          {
+            "word": "of",
+            "start": 35.193,
+            "end": 35.233,
+            "score": 0.896
+          },
+          {
+            "word": "it",
+            "start": 35.293,
+            "end": 35.373,
+            "score": 0.846
+          },
+          {
+            "word": "called",
+            "start": 35.413,
+            "end": 35.614,
+            "score": 0.837
+          },
+          {
+            "word": "Blue",
+            "start": 35.734,
+            "end": 35.934,
+            "score": 0.67
+          },
+          {
+            "word": "Island.",
+            "start": 36.034,
+            "end": 36.315,
+            "score": 0.819
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.116,
+        "end": 41.743,
+        "text": "And, um, that island, uh, is potentially about to be sold for development.",
+        "words": [
+          {
+            "word": "And,",
+            "start": 37.116,
+            "end": 37.496,
+            "score": 0.814
+          },
+          {
+            "word": "um,",
+            "start": 37.517,
+            "end": 37.677,
+            "score": 0.903
+          },
+          {
+            "word": "that",
+            "start": 37.937,
+            "end": 38.077,
+            "score": 0.951
+          },
+          {
+            "word": "island,",
+            "start": 38.198,
+            "end": 38.558,
+            "score": 0.82
+          },
+          {
+            "word": "uh,",
+            "start": 39.019,
+            "end": 39.079,
+            "score": 0.498
+          },
+          {
+            "word": "is",
+            "start": 39.279,
+            "end": 39.399,
+            "score": 0.811
+          },
+          {
+            "word": "potentially",
+            "start": 39.68,
+            "end": 40.181,
+            "score": 0.969
+          },
+          {
+            "word": "about",
+            "start": 40.221,
+            "end": 40.421,
+            "score": 0.781
+          },
+          {
+            "word": "to",
+            "start": 40.441,
+            "end": 40.521,
+            "score": 0.664
+          },
+          {
+            "word": "be",
+            "start": 40.561,
+            "end": 40.661,
+            "score": 0.851
+          },
+          {
+            "word": "sold",
+            "start": 40.721,
+            "end": 40.962,
+            "score": 0.894
+          },
+          {
+            "word": "for",
+            "start": 41.022,
+            "end": 41.122,
+            "score": 0.992
+          },
+          {
+            "word": "development.",
+            "start": 41.162,
+            "end": 41.743,
+            "score": 0.837
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 42.023,
+        "end": 42.584,
+        "text": "Excuse me?",
+        "words": [
+          {
+            "word": "Excuse",
+            "start": 42.023,
+            "end": 42.384,
+            "score": 0.854
+          },
+          {
+            "word": "me?",
+            "start": 42.444,
+            "end": 42.584,
+            "score": 0.974
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 42.604,
+        "end": 44.247,
+        "text": "Uh, what are you doing?",
+        "words": [
+          {
+            "word": "Uh,",
+            "start": 42.604,
+            "end": 42.664,
+            "score": 0.581
+          },
+          {
+            "word": "what",
+            "start": 43.666,
+            "end": 43.786,
+            "score": 0.844
+          },
+          {
+            "word": "are",
+            "start": 43.826,
+            "end": 43.886,
+            "score": 0.994
+          },
+          {
+            "word": "you",
+            "start": 43.926,
+            "end": 43.986,
+            "score": 0.974
+          },
+          {
+            "word": "doing?",
+            "start": 44.027,
+            "end": 44.247,
+            "score": 0.839
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 45.148,
+        "end": 45.629,
+        "text": "Surveying.",
+        "words": [
+          {
+            "word": "Surveying.",
+            "start": 45.148,
+            "end": 45.629,
+            "score": 0.608
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.21,
+        "end": 46.831,
+        "text": "I'm a surveyor.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 46.21,
+            "end": 46.41,
+            "score": 0.577
+          },
+          {
+            "word": "a",
+            "start": 46.47,
+            "end": 46.49,
+            "score": 0.004
+          },
+          {
+            "word": "surveyor.",
+            "start": 46.51,
+            "end": 46.831,
+            "score": 0.413
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 47.051,
+        "end": 47.592,
+        "text": "It's what I do.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 47.051,
+            "end": 47.191,
+            "score": 0.672
+          },
+          {
+            "word": "what",
+            "start": 47.211,
+            "end": 47.312,
+            "score": 0.862
+          },
+          {
+            "word": "I",
+            "start": 47.352,
+            "end": 47.412,
+            "score": 0.767
+          },
+          {
+            "word": "do.",
+            "start": 47.452,
+            "end": 47.592,
+            "score": 0.919
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 47.852,
+        "end": 48.073,
+        "text": "Ha!",
+        "words": [
+          {
+            "word": "Ha!",
+            "start": 47.852,
+            "end": 48.073,
+            "score": 0.818
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 48.814,
+        "end": 49.335,
+        "text": "Very funny.",
+        "words": [
+          {
+            "word": "Very",
+            "start": 48.814,
+            "end": 49.014,
+            "score": 0.95
+          },
+          {
+            "word": "funny.",
+            "start": 49.074,
+            "end": 49.335,
+            "score": 0.996
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.056,
+        "end": 51.097,
+        "text": "The island is city-owned.",
+        "words": [
+          {
+            "word": "The",
+            "start": 50.056,
+            "end": 50.136,
+            "score": 0.918
+          },
+          {
+            "word": "island",
+            "start": 50.216,
+            "end": 50.456,
+            "score": 0.948
+          },
+          {
+            "word": "is",
+            "start": 50.496,
+            "end": 50.557,
+            "score": 0.925
+          },
+          {
+            "word": "city-owned.",
+            "start": 50.577,
+            "end": 51.097,
+            "score": 0.74
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 51.558,
+        "end": 52.94,
+        "text": "Belongs to the town of Willow Bay.",
+        "words": [
+          {
+            "word": "Belongs",
+            "start": 51.558,
+            "end": 51.899,
+            "score": 0.841
+          },
+          {
+            "word": "to",
+            "start": 51.939,
+            "end": 52.039,
+            "score": 0.612
+          },
+          {
+            "word": "the",
+            "start": 52.079,
+            "end": 52.139,
+            "score": 0.993
+          },
+          {
+            "word": "town",
+            "start": 52.179,
+            "end": 52.359,
+            "score": 0.917
+          },
+          {
+            "word": "of",
+            "start": 52.399,
+            "end": 52.439,
+            "score": 0.966
+          },
+          {
+            "word": "Willow",
+            "start": 52.48,
+            "end": 52.7,
+            "score": 0.625
+          },
+          {
+            "word": "Bay.",
+            "start": 52.72,
+            "end": 52.94,
+            "score": 0.867
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.08,
+        "end": 54.102,
+        "text": "Until someone buys it.",
+        "words": [
+          {
+            "word": "Until",
+            "start": 53.08,
+            "end": 53.301,
+            "score": 0.791
+          },
+          {
+            "word": "someone",
+            "start": 53.341,
+            "end": 53.581,
+            "score": 0.729
+          },
+          {
+            "word": "buys",
+            "start": 53.601,
+            "end": 53.942,
+            "score": 0.542
+          },
+          {
+            "word": "it.",
+            "start": 54.042,
+            "end": 54.102,
+            "score": 0.333
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 55.415,
+        "end": 57.518,
+        "text": " I can't buy it because it's not for sale.",
+        "words": [
+          {
+            "word": "I",
+            "start": 55.415,
+            "end": 55.635,
+            "score": 0.859
+          },
+          {
+            "word": "can't",
+            "start": 55.655,
+            "end": 55.756,
+            "score": 0.001
+          },
+          {
+            "word": "buy",
+            "start": 55.776,
+            "end": 56.036,
+            "score": 0.784
+          },
+          {
+            "word": "it",
+            "start": 56.116,
+            "end": 56.176,
+            "score": 0.76
+          },
+          {
+            "word": "because",
+            "start": 56.497,
+            "end": 56.697,
+            "score": 0.687
+          },
+          {
+            "word": "it's",
+            "start": 56.757,
+            "end": 56.857,
+            "score": 0.958
+          },
+          {
+            "word": "not",
+            "start": 56.877,
+            "end": 56.998,
+            "score": 0.829
+          },
+          {
+            "word": "for",
+            "start": 57.018,
+            "end": 57.118,
+            "score": 0.872
+          },
+          {
+            "word": "sale.",
+            "start": 57.178,
+            "end": 57.518,
+            "score": 0.918
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 58.4,
+        "end": 60.804,
+        "text": "Might be if I can ever finish my survey.",
+        "words": [
+          {
+            "word": "Might",
+            "start": 58.4,
+            "end": 58.56,
+            "score": 0.948
+          },
+          {
+            "word": "be",
+            "start": 58.6,
+            "end": 58.72,
+            "score": 0.956
+          },
+          {
+            "word": "if",
+            "start": 58.74,
+            "end": 59.602,
+            "score": 0.823
+          },
+          {
+            "word": "I",
+            "start": 59.682,
+            "end": 59.722,
+            "score": 0.931
+          },
+          {
+            "word": "can",
+            "start": 59.762,
+            "end": 59.862,
+            "score": 0.959
+          },
+          {
+            "word": "ever",
+            "start": 59.902,
+            "end": 60.043,
+            "score": 0.79
+          },
+          {
+            "word": "finish",
+            "start": 60.083,
+            "end": 60.303,
+            "score": 0.881
+          },
+          {
+            "word": "my",
+            "start": 60.343,
+            "end": 60.423,
+            "score": 0.92
+          },
+          {
+            "word": "survey.",
+            "start": 60.463,
+            "end": 60.804,
+            "score": 0.879
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.405,
+        "end": 63.588,
+        "text": "Claire is fighting the good fight.",
+        "words": [
+          {
+            "word": "Claire",
+            "start": 61.405,
+            "end": 61.705,
+            "score": 0.658
+          },
+          {
+            "word": "is",
+            "start": 61.725,
+            "end": 61.826,
+            "score": 0.62
+          },
+          {
+            "word": "fighting",
+            "start": 62.166,
+            "end": 62.567,
+            "score": 0.676
+          },
+          {
+            "word": "the",
+            "start": 62.627,
+            "end": 62.847,
+            "score": 0.647
+          },
+          {
+            "word": "good",
+            "start": 62.927,
+            "end": 63.168,
+            "score": 0.769
+          },
+          {
+            "word": "fight.",
+            "start": 63.308,
+            "end": 63.588,
+            "score": 0.876
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 63.689,
+        "end": 66.553,
+        "text": "No offer is worth selling off our public land.",
+        "words": [
+          {
+            "word": "No",
+            "start": 63.689,
+            "end": 63.889,
+            "score": 0.981
+          },
+          {
+            "word": "offer",
+            "start": 64.149,
+            "end": 64.47,
+            "score": 0.832
+          },
+          {
+            "word": "is",
+            "start": 64.55,
+            "end": 64.63,
+            "score": 0.768
+          },
+          {
+            "word": "worth",
+            "start": 64.67,
+            "end": 64.891,
+            "score": 0.839
+          },
+          {
+            "word": "selling",
+            "start": 64.951,
+            "end": 65.211,
+            "score": 0.79
+          },
+          {
+            "word": "off",
+            "start": 65.271,
+            "end": 65.371,
+            "score": 0.95
+          },
+          {
+            "word": "our",
+            "start": 65.451,
+            "end": 65.532,
+            "score": 0.79
+          },
+          {
+            "word": "public",
+            "start": 65.572,
+            "end": 66.012,
+            "score": 0.903
+          },
+          {
+            "word": "land.",
+            "start": 66.113,
+            "end": 66.553,
+            "score": 0.933
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 66.814,
+        "end": 69.258,
+        "text": "No offer is worth selling off your childhood you mean.",
+        "words": [
+          {
+            "word": "No",
+            "start": 66.814,
+            "end": 66.974,
+            "score": 0.997
+          },
+          {
+            "word": "offer",
+            "start": 67.134,
+            "end": 67.395,
+            "score": 0.847
+          },
+          {
+            "word": "is",
+            "start": 67.415,
+            "end": 67.475,
+            "score": 0.776
+          },
+          {
+            "word": "worth",
+            "start": 67.535,
+            "end": 67.735,
+            "score": 0.85
+          },
+          {
+            "word": "selling",
+            "start": 67.775,
+            "end": 68.056,
+            "score": 0.913
+          },
+          {
+            "word": "off",
+            "start": 68.116,
+            "end": 68.236,
+            "score": 0.984
+          },
+          {
+            "word": "your",
+            "start": 68.276,
+            "end": 68.396,
+            "score": 0.84
+          },
+          {
+            "word": "childhood",
+            "start": 68.476,
+            "end": 68.957,
+            "score": 0.928
+          },
+          {
+            "word": "you",
+            "start": 68.997,
+            "end": 69.077,
+            "score": 0.713
+          },
+          {
+            "word": "mean.",
+            "start": 69.118,
+            "end": 69.258,
+            "score": 0.905
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 69.458,
+        "end": 80.376,
+        "text": "This island needs a lot to it and my character Tom Hastings comes in and ends up helping her and in that process they fall in love.",
+        "words": [
+          {
+            "word": "This",
+            "start": 69.458,
+            "end": 69.598,
+            "score": 0.811
+          },
+          {
+            "word": "island",
+            "start": 69.698,
+            "end": 69.899,
+            "score": 0.909
+          },
+          {
+            "word": "needs",
+            "start": 69.959,
+            "end": 70.139,
+            "score": 0.426
+          },
+          {
+            "word": "a",
+            "start": 70.179,
+            "end": 70.199,
+            "score": 0.918
+          },
+          {
+            "word": "lot",
+            "start": 70.239,
+            "end": 70.4,
+            "score": 0.692
+          },
+          {
+            "word": "to",
+            "start": 70.42,
+            "end": 70.56,
+            "score": 0.716
+          },
+          {
+            "word": "it",
+            "start": 70.58,
+            "end": 70.64,
+            "score": 0.664
+          },
+          {
+            "word": "and",
+            "start": 71.261,
+            "end": 71.421,
+            "score": 0.815
+          },
+          {
+            "word": "my",
+            "start": 71.902,
+            "end": 72.022,
+            "score": 0.978
+          },
+          {
+            "word": "character",
+            "start": 72.042,
+            "end": 72.343,
+            "score": 0.838
+          },
+          {
+            "word": "Tom",
+            "start": 72.383,
+            "end": 72.543,
+            "score": 0.86
+          },
+          {
+            "word": "Hastings",
+            "start": 72.583,
+            "end": 72.984,
+            "score": 0.964
+          },
+          {
+            "word": "comes",
+            "start": 73.044,
+            "end": 73.284,
+            "score": 0.838
+          },
+          {
+            "word": "in",
+            "start": 73.385,
+            "end": 73.465,
+            "score": 0.831
+          },
+          {
+            "word": "and",
+            "start": 74.186,
+            "end": 74.306,
+            "score": 0.922
+          },
+          {
+            "word": "ends",
+            "start": 74.406,
+            "end": 74.566,
+            "score": 0.881
+          },
+          {
+            "word": "up",
+            "start": 74.647,
+            "end": 74.727,
+            "score": 0.992
+          },
+          {
+            "word": "helping",
+            "start": 74.947,
+            "end": 75.248,
+            "score": 0.957
+          },
+          {
+            "word": "her",
+            "start": 75.308,
+            "end": 75.488,
+            "score": 0.765
+          },
+          {
+            "word": "and",
+            "start": 75.648,
+            "end": 75.708,
+            "score": 0.877
+          },
+          {
+            "word": "in",
+            "start": 75.748,
+            "end": 75.788,
+            "score": 0.994
+          },
+          {
+            "word": "that",
+            "start": 75.829,
+            "end": 75.949,
+            "score": 0.87
+          },
+          {
+            "word": "process",
+            "start": 75.989,
+            "end": 76.43,
+            "score": 0.872
+          },
+          {
+            "word": "they",
+            "start": 76.49,
+            "end": 76.69,
+            "score": 0.82
+          },
+          {
+            "word": "fall",
+            "start": 76.75,
+            "end": 77.091,
+            "score": 0.731
+          },
+          {
+            "word": "in",
+            "start": 77.111,
+            "end": 77.171,
+            "score": 0.704
+          },
+          {
+            "word": "love.",
+            "start": 80.276,
+            "end": 80.376,
+            "score": 0.2
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 85.655,
+        "end": 87.397,
+        "text": " You know, a little baking soda.",
+        "words": [
+          {
+            "word": "You",
+            "start": 85.655,
+            "end": 85.795,
+            "score": 0.829
+          },
+          {
+            "word": "know,",
+            "start": 85.835,
+            "end": 85.975,
+            "score": 0.866
+          },
+          {
+            "word": "a",
+            "start": 86.035,
+            "end": 86.055,
+            "score": 0.98
+          },
+          {
+            "word": "little",
+            "start": 86.095,
+            "end": 86.316,
+            "score": 0.955
+          },
+          {
+            "word": "baking",
+            "start": 86.816,
+            "end": 87.137,
+            "score": 0.903
+          },
+          {
+            "word": "soda.",
+            "start": 87.177,
+            "end": 87.397,
+            "score": 0.265
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 87.417,
+        "end": 88.458,
+        "text": "Let's take that right out.",
+        "words": [
+          {
+            "word": "Let's",
+            "start": 87.417,
+            "end": 87.617,
+            "score": 0.599
+          },
+          {
+            "word": "take",
+            "start": 87.697,
+            "end": 87.857,
+            "score": 0.717
+          },
+          {
+            "word": "that",
+            "start": 87.897,
+            "end": 88.038,
+            "score": 0.958
+          },
+          {
+            "word": "right",
+            "start": 88.078,
+            "end": 88.238,
+            "score": 0.872
+          },
+          {
+            "word": "out.",
+            "start": 88.298,
+            "end": 88.458,
+            "score": 0.735
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 94.545,
+        "end": 102.513,
+        "text": "Tom's got this really great sense of adventure and he just wants to hop from city to city and that's just, that's kind of what makes him happy.",
+        "words": [
+          {
+            "word": "Tom's",
+            "start": 94.545,
+            "end": 94.765,
+            "score": 0.955
+          },
+          {
+            "word": "got",
+            "start": 94.805,
+            "end": 94.925,
+            "score": 0.779
+          },
+          {
+            "word": "this",
+            "start": 94.945,
+            "end": 95.065,
+            "score": 0.654
+          },
+          {
+            "word": "really",
+            "start": 95.105,
+            "end": 95.305,
+            "score": 0.78
+          },
+          {
+            "word": "great",
+            "start": 95.365,
+            "end": 95.546,
+            "score": 0.83
+          },
+          {
+            "word": "sense",
+            "start": 95.586,
+            "end": 95.766,
+            "score": 0.968
+          },
+          {
+            "word": "of",
+            "start": 95.806,
+            "end": 95.866,
+            "score": 0.746
+          },
+          {
+            "word": "adventure",
+            "start": 95.906,
+            "end": 96.487,
+            "score": 0.848
+          },
+          {
+            "word": "and",
+            "start": 96.687,
+            "end": 96.747,
+            "score": 0.987
+          },
+          {
+            "word": "he",
+            "start": 96.787,
+            "end": 96.847,
+            "score": 0.936
+          },
+          {
+            "word": "just",
+            "start": 96.867,
+            "end": 96.987,
+            "score": 0.896
+          },
+          {
+            "word": "wants",
+            "start": 97.027,
+            "end": 97.207,
+            "score": 0.84
+          },
+          {
+            "word": "to",
+            "start": 97.247,
+            "end": 97.307,
+            "score": 0.869
+          },
+          {
+            "word": "hop",
+            "start": 97.368,
+            "end": 97.628,
+            "score": 0.846
+          },
+          {
+            "word": "from",
+            "start": 98.248,
+            "end": 98.449,
+            "score": 0.865
+          },
+          {
+            "word": "city",
+            "start": 98.549,
+            "end": 98.749,
+            "score": 0.921
+          },
+          {
+            "word": "to",
+            "start": 98.809,
+            "end": 98.869,
+            "score": 0.996
+          },
+          {
+            "word": "city",
+            "start": 98.929,
+            "end": 99.19,
+            "score": 0.974
+          },
+          {
+            "word": "and",
+            "start": 99.87,
+            "end": 100.05,
+            "score": 0.793
+          },
+          {
+            "word": "that's",
+            "start": 100.09,
+            "end": 100.331,
+            "score": 0.625
+          },
+          {
+            "word": "just,",
+            "start": 100.391,
+            "end": 100.611,
+            "score": 0.895
+          },
+          {
+            "word": "that's",
+            "start": 100.671,
+            "end": 100.831,
+            "score": 0.766
+          },
+          {
+            "word": "kind",
+            "start": 100.891,
+            "end": 101.031,
+            "score": 0.67
+          },
+          {
+            "word": "of",
+            "start": 101.072,
+            "end": 101.112,
+            "score": 0.418
+          },
+          {
+            "word": "what",
+            "start": 101.132,
+            "end": 101.332,
+            "score": 0.816
+          },
+          {
+            "word": "makes",
+            "start": 101.852,
+            "end": 102.033,
+            "score": 0.98
+          },
+          {
+            "word": "him",
+            "start": 102.093,
+            "end": 102.173,
+            "score": 0.792
+          },
+          {
+            "word": "happy.",
+            "start": 102.213,
+            "end": 102.513,
+            "score": 0.958
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.833,
+        "end": 104.495,
+        "text": "Oh, until Claire comes around.",
+        "words": [
+          {
+            "word": "Oh,",
+            "start": 102.833,
+            "end": 102.934,
+            "score": 0.678
+          },
+          {
+            "word": "until",
+            "start": 102.954,
+            "end": 103.154,
+            "score": 0.811
+          },
+          {
+            "word": "Claire",
+            "start": 103.214,
+            "end": 103.474,
+            "score": 0.77
+          },
+          {
+            "word": "comes",
+            "start": 104.015,
+            "end": 104.175,
+            "score": 0.805
+          },
+          {
+            "word": "around.",
+            "start": 104.235,
+            "end": 104.495,
+            "score": 0.92
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 105.536,
+        "end": 106.277,
+        "text": "Places you've been?",
+        "words": [
+          {
+            "word": "Places",
+            "start": 105.536,
+            "end": 105.897,
+            "score": 0.73
+          },
+          {
+            "word": "you've",
+            "start": 105.937,
+            "end": 106.117,
+            "score": 0.226
+          },
+          {
+            "word": "been?",
+            "start": 106.137,
+            "end": 106.277,
+            "score": 0.522
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 107.058,
+        "end": 108.039,
+        "text": "Yeah, the blue ones aren't.",
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 107.058,
+            "end": 107.218,
+            "score": 0.37
+          },
+          {
+            "word": "the",
+            "start": 107.238,
+            "end": 107.318,
+            "score": 0.517
+          },
+          {
+            "word": "blue",
+            "start": 107.338,
+            "end": 107.478,
+            "score": 0.781
+          },
+          {
+            "word": "ones",
+            "start": 107.579,
+            "end": 107.699,
+            "score": 0.805
+          },
+          {
+            "word": "aren't.",
+            "start": 107.739,
+            "end": 108.039,
+            "score": 0.626
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 109.581,
+        "end": 111.042,
+        "text": "The rest are all places that I want to go.",
+        "words": [
+          {
+            "word": "The",
+            "start": 109.581,
+            "end": 109.641,
+            "score": 0.197
+          },
+          {
+            "word": "rest",
+            "start": 109.721,
+            "end": 109.841,
+            "score": 0.454
+          },
+          {
+            "word": "are",
+            "start": 109.881,
+            "end": 109.961,
+            "score": 0.749
+          },
+          {
+            "word": "all",
+            "start": 109.981,
+            "end": 110.081,
+            "score": 0.929
+          },
+          {
+            "word": "places",
+            "start": 110.101,
+            "end": 110.361,
+            "score": 0.795
+          },
+          {
+            "word": "that",
+            "start": 110.422,
+            "end": 110.542,
+            "score": 0.842
+          },
+          {
+            "word": "I",
+            "start": 110.562,
+            "end": 110.602,
+            "score": 0.789
+          },
+          {
+            "word": "want",
+            "start": 110.642,
+            "end": 110.842,
+            "score": 0.619
+          },
+          {
+            "word": "to",
+            "start": 110.902,
+            "end": 110.962,
+            "score": 0.517
+          },
+          {
+            "word": "go.",
+            "start": 110.982,
+            "end": 111.042,
+            "score": 0.644
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 112.223,
+        "end": 113.144,
+        "text": "That's a lot of red.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 112.223,
+            "end": 112.364,
+            "score": 0.36
+          },
+          {
+            "word": "a",
+            "start": 112.444,
+            "end": 112.484,
+            "score": 0.895
+          },
+          {
+            "word": "lot",
+            "start": 112.504,
+            "end": 112.684,
+            "score": 0.63
+          },
+          {
+            "word": "of",
+            "start": 112.704,
+            "end": 112.764,
+            "score": 0.498
+          },
+          {
+            "word": "red.",
+            "start": 112.804,
+            "end": 113.144,
+            "score": 0.905
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 114.646,
+        "end": 115.527,
+        "text": "There's a lot to see.",
+        "words": [
+          {
+            "word": "There's",
+            "start": 114.646,
+            "end": 114.806,
+            "score": 0.808
+          },
+          {
+            "word": "a",
+            "start": 114.866,
+            "end": 114.886,
+            "score": 0.938
+          },
+          {
+            "word": "lot",
+            "start": 114.926,
+            "end": 115.067,
+            "score": 0.868
+          },
+          {
+            "word": "to",
+            "start": 115.107,
+            "end": 115.167,
+            "score": 0.826
+          },
+          {
+            "word": "see.",
+            "start": 115.187,
+            "end": 115.527,
+            "score": 0.86
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 117.093,
+        "end": 121.581,
+        "text": " So we are here in Victoria, BC, and we're at this beautiful lighthouse location.",
+        "words": [
+          {
+            "word": "So",
+            "start": 117.093,
+            "end": 117.313,
+            "score": 0.83
+          },
+          {
+            "word": "we",
+            "start": 117.374,
+            "end": 117.554,
+            "score": 0.976
+          },
+          {
+            "word": "are",
+            "start": 117.794,
+            "end": 117.915,
+            "score": 0.848
+          },
+          {
+            "word": "here",
+            "start": 117.955,
+            "end": 118.556,
+            "score": 0.597
+          },
+          {
+            "word": "in",
+            "start": 118.596,
+            "end": 118.676,
+            "score": 0.875
+          },
+          {
+            "word": "Victoria,",
+            "start": 118.696,
+            "end": 119.137,
+            "score": 0.809
+          },
+          {
+            "word": "BC,",
+            "start": 119.317,
+            "end": 119.558,
+            "score": 0.665
+          },
+          {
+            "word": "and",
+            "start": 119.718,
+            "end": 119.778,
+            "score": 0.922
+          },
+          {
+            "word": "we're",
+            "start": 119.818,
+            "end": 119.938,
+            "score": 0.912
+          },
+          {
+            "word": "at",
+            "start": 119.958,
+            "end": 119.998,
+            "score": 0.503
+          },
+          {
+            "word": "this",
+            "start": 120.038,
+            "end": 120.179,
+            "score": 0.621
+          },
+          {
+            "word": "beautiful",
+            "start": 120.259,
+            "end": 120.66,
+            "score": 0.889
+          },
+          {
+            "word": "lighthouse",
+            "start": 120.7,
+            "end": 121.08,
+            "score": 0.83
+          },
+          {
+            "word": "location.",
+            "start": 121.12,
+            "end": 121.581,
+            "score": 0.975
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 121.802,
+        "end": 122.703,
+        "text": "I really like this city.",
+        "words": [
+          {
+            "word": "I",
+            "start": 121.802,
+            "end": 121.842,
+            "score": 0.992
+          },
+          {
+            "word": "really",
+            "start": 121.882,
+            "end": 122.062,
+            "score": 0.746
+          },
+          {
+            "word": "like",
+            "start": 122.102,
+            "end": 122.222,
+            "score": 0.963
+          },
+          {
+            "word": "this",
+            "start": 122.262,
+            "end": 122.383,
+            "score": 0.662
+          },
+          {
+            "word": "city.",
+            "start": 122.443,
+            "end": 122.703,
+            "score": 0.962
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 122.944,
+        "end": 124.847,
+        "text": "It's a super charming little town.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 122.944,
+            "end": 123.024,
+            "score": 0.652
+          },
+          {
+            "word": "a",
+            "start": 123.084,
+            "end": 123.164,
+            "score": 0.725
+          },
+          {
+            "word": "super",
+            "start": 123.344,
+            "end": 123.685,
+            "score": 0.87
+          },
+          {
+            "word": "charming",
+            "start": 123.705,
+            "end": 124.066,
+            "score": 0.947
+          },
+          {
+            "word": "little",
+            "start": 124.426,
+            "end": 124.627,
+            "score": 0.875
+          },
+          {
+            "word": "town.",
+            "start": 124.647,
+            "end": 124.847,
+            "score": 0.95
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 124.867,
+        "end": 127.472,
+        "text": "Blue Island is kind of like a character in itself in the film.",
+        "words": [
+          {
+            "word": "Blue",
+            "start": 124.867,
+            "end": 125.028,
+            "score": 0.848
+          },
+          {
+            "word": "Island",
+            "start": 125.108,
+            "end": 125.328,
+            "score": 0.969
+          },
+          {
+            "word": "is",
+            "start": 125.388,
+            "end": 125.448,
+            "score": 0.533
+          },
+          {
+            "word": "kind",
+            "start": 125.488,
+            "end": 125.649,
+            "score": 0.833
+          },
+          {
+            "word": "of",
+            "start": 125.689,
+            "end": 125.729,
+            "score": 0.973
+          },
+          {
+            "word": "like",
+            "start": 125.769,
+            "end": 125.989,
+            "score": 0.488
+          },
+          {
+            "word": "a",
+            "start": 126.009,
+            "end": 126.029,
+            "score": 0.906
+          },
+          {
+            "word": "character",
+            "start": 126.049,
+            "end": 126.43,
+            "score": 0.804
+          },
+          {
+            "word": "in",
+            "start": 126.47,
+            "end": 126.53,
+            "score": 0.913
+          },
+          {
+            "word": "itself",
+            "start": 126.59,
+            "end": 126.891,
+            "score": 0.882
+          },
+          {
+            "word": "in",
+            "start": 126.971,
+            "end": 127.031,
+            "score": 0.882
+          },
+          {
+            "word": "the",
+            "start": 127.071,
+            "end": 127.131,
+            "score": 0.941
+          },
+          {
+            "word": "film.",
+            "start": 127.192,
+            "end": 127.472,
+            "score": 0.949
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 127.692,
+        "end": 131.66,
+        "text": "And to Claire, it represents, um, everything.",
+        "words": [
+          {
+            "word": "And",
+            "start": 127.692,
+            "end": 127.813,
+            "score": 0.869
+          },
+          {
+            "word": "to",
+            "start": 127.873,
+            "end": 127.973,
+            "score": 0.86
+          },
+          {
+            "word": "Claire,",
+            "start": 128.073,
+            "end": 128.434,
+            "score": 0.758
+          },
+          {
+            "word": "it",
+            "start": 128.915,
+            "end": 128.955,
+            "score": 0.991
+          },
+          {
+            "word": "represents,",
+            "start": 129.015,
+            "end": 129.636,
+            "score": 0.886
+          },
+          {
+            "word": "um,",
+            "start": 130.097,
+            "end": 130.157,
+            "score": 0.66
+          },
+          {
+            "word": "everything.",
+            "start": 131.299,
+            "end": 131.66,
+            "score": 0.992
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 131.74,
+        "end": 137.45,
+        "text": "Her past, her life growing up, her memories with her family and her childhood.",
+        "words": [
+          {
+            "word": "Her",
+            "start": 131.74,
+            "end": 132.141,
+            "score": 0.834
+          },
+          {
+            "word": "past,",
+            "start": 132.261,
+            "end": 132.962,
+            "score": 0.871
+          },
+          {
+            "word": "her",
+            "start": 133.623,
+            "end": 133.744,
+            "score": 0.905
+          },
+          {
+            "word": "life",
+            "start": 133.804,
+            "end": 134.024,
+            "score": 0.994
+          },
+          {
+            "word": "growing",
+            "start": 134.084,
+            "end": 134.345,
+            "score": 0.835
+          },
+          {
+            "word": "up,",
+            "start": 134.405,
+            "end": 134.505,
+            "score": 0.993
+          },
+          {
+            "word": "her",
+            "start": 134.545,
+            "end": 134.645,
+            "score": 0.784
+          },
+          {
+            "word": "memories",
+            "start": 134.705,
+            "end": 135.166,
+            "score": 0.898
+          },
+          {
+            "word": "with",
+            "start": 135.266,
+            "end": 135.427,
+            "score": 0.878
+          },
+          {
+            "word": "her",
+            "start": 135.487,
+            "end": 135.667,
+            "score": 0.8
+          },
+          {
+            "word": "family",
+            "start": 135.687,
+            "end": 136.469,
+            "score": 0.873
+          },
+          {
+            "word": "and",
+            "start": 136.509,
+            "end": 136.589,
+            "score": 0.788
+          },
+          {
+            "word": "her",
+            "start": 136.629,
+            "end": 136.709,
+            "score": 0.805
+          },
+          {
+            "word": "childhood.",
+            "start": 136.789,
+            "end": 137.45,
+            "score": 0.834
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 137.47,
+        "end": 139.995,
+        "text": "I go, this is where I start and then I end up.",
+        "words": [
+          {
+            "word": "I",
+            "start": 137.47,
+            "end": 137.49,
+            "score": 0.999
+          },
+          {
+            "word": "go,",
+            "start": 137.831,
+            "end": 137.971,
+            "score": 0.831
+          },
+          {
+            "word": "this",
+            "start": 137.991,
+            "end": 138.132,
+            "score": 0.616
+          },
+          {
+            "word": "is",
+            "start": 138.152,
+            "end": 138.192,
+            "score": 0.434
+          },
+          {
+            "word": "where",
+            "start": 138.432,
+            "end": 138.653,
+            "score": 0.411
+          },
+          {
+            "word": "I",
+            "start": 138.673,
+            "end": 138.693,
+            "score": 0.91
+          },
+          {
+            "word": "start",
+            "start": 138.713,
+            "end": 138.993,
+            "score": 0.838
+          },
+          {
+            "word": "and",
+            "start": 139.133,
+            "end": 139.194,
+            "score": 0.39
+          },
+          {
+            "word": "then",
+            "start": 139.234,
+            "end": 139.474,
+            "score": 0.396
+          },
+          {
+            "word": "I",
+            "start": 139.494,
+            "end": 139.514,
+            "score": 0.615
+          },
+          {
+            "word": "end",
+            "start": 139.594,
+            "end": 139.694,
+            "score": 0.73
+          },
+          {
+            "word": "up.",
+            "start": 139.795,
+            "end": 139.995,
+            "score": 0.848
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 141.815,
+        "end": 144.058,
+        "text": " Working with Leah is really great.",
+        "words": [
+          {
+            "word": "Working",
+            "start": 141.815,
+            "end": 142.416,
+            "score": 0.391
+          },
+          {
+            "word": "with",
+            "start": 142.436,
+            "end": 142.556,
+            "score": 0.35
+          },
+          {
+            "word": "Leah",
+            "start": 142.576,
+            "end": 143.017,
+            "score": 0.548
+          },
+          {
+            "word": "is",
+            "start": 143.297,
+            "end": 143.437,
+            "score": 0.84
+          },
+          {
+            "word": "really",
+            "start": 143.578,
+            "end": 143.798,
+            "score": 0.945
+          },
+          {
+            "word": "great.",
+            "start": 143.838,
+            "end": 144.058,
+            "score": 0.745
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 144.078,
+        "end": 147.103,
+        "text": "She's just, she's super, super kind.",
+        "words": [
+          {
+            "word": "She's",
+            "start": 144.078,
+            "end": 144.359,
+            "score": 0.849
+          },
+          {
+            "word": "just,",
+            "start": 144.479,
+            "end": 144.92,
+            "score": 0.721
+          },
+          {
+            "word": "she's",
+            "start": 144.94,
+            "end": 145.16,
+            "score": 0.662
+          },
+          {
+            "word": "super,",
+            "start": 145.26,
+            "end": 145.861,
+            "score": 0.889
+          },
+          {
+            "word": "super",
+            "start": 146.522,
+            "end": 146.823,
+            "score": 0.906
+          },
+          {
+            "word": "kind.",
+            "start": 146.843,
+            "end": 147.103,
+            "score": 0.977
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 147.183,
+        "end": 149.286,
+        "text": "I haven't heard her complain once.",
+        "words": [
+          {
+            "word": "I",
+            "start": 147.183,
+            "end": 147.203,
+            "score": 0.691
+          },
+          {
+            "word": "haven't",
+            "start": 147.243,
+            "end": 147.464,
+            "score": 0.712
+          },
+          {
+            "word": "heard",
+            "start": 147.504,
+            "end": 147.624,
+            "score": 0.706
+          },
+          {
+            "word": "her",
+            "start": 147.664,
+            "end": 147.784,
+            "score": 0.922
+          },
+          {
+            "word": "complain",
+            "start": 148.265,
+            "end": 148.745,
+            "score": 0.903
+          },
+          {
+            "word": "once.",
+            "start": 149.126,
+            "end": 149.286,
+            "score": 0.874
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 149.507,
+        "end": 162.086,
+        "text": "It's been really easy to have that good chemistry with him because he's really just a genuinely nice guy and he's actually really shy and he's an introvert and um, those are my favorite kind of people, personally.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 149.507,
+            "end": 149.587,
+            "score": 0.54
+          },
+          {
+            "word": "been",
+            "start": 149.627,
+            "end": 149.747,
+            "score": 0.974
+          },
+          {
+            "word": "really",
+            "start": 149.767,
+            "end": 149.987,
+            "score": 0.722
+          },
+          {
+            "word": "easy",
+            "start": 150.148,
+            "end": 150.428,
+            "score": 0.937
+          },
+          {
+            "word": "to",
+            "start": 150.508,
+            "end": 150.708,
+            "score": 0.988
+          },
+          {
+            "word": "have",
+            "start": 150.909,
+            "end": 151.109,
+            "score": 0.928
+          },
+          {
+            "word": "that",
+            "start": 151.149,
+            "end": 151.269,
+            "score": 0.975
+          },
+          {
+            "word": "good",
+            "start": 151.349,
+            "end": 151.49,
+            "score": 0.962
+          },
+          {
+            "word": "chemistry",
+            "start": 151.53,
+            "end": 151.95,
+            "score": 0.634
+          },
+          {
+            "word": "with",
+            "start": 151.97,
+            "end": 152.071,
+            "score": 0.871
+          },
+          {
+            "word": "him",
+            "start": 152.111,
+            "end": 152.171,
+            "score": 0.843
+          },
+          {
+            "word": "because",
+            "start": 152.231,
+            "end": 152.431,
+            "score": 0.955
+          },
+          {
+            "word": "he's",
+            "start": 152.491,
+            "end": 152.671,
+            "score": 0.886
+          },
+          {
+            "word": "really",
+            "start": 153.393,
+            "end": 153.613,
+            "score": 0.759
+          },
+          {
+            "word": "just",
+            "start": 153.653,
+            "end": 153.793,
+            "score": 0.682
+          },
+          {
+            "word": "a",
+            "start": 153.853,
+            "end": 153.873,
+            "score": 0.998
+          },
+          {
+            "word": "genuinely",
+            "start": 154.054,
+            "end": 154.835,
+            "score": 0.904
+          },
+          {
+            "word": "nice",
+            "start": 154.875,
+            "end": 155.315,
+            "score": 0.444
+          },
+          {
+            "word": "guy",
+            "start": 155.396,
+            "end": 155.596,
+            "score": 0.853
+          },
+          {
+            "word": "and",
+            "start": 155.656,
+            "end": 155.716,
+            "score": 0.873
+          },
+          {
+            "word": "he's",
+            "start": 155.736,
+            "end": 155.816,
+            "score": 0.447
+          },
+          {
+            "word": "actually",
+            "start": 155.896,
+            "end": 156.237,
+            "score": 0.703
+          },
+          {
+            "word": "really",
+            "start": 156.357,
+            "end": 156.597,
+            "score": 0.774
+          },
+          {
+            "word": "shy",
+            "start": 156.698,
+            "end": 156.998,
+            "score": 0.953
+          },
+          {
+            "word": "and",
+            "start": 157.018,
+            "end": 157.078,
+            "score": 0.334
+          },
+          {
+            "word": "he's",
+            "start": 157.699,
+            "end": 157.839,
+            "score": 0.852
+          },
+          {
+            "word": "an",
+            "start": 157.879,
+            "end": 157.919,
+            "score": 0.941
+          },
+          {
+            "word": "introvert",
+            "start": 157.979,
+            "end": 158.42,
+            "score": 0.83
+          },
+          {
+            "word": "and",
+            "start": 159.121,
+            "end": 159.322,
+            "score": 0.852
+          },
+          {
+            "word": "um,",
+            "start": 159.742,
+            "end": 159.902,
+            "score": 0.931
+          },
+          {
+            "word": "those",
+            "start": 160.003,
+            "end": 160.143,
+            "score": 0.982
+          },
+          {
+            "word": "are",
+            "start": 160.203,
+            "end": 160.283,
+            "score": 0.659
+          },
+          {
+            "word": "my",
+            "start": 160.343,
+            "end": 160.463,
+            "score": 0.322
+          },
+          {
+            "word": "favorite",
+            "start": 160.483,
+            "end": 160.744,
+            "score": 0.302
+          },
+          {
+            "word": "kind",
+            "start": 160.764,
+            "end": 160.884,
+            "score": 0.722
+          },
+          {
+            "word": "of",
+            "start": 160.944,
+            "end": 160.984,
+            "score": 0.933
+          },
+          {
+            "word": "people,",
+            "start": 161.004,
+            "end": 161.305,
+            "score": 0.842
+          },
+          {
+            "word": "personally.",
+            "start": 161.645,
+            "end": 162.086,
+            "score": 0.94
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 162.126,
+        "end": 163.668,
+        "text": "Thanks for visiting our set.",
+        "words": [
+          {
+            "word": "Thanks",
+            "start": 162.126,
+            "end": 162.787,
+            "score": 0.83
+          },
+          {
+            "word": "for",
+            "start": 162.807,
+            "end": 162.907,
+            "score": 0.846
+          },
+          {
+            "word": "visiting",
+            "start": 162.947,
+            "end": 163.247,
+            "score": 0.734
+          },
+          {
+            "word": "our",
+            "start": 163.308,
+            "end": 163.388,
+            "score": 0.696
+          },
+          {
+            "word": "set.",
+            "start": 163.428,
+            "end": 163.668,
+            "score": 0.974
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 164.229,
+        "end": 168.215,
+        "text": "Check out our original countdown to summer movie, Sailing Into Love.",
+        "words": [
+          {
+            "word": "Check",
+            "start": 164.229,
+            "end": 164.429,
+            "score": 0.88
+          },
+          {
+            "word": "out",
+            "start": 164.529,
+            "end": 164.65,
+            "score": 0.989
+          },
+          {
+            "word": "our",
+            "start": 164.69,
+            "end": 164.89,
+            "score": 0.751
+          },
+          {
+            "word": "original",
+            "start": 164.95,
+            "end": 165.371,
+            "score": 0.825
+          },
+          {
+            "word": "countdown",
+            "start": 165.431,
+            "end": 165.871,
+            "score": 0.805
+          },
+          {
+            "word": "to",
+            "start": 165.911,
+            "end": 166.012,
+            "score": 0.95
+          },
+          {
+            "word": "summer",
+            "start": 166.032,
+            "end": 166.492,
+            "score": 0.339
+          },
+          {
+            "word": "movie,",
+            "start": 166.512,
+            "end": 166.833,
+            "score": 0.69
+          },
+          {
+            "word": "Sailing",
+            "start": 167.173,
+            "end": 167.514,
+            "score": 0.871
+          },
+          {
+            "word": "Into",
+            "start": 167.554,
+            "end": 167.834,
+            "score": 0.858
+          },
+          {
+            "word": "Love.",
+            "start": 167.894,
+            "end": 168.215,
+            "score": 0.972
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 168.796,
+        "end": 169.577,
+        "text": "On Hallmark Channel.",
+        "words": [
+          {
+            "word": "On",
+            "start": 168.796,
+            "end": 168.876,
+            "score": 0.74
+          },
+          {
+            "word": "Hallmark",
+            "start": 168.936,
+            "end": 169.237,
+            "score": 0.379
+          },
+          {
+            "word": "Channel.",
+            "start": 169.257,
+            "end": 169.577,
+            "score": 0.297
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a behind-the-scenes look at a Hallmark Channel movie set, filmed outdoors on a rocky coastal location with a lighthouse in the background. The main characters, a man and woman, are standing together in front of a white tent decorated for a wedding or event. The crew is visible with cameras, lighting, and clapperboards. The audio includes calm music at the start, followed by playful female and conversational male voices introducing the movie, and then a fast whooshing transition to behind-the-scenes shots.\n\nEvent 1 (0.0-4.8s): Calm, reflective music plays over a series of colorful gradient backgrounds and the Hallmark Channel logo.\nEvent 2 (0.0-1.2s): Purple gradient background with red bars appearing at top and bottom \u2014 no audio match, but visual intro.\nEvent 3 (1.2-4.7s): Yellow background with white Hallmark Channel logo \u2014 music continues.\nEvent 4 (5.5-16.2s): Outdoor coastal set with actors and crew \u2014 female voice begins speaking playfully.\nEvent 5 (5.6-6.4s): Female voice (playful) \u2014 woman on screen waves and speaks.\nEvent 6 (5.6-20.0s): Rhythmic electronic beat \u2014 but visuals show no vehicles or engines; instead, crew and actors on set.\nEvent 7 (6.7-10.7s): Female voice (playful) \u2014 woman speaks to camera, gesturing.\nEvent 8 (11.0-12.3s): Female voice (playful) \u2014 woman turns to man, smiling.\nEvent 9 (12.5-13.7s): Male voice (conversational) \u2014 man speaks, looking at camera.\nEvent 10 (14.2-16.0s): Male voice (conversational) \u2014 man speaks, gesturing toward set.\nEvent 11 (16.6-17.0s): Fast whooshing sound \u2014 matches visual blur transition.\nEvent 12 (16.8-20.0s): Car engine starts and drives away \u2014 mismatch; no car visible, but crew is active on set.\nEvent 13 (17.7-18.2s): Male voice (conversational) \u2014 man continues speaking.\nEvent 14 (18.6-19.6s): Visual \u2014 clapperboard being held by crew member.\nEvent 15 (19.1-19.2s): Mechanical click \u2014 matches clapperboard snap.\n\nFixes:\n- Event 6: \"Car engine\" is incorrect; no car or engine sound \u2014 replace with \"crew activity sounds\" or \"clapperboard snap\" which is actually heard.\n- Event 12: \"Car engine\" is incorrect \u2014 no vehicle \u2014 replace with \"crew movement sounds\" or \"clapperboard click\" which is more accurate.\n\nUse varied sound vocabulary: whoosh, snap, click, chatter, hum, etc.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is a coastal town with a marina, docks, boats, and an island with a lighthouse. The main character, Claire, is introduced as a teacher living on Blue Island. The setting alternates between daytime scenes of students walking on docks, Claire speaking to camera, and aerial shots of boats and the island.\n\nEvent 1 (0.0-2.6s): Students walk down a wooden dock toward the water. A woman in a yellow jacket leads the group, followed by others with backpacks. A small dog walks beside one student. The audio is a female voice speaking, matching the visuals of a group moving purposefully.\n\nEvent 2 (0.0-20.0s): Energetic instrumental music plays throughout, with driving rhythm. It underscores the visuals of movement and scenic coastal shots. The music continues as Claire speaks.\n\nEvent 3 (0.4-2.4s): Visual of students descending a ramp onto a dock. The woman in yellow jacket is in front, smiling slightly, with others behind her. The dog is visible near the water\u2019s edge.\n\nEvent 4 (2.9-5.2s): Students continue walking along the dock toward boats. One student in a red life vest carries a white bucket. The background shows moored sailboats and calm water.\n\nEvent 5 (3.2-4.5s): Female voice speaking, matching the scene of students walking on the dock. The speaker is likely Claire, though not on-screen yet.\n\nEvent 6 (5.2-6.5s): Wide shot of students walking along a wooden dock with boats on either side. The marina is calm, with sailboats and a small motorboat visible.\n\nEvent 7 (5.4-7.5s): Female voice speaking, introducing Claire Richards and Willow Bay. The visual shows Claire standing in front of a lighthouse on a rocky island, wearing a red shirt and black jacket, with flowers in the foreground.\n\nEvent 8 (6.6-9.4s): Claire speaks directly to camera, with lighthouse behind her. Text overlay identifies her as \"LEAH RENEE\" and \"CLAIRE\". She has long blonde hair and appears calm and composed.\n\nEvent 9 (8.0-10.4s): Female voice continues speaking, describing the island and its potential sale. Visual shows Claire driving a small motorboat on the water, wearing a life vest, with sunlight glinting off the water.\n\nEvent 10 (9.4-10.9s): Claire at the helm of a motorboat, smiling slightly, steering. The background shows distant mountains and other boats.\n\nEvent 11 (10.9-13.7s): Aerial and wide shots of a marina with numerous sailboats and motorboats docked. The water is calm, hills in the distance. Music continues.\n\nEvent 12 (11.0-16.4s): Female voice speaking, describing the island and its potential development. Visuals show a sailboat sailing on open water, then an aerial view of Blue Island, covered in trees, with a small lighthouse.\n\nEvent 13 (13.7-15.2s): Sailboat gliding across water with crew on deck. The island is visible in the distance. Music continues with a steady rhythm.\n\nEvent 14 (15.2-17.9s): Aerial view of Blue Island, forested, with rocky shoreline. A small white lighthouse is visible on the edge. A speedboat passes in the distance.\n\nEvent 15 (17.0-20.0s): Female voice continues speaking, mentioning the island\u2019s potential sale. Visual returns to Claire in front of the lighthouse, speaking calmly.\n\nEvent 16 (17.9-20.0s): Claire stands in front of the lighthouse, looking off-camera as she speaks. The setting is overcast, with flowers in the foreground and the sea behind.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a coastal, rocky outdoor setting with a lighthouse in the background. The main character is a woman who appears to be hiking or exploring. She encounters two surveyors working with equipment. The audio includes birds chirping, female and male voices speaking with uncertain or negative tones, and the sound of soft fabric rustling. The Hallmark Channel logo is visible throughout.\n\nEvent 1 (0.0-20.0s): Birds chirping is present throughout, matching the natural outdoor environment with trees and rocks.\n\nEvent 2 (0.0-2.6s): A female voice speaks, likely the woman in the red jacket, with a concerned or uncertain tone, as she looks toward the lighthouse.\n\nEvent 3 (0.0-2.6s): The music label is incorrect \u2014 there is no metal music. The scene is calm and natural, with birdsong, not aggressive music. The audio model misclassified the birds as music.\n\nEvent 4 (0.0-1.7s): Visual shows the woman in a red jacket speaking, facing the camera, with the lighthouse in the background.\n\nEvent 5 (1.7-4.4s): The woman in the yellow jacket appears, looking surprised and speaking to the surveyors. Her expression shifts from confusion to concern.\n\nEvent 6 (3.2-5.6s): Female voice continues speaking, likely the same woman in yellow jacket, with uncertainty, as she approaches the surveyors.\n\nEvent 7 (4.4-7.6s): Visual shows the surveyors working \u2014 one adjusting the surveying instrument, the other holding a tablet.\n\nEvent 8 (5.0-5.6s): Male voice responds, likely the surveyor in the yellow helmet, with a neutral or slightly negative tone, as he looks at the equipment.\n\nEvent 9 (6.2-6.8s): Female voice responds, possibly surprised or questioning, as she watches the surveyors.\n\nEvent 10 (6.2-6.8s): Male voice (surveyor) explains his profession, looking at the camera, with a calm, professional demeanor.\n\nEvent 11 (7.1-8.0s): Female voice reacts with a short, uncertain response, possibly skeptical, as she listens.\n\nEvent 12 (7.6-9.4s): Visual shows the woman in yellow jacket smiling slightly, then laughing \u2014 \u201cHa!\u201d \u2014 as she processes the situation.\n\nEvent 13 (8.8-9.3s): Female voice says \u201cVery funny,\u201d with a tone suggesting sarcasm or disbelief, as she looks at the surveyors.\n\nEvent 14 (9.4-10.5s): Visual shows the woman in yellow jacket standing on a path, facing the surveyors, with a skeptical expression.\n\nEvent 15 (10.0-11.1s): Female voice speaks with uncertainty, likely stating the island\u2019s ownership, as she stands on the path.\n\nEvent 16 (10.5-12.3s): Visual shows the woman continuing to speak, gesturing slightly, while the surveyors remain focused on their equipment.\n\nEvent 17 (11.5-12.8s): Female voice continues speaking, emphasizing the town\u2019s ownership, as she faces the surveyors.\n\nEvent 18 (12.3-14.1s): Visual shows wider shot \u2014 woman on path, surveyors to her right, trees and rocks around.\n\nEvent 19 (13.0-13.9s): Male voice (surveyor) responds with a neutral tone, possibly implying the island can be sold, as he looks toward the woman.\n\nEvent 20 (14.1-15.7s): Visual shows close-up of surveyor adjusting equipment, then view through the instrument\u2019s lens \u2014 the woman in yellow jacket is centered.\n\nEvent 21 (14.6-14.8s): Female voice speaks, likely responding to the surveyor\u2019s comment, with uncertainty.\n\nEvent 22 (15.3-16.2s): Female voice continues speaking, explaining the island is not for sale, as she stands in the garden.\n\nEvent 23 (15.7-17.6s): Visual shows the woman in yellow jacket through the surveying instrument\u2019s lens \u2014 focused, centered in the circular view.\n\nEvent 24 (16.5-17.5s): Female voice speaks again, likely reiterating her point, as she looks directly at the surveyor.\n\nEvent 25 (17.6-20.0s): Visual shows close-up of the male surveyor smiling slightly, looking off to the side, holding the instrument.\n\nEvent 26 (17.7-18.6s): Soft fabric rustling \u2014 likely the woman\u2019s jacket or backpack straps moving as she shifts stance.\n\nEvent 27 (18.4-20.0s): Male voice speaks with a slightly negative or dry tone, commenting on finishing the survey, as he smiles faintly.",
+    "[Chunk 4: 60.0s - 80.0s]\nThe video appears to be a promotional or behind-the-scenes clip for a Hallmark Channel production, likely a romantic drama set in a coastal town. The scenes alternate between outdoor locations (rocky shores, lighthouse, marina) and indoor office settings. The audio includes dialogue from characters, likely actors discussing their roles, and ambient sounds like birds chirping and music. The characters are dressed in casual or work attire appropriate to their roles\u2014surveyor, marine worker, and office professional. The lighthouse setting is recurring, suggesting it's a key location. The audio model seems to mislabel some sounds: \"dog barking\" and \"horse walking\" are likely misidentifications of other environmental sounds (possibly waves or footfalls), and \"door closing\" may be a mislabel for a dock or boat movement. The music is bright and upbeat, matching the romantic tone. Visuals are clear, well-lit, and focus on characters speaking, often with on-screen text identifying actors or characters. The overall mood is positive and lighthearted, consistent with Hallmark\u2019s style.",
+    "[Chunk 5: 80.0s - 100.0s]\nThe scene is set in a coastal marina, with docked boats, wooden piers, and a scenic backdrop of hills and water. The main characters are a man and a woman interacting on a dock, later seen on a sailboat. The audio includes male voiceovers describing a character named Tom Hastings, his sense of adventure, and his romantic involvement with the woman. Visuals show intimate moments between the couple, including cleaning a fishing lure, close-ups of their faces, and sailing scenes. The Hallmark Channel logo is consistently visible, indicating a romantic or family-oriented drama. The audio labels for \"crowd noise in a bar\" and \"driving beat, bright synth\" are mismatched with the visuals\u2014there is no bar or energetic music; instead, the audio consists of calm, reflective voiceovers and ambient sounds of water and nature. The \"blood splatter\" label is also incorrect\u2014there is no violence or blood shown. The mechanical click is likely from a fishing lure or tool being adjusted. The visuals are peaceful and romantic, not intense or dramatic. The \"visual\" events are correctly labeled as they describe what is seen without audio interpretation.",
+    "[Chunk 6: 100.0s - 120.0s]\nScene is a romantic, nautical-themed promotional clip for Hallmark Channel, likely from a movie or series. The setting alternates between a sailboat on calm water and a scenic lighthouse location in Victoria, BC. The main characters are a man and a woman, shown interacting warmly and discussing travel plans. The audio includes conversational speech from both characters, energetic background music, and natural water sounds. There are also interview-style segments at the lighthouse with the actors speaking directly to the camera.\n\nEvent 1 (0.0-1.4s): Male voice speaking, woman looks up at man with soft expression, water in background.\nEvent 2 (0.0-4.8s): Energetic music plays under romantic boat scenes and interview shots.\nEvent 3 (0.0-1.1s): Visual shows couple on sailboat, man looking down, woman looking up \u2014 matches speech about Tom\u2019s adventurous nature.\nEvent 4 (1.1-2.8s): Couple continues interaction on boat, man smiles, woman looks at him \u2014 matches audio transition.\nEvent 5 (1.8-3.5s): Male voice continues speaking, man now sitting by lighthouse, smiling \u2014 matches speech about Claire.\nEvent 6 (2.8-4.4s): Man speaks at lighthouse, red lighthouse visible behind him \u2014 matches audio.\nEvent 7 (3.9-4.4s): Same shot, man continues speaking \u2014 matches audio.\nEvent 8 (4.9-7.1s): World map appears with red and blue pins, then cuts to couple on boat \u2014 matches audio transition.\nEvent 9 (5.5-6.4s): Female voice asks \"Places you've been?\" \u2014 visual shows map with pins, then couple on boat.\nEvent 10 (6.8-20.0s): Natural water movement sound continues under all scenes \u2014 matches audio.\nEvent 11 (6.9-20.0s): Music continues throughout \u2014 matches audio.\nEvent 12 (7.1-12.1s): Couple on boat, man points at screen, woman smiles \u2014 matches speech about red pins being places they want to go.\nEvent 13 (12.1-13.7s): Map shown with rolled charts, red pins dominate \u2014 matches speech \"That's a lot of red.\"\nEvent 14 (12.3-13.2s): Female voice speaks, woman on boat looks at map \u2014 matches audio.\nEvent 15 (13.7-15.8s): Couple on boat, man smiles, woman looks at him \u2014 matches speech \"There's a lot to see.\"\nEvent 16 (15.8-17.5s): Fast whooshing sound as scene transitions to lighthouse \u2014 matches audio.\nEvent 17 (17.1-20.0s): Woman speaks at lighthouse, hair blowing \u2014 matches audio.\nEvent 18 (17.2-20.0s): Woman speaking directly to camera, lighthouse in background \u2014 matches audio.\nEvent 19 (18.0-18.6s): Fast-moving object sound during transition \u2014 matches audio.",
+    "[Chunk 7: 120.0s - 140.0s]\nScene is a coastal setting with a lighthouse, rocky shores, and maritime activities. The video transitions from scenic shots to interviews with actors, then to behind-the-scenes footage. Audio includes music, speech, and ambient sounds of nature and water. The Hallmark Channel logo is present throughout.\n\nEvent 1 (0.0-20.0s): Audio mentions \"city traffic and voices\" but visuals show a quiet coastal environment with no traffic or urban sounds. This is likely mislabeled \u2014 the actual ambient sounds are waves and seagulls.\n\nEvent 2 (0.0-1.6s): A female voice speaks, matching the visual of a woman speaking in front of the lighthouse.\n\nEvent 3 (0.0-0.2s): Visual shows a rocky shoreline with purple flowers and a red lighthouse in the background \u2014 the start of the scenic sequence.\n\nEvent 4 (0.2-20.0s): Bright synth melody plays over steady beat \u2014 matches the upbeat, cheerful tone of the visuals.\n\nEvent 5 (0.2-2.9s): Visual shows a man in a puffer jacket speaking in front of the lighthouse.\n\nEvent 6 (1.7-4.8s): Male voice speaks playfully \u2014 matches the man seen speaking.\n\nEvent 7 (2.9-4.8s): Visual shows a woman in a red shirt and black coat speaking \u2014 continues the interview setup.\n\nEvent 8 (4.8-6.3s): Visual shows a wooden sign with <text>Blue Island</text> and a seagull perched on rocks.\n\nEvent 9 (4.8-10.2s): Female voice speaks \u2014 matches the woman speaking earlier.\n\nEvent 10 (6.3-7.6s): Visual shows a seagull on rocks, then a sailboat in the background.\n\nEvent 11 (7.6-10.3s): Visual shows sailboat in water, then wider shot of marina with boats docked.\n\nEvent 12 (10.3-11.7s): Visual shows a marina with boats and a dock, then a wider view of the harbor.\n\nEvent 13 (11.2-17.6s): Female voice speaks \u2014 matches the woman\u2019s interview.\n\nEvent 14 (11.7-13.4s): Visual shows a marina with boats and waterfront houses.\n\nEvent 15 (13.4-15.0s): Visual shows a woman paddleboarding with a small dog on a board.\n\nEvent 16 (15.0-17.3s): Visual shows a woman walking on a wooden dock near a kayak rental shop, then a man in a life vest.\n\nEvent 17 (17.7-19.9s): Male voice speaks \u2014 matches the man seen in earlier interview.\n\nEvent 18 (17.8-19.3s): Visual shows behind-the-scenes footage: actors in formal clothes on set with camera crew.\n\nEvent 19 (19.4-20.0s): Visual shows close-up of actors facing each other, with camera crew visible \u2014 final behind-the-scenes shot.",
+    "[Chunk 8: 140.0s - 160.0s]\nThe scene is a behind-the-scenes look at a Hallmark Channel film set, primarily outdoors near a rocky coastline with a lighthouse and water. The setting alternates between on-set filming and interview segments. The audio includes conversational speech from the actors, playful tones, and background sounds like wind and camera equipment. The video shows actors in costume during a romantic scene, then transitions to interviews where they speak about working together, followed by shots of the actor walking on set and at a wedding reception. The audio model correctly identifies speech, but some sfx labels like \"urban street sounds\" and \"energetic dance track\" are clearly mismatched with the visuals \u2014 the actual sounds are more natural (wind, camera movement, lighthouse ambiance) and soft background music. These are corrected based on visual context.\n\nEvent 1: Urban street sounds \u2014 visually, it\u2019s a coastal outdoor set, so this is replaced with wind and ambient nature sounds.\nEvent 2: Energetic dance track \u2014 no music matches this; instead, soft ambient or background score is present, corrected to \"soft background music\".\nEvent 3: Visual \u2014 actors in costume, man in naval uniform, woman in coat, facing each other by water.\nEvent 4: Male voice (conversational) \u2014 actor speaking during interview, seated with lighthouse behind him.\nEvent 5: Visual \u2014 behind-the-scenes shot with camera crew, actors smiling, woman in coat.\nEvent 6: Visual \u2014 actors hugging on set, woman in blue dress, man in uniform.\nEvent 7: Male voice (conversational) \u2014 continues interview, same man.\nEvent 8: Visual \u2014 woman in interview, same lighthouse background.\nEvent 9: Male voice (conversational) \u2014 same man, speaking during interview.\nEvent 10: Sfx \u2014 \"Fast air movement\" \u2014 matches wind blowing hair and clothes, corrected to \"wind whips through hair\".\nEvent 11: Female voice (playful) \u2014 woman speaking in interview, smiling.\nEvent 12: Visual \u2014 man in naval uniform walking along rocky shore, sailboat in background.\nEvent 13: Visual \u2014 same man walking toward camera, waving, with lanterns and driftwood.\nEvent 14: Female voice (playful) \u2014 woman speaking during interview.\nEvent 15: Visual \u2014 man in uniform walking through wedding reception tent, guests seated.\nEvent 16: Visual \u2014 same wedding scene, man walking past tables.\nEvent 17: Female voice (playful) \u2014 woman speaking in interview, smiling, lighthouse in background.",
+    "[Chunk 9: 160.0s - 173.8s]\nThe video opens with a woman speaking directly to the camera in front of a scenic coastal backdrop featuring a lighthouse, indicating an outdoor interview or promotional segment. Her speech is accompanied by ambient natural sounds, likely wind or distant waves, but no urban street ambience is evident\u2014so the audio label for event 1 is corrected to natural coastal sounds. The woman\u2019s speech continues as she describes her co-star\u2019s personality, with visuals showing her in a puffer jacket, suggesting a cool climate. At 2.0s, a quick transition occurs with a purple and pink color wash, leading into a shot of the woman and a man standing together in front of the same lighthouse, now with event setup (tables, flowers, tent), suggesting a film set or event. The man is in a puffer jacket and tie, smiling, indicating a formal or semi-formal outdoor gathering. The audio label for event 5 (\"Fast air movement\") is likely a transition effect or camera movement, not a real sfx, so it\u2019s adjusted to \"visual transition with color wash.\" From 5.4s, the video shifts to a title card with the text \"Sailing into Love\" over a serene lake and dock scene, followed by a small dog appearing, and then the Hallmark Channel logo. The music is bright and synth-based, fitting the upbeat, romantic tone. From 10.1s, the scene changes to a sailboat on calm water with two people on deck, an American flag flying, and distant mountains\u2014this is a direct visual for the movie being promoted. The audio remains consistent with the upbeat synth melody throughout, matching the promotional tone. No speech is heard during the sailboat segment, so the [speech] labels are dropped where appropriate. The on-screen text for the movie title and channel is accurately noted."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      120.0
+    ],
+    [
+      120.0,
+      140.0
+    ],
+    [
+      140.0,
+      160.0
+    ],
+    [
+      160.0,
+      173.84780045351474
+    ]
+  ]
+}

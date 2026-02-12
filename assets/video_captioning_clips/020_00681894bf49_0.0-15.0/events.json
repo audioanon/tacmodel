@@ -1,0 +1,1101 @@
+{
+  "cid": "00681894bf499553efd419069bbf3891",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 88.42158730158731,
+  "events": [
+    {
+      "start_time": 1.0427083333333333,
+      "end_time": 3.6703333333333332,
+      "type": "visual",
+      "description": "Young person with curly hair in white tank top, eyes wide, looking up in dimly lit vintage room",
+      "audio_description": null
+    },
+    {
+      "description": "Soft ambient hum of indoor space, no birds \u2014 room quiet with warm lighting",
+      "start_time": 1.1,
+      "end_time": 20.0,
+      "duration": 18.9,
+      "type": "background",
+      "confidence": 0.981,
+      "audio_description": "Soft bird calls in nature"
+    },
+    {
+      "description": "Fearful female voice off-screen, young person\u2019s eyes darting upward as red object enters frame",
+      "start_time": 2.6,
+      "end_time": 4.1,
+      "duration": 1.4999999999999996,
+      "type": "speech",
+      "confidence": 0.955,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Fabric rustles as blonde woman shifts on bed, red blouse moving slightly",
+      "start_time": 3.2,
+      "end_time": 7.9,
+      "duration": 4.7,
+      "type": "sfx",
+      "confidence": 0.984,
+      "audio_description": "Fabric rustling softly"
+    },
+    {
+      "start_time": 3.6703333333333332,
+      "end_time": 7.048708333333333,
+      "type": "visual",
+      "description": "Young person looks down, then up, red object partially obscures view briefly",
+      "audio_description": null
+    },
+    {
+      "description": "Fearful female voice off-screen, young person\u2019s lips part slightly",
+      "start_time": 5.0,
+      "end_time": 5.3,
+      "duration": 0.2999999999999998,
+      "type": "speech",
+      "confidence": 0.946,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Fearful female voice, blonde woman\u2019s mouth moving, eyes wide as she speaks",
+      "start_time": 6.5,
+      "end_time": 7.7,
+      "duration": 1.2000000000000002,
+      "type": "speech",
+      "confidence": 0.983,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "start_time": 7.048708333333333,
+      "end_time": 12.5125,
+      "type": "visual",
+      "description": "Blonde woman reclines on bed, speaking with concerned expression, looking up at young person",
+      "audio_description": null
+    },
+    {
+      "description": "Fearful female voice, young person\u2019s gaze shifts downward, expression tense",
+      "start_time": 8.3,
+      "end_time": 10.8,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.976,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Fearful female voice, young person looks down, lips pressed, eyes narrow",
+      "start_time": 11.7,
+      "end_time": 12.6,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.948,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "start_time": 12.5125,
+      "end_time": 18.017999999999997,
+      "type": "visual",
+      "description": "Young person looks down, then slightly up, mouth moving as if speaking or reacting",
+      "audio_description": null
+    },
+    {
+      "description": "Fearful female voice, woman\u2019s lips move as she speaks softly, hand resting on bed",
+      "start_time": 13.1,
+      "end_time": 13.7,
+      "duration": 0.5999999999999996,
+      "type": "speech",
+      "confidence": 0.967,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Fearful female voice, young person\u2019s brow furrows, eyes fixed downward",
+      "start_time": 14.6,
+      "end_time": 15.2,
+      "duration": 0.5999999999999996,
+      "type": "speech",
+      "confidence": 0.952,
+      "audio_description": "Female voice (fearful)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 2.647,
+        "end": 3.949,
+        "text": " Why can't you come with me?",
+        "words": [
+          {
+            "word": "Why",
+            "start": 2.647,
+            "end": 2.927,
+            "score": 0.864
+          },
+          {
+            "word": "can't",
+            "start": 2.968,
+            "end": 3.168,
+            "score": 0.7
+          },
+          {
+            "word": "you",
+            "start": 3.208,
+            "end": 3.308,
+            "score": 0.343
+          },
+          {
+            "word": "come",
+            "start": 3.328,
+            "end": 3.528,
+            "score": 0.81
+          },
+          {
+            "word": "with",
+            "start": 3.569,
+            "end": 3.729,
+            "score": 0.93
+          },
+          {
+            "word": "me?",
+            "start": 3.809,
+            "end": 3.949,
+            "score": 0.881
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.074,
+        "end": 10.78,
+        "text": "Sweetheart, I told you it's an adventure for children only.",
+        "words": [
+          {
+            "word": "Sweetheart,",
+            "start": 7.074,
+            "end": 7.595,
+            "score": 0.601
+          },
+          {
+            "word": "I",
+            "start": 8.356,
+            "end": 8.436,
+            "score": 0.943
+          },
+          {
+            "word": "told",
+            "start": 8.477,
+            "end": 8.717,
+            "score": 0.818
+          },
+          {
+            "word": "you",
+            "start": 8.777,
+            "end": 8.937,
+            "score": 0.855
+          },
+          {
+            "word": "it's",
+            "start": 8.977,
+            "end": 9.178,
+            "score": 0.725
+          },
+          {
+            "word": "an",
+            "start": 9.218,
+            "end": 9.258,
+            "score": 0.867
+          },
+          {
+            "word": "adventure",
+            "start": 9.338,
+            "end": 9.819,
+            "score": 0.886
+          },
+          {
+            "word": "for",
+            "start": 9.859,
+            "end": 9.959,
+            "score": 0.94
+          },
+          {
+            "word": "children",
+            "start": 10.019,
+            "end": 10.42,
+            "score": 0.902
+          },
+          {
+            "word": "only.",
+            "start": 10.54,
+            "end": 10.78,
+            "score": 0.933
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.702,
+        "end": 12.603,
+        "text": "Growing up's not allowed.",
+        "words": [
+          {
+            "word": "Growing",
+            "start": 11.702,
+            "end": 11.902,
+            "score": 0.788
+          },
+          {
+            "word": "up's",
+            "start": 11.962,
+            "end": 12.062,
+            "score": 0.713
+          },
+          {
+            "word": "not",
+            "start": 12.123,
+            "end": 12.243,
+            "score": 0.824
+          },
+          {
+            "word": "allowed.",
+            "start": 12.303,
+            "end": 12.603,
+            "score": 0.729
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.445,
+        "end": 15.248,
+        "text": "But it's going to be great.",
+        "words": [
+          {
+            "word": "But",
+            "start": 13.445,
+            "end": 13.645,
+            "score": 0.977
+          },
+          {
+            "word": "it's",
+            "start": 14.567,
+            "end": 14.647,
+            "score": 0.304
+          },
+          {
+            "word": "going",
+            "start": 14.667,
+            "end": 14.767,
+            "score": 0.391
+          },
+          {
+            "word": "to",
+            "start": 14.787,
+            "end": 14.847,
+            "score": 0.84
+          },
+          {
+            "word": "be",
+            "start": 14.867,
+            "end": 14.947,
+            "score": 0.862
+          },
+          {
+            "word": "great.",
+            "start": 14.967,
+            "end": 15.248,
+            "score": 0.886
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 15.588,
+        "end": 16.65,
+        "text": "You're going to make new friends.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 15.588,
+            "end": 15.708,
+            "score": 0.104
+          },
+          {
+            "word": "going",
+            "start": 15.728,
+            "end": 15.829,
+            "score": 0.177
+          },
+          {
+            "word": "to",
+            "start": 15.849,
+            "end": 15.889,
+            "score": 0.375
+          },
+          {
+            "word": "make",
+            "start": 15.909,
+            "end": 16.049,
+            "score": 0.951
+          },
+          {
+            "word": "new",
+            "start": 16.089,
+            "end": 16.249,
+            "score": 0.919
+          },
+          {
+            "word": "friends.",
+            "start": 16.309,
+            "end": 16.65,
+            "score": 0.842
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.71,
+        "end": 17.832,
+        "text": "My friends already are.",
+        "words": [
+          {
+            "word": "My",
+            "start": 16.71,
+            "end": 16.93,
+            "score": 0.778
+          },
+          {
+            "word": "friends",
+            "start": 16.97,
+            "end": 17.271,
+            "score": 0.865
+          },
+          {
+            "word": "already",
+            "start": 17.351,
+            "end": 17.632,
+            "score": 0.294
+          },
+          {
+            "word": "are.",
+            "start": 17.652,
+            "end": 17.832,
+            "score": 0.861
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 18.834,
+        "end": 21.758,
+        "text": "Yeah, well, you play games in the countryside.",
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 18.834,
+            "end": 18.954,
+            "score": 0.384
+          },
+          {
+            "word": "well,",
+            "start": 18.974,
+            "end": 19.154,
+            "score": 0.815
+          },
+          {
+            "word": "you",
+            "start": 20.076,
+            "end": 20.236,
+            "score": 0.964
+          },
+          {
+            "word": "play",
+            "start": 20.256,
+            "end": 20.476,
+            "score": 0.884
+          },
+          {
+            "word": "games",
+            "start": 20.536,
+            "end": 20.857,
+            "score": 0.831
+          },
+          {
+            "word": "in",
+            "start": 20.917,
+            "end": 20.957,
+            "score": 0.862
+          },
+          {
+            "word": "the",
+            "start": 20.997,
+            "end": 21.057,
+            "score": 0.995
+          },
+          {
+            "word": "countryside.",
+            "start": 21.097,
+            "end": 21.758,
+            "score": 0.923
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 21.798,
+        "end": 22.68,
+        "text": "That'd be nice.",
+        "words": [
+          {
+            "word": "That'd",
+            "start": 21.798,
+            "end": 22.279,
+            "score": 0.326
+          },
+          {
+            "word": "be",
+            "start": 22.299,
+            "end": 22.339,
+            "score": 0.444
+          },
+          {
+            "word": "nice.",
+            "start": 22.379,
+            "end": 22.68,
+            "score": 0.967
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 23.681,
+        "end": 25.725,
+        "text": "There'll be cows and there'll be horses and sheep.",
+        "words": [
+          {
+            "word": "There'll",
+            "start": 23.681,
+            "end": 23.862,
+            "score": 0.723
+          },
+          {
+            "word": "be",
+            "start": 23.902,
+            "end": 23.982,
+            "score": 0.834
+          },
+          {
+            "word": "cows",
+            "start": 24.182,
+            "end": 24.603,
+            "score": 0.927
+          },
+          {
+            "word": "and",
+            "start": 24.643,
+            "end": 24.703,
+            "score": 0.794
+          },
+          {
+            "word": "there'll",
+            "start": 24.723,
+            "end": 24.883,
+            "score": 0.034
+          },
+          {
+            "word": "be",
+            "start": 24.903,
+            "end": 24.944,
+            "score": 0.004
+          },
+          {
+            "word": "horses",
+            "start": 24.964,
+            "end": 25.344,
+            "score": 0.675
+          },
+          {
+            "word": "and",
+            "start": 25.444,
+            "end": 25.585,
+            "score": 0.231
+          },
+          {
+            "word": "sheep.",
+            "start": 25.605,
+            "end": 25.725,
+            "score": 0.159
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.745,
+        "end": 26.386,
+        "text": "But they smell.",
+        "words": [
+          {
+            "word": "But",
+            "start": 25.745,
+            "end": 25.805,
+            "score": 0.174
+          },
+          {
+            "word": "they",
+            "start": 25.845,
+            "end": 25.925,
+            "score": 0.004
+          },
+          {
+            "word": "smell.",
+            "start": 25.945,
+            "end": 26.386,
+            "score": 0.827
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 27.728,
+        "end": 28.89,
+        "text": "I want to stay with you.",
+        "words": [
+          {
+            "word": "I",
+            "start": 27.728,
+            "end": 27.748,
+            "score": 0.002
+          },
+          {
+            "word": "want",
+            "start": 27.768,
+            "end": 27.908,
+            "score": 0.648
+          },
+          {
+            "word": "to",
+            "start": 27.948,
+            "end": 28.049,
+            "score": 0.54
+          },
+          {
+            "word": "stay",
+            "start": 28.069,
+            "end": 28.329,
+            "score": 0.746
+          },
+          {
+            "word": "with",
+            "start": 28.349,
+            "end": 28.489,
+            "score": 0.785
+          },
+          {
+            "word": "you.",
+            "start": 28.529,
+            "end": 28.89,
+            "score": 0.842
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.055,
+        "end": 43.516,
+        "text": " It's only until all this is over and then the schools will open again and life will get back to normal, I promise.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 37.055,
+            "end": 37.175,
+            "score": 0.167
+          },
+          {
+            "word": "only",
+            "start": 37.195,
+            "end": 37.396,
+            "score": 0.792
+          },
+          {
+            "word": "until",
+            "start": 37.456,
+            "end": 37.657,
+            "score": 0.819
+          },
+          {
+            "word": "all",
+            "start": 37.697,
+            "end": 37.797,
+            "score": 0.666
+          },
+          {
+            "word": "this",
+            "start": 37.878,
+            "end": 37.998,
+            "score": 0.993
+          },
+          {
+            "word": "is",
+            "start": 38.078,
+            "end": 38.159,
+            "score": 0.738
+          },
+          {
+            "word": "over",
+            "start": 38.299,
+            "end": 38.48,
+            "score": 0.888
+          },
+          {
+            "word": "and",
+            "start": 38.5,
+            "end": 38.56,
+            "score": 0.333
+          },
+          {
+            "word": "then",
+            "start": 40.105,
+            "end": 40.205,
+            "score": 0.991
+          },
+          {
+            "word": "the",
+            "start": 40.265,
+            "end": 40.326,
+            "score": 0.985
+          },
+          {
+            "word": "schools",
+            "start": 40.366,
+            "end": 40.687,
+            "score": 0.844
+          },
+          {
+            "word": "will",
+            "start": 40.727,
+            "end": 40.847,
+            "score": 0.925
+          },
+          {
+            "word": "open",
+            "start": 40.928,
+            "end": 41.148,
+            "score": 0.931
+          },
+          {
+            "word": "again",
+            "start": 41.188,
+            "end": 41.389,
+            "score": 0.808
+          },
+          {
+            "word": "and",
+            "start": 41.469,
+            "end": 41.55,
+            "score": 0.672
+          },
+          {
+            "word": "life",
+            "start": 41.61,
+            "end": 41.831,
+            "score": 0.945
+          },
+          {
+            "word": "will",
+            "start": 41.871,
+            "end": 42.011,
+            "score": 0.799
+          },
+          {
+            "word": "get",
+            "start": 42.031,
+            "end": 42.152,
+            "score": 0.99
+          },
+          {
+            "word": "back",
+            "start": 42.212,
+            "end": 42.372,
+            "score": 0.982
+          },
+          {
+            "word": "to",
+            "start": 42.392,
+            "end": 42.473,
+            "score": 0.663
+          },
+          {
+            "word": "normal,",
+            "start": 42.553,
+            "end": 42.994,
+            "score": 0.876
+          },
+          {
+            "word": "I",
+            "start": 43.014,
+            "end": 43.034,
+            "score": 0.762
+          },
+          {
+            "word": "promise.",
+            "start": 43.115,
+            "end": 43.516,
+            "score": 0.949
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 45.663,
+        "end": 48.432,
+        "text": "Please mum, don't send me away.",
+        "words": [
+          {
+            "word": "Please",
+            "start": 45.663,
+            "end": 45.964,
+            "score": 0.781
+          },
+          {
+            "word": "mum,",
+            "start": 46.064,
+            "end": 46.325,
+            "score": 0.725
+          },
+          {
+            "word": "don't",
+            "start": 47.409,
+            "end": 47.609,
+            "score": 0.249
+          },
+          {
+            "word": "send",
+            "start": 47.67,
+            "end": 47.85,
+            "score": 0.727
+          },
+          {
+            "word": "me",
+            "start": 47.89,
+            "end": 48.011,
+            "score": 0.897
+          },
+          {
+            "word": "away.",
+            "start": 48.051,
+            "end": 48.432,
+            "score": 0.698
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 65.455,
+        "end": 66.678,
+        "text": " Your dad would want you to have it.",
+        "words": [
+          {
+            "word": "Your",
+            "start": 65.455,
+            "end": 65.575,
+            "score": 0.193
+          },
+          {
+            "word": "dad",
+            "start": 65.595,
+            "end": 65.776,
+            "score": 0.252
+          },
+          {
+            "word": "would",
+            "start": 65.796,
+            "end": 65.896,
+            "score": 0.163
+          },
+          {
+            "word": "want",
+            "start": 65.956,
+            "end": 66.117,
+            "score": 0.888
+          },
+          {
+            "word": "you",
+            "start": 66.157,
+            "end": 66.277,
+            "score": 0.882
+          },
+          {
+            "word": "to",
+            "start": 66.317,
+            "end": 66.397,
+            "score": 0.99
+          },
+          {
+            "word": "have",
+            "start": 66.437,
+            "end": 66.558,
+            "score": 0.922
+          },
+          {
+            "word": "it.",
+            "start": 66.618,
+            "end": 66.678,
+            "score": 0.971
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 67.32,
+        "end": 68.102,
+        "text": "How do you not?",
+        "words": [
+          {
+            "word": "How",
+            "start": 67.32,
+            "end": 67.5,
+            "score": 0.485
+          },
+          {
+            "word": "do",
+            "start": 67.52,
+            "end": 67.56,
+            "score": 0.396
+          },
+          {
+            "word": "you",
+            "start": 67.6,
+            "end": 67.801,
+            "score": 0.873
+          },
+          {
+            "word": "not?",
+            "start": 67.981,
+            "end": 68.102,
+            "score": 0.665
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 69.144,
+        "end": 71.25,
+        "text": "I know because that's the kind of man he was.",
+        "words": [
+          {
+            "word": "I",
+            "start": 69.144,
+            "end": 69.204,
+            "score": 0.956
+          },
+          {
+            "word": "know",
+            "start": 69.265,
+            "end": 69.485,
+            "score": 0.83
+          },
+          {
+            "word": "because",
+            "start": 69.525,
+            "end": 69.946,
+            "score": 0.837
+          },
+          {
+            "word": "that's",
+            "start": 69.986,
+            "end": 70.167,
+            "score": 0.891
+          },
+          {
+            "word": "the",
+            "start": 70.207,
+            "end": 70.287,
+            "score": 0.982
+          },
+          {
+            "word": "kind",
+            "start": 70.327,
+            "end": 70.508,
+            "score": 0.46
+          },
+          {
+            "word": "of",
+            "start": 70.528,
+            "end": 70.588,
+            "score": 0.53
+          },
+          {
+            "word": "man",
+            "start": 70.608,
+            "end": 70.788,
+            "score": 0.885
+          },
+          {
+            "word": "he",
+            "start": 70.849,
+            "end": 70.969,
+            "score": 0.781
+          },
+          {
+            "word": "was.",
+            "start": 71.009,
+            "end": 71.25,
+            "score": 0.963
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 72.152,
+        "end": 73.014,
+        "text": "Because you're his son.",
+        "words": [
+          {
+            "word": "Because",
+            "start": 72.152,
+            "end": 72.372,
+            "score": 0.901
+          },
+          {
+            "word": "you're",
+            "start": 72.413,
+            "end": 72.633,
+            "score": 0.863
+          },
+          {
+            "word": "his",
+            "start": 72.673,
+            "end": 72.733,
+            "score": 0.502
+          },
+          {
+            "word": "son.",
+            "start": 72.794,
+            "end": 73.014,
+            "score": 0.987
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 74.217,
+        "end": 75.22,
+        "text": "And it belongs to you now.",
+        "words": [
+          {
+            "word": "And",
+            "start": 74.217,
+            "end": 74.277,
+            "score": 0.886
+          },
+          {
+            "word": "it",
+            "start": 74.317,
+            "end": 74.357,
+            "score": 0.992
+          },
+          {
+            "word": "belongs",
+            "start": 74.378,
+            "end": 74.658,
+            "score": 0.777
+          },
+          {
+            "word": "to",
+            "start": 74.718,
+            "end": 74.799,
+            "score": 0.979
+          },
+          {
+            "word": "you",
+            "start": 74.839,
+            "end": 74.959,
+            "score": 0.867
+          },
+          {
+            "word": "now.",
+            "start": 75.039,
+            "end": 75.22,
+            "score": 0.994
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 77.104,
+        "end": 79.33,
+        "text": "And it's gonna keep you safe, alright?",
+        "words": [
+          {
+            "word": "And",
+            "start": 77.104,
+            "end": 77.245,
+            "score": 0.811
+          },
+          {
+            "word": "it's",
+            "start": 77.265,
+            "end": 77.766,
+            "score": 0.58
+          },
+          {
+            "word": "gonna",
+            "start": 77.806,
+            "end": 77.987,
+            "score": 0.495
+          },
+          {
+            "word": "keep",
+            "start": 78.067,
+            "end": 78.267,
+            "score": 0.973
+          },
+          {
+            "word": "you",
+            "start": 78.307,
+            "end": 78.428,
+            "score": 0.946
+          },
+          {
+            "word": "safe,",
+            "start": 78.508,
+            "end": 78.789,
+            "score": 0.974
+          },
+          {
+            "word": "alright?",
+            "start": 79.15,
+            "end": 79.33,
+            "score": 0.459
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a dimly lit, vintage-style bedroom or living space. A young person with curly dark hair and a white tank top is seated, facing a blonde woman in a red polka-dot blouse who is reclining on a bed. The lighting is warm and soft, suggesting an intimate, possibly tense moment. The room has patterned wallpaper, a wooden door, and vintage furniture, reinforcing a mid-20th century setting. \n\nEvent 1 (1.0-3.7s): Young person looks up with wide eyes, mouth slightly open, as if reacting to something said or heard. The camera is focused on their face, capturing subtle shifts in expression. A red object (possibly clothing) briefly enters the frame from the right, partially obscuring the view.\n\nEvent 2 (1.1-20.0s): The audio label \"Soft bird calls in nature\" is inconsistent with the indoor, intimate setting. No birds are visible or audible in the frames. The environment is clearly enclosed and quiet. The sound likely belongs to background ambiance, but no natural sounds are evident. This label should be removed or corrected.\n\nEvent 3 (2.6-4.1s): A fearful female voice says \"Why can't you come with me?\" \u2014 this matches the visual of the young person\u2019s anxious expression and the red object entering the frame, possibly indicating someone approaching or interrupting.\n\nEvent 4 (3.2-7.9s): The sound is labeled \"Fabric rustling softly\" \u2014 this matches the blonde woman\u2019s red blouse moving slightly as she shifts position on the bed, and the young person\u2019s tank top may also be shifting. It's plausible.\n\nEvent 5 (3.7-7.0s): Visual shows the young person looking down, then up, with a pensive expression. The red object (likely a hat or clothing) is partially visible, suggesting movement.\n\nEvent 6 (5.0-5.3s): A fearful female voice speaks \u2014 this likely corresponds to the young person\u2019s expression, though the voice may be off-screen.\n\nEvent 7 (6.5-7.7s): Another fearful female voice \u2014 this aligns with the woman on the bed, who appears to be speaking, her mouth moving and eyes wide.\n\nEvent 8 (7.0-12.5s): Visual shows the blonde woman speaking, reclining on the bed, looking up toward the young person. Her mouth is moving, and she appears to be explaining something with a concerned tone. This matches the transcript of her speaking about the adventure being for children only.\n\nEvent 9 (8.3-10.8s): The fearful female voice continues \u2014 likely the young person responding, as their expression remains anxious.\n\nEvent 10 (11.7-12.6s): The fearful voice says \"Growing up's not allowed\" \u2014 this is likely the young person\u2019s response, matching their downward gaze and tense expression.\n\nEvent 11 (12.5-18.0s): Visual shows the young person looking down, then slightly up, lips moving slightly \u2014 they appear to be speaking or reacting to the woman\u2019s words.\n\nEvent 12 (13.1-13.7s): A fearful female voice says \"But it's going to be great\" \u2014 likely the woman speaking, trying to reassure.\n\nEvent 13 (14.6-15.2s): Female voice says \"You're going to make new friends\" \u2014 likely the woman continuing her reassurance.\n\nEvent 14 (15.6-16.8s): The fearful female voice continues \u2014 likely the young person reacting with hesitation.\n\nEvent 15 (16.7-17.8s): The young person says \"My friends already are\" \u2014 matching their expression and the context of the conversation.\n\nEvent 16 (18.0-20.0s): Visual shows the woman on the bed, looking at the young person, possibly responding with a mixture of concern and firmness.\n\nEvent 17 (18.8-19.2s): The woman says \"Yeah, well, you play games in the countryside\" \u2014 this matches her speaking, with slight head tilt and direct gaze.\n\nThe audio model mislabels \"Soft bird calls in nature\" \u2014 no such sounds are present. All speech is from the two characters, with the young person speaking anxiously and the woman speaking reassuringly but with a firm tone. The \"fabric rustling\" is plausible and fits the movement of clothing.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is a dimly lit, vintage-style bedroom. The setting suggests a mid-20th century domestic interior with floral wallpaper, wooden furniture, and soft, warm lighting. Two characters are present: a woman with blonde curled hair in a red polka-dot blouse and a young child with curly dark hair in a white tank top. The interaction appears intimate and emotional, with the woman speaking to the child, who listens intently. The audio model mislabels some speech events as fearful or negative without visual support\u2014these should be adjusted to match the actual tone and visuals. The \"birds chirping\" is likely a misclassification; the only consistent background sound is soft ambient room noise, possibly a faint hum or distant outdoor sound. The fabric rustling is clearly visible as the woman shifts her position and stands up. The woman\u2019s speech is calm and reassuring, not fearful or negative as labeled. The child\u2019s expressions are serious and contemplative, not showing clear distress. The audio model incorrectly identifies \u201cfemale voice (fearful)\u201d when the tone is more gentle and concerned. The final speech is a clear, calm reassurance from the woman, which should be labeled accurately.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a dimly lit bedroom with vintage decor, likely from the mid-20th century. A woman with blonde curled hair in a red polka-dot dress speaks to a young boy with curly dark hair in a white tank top. The room has floral wallpaper, a vanity with mirror, and soft light coming from a window. The audio labels are mostly correct, but the \"bird calls in forest\" should be corrected to \"soft ambient room sounds\" as there is no forest or birds visible or plausible in the setting. The car engine revving is likely a mistake \u2014 no car or engine is visible, and the audio is too soft and distant to be a real engine. The whispering female voice is consistent with the woman speaking to the boy. The dialogue transcripts suggest a tense emotional conversation about separation and returning to normal life.",
+    "[Chunk 4: 60.0s - 80.0s]\nScene is a dimly lit bedroom with vintage decor, likely from the mid-20th century. A woman with blonde, curled hair in a red polka-dot dress stands beside a young boy with curly dark hair wearing a white tank top. The room has floral wallpaper, a vanity mirror, and personal items on shelves. The lighting is warm and soft, suggesting an intimate, emotional moment. The woman gently touches the boy\u2019s shoulder and face, conveying care and reassurance. The audio model\u2019s bird calls are clearly mismatched \u2014 there is no forest or birds present. The fabric rustling matches the woman adjusting the boy\u2019s clothing. The speech is on-screen, with the woman speaking softly and tenderly to the boy, who listens intently with wide eyes. The audio label \u201cfemale voice (fearful)\u201d is inaccurate \u2014 the tone is gentle, reassuring, and maternal, not fearful. All speech events are delivered by the woman, visible in frame, with clear lip movement. The sfx of fabric rustling is accurate and occurs as she adjusts the boy\u2019s shirt. Visual events focus on the emotional interaction and subtle movements \u2014 embracing, touching face, and looking into each other\u2019s eyes.",
+    "[Chunk 5: 80.0s - 88.4s]\nScene is a cinematic trailer with emotional close-ups and title cards. At 0.0s, a woman with blonde hair gently holds another woman\u2019s face, suggesting intimacy or concern. The setting appears to be a dimly lit room, possibly a bathroom, with floral wallpaper and a towel hanging in the background. The second woman has short curly hair and a solemn expression. From 1.8s to 3.6s, the screen cuts to black with the word \"BLITZ\" in white sans-serif font centered. From 3.6s to 5.8s, the Apple TV+ logo appears with a glowing effect. From 5.8s to 8.4s, the same logo remains with release information text appearing below: \"IN SELECT THEATERS NOVEMBER 1 STREAMING NOVEMBER 22\". The audio labels suggest a female voice (uncertain) at 0.6s\u20130.9s, but no clear speech is visible or audible in the provided frames. The audio model likely misidentified ambient tones or breath as speech. No music or sound effects are present, only visual transitions and text reveals."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      88.42158730158731
+    ]
+  ]
+}

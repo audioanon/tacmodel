@@ -1,0 +1,1195 @@
+{
+  "cid": "0045bbf9580513eb418a2775b695c60c",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 103.35201814058956,
+  "events": [
+    {
+      "description": "Distant cars pass on dark street, headlights glinting off diner windows",
+      "start_time": 0.0,
+      "end_time": 20.0,
+      "duration": 20.0,
+      "type": "background",
+      "confidence": 0.971,
+      "audio_description": "Cars passing on road"
+    },
+    {
+      "start_time": 0.0,
+      "end_time": 3.795458333333333,
+      "type": "visual",
+      "description": "Nighttime street scene with lit diner, parked car, tree in corner, streetlights glowing",
+      "audio_description": null
+    },
+    {
+      "description": "Fingerpicked guitar and soft drums play as man begins strumming in diner",
+      "start_time": 2.2,
+      "end_time": 4.1,
+      "duration": 1.8999999999999995,
+      "type": "music",
+      "confidence": 0.967,
+      "audio_description": "Fingerpicked guitar, soft drums, reflective mood"
+    },
+    {
+      "description": "Man speaks, eyes on guitar, fingers forming chords while explaining technique",
+      "start_time": 3.2,
+      "end_time": 6.2,
+      "duration": 3.0,
+      "type": "speech",
+      "confidence": 0.968,
+      "audio_description": "Male voice (negative)"
+    },
+    {
+      "start_time": 3.795458333333333,
+      "end_time": 14.305958333333333,
+      "type": "visual",
+      "description": "Man and girl seated with acoustic guitars, man demonstrating riff, girl watching",
+      "audio_description": null
+    },
+    {
+      "description": "Fingerpicked guitar and soft drums continue, camera focused on musicians",
+      "start_time": 4.8,
+      "end_time": 20.0,
+      "duration": 15.2,
+      "type": "music",
+      "confidence": 0.956,
+      "audio_description": "Fingerpicked guitar, soft drums, reflective mood"
+    },
+    {
+      "description": "Man speaks, hand gesturing near guitar neck, explaining chord transition",
+      "start_time": 6.9,
+      "end_time": 8.4,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.955,
+      "audio_description": "Male voice (negative)"
+    },
+    {
+      "description": "Man speaks, looking at girl, explaining bridge change with slight nod",
+      "start_time": 10.8,
+      "end_time": 12.9,
+      "duration": 2.0999999999999996,
+      "type": "speech",
+      "confidence": 0.967,
+      "audio_description": "Male voice (negative)"
+    },
+    {
+      "start_time": 14.305958333333333,
+      "end_time": 17.058708333333332,
+      "type": "visual",
+      "description": "Girl turns head toward man, eyes wide, body leaning forward in response",
+      "audio_description": null
+    },
+    {
+      "description": "Girl speaks, head tilted, voice light, responding to man\u2019s instruction",
+      "start_time": 14.5,
+      "end_time": 15.5,
+      "duration": 1.0,
+      "type": "speech",
+      "confidence": 0.749,
+      "audio_description": "Female voice (playful)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 3.322,
+        "end": 12.855,
+        "text": " Um, so it's, it's just G and C really, but there's a little riff that, you know, and then there's a, there's a G sus.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 3.322,
+            "end": 3.743,
+            "score": 0.84
+          },
+          {
+            "word": "so",
+            "start": 3.963,
+            "end": 4.163,
+            "score": 0.604
+          },
+          {
+            "word": "it's,",
+            "start": 4.183,
+            "end": 4.323,
+            "score": 0.696
+          },
+          {
+            "word": "it's",
+            "start": 4.524,
+            "end": 4.684,
+            "score": 0.542
+          },
+          {
+            "word": "just",
+            "start": 4.704,
+            "end": 4.884,
+            "score": 0.604
+          },
+          {
+            "word": "G",
+            "start": 4.984,
+            "end": 5.225,
+            "score": 0.741
+          },
+          {
+            "word": "and",
+            "start": 5.245,
+            "end": 5.385,
+            "score": 0.856
+          },
+          {
+            "word": "C",
+            "start": 5.485,
+            "end": 5.765,
+            "score": 0.918
+          },
+          {
+            "word": "really,",
+            "start": 5.846,
+            "end": 6.126,
+            "score": 0.708
+          },
+          {
+            "word": "but",
+            "start": 6.947,
+            "end": 7.047,
+            "score": 0.923
+          },
+          {
+            "word": "there's",
+            "start": 7.067,
+            "end": 7.248,
+            "score": 0.897
+          },
+          {
+            "word": "a",
+            "start": 7.268,
+            "end": 7.288,
+            "score": 0.292
+          },
+          {
+            "word": "little",
+            "start": 7.308,
+            "end": 7.488,
+            "score": 0.602
+          },
+          {
+            "word": "riff",
+            "start": 7.548,
+            "end": 7.768,
+            "score": 0.844
+          },
+          {
+            "word": "that,",
+            "start": 7.969,
+            "end": 8.289,
+            "score": 0.627
+          },
+          {
+            "word": "you",
+            "start": 8.309,
+            "end": 8.369,
+            "score": 0.001
+          },
+          {
+            "word": "know,",
+            "start": 8.389,
+            "end": 8.489,
+            "score": 0.313
+          },
+          {
+            "word": "and",
+            "start": 10.712,
+            "end": 10.793,
+            "score": 0.784
+          },
+          {
+            "word": "then",
+            "start": 10.833,
+            "end": 10.933,
+            "score": 0.698
+          },
+          {
+            "word": "there's",
+            "start": 10.953,
+            "end": 11.474,
+            "score": 0.656
+          },
+          {
+            "word": "a,",
+            "start": 11.494,
+            "end": 11.794,
+            "score": 0.762
+          },
+          {
+            "word": "there's",
+            "start": 11.894,
+            "end": 12.074,
+            "score": 0.891
+          },
+          {
+            "word": "a",
+            "start": 12.134,
+            "end": 12.154,
+            "score": 0.981
+          },
+          {
+            "word": "G",
+            "start": 12.215,
+            "end": 12.475,
+            "score": 0.917
+          },
+          {
+            "word": "sus.",
+            "start": 12.495,
+            "end": 12.855,
+            "score": 0.928
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.618,
+        "end": 15.559,
+        "text": "I don't have to do that, right?",
+        "words": [
+          {
+            "word": "I",
+            "start": 14.618,
+            "end": 14.718,
+            "score": 0.817
+          },
+          {
+            "word": "don't",
+            "start": 14.758,
+            "end": 14.858,
+            "score": 0.006
+          },
+          {
+            "word": "have",
+            "start": 14.878,
+            "end": 14.958,
+            "score": 0.08
+          },
+          {
+            "word": "to",
+            "start": 14.978,
+            "end": 15.019,
+            "score": 0.032
+          },
+          {
+            "word": "do",
+            "start": 15.039,
+            "end": 15.079,
+            "score": 0.432
+          },
+          {
+            "word": "that,",
+            "start": 15.099,
+            "end": 15.219,
+            "score": 0.818
+          },
+          {
+            "word": "right?",
+            "start": 15.319,
+            "end": 15.559,
+            "score": 0.294
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 15.579,
+        "end": 22.749,
+        "text": "No, you just play the G and the C. There's a, there's a, there's a C minor in the bridge, you know, I'll like nod at E or something when that happens.",
+        "words": [
+          {
+            "word": "No,",
+            "start": 15.579,
+            "end": 15.679,
+            "score": 0.58
+          },
+          {
+            "word": "you",
+            "start": 15.719,
+            "end": 15.78,
+            "score": 0.332
+          },
+          {
+            "word": "just",
+            "start": 15.8,
+            "end": 15.88,
+            "score": 0.242
+          },
+          {
+            "word": "play",
+            "start": 15.9,
+            "end": 16.04,
+            "score": 0.682
+          },
+          {
+            "word": "the",
+            "start": 16.06,
+            "end": 16.16,
+            "score": 0.854
+          },
+          {
+            "word": "G",
+            "start": 16.22,
+            "end": 16.441,
+            "score": 0.88
+          },
+          {
+            "word": "and",
+            "start": 16.481,
+            "end": 16.541,
+            "score": 0.62
+          },
+          {
+            "word": "the",
+            "start": 16.561,
+            "end": 16.661,
+            "score": 0.677
+          },
+          {
+            "word": "C.",
+            "start": 16.721,
+            "end": 16.961,
+            "score": 0.934
+          },
+          {
+            "word": "There's",
+            "start": 17.202,
+            "end": 17.362,
+            "score": 0.771
+          },
+          {
+            "word": "a,",
+            "start": 17.422,
+            "end": 17.462,
+            "score": 0.863
+          },
+          {
+            "word": "there's",
+            "start": 17.602,
+            "end": 17.802,
+            "score": 0.724
+          },
+          {
+            "word": "a,",
+            "start": 17.943,
+            "end": 18.143,
+            "score": 0.895
+          },
+          {
+            "word": "there's",
+            "start": 18.964,
+            "end": 19.144,
+            "score": 0.744
+          },
+          {
+            "word": "a",
+            "start": 19.184,
+            "end": 19.224,
+            "score": 0.495
+          },
+          {
+            "word": "C",
+            "start": 19.305,
+            "end": 19.485,
+            "score": 0.804
+          },
+          {
+            "word": "minor",
+            "start": 19.525,
+            "end": 19.825,
+            "score": 0.874
+          },
+          {
+            "word": "in",
+            "start": 19.865,
+            "end": 19.925,
+            "score": 0.901
+          },
+          {
+            "word": "the",
+            "start": 19.965,
+            "end": 20.026,
+            "score": 0.992
+          },
+          {
+            "word": "bridge,",
+            "start": 20.086,
+            "end": 20.366,
+            "score": 0.879
+          },
+          {
+            "word": "you",
+            "start": 20.466,
+            "end": 20.526,
+            "score": 0.003
+          },
+          {
+            "word": "know,",
+            "start": 20.546,
+            "end": 20.666,
+            "score": 0.32
+          },
+          {
+            "word": "I'll",
+            "start": 20.847,
+            "end": 21.007,
+            "score": 0.784
+          },
+          {
+            "word": "like",
+            "start": 21.127,
+            "end": 21.307,
+            "score": 0.806
+          },
+          {
+            "word": "nod",
+            "start": 21.367,
+            "end": 21.588,
+            "score": 0.623
+          },
+          {
+            "word": "at",
+            "start": 21.608,
+            "end": 21.668,
+            "score": 0.559
+          },
+          {
+            "word": "E",
+            "start": 21.728,
+            "end": 21.788,
+            "score": 0.559
+          },
+          {
+            "word": "or",
+            "start": 21.848,
+            "end": 21.908,
+            "score": 0.782
+          },
+          {
+            "word": "something",
+            "start": 21.948,
+            "end": 22.169,
+            "score": 0.905
+          },
+          {
+            "word": "when",
+            "start": 22.189,
+            "end": 22.269,
+            "score": 0.735
+          },
+          {
+            "word": "that",
+            "start": 22.309,
+            "end": 22.409,
+            "score": 0.833
+          },
+          {
+            "word": "happens.",
+            "start": 22.469,
+            "end": 22.749,
+            "score": 0.907
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.612,
+        "end": 24.712,
+        "text": "Okay.",
+        "words": [
+          {
+            "word": "Okay.",
+            "start": 24.612,
+            "end": 24.712,
+            "score": 0.021
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.732,
+        "end": 24.832,
+        "text": "Okay.",
+        "words": [
+          {
+            "word": "Okay.",
+            "start": 24.732,
+            "end": 24.832,
+            "score": 0.03
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.852,
+        "end": 25.313,
+        "text": "Um, so it's.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 24.852,
+            "end": 24.953,
+            "score": 0.842
+          },
+          {
+            "word": "so",
+            "start": 24.973,
+            "end": 25.173,
+            "score": 0.662
+          },
+          {
+            "word": "it's.",
+            "start": 25.213,
+            "end": 25.313,
+            "score": 0.201
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 31.351,
+        "end": 45.287,
+        "text": " The voice that whispers in our head Suggestin' we just stay in bed Does it seem see sweeter sounding lately?",
+        "words": [
+          {
+            "word": "The",
+            "start": 31.351,
+            "end": 31.511,
+            "score": 0.754
+          },
+          {
+            "word": "voice",
+            "start": 31.571,
+            "end": 32.052,
+            "score": 0.762
+          },
+          {
+            "word": "that",
+            "start": 32.212,
+            "end": 32.612,
+            "score": 0.848
+          },
+          {
+            "word": "whispers",
+            "start": 32.953,
+            "end": 34.094,
+            "score": 0.729
+          },
+          {
+            "word": "in",
+            "start": 34.394,
+            "end": 34.495,
+            "score": 0.86
+          },
+          {
+            "word": "our",
+            "start": 34.715,
+            "end": 34.955,
+            "score": 0.849
+          },
+          {
+            "word": "head",
+            "start": 35.195,
+            "end": 35.676,
+            "score": 0.982
+          },
+          {
+            "word": "Suggestin'",
+            "start": 36.557,
+            "end": 37.458,
+            "score": 0.904
+          },
+          {
+            "word": "we",
+            "start": 37.618,
+            "end": 37.979,
+            "score": 0.99
+          },
+          {
+            "word": "just",
+            "start": 38.159,
+            "end": 38.679,
+            "score": 0.937
+          },
+          {
+            "word": "stay",
+            "start": 38.96,
+            "end": 39.62,
+            "score": 0.859
+          },
+          {
+            "word": "in",
+            "start": 39.64,
+            "end": 39.781,
+            "score": 0.863
+          },
+          {
+            "word": "bed",
+            "start": 40.001,
+            "end": 40.541,
+            "score": 0.979
+          },
+          {
+            "word": "Does",
+            "start": 41.322,
+            "end": 41.482,
+            "score": 0.674
+          },
+          {
+            "word": "it",
+            "start": 41.563,
+            "end": 41.603,
+            "score": 0.932
+          },
+          {
+            "word": "seem",
+            "start": 41.763,
+            "end": 42.464,
+            "score": 0.974
+          },
+          {
+            "word": "see",
+            "start": 42.704,
+            "end": 42.964,
+            "score": 0.846
+          },
+          {
+            "word": "sweeter",
+            "start": 43.184,
+            "end": 43.685,
+            "score": 0.895
+          },
+          {
+            "word": "sounding",
+            "start": 43.725,
+            "end": 44.546,
+            "score": 0.874
+          },
+          {
+            "word": "lately?",
+            "start": 44.706,
+            "end": 45.287,
+            "score": 0.941
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 45.327,
+        "end": 48.17,
+        "text": "Do you as well?",
+        "words": [
+          {
+            "word": "Do",
+            "start": 45.327,
+            "end": 47.349,
+            "score": 0.975
+          },
+          {
+            "word": "you",
+            "start": 47.389,
+            "end": 47.549,
+            "score": 0.98
+          },
+          {
+            "word": "as",
+            "start": 47.649,
+            "end": 47.71,
+            "score": 0.793
+          },
+          {
+            "word": "well?",
+            "start": 47.79,
+            "end": 48.17,
+            "score": 0.944
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 51.474,
+        "end": 59.603,
+        "text": "Sounds a bit like Nat King Cole Scramblin' for change to pay the toll",
+        "words": [
+          {
+            "word": "Sounds",
+            "start": 51.474,
+            "end": 51.854,
+            "score": 0.924
+          },
+          {
+            "word": "a",
+            "start": 51.914,
+            "end": 51.934,
+            "score": 0.796
+          },
+          {
+            "word": "bit",
+            "start": 52.014,
+            "end": 52.235,
+            "score": 0.99
+          },
+          {
+            "word": "like",
+            "start": 52.375,
+            "end": 52.855,
+            "score": 0.881
+          },
+          {
+            "word": "Nat",
+            "start": 53.216,
+            "end": 53.616,
+            "score": 0.863
+          },
+          {
+            "word": "King",
+            "start": 53.636,
+            "end": 54.037,
+            "score": 0.83
+          },
+          {
+            "word": "Cole",
+            "start": 54.197,
+            "end": 54.677,
+            "score": 0.568
+          },
+          {
+            "word": "Scramblin'",
+            "start": 55.558,
+            "end": 56.259,
+            "score": 0.813
+          },
+          {
+            "word": "for",
+            "start": 56.379,
+            "end": 56.62,
+            "score": 0.843
+          },
+          {
+            "word": "change",
+            "start": 56.72,
+            "end": 57.461,
+            "score": 0.808
+          },
+          {
+            "word": "to",
+            "start": 57.801,
+            "end": 57.841,
+            "score": 0.444
+          },
+          {
+            "word": "pay",
+            "start": 58.622,
+            "end": 58.862,
+            "score": 0.939
+          },
+          {
+            "word": "the",
+            "start": 58.922,
+            "end": 59.002,
+            "score": 0.931
+          },
+          {
+            "word": "toll",
+            "start": 59.082,
+            "end": 59.603,
+            "score": 0.767
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 60.123,
+        "end": 67.095,
+        "text": " This back to the sea love has lasted longer than we did expect.",
+        "words": [
+          {
+            "word": "This",
+            "start": 60.123,
+            "end": 60.444,
+            "score": 0.862
+          },
+          {
+            "word": "back",
+            "start": 60.564,
+            "end": 60.724,
+            "score": 0.576
+          },
+          {
+            "word": "to",
+            "start": 60.744,
+            "end": 60.784,
+            "score": 0.022
+          },
+          {
+            "word": "the",
+            "start": 60.804,
+            "end": 60.904,
+            "score": 0.347
+          },
+          {
+            "word": "sea",
+            "start": 60.924,
+            "end": 61.105,
+            "score": 0.766
+          },
+          {
+            "word": "love",
+            "start": 61.145,
+            "end": 61.345,
+            "score": 0.927
+          },
+          {
+            "word": "has",
+            "start": 61.405,
+            "end": 61.505,
+            "score": 0.682
+          },
+          {
+            "word": "lasted",
+            "start": 61.586,
+            "end": 62.267,
+            "score": 0.96
+          },
+          {
+            "word": "longer",
+            "start": 62.307,
+            "end": 63.329,
+            "score": 0.91
+          },
+          {
+            "word": "than",
+            "start": 63.589,
+            "end": 63.97,
+            "score": 0.966
+          },
+          {
+            "word": "we",
+            "start": 63.99,
+            "end": 64.03,
+            "score": 0.496
+          },
+          {
+            "word": "did",
+            "start": 64.07,
+            "end": 66.434,
+            "score": 0.629
+          },
+          {
+            "word": "expect.",
+            "start": 66.494,
+            "end": 67.095,
+            "score": 0.959
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 70.02,
+        "end": 80.899,
+        "text": "Back to the sea.",
+        "words": [
+          {
+            "word": "Back",
+            "start": 70.02,
+            "end": 70.18,
+            "score": 0.67
+          },
+          {
+            "word": "to",
+            "start": 70.221,
+            "end": 70.321,
+            "score": 0.743
+          },
+          {
+            "word": "the",
+            "start": 70.361,
+            "end": 72.344,
+            "score": 0.686
+          },
+          {
+            "word": "sea.",
+            "start": 73.085,
+            "end": 80.899,
+            "score": 0.876
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 84.052,
+        "end": 95.408,
+        "text": " Now the D, the work that we must do is, the work that we must do is, it's never done.",
+        "words": [
+          {
+            "word": "Now",
+            "start": 84.052,
+            "end": 84.253,
+            "score": 0.94
+          },
+          {
+            "word": "the",
+            "start": 84.293,
+            "end": 84.373,
+            "score": 0.894
+          },
+          {
+            "word": "D,",
+            "start": 84.413,
+            "end": 84.734,
+            "score": 0.848
+          },
+          {
+            "word": "the",
+            "start": 84.794,
+            "end": 85.035,
+            "score": 0.599
+          },
+          {
+            "word": "work",
+            "start": 85.095,
+            "end": 85.436,
+            "score": 0.868
+          },
+          {
+            "word": "that",
+            "start": 85.537,
+            "end": 85.818,
+            "score": 0.907
+          },
+          {
+            "word": "we",
+            "start": 86.018,
+            "end": 86.339,
+            "score": 0.981
+          },
+          {
+            "word": "must",
+            "start": 86.56,
+            "end": 86.941,
+            "score": 0.854
+          },
+          {
+            "word": "do",
+            "start": 87.122,
+            "end": 87.503,
+            "score": 0.973
+          },
+          {
+            "word": "is,",
+            "start": 88.406,
+            "end": 88.586,
+            "score": 0.871
+          },
+          {
+            "word": "the",
+            "start": 89.67,
+            "end": 89.77,
+            "score": 0.978
+          },
+          {
+            "word": "work",
+            "start": 89.81,
+            "end": 90.091,
+            "score": 0.841
+          },
+          {
+            "word": "that",
+            "start": 90.252,
+            "end": 90.492,
+            "score": 0.919
+          },
+          {
+            "word": "we",
+            "start": 90.693,
+            "end": 91.014,
+            "score": 0.94
+          },
+          {
+            "word": "must",
+            "start": 91.235,
+            "end": 91.616,
+            "score": 0.942
+          },
+          {
+            "word": "do",
+            "start": 91.776,
+            "end": 92.178,
+            "score": 0.968
+          },
+          {
+            "word": "is,",
+            "start": 93.281,
+            "end": 93.341,
+            "score": 0.691
+          },
+          {
+            "word": "it's",
+            "start": 94.204,
+            "end": 94.365,
+            "score": 0.701
+          },
+          {
+            "word": "never",
+            "start": 94.485,
+            "end": 94.766,
+            "score": 0.967
+          },
+          {
+            "word": "done.",
+            "start": 94.866,
+            "end": 95.408,
+            "score": 0.809
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 98.297,
+        "end": 98.698,
+        "text": "That's it.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 98.297,
+            "end": 98.478,
+            "score": 0.864
+          },
+          {
+            "word": "it.",
+            "start": 98.618,
+            "end": 98.698,
+            "score": 0.533
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 98.979,
+        "end": 99.28,
+        "text": "That's it.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 98.979,
+            "end": 99.12,
+            "score": 0.311
+          },
+          {
+            "word": "it.",
+            "start": 99.18,
+            "end": 99.28,
+            "score": 0.593
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 99.942,
+        "end": 102.189,
+        "text": "I mean, there's another couple of verses.",
+        "words": [
+          {
+            "word": "I",
+            "start": 99.942,
+            "end": 99.982,
+            "score": 0.985
+          },
+          {
+            "word": "mean,",
+            "start": 100.002,
+            "end": 100.103,
+            "score": 0.218
+          },
+          {
+            "word": "there's",
+            "start": 100.123,
+            "end": 100.283,
+            "score": 0.637
+          },
+          {
+            "word": "another",
+            "start": 100.323,
+            "end": 100.564,
+            "score": 0.886
+          },
+          {
+            "word": "couple",
+            "start": 100.624,
+            "end": 100.805,
+            "score": 0.837
+          },
+          {
+            "word": "of",
+            "start": 100.845,
+            "end": 100.885,
+            "score": 0.986
+          },
+          {
+            "word": "verses.",
+            "start": 100.925,
+            "end": 102.189,
+            "score": 0.841
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.31,
+        "end": 103.393,
+        "text": "Yeah.",
+        "words": [
+          {
+            "word": "Yeah.",
+            "start": 102.31,
+            "end": 103.393,
+            "score": 0.617
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a nighttime exterior of a small diner, then cuts to an interior where a man and a girl are playing acoustic guitars. The setting appears to be a music lesson or practice session in a simple room with fluorescent lighting. The audio model correctly identifies guitar music and speech, but the \"background\" label for cars passing is misleading as it\u2019s not a dominant sound and the visual is of a quiet street. The music label is accurate \u2014 fingerpicked guitar and soft drums, reflective mood \u2014 matching the visual of the two musicians focused on their instruments. The speech is between the man and girl, with the man instructing and the girl responding playfully. There\u2019s no need to correct any audio labels as they align with visuals \u2014 the only adjustment is to describe the scene accurately without implying emotional states.\n\nEvent 1 (0.0-20.0s): Background sound of distant traffic, but visual is quiet street at night with diner lit\nEvent 2 (0.0-3.8s): Wide night shot of diner with car parked out front, streetlights glowing, tree in corner\nEvent 3 (2.2-4.1s): Fingerpicked guitar music begins, matching visual of man playing acoustic guitar\nEvent 4 (3.2-6.2s): Man speaking, eyes focused on guitar, explaining chord progression\nEvent 5 (3.8-14.3s): Interior shot of man and girl with guitars, man demonstrating technique\nEvent 6 (4.8-20.0s): Music continues, soft drums and fingerpicked guitar, camera focused on the two musicians\nEvent 7 (6.9-8.4s): Man continues speaking, gesturing slightly with hand while playing\nEvent 8 (10.8-12.9s): Man speaks again, looking at girl, explaining bridge transition\nEvent 9 (14.3-17.1s): Girl looks at man, eyes wide, body slightly leaning forward in response\nEvent 10 (14.5-15.5s): Girl speaks, voice playful, head tilted slightly as she responds\nEvent 11 (15.5-18.1s): Man responds, speaking calmly, eyes on her, explaining C minor in bridge\nEvent 12 (17.1-20.0s): Man continues playing, girl listening intently, both focused on guitar\nEvent 13 (19.0-20.0s): Man speaking softly, finishing instruction, fingers still on strings",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is an indoor space with fluorescent lighting and a tiled ceiling, likely a music practice room or classroom. A man and a woman are seated, both holding acoustic guitars. The man appears to be instructing the woman, gesturing toward the guitar neck and speaking. The woman listens and smiles briefly. Later, the camera focuses tightly on the man\u2019s face as he plays and sings, with subtle facial movements and a visible tattoo on his neck. The audio suggests a musical context: fingerpicked guitar, vocal performance, and brief interaction.\n\nEvent 1 (0.0-2.6s): The audio label \"Male voice (bored)\" is likely misclassified. The man\u2019s tone is instructional and calm, not bored. Visuals show him speaking while demonstrating guitar technique.\n\nEvent 2 (0.0-5.8s): Visuals show the man and woman with guitars, the man explaining chord progressions while the woman listens and smiles. The audio matches the scene \u2014 an instructional dialogue.\n\nEvent 3 (1.6-20.0s): The music is indeed fingerpicked guitar, calm and reflective, matching the visual of the man playing and singing softly.\n\nEvent 4 (2.8-3.2s): The short laugh is from the woman, visible in frame \u2014 a genuine, light laugh. Audio label is correct.\n\nEvent 5 (2.9-5.3s): The male voice is still instructional, not bored \u2014 his tone is patient and focused. The visuals confirm he is guiding the woman.\n\nEvent 6 (5.8-20.0s): Visuals show a close-up of the man playing guitar and singing. His eyes are closed or looking down, focused on the music. The audio continues with the reflective fingerpicked guitar and his voice.\n\nEvent 7 (11.3-20.0s): The male voice sings softly, matching the calm, reflective guitar. The visuals show him singing with subtle expression \u2014 lips moving, eyes occasionally closing \u2014 consistent with the lyrical delivery.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a dimly lit, empty diner or restaurant at night, with checkered flooring and rows of unoccupied booths. The main focus is on a man and a woman sitting together, playing acoustic guitars. The man is strumming and singing, while the woman listens and occasionally looks at him. The audio is gentle acoustic guitar music throughout, matching the reflective mood. The man's face is shown in close-up in several shots, revealing a tattoo on his neck and a focused expression. The setting suggests an intimate, quiet moment between the two characters.\n\nEvent 1 (0.0-20.0s): Entire duration features gentle acoustic guitar music. The visual shows the man playing guitar, singing, and interacting with the woman in a dimly lit diner. The music matches the calm, reflective mood described.\n\nEvent 2 (0.0-0.7s): Audio starts with the man singing. Visual: close-up of man\u2019s face, eyes slightly closed, mouth moving as he sings. He wears a dark shirt, and a tattoo is visible on his neck.\n\nEvent 3 (0.7-9.1s): Man continues singing and playing guitar, looking at the woman. She sits beside him, holding her own guitar, eyes mostly downcast. The camera pulls back to show them seated on the edge of a counter in the diner, surrounded by empty booths. The audio remains gentle guitar strumming.\n\nEvent 4 (9.1-14.9s): Wider shot of the diner. The man and woman remain seated on the counter, continuing to play and sing. The environment is quiet and empty, with fluorescent lighting overhead and windows showing darkness outside. The music continues unchanged.\n\nEvent 5 (14.9-20.0s): Return to close-up of the man\u2019s face as he sings. His expression is focused, eyes shifting slightly, lips moving with the lyrics. The background is blurred, but hints of neon lights are visible, suggesting an urban setting outside.\n\nNo audio labels need correction \u2014 all match the visuals. The music is consistently gentle acoustic guitar, and the visuals support the reflective, calm mood.",
+    "[Chunk 4: 60.0s - 80.0s]\nThe scene appears to be set in a dimly lit, intimate indoor space\u2014possibly a music room or rehearsal space\u2014given the presence of a guitar and the focused interaction between two individuals. The lighting is low and moody, with blurred background lights suggesting an urban or nighttime setting. The man, wearing a dark green shirt with visible neck tattoos, speaks throughout the clip with a subdued, almost weary tone. His facial expressions shift subtly\u2014eyes closed, lips moving, head tilting\u2014as he speaks. The young woman, with long brown hair, is seen playing or holding a guitar, her focus shifting from downward concentration to briefly meeting the man\u2019s gaze. Her posture and expression remain mostly neutral, with slight movements indicating listening or emotional response. The audio model labels the man\u2019s voice as \u201cbored,\u201d but visually, his delivery appears more contemplative or emotionally heavy than bored. The music is described as gentle fingerpicking with a warm tone, which aligns with the quiet, intimate atmosphere of the scene and the woman's guitar presence. The audio confidence scores for speech are generally high, but the \u201cbored\u201d label may not fully capture the emotional weight suggested by the visuals. The music label is consistent with the scene. For visual events, the focus is on the man\u2019s face and the woman\u2019s profile and hands on the guitar, with occasional eye contact between them. The camera alternates between close-ups of the man and the woman, emphasizing their emotional connection and the quiet tension in the moment.",
+    "[Chunk 5: 80.0s - 91.7s]\nScene is an indoor setting, likely a music room or classroom with a tiled ceiling and fluorescent lighting. A man and a young woman are seated side by side, both holding acoustic guitars. The man is playing and singing, while the woman listens intently, occasionally glancing at him. The audio model labels the sound as \"music\" with gentle strumming and reflective mood, which matches the visual of the man playing guitar and singing softly. The speech transcript appears to be lyrics or dialogue spoken by the man, likely part of a song or conversation. The audio label for the first event is accurate \u2014 the music is gentle and reflective, matching the subdued lighting and focused expressions. The second and third events involve speech, which is clearly visible as the man\u2019s lips move in sync with the audio. The visual context supports the speech label \u2014 the man is the speaker, and his facial movements align with the spoken words. No audio mislabeling is detected.",
+    "[Chunk 6: 91.7s - 103.4s]\nScene is an indoor setting, likely a music classroom or rehearsal space, with fluorescent lighting and tiled ceiling. A man and a young woman are seated closely, both holding acoustic guitars. The man appears to be teaching the woman, demonstrating finger positions on the fretboard. The woman listens intently, then shifts from focused attention to a broad smile, suggesting a moment of understanding or joy.\n\nEvent 1 (0.0-0.0s): Audio label is [music] with description \"Gentle strumming, reflective mood\" \u2014 visually, the man is playing a guitar with gentle hand movements, consistent with soft strumming. The setting supports a calm, reflective mood.\n\nEvent 2 (0.0-11.7s): Audio label is [music] \"Fingerstyle guitar with emotional depth\" \u2014 the man\u2019s fingers are actively pressing and plucking strings, and the woman is observing closely, indicating a detailed, expressive playing style.\n\nEvent 3 (0.0-11.7s): Audio label is [background] \"People talking in a room\" \u2014 this is likely a mislabel. The only audible voices are the man\u2019s teaching and the woman\u2019s laughter, both clearly foreground. No other conversations are visible or implied.\n\nEvent 4 (0.0-4.9s): Visual description needed \u2014 man is demonstrating guitar technique, fingers on frets, woman watching closely, head slightly tilted.\n\nEvent 5 (4.9-11.7s): Visual description needed \u2014 woman looks up, eyes widen, then smiles broadly, indicating comprehension or delight. Man turns toward her, possibly acknowledging her reaction.\n\nEvent 6 (9.4-11.4s): Audio label is [sfx] \"Female laughter\" \u2014 woman bursts into a wide, genuine laugh, head tilting back slightly, eyes crinkling \u2014 this matches the audio perfectly."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      91.67600907029478
+    ],
+    [
+      91.67600907029478,
+      103.35201814058956
+    ]
+  ]
+}

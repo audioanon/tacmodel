@@ -30,11 +30,12 @@
                 <span class="logo-subtitle">Timestamped Audio Captioning</span>
             </div>
             <nav class="nav" id="mainNav">
-                <button class="nav-btn active" data-tab="home">Home</button>
-                <button class="nav-btn" data-tab="captioning">Captioning Examples</button>
-                <button class="nav-btn" data-tab="benchmarks">AV Benchmarks</button>
-                <button class="nav-btn" data-tab="audiobenchmarks">Audio Benchmarks</button>
-                <button class="nav-btn" data-tab="about">About</button>
+                <a class="nav-btn active" href="#home" data-section="home">Home</a>
+                <a class="nav-btn" href="#captioning" data-section="captioning">Audio Captioning</a>
+                <a class="nav-btn" href="#videocaptioning" data-section="videocaptioning">Video Captioning</a>
+                <a class="nav-btn" href="#benchmarks" data-section="benchmarks">AV Benchmarks</a>
+                <a class="nav-btn" href="#audiobenchmarks" data-section="audiobenchmarks">Audio Benchmarks</a>
+                <a class="nav-btn" href="#about" data-section="about">About</a>
             </nav>
         </div>
     </header>
@@ -104,6 +105,25 @@
                 </p>
             </div>
             <div id="captioningExamples" class="examples-grid">
+                <!-- Dynamically loaded -->
+            </div>
+        </section>
+
+        <!-- Video Captioning Section -->
+        <section id="videocaptioning" class="tab-content">
+            <div class="section-header">
+                <h2 class="section-title">Video Captioning Examples</h2>
+                <p class="section-desc">Dense audio-visual captions with timestamped events — video with embedded
+                    captions on the left, event timeline on the right</p>
+            </div>
+            <div class="vc-filter-bar">
+                <button class="vc-filter-btn active" data-filter="all">All</button>
+                <button class="vc-filter-btn" data-filter="visual">Visual</button>
+                <button class="vc-filter-btn" data-filter="music">Music</button>
+                <button class="vc-filter-btn" data-filter="speech">Speech</button>
+                <button class="vc-filter-btn" data-filter="sfx">SFX</button>
+            </div>
+            <div id="videoCaptioningExamples" class="vc-examples-container">
                 <!-- Dynamically loaded -->
             </div>
         </section>

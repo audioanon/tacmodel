@@ -1,0 +1,1315 @@
+{
+  "cid": "0001c1963aabe6dadeba457762c82c86",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 60.04680272108843,
+  "events": [
+    {
+      "description": "Driving beat pulses as the \"RuPaul's Drag Race\" logo appears in bold cyan on deep blue.",
+      "start_time": 0.1,
+      "end_time": 20.0,
+      "duration": 19.9,
+      "type": "music",
+      "confidence": 0.963,
+      "audio_description": "Driving beat, dark tone, intense energy"
+    },
+    {
+      "description": "Playful male voice announces return as \"RuPaul's Drag Race All Stars\" logo flashes in pink and blue on white.",
+      "start_time": 0.2,
+      "end_time": 1.8,
+      "duration": 1.6,
+      "type": "speech",
+      "confidence": 0.98,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "start_time": 0.5005000000000001,
+      "end_time": 1.9019,
+      "type": "visual",
+      "description": "Show logo with yellow stars on white, confirming \"All Stars\" branding.",
+      "audio_description": null
+    },
+    {
+      "description": "Child\u2019s high-pitched voice as queen with yellow bow raises white sunglasses dramatically.",
+      "start_time": 1.8,
+      "end_time": 3.8,
+      "duration": 1.9999999999999998,
+      "type": "speech",
+      "confidence": 0.89,
+      "audio_description": "A child\u2019s voice speaks with a playful, high-pitched tone"
+    },
+    {
+      "description": "Male voice (positive) as queen with yellow bow holds sunglasses aloft against neon pink and purple backdrop.",
+      "start_time": 1.8,
+      "end_time": 3.8,
+      "duration": 1.9999999999999998,
+      "type": "speech",
+      "confidence": 0.952,
+      "audio_description": "Male voice (positive)"
+    },
+    {
+      "start_time": 1.9019,
+      "end_time": 3.9039,
+      "type": "visual",
+      "description": "Queen with yellow bow maintains pose, expression intense, background glowing with neon lights.",
+      "audio_description": null
+    },
+    {
+      "description": "Child\u2019s voice says \u201cHi\u201d as queen with black bow and blonde hair raises arm in dramatic pose.",
+      "start_time": 4.1,
+      "end_time": 5.6,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.891,
+      "audio_description": "A child\u2019s voice speaks with a playful, high-pitched tone"
+    },
+    {
+      "description": "Metal door squeaks as queen with black bow continues pose, suggesting entrance or transition.",
+      "start_time": 4.9,
+      "end_time": 5.6,
+      "duration": 0.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.672,
+      "audio_description": "Metal door opens with a squeak"
+    },
+    {
+      "description": "Playful male voice says \u201cOn a new night\u201d as bold yellow \u201cNEW\u201d appears on pink, then blue \u201cNIGHT\u201d on yellow.",
+      "start_time": 5.2,
+      "end_time": 6.0,
+      "duration": 0.7999999999999998,
+      "type": "speech",
+      "confidence": 0.954,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "description": "Child\u2019s voice speaks as \u201cTHURSDAY\u201d flashes in blue on pink, then queen with long black hair laughs with hands raised.",
+      "start_time": 6.0,
+      "end_time": 7.8,
+      "duration": 1.7999999999999998,
+      "type": "speech",
+      "confidence": 0.931,
+      "audio_description": "A child\u2019s voice speaks with a playful, high-pitched tone"
+    },
+    {
+      "description": "Metal door squeaks as queen laughs, reinforcing transition theme.",
+      "start_time": 6.5,
+      "end_time": 7.7,
+      "duration": 1.2000000000000002,
+      "type": "sfx",
+      "confidence": 0.538,
+      "audio_description": "Metal door opens with a squeak"
+    },
+    {
+      "description": "Playful male voice says \u201cWith shot new rules\u201d as \u201cSHOCKING\u201d and \u201cRULES\u201d appear, then queen in lace does inverted pose.",
+      "start_time": 7.8,
+      "end_time": 9.5,
+      "duration": 1.7000000000000002,
+      "type": "speech",
+      "confidence": 0.966,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "description": "Conversational male voice announces lip-sync twist as queens in glowing blue and yellow outfits appear.",
+      "start_time": 9.6,
+      "end_time": 11.9,
+      "duration": 2.3000000000000007,
+      "type": "speech",
+      "confidence": 0.978,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "description": "Conversational male voice as red-haired queen sings into mic, then blonde queen in gold sequined dress appears.",
+      "start_time": 12.2,
+      "end_time": 12.8,
+      "duration": 0.6000000000000014,
+      "type": "speech",
+      "confidence": 0.926,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "description": "Playful male voice as queen in gold sequined dress speaks intensely against blue-pink hexagon backdrop.",
+      "start_time": 12.4,
+      "end_time": 14.4,
+      "duration": 2.0,
+      "type": "sfx",
+      "confidence": 0.939,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "description": "Fast-moving object sound as queen in gold is shown, then queen with yellow hair raises arms excitedly.",
+      "start_time": 12.4,
+      "end_time": 16.5,
+      "duration": 4.1,
+      "type": "sfx",
+      "confidence": 0.667,
+      "audio_description": "Fast-moving object sound"
+    },
+    {
+      "start_time": 13.246566666666666,
+      "end_time": 14.247566666666668,
+      "type": "visual",
+      "description": "Queen in gold sequined dress with intense expression, blue-pink hexagon background.",
+      "audio_description": null
+    },
+    {
+      "description": "Fast-moving object sound as queen with yellow hair raises arms in celebratory pose.",
+      "start_time": 14.9,
+      "end_time": 15.6,
+      "duration": 0.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.568,
+      "audio_description": "Fast-moving object sound"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.233,
+        "end": 1.835,
+        "text": " Drag Race All Stars is back.",
+        "words": [
+          {
+            "word": "Drag",
+            "start": 0.233,
+            "end": 0.533,
+            "score": 0.623
+          },
+          {
+            "word": "Race",
+            "start": 0.553,
+            "end": 0.734,
+            "score": 0.603
+          },
+          {
+            "word": "All",
+            "start": 0.754,
+            "end": 0.874,
+            "score": 0.664
+          },
+          {
+            "word": "Stars",
+            "start": 0.914,
+            "end": 1.255,
+            "score": 0.853
+          },
+          {
+            "word": "is",
+            "start": 1.335,
+            "end": 1.435,
+            "score": 0.815
+          },
+          {
+            "word": "back.",
+            "start": 1.495,
+            "end": 1.835,
+            "score": 0.992
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 1.936,
+        "end": 3.878,
+        "text": "I need to get up in this all-star gig.",
+        "words": [
+          {
+            "word": "I",
+            "start": 1.936,
+            "end": 1.956,
+            "score": 0.0
+          },
+          {
+            "word": "need",
+            "start": 1.976,
+            "end": 2.056,
+            "score": 0.17
+          },
+          {
+            "word": "to",
+            "start": 2.076,
+            "end": 2.136,
+            "score": 0.656
+          },
+          {
+            "word": "get",
+            "start": 2.176,
+            "end": 2.256,
+            "score": 0.914
+          },
+          {
+            "word": "up",
+            "start": 2.296,
+            "end": 2.356,
+            "score": 0.808
+          },
+          {
+            "word": "in",
+            "start": 2.416,
+            "end": 2.476,
+            "score": 0.882
+          },
+          {
+            "word": "this",
+            "start": 2.496,
+            "end": 2.637,
+            "score": 0.647
+          },
+          {
+            "word": "all-star",
+            "start": 2.837,
+            "end": 3.478,
+            "score": 0.889
+          },
+          {
+            "word": "gig.",
+            "start": 3.498,
+            "end": 3.878,
+            "score": 0.538
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.219,
+        "end": 5.261,
+        "text": "Hi.",
+        "words": [
+          {
+            "word": "Hi.",
+            "start": 4.219,
+            "end": 5.261,
+            "score": 0.837
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.281,
+        "end": 6.062,
+        "text": "On a new night.",
+        "words": [
+          {
+            "word": "On",
+            "start": 5.281,
+            "end": 5.341,
+            "score": 0.972
+          },
+          {
+            "word": "a",
+            "start": 5.401,
+            "end": 5.421,
+            "score": 0.871
+          },
+          {
+            "word": "new",
+            "start": 5.541,
+            "end": 5.721,
+            "score": 0.787
+          },
+          {
+            "word": "night.",
+            "start": 5.821,
+            "end": 6.062,
+            "score": 0.836
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.562,
+        "end": 6.743,
+        "text": "Thursday.",
+        "words": [
+          {
+            "word": "Thursday.",
+            "start": 6.562,
+            "end": 6.743,
+            "score": 0.144
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.704,
+        "end": 7.784,
+        "text": "Yay.",
+        "words": [
+          {
+            "word": "Yay.",
+            "start": 7.704,
+            "end": 7.784,
+            "score": 0.008
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.804,
+        "end": 9.347,
+        "text": "With shot new rules.",
+        "words": [
+          {
+            "word": "With",
+            "start": 7.804,
+            "end": 8.005,
+            "score": 0.836
+          },
+          {
+            "word": "shot",
+            "start": 8.125,
+            "end": 8.505,
+            "score": 0.864
+          },
+          {
+            "word": "new",
+            "start": 8.686,
+            "end": 8.866,
+            "score": 0.646
+          },
+          {
+            "word": "rules.",
+            "start": 8.966,
+            "end": 9.347,
+            "score": 0.806
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.687,
+        "end": 17.98,
+        "text": "The top two will lip-sync for their... And a new mind-blowing twist.",
+        "words": [
+          {
+            "word": "The",
+            "start": 9.687,
+            "end": 9.827,
+            "score": 0.946
+          },
+          {
+            "word": "top",
+            "start": 9.928,
+            "end": 10.308,
+            "score": 0.952
+          },
+          {
+            "word": "two",
+            "start": 10.388,
+            "end": 10.729,
+            "score": 0.826
+          },
+          {
+            "word": "will",
+            "start": 10.949,
+            "end": 11.169,
+            "score": 0.962
+          },
+          {
+            "word": "lip-sync",
+            "start": 11.249,
+            "end": 11.87,
+            "score": 0.87
+          },
+          {
+            "word": "for",
+            "start": 12.211,
+            "end": 12.391,
+            "score": 0.859
+          },
+          {
+            "word": "their...",
+            "start": 12.471,
+            "end": 12.732,
+            "score": 0.793
+          },
+          {
+            "word": "And",
+            "start": 15.896,
+            "end": 16.057,
+            "score": 0.663
+          },
+          {
+            "word": "a",
+            "start": 16.237,
+            "end": 16.277,
+            "score": 0.789
+          },
+          {
+            "word": "new",
+            "start": 16.337,
+            "end": 16.497,
+            "score": 0.996
+          },
+          {
+            "word": "mind-blowing",
+            "start": 16.698,
+            "end": 17.459,
+            "score": 0.792
+          },
+          {
+            "word": "twist.",
+            "start": 17.539,
+            "end": 17.98,
+            "score": 0.825
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 18.02,
+        "end": 20.664,
+        "text": "You'll be eliminating each other.",
+        "words": [
+          {
+            "word": "You'll",
+            "start": 18.02,
+            "end": 18.38,
+            "score": 0.809
+          },
+          {
+            "word": "be",
+            "start": 18.44,
+            "end": 18.56,
+            "score": 0.785
+          },
+          {
+            "word": "eliminating",
+            "start": 18.641,
+            "end": 19.382,
+            "score": 0.918
+          },
+          {
+            "word": "each",
+            "start": 19.702,
+            "end": 19.922,
+            "score": 0.822
+          },
+          {
+            "word": "other.",
+            "start": 20.303,
+            "end": 20.664,
+            "score": 0.9
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 20.684,
+        "end": 24.569,
+        "text": "Now it's up to us to vote each other off the island.",
+        "words": [
+          {
+            "word": "Now",
+            "start": 20.684,
+            "end": 22.186,
+            "score": 0.988
+          },
+          {
+            "word": "it's",
+            "start": 22.246,
+            "end": 22.366,
+            "score": 0.814
+          },
+          {
+            "word": "up",
+            "start": 22.446,
+            "end": 22.526,
+            "score": 0.873
+          },
+          {
+            "word": "to",
+            "start": 22.566,
+            "end": 22.667,
+            "score": 0.977
+          },
+          {
+            "word": "us",
+            "start": 22.887,
+            "end": 23.007,
+            "score": 0.862
+          },
+          {
+            "word": "to",
+            "start": 23.107,
+            "end": 23.187,
+            "score": 0.824
+          },
+          {
+            "word": "vote",
+            "start": 23.247,
+            "end": 23.408,
+            "score": 0.957
+          },
+          {
+            "word": "each",
+            "start": 23.448,
+            "end": 23.548,
+            "score": 0.746
+          },
+          {
+            "word": "other",
+            "start": 23.608,
+            "end": 23.768,
+            "score": 0.989
+          },
+          {
+            "word": "off",
+            "start": 23.868,
+            "end": 24.009,
+            "score": 0.998
+          },
+          {
+            "word": "the",
+            "start": 24.049,
+            "end": 24.129,
+            "score": 0.797
+          },
+          {
+            "word": "island.",
+            "start": 24.289,
+            "end": 24.569,
+            "score": 0.841
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.71,
+        "end": 25.291,
+        "text": "What's happening?",
+        "words": [
+          {
+            "word": "What's",
+            "start": 24.71,
+            "end": 24.91,
+            "score": 0.898
+          },
+          {
+            "word": "happening?",
+            "start": 24.93,
+            "end": 25.291,
+            "score": 0.832
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.391,
+        "end": 26.292,
+        "text": "We're all freaking out.",
+        "words": [
+          {
+            "word": "We're",
+            "start": 25.391,
+            "end": 25.531,
+            "score": 0.889
+          },
+          {
+            "word": "all",
+            "start": 25.571,
+            "end": 25.671,
+            "score": 0.677
+          },
+          {
+            "word": "freaking",
+            "start": 25.691,
+            "end": 25.972,
+            "score": 0.364
+          },
+          {
+            "word": "out.",
+            "start": 26.052,
+            "end": 26.292,
+            "score": 0.619
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 26.508,
+        "end": 28.316,
+        "text": " Bitch, what show did I sign up for?",
+        "words": [
+          {
+            "word": "Bitch,",
+            "start": 26.508,
+            "end": 26.769,
+            "score": 0.147
+          },
+          {
+            "word": "what",
+            "start": 26.789,
+            "end": 26.97,
+            "score": 0.97
+          },
+          {
+            "word": "show",
+            "start": 27.071,
+            "end": 27.272,
+            "score": 0.989
+          },
+          {
+            "word": "did",
+            "start": 27.292,
+            "end": 27.412,
+            "score": 0.993
+          },
+          {
+            "word": "I",
+            "start": 27.472,
+            "end": 27.553,
+            "score": 0.993
+          },
+          {
+            "word": "sign",
+            "start": 27.593,
+            "end": 27.814,
+            "score": 0.773
+          },
+          {
+            "word": "up",
+            "start": 27.894,
+            "end": 27.995,
+            "score": 0.82
+          },
+          {
+            "word": "for?",
+            "start": 28.075,
+            "end": 28.316,
+            "score": 0.98
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.377,
+        "end": 30.185,
+        "text": "These are girls that we're friends.",
+        "words": [
+          {
+            "word": "These",
+            "start": 28.377,
+            "end": 28.738,
+            "score": 0.539
+          },
+          {
+            "word": "are",
+            "start": 28.799,
+            "end": 28.859,
+            "score": 0.825
+          },
+          {
+            "word": "girls",
+            "start": 28.919,
+            "end": 29.281,
+            "score": 0.83
+          },
+          {
+            "word": "that",
+            "start": 29.321,
+            "end": 29.542,
+            "score": 0.791
+          },
+          {
+            "word": "we're",
+            "start": 29.602,
+            "end": 29.763,
+            "score": 0.822
+          },
+          {
+            "word": "friends.",
+            "start": 29.823,
+            "end": 30.185,
+            "score": 0.78
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 30.727,
+        "end": 33.902,
+        "text": "You have the power to dash their dream.",
+        "words": [
+          {
+            "word": "You",
+            "start": 30.727,
+            "end": 30.948,
+            "score": 0.887
+          },
+          {
+            "word": "have",
+            "start": 31.029,
+            "end": 31.27,
+            "score": 0.997
+          },
+          {
+            "word": "the",
+            "start": 31.431,
+            "end": 31.531,
+            "score": 0.997
+          },
+          {
+            "word": "power",
+            "start": 31.612,
+            "end": 32.054,
+            "score": 0.943
+          },
+          {
+            "word": "to",
+            "start": 32.174,
+            "end": 32.395,
+            "score": 0.874
+          },
+          {
+            "word": "dash",
+            "start": 32.435,
+            "end": 33.098,
+            "score": 0.967
+          },
+          {
+            "word": "their",
+            "start": 33.159,
+            "end": 33.319,
+            "score": 0.821
+          },
+          {
+            "word": "dream.",
+            "start": 33.38,
+            "end": 33.902,
+            "score": 0.856
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 34.287,
+        "end": 37.632,
+        "text": " Which queen have you chosen to get the chop?",
+        "words": [
+          {
+            "word": "Which",
+            "start": 34.287,
+            "end": 34.547,
+            "score": 0.773
+          },
+          {
+            "word": "queen",
+            "start": 34.928,
+            "end": 35.168,
+            "score": 0.555
+          },
+          {
+            "word": "have",
+            "start": 35.228,
+            "end": 35.369,
+            "score": 0.936
+          },
+          {
+            "word": "you",
+            "start": 35.429,
+            "end": 35.589,
+            "score": 0.961
+          },
+          {
+            "word": "chosen",
+            "start": 35.669,
+            "end": 36.07,
+            "score": 0.792
+          },
+          {
+            "word": "to",
+            "start": 36.11,
+            "end": 36.39,
+            "score": 0.841
+          },
+          {
+            "word": "get",
+            "start": 36.43,
+            "end": 36.55,
+            "score": 0.916
+          },
+          {
+            "word": "the",
+            "start": 36.591,
+            "end": 36.691,
+            "score": 0.794
+          },
+          {
+            "word": "chop?",
+            "start": 36.771,
+            "end": 37.632,
+            "score": 0.866
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.652,
+        "end": 45.144,
+        "text": "Alliances will definitely start to factor in and girls will start kicking off other girls who they feel are a threat.",
+        "words": [
+          {
+            "word": "Alliances",
+            "start": 37.652,
+            "end": 38.293,
+            "score": 0.837
+          },
+          {
+            "word": "will",
+            "start": 38.353,
+            "end": 38.514,
+            "score": 0.932
+          },
+          {
+            "word": "definitely",
+            "start": 38.574,
+            "end": 38.954,
+            "score": 0.79
+          },
+          {
+            "word": "start",
+            "start": 39.014,
+            "end": 39.235,
+            "score": 0.783
+          },
+          {
+            "word": "to",
+            "start": 39.255,
+            "end": 39.335,
+            "score": 0.87
+          },
+          {
+            "word": "factor",
+            "start": 39.375,
+            "end": 39.775,
+            "score": 0.78
+          },
+          {
+            "word": "in",
+            "start": 39.876,
+            "end": 39.996,
+            "score": 0.678
+          },
+          {
+            "word": "and",
+            "start": 40.136,
+            "end": 40.196,
+            "score": 0.942
+          },
+          {
+            "word": "girls",
+            "start": 40.236,
+            "end": 40.416,
+            "score": 0.74
+          },
+          {
+            "word": "will",
+            "start": 40.457,
+            "end": 40.597,
+            "score": 0.97
+          },
+          {
+            "word": "start",
+            "start": 40.617,
+            "end": 40.857,
+            "score": 0.731
+          },
+          {
+            "word": "kicking",
+            "start": 40.957,
+            "end": 41.218,
+            "score": 0.908
+          },
+          {
+            "word": "off",
+            "start": 41.378,
+            "end": 41.518,
+            "score": 0.983
+          },
+          {
+            "word": "other",
+            "start": 42.159,
+            "end": 42.339,
+            "score": 0.954
+          },
+          {
+            "word": "girls",
+            "start": 42.379,
+            "end": 42.58,
+            "score": 0.715
+          },
+          {
+            "word": "who",
+            "start": 42.64,
+            "end": 42.74,
+            "score": 0.924
+          },
+          {
+            "word": "they",
+            "start": 42.76,
+            "end": 42.92,
+            "score": 0.826
+          },
+          {
+            "word": "feel",
+            "start": 43.0,
+            "end": 43.421,
+            "score": 0.773
+          },
+          {
+            "word": "are",
+            "start": 43.461,
+            "end": 44.182,
+            "score": 0.778
+          },
+          {
+            "word": "a",
+            "start": 44.202,
+            "end": 44.222,
+            "score": 0.998
+          },
+          {
+            "word": "threat.",
+            "start": 44.723,
+            "end": 45.144,
+            "score": 0.947
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 45.384,
+        "end": 46.306,
+        "text": "Flaws are going to come out.",
+        "words": [
+          {
+            "word": "Flaws",
+            "start": 45.384,
+            "end": 45.645,
+            "score": 0.767
+          },
+          {
+            "word": "are",
+            "start": 45.685,
+            "end": 45.745,
+            "score": 0.477
+          },
+          {
+            "word": "going",
+            "start": 45.765,
+            "end": 45.865,
+            "score": 0.153
+          },
+          {
+            "word": "to",
+            "start": 45.885,
+            "end": 45.925,
+            "score": 0.495
+          },
+          {
+            "word": "come",
+            "start": 45.965,
+            "end": 46.105,
+            "score": 0.936
+          },
+          {
+            "word": "out.",
+            "start": 46.205,
+            "end": 46.306,
+            "score": 0.821
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.526,
+        "end": 47.347,
+        "text": "Anything could happen.",
+        "words": [
+          {
+            "word": "Anything",
+            "start": 46.526,
+            "end": 46.826,
+            "score": 0.864
+          },
+          {
+            "word": "could",
+            "start": 46.886,
+            "end": 47.007,
+            "score": 0.708
+          },
+          {
+            "word": "happen.",
+            "start": 47.047,
+            "end": 47.347,
+            "score": 0.96
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 47.407,
+        "end": 49.571,
+        "text": "Now who's your sister in drag?",
+        "words": [
+          {
+            "word": "Now",
+            "start": 47.407,
+            "end": 47.848,
+            "score": 0.792
+          },
+          {
+            "word": "who's",
+            "start": 47.868,
+            "end": 47.968,
+            "score": 0.116
+          },
+          {
+            "word": "your",
+            "start": 48.068,
+            "end": 48.229,
+            "score": 0.485
+          },
+          {
+            "word": "sister",
+            "start": 48.249,
+            "end": 48.689,
+            "score": 0.627
+          },
+          {
+            "word": "in",
+            "start": 48.709,
+            "end": 48.789,
+            "score": 0.812
+          },
+          {
+            "word": "drag?",
+            "start": 48.809,
+            "end": 49.571,
+            "score": 0.856
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 49.591,
+        "end": 51.554,
+        "text": "This season, queens are wild.",
+        "words": [
+          {
+            "word": "This",
+            "start": 49.591,
+            "end": 49.751,
+            "score": 0.942
+          },
+          {
+            "word": "season,",
+            "start": 49.791,
+            "end": 50.452,
+            "score": 0.861
+          },
+          {
+            "word": "queens",
+            "start": 50.472,
+            "end": 50.652,
+            "score": 0.412
+          },
+          {
+            "word": "are",
+            "start": 50.893,
+            "end": 51.013,
+            "score": 0.802
+          },
+          {
+            "word": "wild.",
+            "start": 51.193,
+            "end": 51.554,
+            "score": 0.82
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 51.574,
+        "end": 53.336,
+        "text": "Let's get all started.",
+        "words": [
+          {
+            "word": "Let's",
+            "start": 51.574,
+            "end": 51.794,
+            "score": 0.792
+          },
+          {
+            "word": "get",
+            "start": 51.874,
+            "end": 52.054,
+            "score": 0.887
+          },
+          {
+            "word": "all",
+            "start": 52.235,
+            "end": 52.435,
+            "score": 0.827
+          },
+          {
+            "word": "started.",
+            "start": 52.495,
+            "end": 53.336,
+            "score": 0.883
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.677,
+        "end": 56.982,
+        "text": "RuPaul's Drag Race All-Stars Season 2 premieres on a new night.",
+        "words": [
+          {
+            "word": "RuPaul's",
+            "start": 53.677,
+            "end": 54.078,
+            "score": 0.649
+          },
+          {
+            "word": "Drag",
+            "start": 54.138,
+            "end": 54.358,
+            "score": 0.81
+          },
+          {
+            "word": "Race",
+            "start": 54.398,
+            "end": 54.598,
+            "score": 0.366
+          },
+          {
+            "word": "All-Stars",
+            "start": 54.618,
+            "end": 55.019,
+            "score": 0.715
+          },
+          {
+            "word": "Season",
+            "start": 55.059,
+            "end": 55.38,
+            "score": 0.949
+          },
+          {
+            "word": "2",
+            "start": 55.4,
+            "end": 55.62,
+            "score": 0.722
+          },
+          {
+            "word": "premieres",
+            "start": 55.82,
+            "end": 56.221,
+            "score": 0.684
+          },
+          {
+            "word": "on",
+            "start": 56.301,
+            "end": 56.361,
+            "score": 0.988
+          },
+          {
+            "word": "a",
+            "start": 56.421,
+            "end": 56.441,
+            "score": 0.991
+          },
+          {
+            "word": "new",
+            "start": 56.541,
+            "end": 56.702,
+            "score": 0.981
+          },
+          {
+            "word": "night.",
+            "start": 56.762,
+            "end": 56.982,
+            "score": 0.895
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 57.262,
+        "end": 59.586,
+        "text": "Thursday, August 25th at 8 on Logo.",
+        "words": [
+          {
+            "word": "Thursday,",
+            "start": 57.262,
+            "end": 57.623,
+            "score": 0.889
+          },
+          {
+            "word": "August",
+            "start": 57.683,
+            "end": 57.883,
+            "score": 0.862
+          },
+          {
+            "word": "25th",
+            "start": 57.903,
+            "end": 58.344,
+            "score": 0.657
+          },
+          {
+            "word": "at",
+            "start": 58.404,
+            "end": 58.444,
+            "score": 0.965
+          },
+          {
+            "word": "8",
+            "start": 58.464,
+            "end": 58.685,
+            "score": 0.294
+          },
+          {
+            "word": "on",
+            "start": 58.885,
+            "end": 58.965,
+            "score": 0.788
+          },
+          {
+            "word": "Logo.",
+            "start": 58.985,
+            "end": 59.586,
+            "score": 0.867
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a promotional trailer for RuPaul's Drag Race All Stars, featuring dynamic graphics, colorful backdrops, and drag queens in dramatic poses. Audio includes driving music, playful male voices, childlike voices, and sound effects like door squeaks and fast-moving object sounds. \n\nEvent 1 (0.0-20.0s): The video begins with a driving beat and intense energy, matching the vibrant, fast-paced visuals of the show\u2019s logo and queens. The music sets a high-energy, theatrical tone.\n\nEvent 2 (0.2-1.8s): A playful male voice announces the return of Drag Race All Stars, coinciding with the appearance of the show\u2019s logo in bold pink and blue text on a white background.\n\nEvent 3 (0.5-1.9s): Visual shows the full \"RuPaul\u2019s Drag Race All Stars\" logo with stars flanking the text, confirming the show\u2019s title and branding.\n\nEvent 4 (1.8-3.8s): A child\u2019s high-pitched voice speaks as a drag queen with a large yellow bow in her hair raises white sunglasses, making a dramatic gesture.\n\nEvent 5 (1.8-3.8s): The same male voice continues, sounding positive, as the queen maintains her expressive pose.\n\nEvent 6 (1.9-3.9s): Visual shows the queen with the yellow bow still holding sunglasses aloft, against a neon-lit pink and purple background.\n\nEvent 7 (4.1-5.6s): A child\u2019s voice says \u201cHi\u201d as a different queen with a large black bow and blonde hair raises her arm in a dramatic pose.\n\nEvent 8 (4.9-5.6s): A metal door squeak sound plays as the queen with the black bow continues her pose, possibly suggesting a transition or entrance.\n\nEvent 9 (5.2-6.0s): A playful male voice says \u201cOn a new night\u201d as the screen flashes with bold text \u201cNEW\u201d in yellow on pink, then \u201cNIGHT\u201d in blue on yellow.\n\nEvent 10 (6.0-7.8s): A child\u2019s voice speaks as the screen displays \u201cTHURSDAY\u201d in blue on pink, then transitions to a queen with long black hair laughing joyfully with hands raised.\n\nEvent 11 (6.5-7.7s): A metal door squeak plays again as the queen laughs, reinforcing the transition or entrance theme.\n\nEvent 12 (7.8-9.5s): A playful male voice announces \u201cWith shot new rules\u201d (likely \u201csome new rules\u201d) as the text \u201cSHOCKING\u201d and \u201cRULES\u201d appear in bold colors, followed by a queen in a black lace outfit doing a dramatic inverted pose.\n\nEvent 13 (9.6-11.9s): A conversational male voice announces \u201cThe top two will lip-sync for their... And a new mind-blowing twist\u201d as queens in futuristic and colorful outfits appear, including one in a glowing blue dress and another in a yellow dress with red lips.\n\nEvent 14 (12.2-12.8s): A conversational male voice continues as a queen with red hair sings into a microphone, then another queen with blonde curls appears in a gold sequined dress.\n\nEvent 15 (12.4-14.4s): A playful male voice speaks as the queen in the gold dress continues to speak or sing, then transitions to a queen with short black hair in a sparkly top.\n\nEvent 16 (12.4-16.5s): A fast-moving object sound plays as the queen in the gold dress is shown again, then a queen with yellow hair raises her arms in excitement.\n\nEvent 17 (13.2-14.2s): Visual shows the queen in the gold sequined dress with a blue and pink hexagonal background, her expression intense.\n\nEvent 18 (14.9-15.6s): A fast-moving object sound plays as the queen with yellow hair raises her arms in a celebratory pose.\n\nEvent 19 (15.2-16.5s): A high-pitched scream plays as the queen with yellow hair continues her excited pose.\n\nEvent 20 (15.7-20.0s): A playful male voice speaks as text appears: \u201cNEW MIND BLOWING TWIST\u201d in bold colors, followed by the queen in gold and then the queen with short black hair.\n\nEvent 21 (17.8-19.1s): Visual shows the queen in the gold dress again, then the queen with short black hair, as the male voice says \u201cYou'll be eliminating each other,\u201d with the text \u201cEACH\u201d appearing on screen.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe video is a high-energy, stylized montage from a drag competition show, likely \"RuPaul's Drag Race,\" featuring dramatic moments, emotional reactions, and theatrical presentations. The scenes alternate between intense confessional-style close-ups, group interactions, and full-body performance shots against vibrant solid backgrounds. The audio includes dramatic music, exaggerated vocal reactions, and commentary from off-screen hosts or judges.\n\nEvent 1 (0.0-20.0s): The audio claims \"Natural beach sounds,\" which is clearly incorrect \u2014 there is no beach, no waves, and no ambient nature sounds. Instead, the video opens with bold text <text>OTHER</text> on pink, followed by a sequence of drag queens reacting with shock, then transitions into fast-paced, dramatic music and emotional confrontations. The sounds are artificial, likely electronic or studio-produced music and effects.\n\nEvent 2 (0.1-0.7s): A male voice speaks playfully, and the visual shows a drag queen with dark curly hair, wide eyes, hands on face, screaming \u2014 this is not a male voice on-screen. The audio is likely from a host or narrator off-screen.\n\nEvent 3 (0.5-2.9s): A female scream is heard, matching the visual of the same drag queen screaming with mouth open, eyes wide. Then, the word <text>VOTE</text> appears over two queens in dramatic poses \u2014 the scream likely belongs to one of them.\n\nEvent 4 (0.8-20.0s): Fast-paced, loud, intense music plays throughout \u2014 consistent with the visual energy, flashing colors, and dramatic reactions.\n\nEvent 5 (2.0-6.1s): A playful male voice asks \"What's happening?\" and \"We're all freaking out\" \u2014 this matches the visual of multiple queens showing shock and distress across various frames.\n\nEvent 6 (5.6-6.8s): A mechanical hum is labeled, but no mechanical device is visible \u2014 likely an audio effect added to the music or a mislabeling. The visual shows a man with a cross necklace speaking, possibly a host.\n\nEvent 7 (6.4-8.2s): Visual only \u2014 queens hugging, showing camaraderie, then one turning away, suggesting emotional tension.\n\nEvent 8 (6.5-8.4s): A playful male voice says \"Bitch, what show did I sign up for?\" \u2014 this matches the visual of queens hugging and then turning away, indicating confusion or betrayal.\n\nEvent 9 (8.0-9.6s): A fast air movement sound \u2014 likely a whoosh or swish \u2014 matches the visual of queens hugging and then quickly pulling away.\n\nEvent 10 (8.2-9.3s): Visual of queens hugging \u2014 one with white wig and yellow earrings, another with black braids \u2014 showing emotional connection.\n\nEvent 11 (8.6-10.2s): A playful male voice speaks \u2014 visual shows queens hugging, then one turning away with a serious expression.\n\nEvent 12 (9.3-10.5s): Visual of queens hugging \u2014 one with black braids and leopard scarf, another with blonde hair \u2014 face-to-face, intimate moment.\n\nEvent 13 (10.5-11.7s): Visual of queens in close proximity \u2014 one with white wig and yellow earrings, another with blonde hair \u2014 lips moving, suggesting conversation.\n\nEvent 14 (10.7-13.8s): A playful male voice says \"You have the power to dash their dream\" \u2014 visual shows a queen with black bob, looking down, then up, appearing contemplative or sad.\n\nEvent 15 (11.7-12.8s): Visual of queen with black bob, wearing black jewelry, looking down then up \u2014 emotional, possibly reflecting on elimination.\n\nEvent 16 (13.8-15.6s): A metal door slam \u2014 likely a sound effect \u2014 visual shows a queen in white and purple royal outfit, holding a scepter, posing dramatically.\n\nEvent 17 (13.9-15.2s): Visual of queen in white and purple royal outfit \u2014 then cuts to another queen in blue and purple with a scepter \u2014 dramatic poses, likely during a \"who gets eliminated\" moment.\n\nEvent 18 (14.3-17.2s): A playful male voice speaks \u2014 visual shows queens in elaborate costumes, posing with scepters, suggesting a power or elimination theme.\n\nEvent 19 (17.5-20.0s): Playful male voice speaks \u2014 visual shows queens in intense close-ups, one with black hair, one with rainbow hair \u2014 suggesting alliances and threats.\n\nEvent 20 (17.5-19.1s): Visual of queens in close-ups \u2014 one with black hair, one with rainbow hair \u2014 intense eye contact, suggesting tension and strategic thinking.",
+    "[Chunk 3: 40.0s - 50.0s]\nThe video features a series of quick cuts between drag queens in elaborate costumes, often interacting with a crown, suggesting competition or performance. The setting alternates between vibrant studio backdrops (solid colors like blue, yellow, white) and behind-the-scenes makeup rooms with pink decor. The audio includes playful male voiceovers discussing alliances and competition, female voices commenting on drama, and occasional sound effects like mechanical clicks and metal impacts. The visuals emphasize dramatic poses, expressive faces, and costume details, with no visible children or restaurant scenes. The \"crowd of kids playing\" label is likely misidentified \u2014 the audio is probably a misclassification of background music or crowd noise from a performance. The \"metal door closing\" at the end may be a mislabel for a stage or door sound effect. All audio labels are adjusted based on visual context to match actual scenes.",
+    "[Chunk 4: 50.0s - 60.0s]\nThe video is a promotional montage for \"RuPaul's Drag Race All-Stars Season 2.\" It features quick cuts of various drag queens in dramatic poses and costumes, followed by animated title cards. The audio includes a playful male voiceover (likely RuPaul) announcing the premiere, energetic electronic music, and sound effects like bass hits. The visuals are vibrant, with bold colors and dynamic text animations. The music is upbeat and rhythmic, matching the high-energy tone of the show. The audio labels are mostly accurate, but the \"distant traffic and voices\" at the start is likely a mislabel \u2014 there is no traffic or voices in the frame, just a clean, studio-produced intro. The \"sfx\" labels are appropriate for the bass hits and transitions. The \"speech\" is clearly RuPaul\u2019s voice, playful and confident, seen in the context of the show\u2019s branding. The visual descriptions should reflect the dynamic, colorful, and theatrical nature of the clip, with focus on costume details, poses, and text animations."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      50.02340136054421
+    ],
+    [
+      50.02340136054421,
+      60.04680272108843
+    ]
+  ]
+}
