@@ -1,0 +1,214 @@
+{
+    "benchmarks": [
+        {
+            "id": "do_1",
+            "benchmark": "dailyomni",
+            "type": "Event Sequence",
+            "video_src": "assets/dailyomni_1.mp4",
+            "question": "What is the order of audio events in this video?",
+            "choices": [
+                "Music → Speech → Sound effect",
+                "Speech → Music → Sound effect",
+                "Sound effect → Music → Speech",
+                "Speech → Sound effect → Music"
+            ],
+            "answer": "A",
+            "model_answer": "A",
+            "shot_list": [
+                {
+                    "type": "visual",
+                    "start_time": "0.0s",
+                    "end_time": "3.0s",
+                    "content": "Interior of a car, dashboard visible, nighttime driving scene"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "0.0s",
+                    "end_time": "15.0s",
+                    "content": "Soft acoustic guitar music playing in background"
+                },
+                {
+                    "type": "speech",
+                    "start_time": "1.8s",
+                    "end_time": "4.4s",
+                    "content": "Female voice: \"We're still about eight hours outside Houston.\""
+                },
+                {
+                    "type": "visual",
+                    "start_time": "5.0s",
+                    "end_time": "8.0s",
+                    "content": "Close-up of driver, looking contemplative"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "5.5s",
+                    "end_time": "7.2s",
+                    "content": "Cinematic stinger with deep bass"
+                }
+            ],
+            "model_reasoning": "The video begins with background music (acoustic guitar) that plays throughout. At 1.8s, we hear speech from a female voice. At 5.5s, there is a cinematic sound effect (stinger). Therefore, the order is: Music → Speech → Sound effect, which corresponds to choice A."
+        },
+        {
+            "id": "do_2",
+            "benchmark": "dailyomni",
+            "type": "Event Sequence",
+            "video_src": "assets/dailyomni_1.mp4",
+            "question": "What is the order of audio events in this video?",
+            "choices": [
+                "Music → Speech → Sound effect",
+                "Speech → Music → Sound effect",
+                "Sound effect → Music → Speech",
+                "Speech → Sound effect → Music"
+            ],
+            "answer": "A",
+            "model_answer": "A",
+            "shot_list": [
+                {
+                    "type": "visual",
+                    "start_time": "0.0s",
+                    "end_time": "3.0s",
+                    "content": "Interior of a car, dashboard visible, nighttime driving scene"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "0.0s",
+                    "end_time": "15.0s",
+                    "content": "Soft acoustic guitar music playing in background"
+                },
+                {
+                    "type": "speech",
+                    "start_time": "1.8s",
+                    "end_time": "4.4s",
+                    "content": "Female voice: \"We're still about eight hours outside Houston.\""
+                },
+                {
+                    "type": "visual",
+                    "start_time": "5.0s",
+                    "end_time": "8.0s",
+                    "content": "Close-up of driver, looking contemplative"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "5.5s",
+                    "end_time": "7.2s",
+                    "content": "Cinematic stinger with deep bass"
+                }
+            ],
+            "model_reasoning": "The video begins with background music (acoustic guitar) that plays throughout. At 1.8s, we hear speech from a female voice. At 5.5s, there is a cinematic sound effect (stinger). Therefore, the order is: Music → Speech → Sound effect, which corresponds to choice A."
+        },
+        {
+            "id": "do_2",
+            "benchmark": "dailyomni",
+            "type": "AV Alignment",
+            "video_src": "assets/dailyomni_2.mp4",
+            "question": "Which visual element is synchronized with the door slam sound?",
+            "choices": [
+                "A person walking away",
+                "A car door closing",
+                "A window being opened",
+                "Papers falling on a desk"
+            ],
+            "answer": "B",
+            "model_answer": "B",
+            "shot_list": [
+                {
+                    "type": "visual",
+                    "start_time": "0.0s",
+                    "end_time": "2.0s",
+                    "content": "Exterior of house, car parked in driveway"
+                },
+                {
+                    "type": "visual",
+                    "start_time": "2.0s",
+                    "end_time": "4.0s",
+                    "content": "Person exits car, closes door behind them"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "3.2s",
+                    "end_time": "3.5s",
+                    "content": "Loud metallic slam sound"
+                }
+            ],
+            "model_reasoning": "At 3.2s, we hear a distinct door slam sound. Looking at the visual timeline, at exactly this moment (2.0s-4.0s), we see a person closing a car door. The timing of the slam aligns precisely with the car door closing action, making B the correct answer."
+        },
+        {
+            "id": "vh_1",
+            "benchmark": "holmes",
+            "type": "Inference",
+            "video_src": "assets/holmes_1.mp4",
+            "question": "Based on the audio and visual cues, what is the likely emotional state of the main character?",
+            "choices": [
+                "Happy and excited",
+                "Sad and contemplative",
+                "Angry and frustrated",
+                "Scared and anxious"
+            ],
+            "answer": "B",
+            "model_answer": "B",
+            "shot_list": [
+                {
+                    "type": "visual",
+                    "start_time": "0.0s",
+                    "end_time": "5.0s",
+                    "content": "Person sitting alone by a window, looking outside, rain visible"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "0.0s",
+                    "end_time": "10.0s",
+                    "content": "Slow, melancholic piano music"
+                },
+                {
+                    "type": "audio",
+                    "start_time": "0.0s",
+                    "end_time": "10.0s",
+                    "content": "Rain sounds on window"
+                },
+                {
+                    "type": "visual",
+                    "start_time": "5.0s",
+                    "end_time": "8.0s",
+                    "content": "Close-up of face showing downcast expression"
+                }
+            ],
+            "model_reasoning": "Multiple cues point to a sad, contemplative state: 1) The melancholic piano music creates a somber atmosphere, 2) The rain is a classic symbol of sadness, 3) The person is sitting alone looking out the window, 4) The close-up reveals a downcast expression. All these elements together strongly suggest answer B."
+        },
+        {
+            "id": "mmau_1",
+            "benchmark": "mmau",
+            "type": "Audio Understanding",
+            "video_src": "assets/mmau_1.mp4",
+            "question": "How many distinct speakers can be heard in this audio clip?",
+            "choices": [
+                "One speaker",
+                "Two speakers",
+                "Three speakers",
+                "Four or more speakers"
+            ],
+            "answer": "B",
+            "model_answer": "B",
+            "shot_list": [
+                {
+                    "type": "speech",
+                    "start_time": "0.0s",
+                    "end_time": "3.0s",
+                    "content": "Male voice (deep): \"Have you seen the report?\""
+                },
+                {
+                    "type": "speech",
+                    "start_time": "3.5s",
+                    "end_time": "6.0s",
+                    "content": "Female voice: \"Yes, I reviewed it this morning.\""
+                },
+                {
+                    "type": "speech",
+                    "start_time": "7.0s",
+                    "end_time": "10.0s",
+                    "content": "Male voice (same as before): \"What did you think?\""
+                }
+            ],
+            "model_reasoning": "Analyzing the audio, I can identify two distinct voices: 1) A deep male voice that speaks at 0.0s-3.0s and again at 7.0s-10.0s, and 2) A female voice that responds at 3.5s-6.0s. The male voice at the beginning and end appears to be the same speaker based on consistent pitch and timbre. Therefore, there are two distinct speakers, corresponding to answer B."
+        }
+    ]
+}

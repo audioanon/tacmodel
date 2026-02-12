@@ -1,0 +1,358 @@
+{
+  "examples": [
+    {
+      "video_src": "assets/captioning/row0_c0c24b2fa9165275a9c59efee8c173ac_vid4.mp4",
+      "events": 6,
+      "caption": "Fingerstyle guitar with emotional depth and gentle rhythm from 0.00s to 15.00s. Speech: [speech lang=\"en\"]We're still about eight hours outside Houston.[/speech] from 1.79s to 4.37s. Female voice (formal) from 1.80s to 4.40s. Cinematic stinger with deep bass and reverb from 5.50s to 7.10s, 8.30s to 9.30s. Sustained metallic resonance from 8.60s to 11.10s. Speech: [speech lang=\"en\"]When I sell my script, we're gonna have all the money we ever need.[/speech] from 12.45s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row1_67967e534fb1ae532ea7ae67837c2e39_vid4.mp4",
+      "events": 13,
+      "caption": "Distant traffic and birds in a city park from 0.00s to 15.00s. Epic orchestral surge with driving rhythm and heroic melody from 0.20s to 15.00s. Fast-moving object sound from 0.20s to 4.10s, 7.10s to 7.70s. Helicopter rotor sound during approach and departure from 0.70s to 9.30s. Speech: [speech lang=\"en\"]I heard you got to.[/speech] from 5.16s to 6.08s. Male voice (playful) from 5.20s to 6.20s, 6.60s to 7.70s. Speech: [speech lang=\"en\"]Nice work, Baker.[/speech] from 6.12s to 7.43s. Metal door slams shut with a loud impact from 7.50s to 9.30s. Metal debris falls and crashes from 7.60s to 9.80s. Cinematic stinger with deep bass and sharp impact from 8.60s to 11.80s. Male voice (dramatic) from 11.40s to 14.10s, 14.70s to 15.00s. Speech: [speech lang=\"en\"]You gotta be a lunatic if you gonna be a vulture.[/speech] from 11.70s to 14.11s. Speech: [speech lang=\"en\"]Let's see.[/speech] from 14.77s to 15.07s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row2_d58d781be83b9fd4d095972d314fba6d_vid4.mp4",
+      "events": 17,
+      "caption": "Natural sounds of a campfire with crackling and popping from 0.40s to 15.00s. Fast-paced instrumental with driving bass and crisp snare from 0.40s to 14.70s. Metal door opens and closes with a squeak from 0.40s to 2.80s. A male voice screams in pain, expressing distress and shock from 2.00s to 2.40s, 3.10s to 3.60s, 4.70s to 5.80s, 7.80s to 9.00s, 11.60s to 12.00s. Speech: [speech lang=\"en\"]Sorry.[/speech] from 3.73s to 4.85s. Speech: [speech lang=\"en\"]Oh, shoot.[/speech] from 4.87s to 5.65s. Speech: [speech lang=\"en\"]I'm sorry.[/speech] from 5.71s to 7.10s. Male voice (negative) from 6.70s to 7.60s, 9.40s to 11.40s, 12.60s to 14.40s. Speech: [speech lang=\"en\"]Are they ruined?[/speech] from 7.12s to 7.62s. Speech: [speech lang=\"en\"]I don't know.[/speech] from 8.20s to 8.70s. Speech: [speech lang=\"en\"]The smoke got in my eyes.[/speech] from 8.72s to 9.87s. Speech: [speech lang=\"en\"]Are you all right?[/speech] from 9.99s to 10.55s. Door opens and closes with a creak from 10.50s to 11.60s. Speech: [speech lang=\"en\"]Maybe we can save them.[/speech] from 10.57s to 11.77s. Speech: [speech lang=\"en\"]Oh, no.[/speech] from 11.79s to 12.96s. Speech: [speech lang=\"en\"]It looks like the petrified virus.[/speech] from 12.98s to 14.26s. Speech: [speech lang=\"en\"]Yeah.[/speech] from 14.28s to 14.46s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row3_2b5d95c916520c18fedb85acc9c14c0f_vid4.mp4",
+      "events": 7,
+      "caption": "Distant traffic and birds in a city from 0.00s to 15.00s. Driving rhythm, brass fanfares, and syncopated percussion from 0.20s to 15.00s. Female voice (uncertain) from 7.70s to 9.00s. Speech: [speech lang=\"en\"]Are we there yet?[/speech] from 7.73s to 8.88s. Speech: [speech lang=\"en\"]We get there when we get there![/speech] from 9.14s to 10.80s. Male voice (angry) from 9.20s to 10.70s. Fast-moving object sound from 11.20s to 14.00s, 13.40s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row4_4fb77b0399edb76e241d1591f7fd74f1_vid4.mp4",
+      "events": 7,
+      "caption": "Male voice (formal) from 0.00s to 0.50s, 1.00s to 1.60s, 3.40s to 10.00s, 10.30s to 15.00s. Speech: [speech lang=\"en\"]Jarvis, drop my needle.[/speech] from 0.03s to 1.64s. Driving rhythm, distorted guitars, urgent pace from 0.20s to 15.00s. Sustained metallic resonance from 0.20s to 3.20s, 2.90s to 3.50s. Sudden burst of air from 1.70s to 3.50s. Speech: [speech lang=\"en\"]Over 10 years, 20 movies, and 45 hours, Marvel has taken us on a wild intergalactic hunt for the Infinity Stones.[/speech] from 3.52s to 12.30s. Speech: [speech lang=\"en\"]And unless you've memorized every post-credits scene,[/speech] from 12.32s to 15.07s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row5_5c91df82479b1e217d66db806c15e69b_vid4.mp4",
+      "events": 12,
+      "caption": "Natural sounds of a river and birds from 0.00s to 15.00s. Driving rhythm, distorted guitar, and urgent vocal delivery from 0.00s to 5.70s. Male voice (formal) from 0.20s to 5.30s. Speech: [speech lang=\"en\"]Every now and then, a show comes along that defines the voice of a generation.[/speech] from 0.23s to 5.43s. Male voice (playful) from 5.90s to 7.60s, 7.80s to 11.80s. Speech: [speech lang=\"en\"]Is that a rhinestone fish?[/speech] from 6.03s to 7.47s. Speech: [speech lang=\"en\"]Who would wear that?[/speech] from 7.85s to 8.92s. Speech: [speech lang=\"en\"]It's you, man![/speech] from 9.34s to 10.32s. Speech: [speech lang=\"en\"]You would wear that![/speech] from 10.66s to 11.78s. Metal door slams shut from 11.80s to 14.40s. Male voice (conversational) from 11.90s to 15.00s. Speech: [speech lang=\"en\"]Then there's a show that defines the voice of a bunch of good-looking...[/speech] from 12.19s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row6_dc364d56a24db2734cff1d489e58103a_vid4.mp4",
+      "events": 9,
+      "caption": "Minor key melody with steady kick and snare from 0.00s to 15.00s. Female voice (playful) from 1.20s to 2.30s, 2.60s to 6.40s, 6.80s to 8.70s. Speech: [speech lang=\"es\"]El mejor sexo es el que no tiene condiciones, solo te desestresas y listo.[/speech] from 1.21s to 6.37s. Speech: [speech lang=\"es\"]Y para eso es el juego de las llaves.[/speech] from 6.85s to 8.73s. Whooshing sound of a fast-moving object from 8.70s to 9.70s. Speech: [speech lang=\"es\"]\u00bfT\u00fa, Valent\u00edn, jugar\u00edas a eso?[/speech] from 8.75s to 12.06s. Female voice (conversational) from 10.40s to 12.10s. Speech: [speech lang=\"es\"]\u00bfEst\u00e1s segura de que no te pondr\u00edas celosa con una de tus...[/speech] from 12.08s to 15.07s. Male voice (positive) from 12.20s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row7_e28432938f97a781a1e031209d801702_vid4.mp4",
+      "events": 8,
+      "caption": "Ambient noise from a digital audio workstation from 0.10s to 15.00s. Female voice (calm) from 1.10s to 2.30s, 3.20s to 8.70s, 9.70s to 12.40s, 13.40s to 14.90s. Speech: [speech lang=\"en\"]100 years ago, after the war, our founders created a system they believed would create lasting peace.[/speech] from 1.11s to 8.65s. Cinematic whoosh effect from 4.10s to 5.90s. Melodic bass and crisp hi-hats in a minor key from 4.10s to 10.10s. Low-frequency impact sound from 8.70s to 11.20s. Speech: [speech lang=\"en\"]They divided society into five factions.[/speech] from 9.73s to 12.24s. Speech: [speech lang=\"en\"]The only way you can survive[/speech] from 13.34s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row8_890da97948d224fee45f0760a7fe9460_vid4.mp4",
+      "events": 8,
+      "caption": "Crowd noise from a busy market from 0.00s to 3.30s, 6.00s to 15.00s. Footsteps on grassy ground from 0.20s to 6.60s. Speech: [speech lang=\"en\"]Thank you.[/speech] from 0.34s to 0.54s. Squeaky door movement from 6.00s to 9.80s. Swooshing motion sound from 6.60s to 9.80s. Sustained metallic resonance from 9.80s to 12.60s. Atonal harmonics and breathy flute over a steady pulse from 12.60s to 15.00s. Mechanical sound of a car door opening from 13.10s to 14.40s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row9_58c98b1eb15099adc4358d3545646247_vid4.mp4",
+      "events": 7,
+      "caption": "Low-frequency rumble from 0.00s to 15.00s. Slow, expressive piano with deep emotional depth from 1.00s to 15.00s. Male voice (fearful) from 7.40s to 7.80s. A fast, airy whoosh with a subtle growl and reverb from 8.80s to 10.20s. Speech: [speech lang=\"it\"]Si \u00e8 convinto che esistono scherzi della natura dotati di poteri speciali.[/speech] from 9.94s to 13.86s. Male voice (negative) from 10.00s to 13.80s. Fast-moving object sound from 14.00s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row10_22feddd097c71c097b371123da1bc6d8_vid4.mp4",
+      "events": 1,
+      "caption": "Solo piano in c major with expressive rubato and deep emotion from 0.00s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row11_c9b8a1e280580a0e7c1f28e944a59cc2_vid4.mp4",
+      "events": 7,
+      "caption": "Dramatic orchestral piece with heroic brass and strings from 0.00s to 10.80s, 12.00s to 15.00s. Percussive sound of a drum being struck from 0.60s to 1.40s, 3.40s to 4.40s. Metallic scrape with a long, eerie tail from 6.20s to 6.80s, 8.60s to 9.70s. Speech: [speech lang=\"en\"]It isn't love, it's human desire.[/speech] from 10.98s to 13.61s. Male voice (persuasive) from 11.00s to 11.90s, 12.20s to 13.60s. Speech: [speech lang=\"en\"]Oh, knight.[/speech] from 13.63s to 14.61s. Female voice (whispering) from 13.90s to 14.60s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row12_830472622dd50b78bd534f7b5c24244e_vid4.mp4",
+      "events": 5,
+      "caption": "Male voice (formal) from 0.00s to 3.20s, 3.90s to 6.80s, 7.20s to 13.60s, 14.30s to 15.00s. Natural sounds of a tropical forest from 0.00s to 15.00s. Speech: [speech lang=\"en\"]By temperature while incubating in their eggs.[/speech] from 0.03s to 3.04s. Speech: [speech lang=\"en\"]When held at around 30 degrees Celsius, hatchlings tend to be female, just four degrees higher, and the hatchlings are predominantly male.[/speech] from 3.94s to 13.55s. Speech: [speech lang=\"en\"]With global[/speech] from 14.35s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row13_991309f153829f8d869eefc274bf31d3_vid4.mp4",
+      "events": 6,
+      "caption": "Natural soundscape with birds and insects from 0.00s to 15.00s. Speech: [speech lang=\"en\"]Beetles, cockroaches, and a specialized form of algae.[/speech] from 0.08s to 4.71s. Male voice (formal) from 0.10s to 4.70s, 6.00s to 7.90s, 8.40s to 15.00s. Metal object hits hard surface from 4.00s to 5.90s. Sustained low-frequency tone from 4.40s to 6.00s. Speech: [speech lang=\"en\"]Found nowhere else in the world, this host-specific microorganism has evolved with the sloth and is passed on to infants as they...[/speech] from 6.09s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row14_8098599f379a680bf21ca4b57974c211_vid4.mp4",
+      "events": 13,
+      "caption": "Ambient sound of a church bell ringing from 0.00s to 15.00s. Speech: [speech lang=\"en\"]Hold tight, mate.[/speech] from 0.37s to 1.09s. Male voice (urgent) from 0.40s to 1.90s, 6.50s to 8.20s. Fast-moving car with loud exhaust from 0.40s to 5.30s. Speech: [speech lang=\"en\"]We're coming to get you.[/speech] from 1.11s to 12.00s. Intimate jazz with expressive dynamics and chromatic harmonies from 2.20s to 15.00s. Sudden burst of flame and crackling from 3.40s to 5.30s. A loud, sharp whoosh of air moving quickly from 3.70s to 4.10s. A group of people laughing and cheering in a crowd from 5.30s to 10.70s. Engine revving as car accelerates from 10.70s to 14.30s. Male voice (whispering) from 11.60s to 15.00s. Speech: [speech lang=\"en\"]I promise you it helped on a twain.[/speech] from 12.02s to 13.66s. Speech: [speech lang=\"en\"]They give it.[/speech] from 14.38s to 15.09s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row15_b468b7f3cabc716d3b485962914b423c_vid4.mp4",
+      "events": 10,
+      "caption": "Ambient sounds of a busy city street from 0.00s to 15.00s. Sustained low-frequency tone from 0.00s to 8.40s. Speech: [speech lang=\"en\"]We are fighting a war 30 years in the future.[/speech] from 0.05s to 3.94s. Female voice (urgent) from 0.20s to 3.90s, 4.30s to 8.00s, 11.30s to 15.00s. Metal door slams shut from 3.90s to 5.60s, 8.00s to 8.60s. Speech: [speech lang=\"en\"]Our enemy is not human.[/speech] from 3.98s to 5.72s. Speech: [speech lang=\"en\"]We need you to fight.[/speech] from 6.03s to 7.93s. Fast-moving vehicle sound from 7.80s to 11.30s. Driving rhythm, distorted guitars, relentless pace from 10.10s to 14.90s. Speech: [speech lang=\"en\"]This is a film about people living in present day who are drab.[/speech] from 11.32s to 15.07s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row16_0c180d4cb669794d18c24b4ba997766a_vid4.mp4",
+      "events": 5,
+      "caption": "Natural bird sounds in a forest from 0.20s to 15.00s. Vehicle moving past with engine noise from 0.20s to 7.10s. A baby emits a soft, rhythmic cooing sound from 4.00s to 4.40s. Human foot sliding on metal from 7.10s to 7.60s. Metal door slams shut from 10.40s to 11.80s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row17_663ca763a51b1ed58767e504538a41b7_vid4.mp4",
+      "events": 19,
+      "caption": "Crowd noise in a sports arena from 0.00s to 15.00s. Speech: [speech lang=\"en\"]Yeah.[/speech] from 0.13s to 0.45s. Female voice (negative) from 0.20s to 0.50s, 4.70s to 6.50s, 7.10s to 7.70s, 9.30s to 11.80s, 13.80s to 14.60s. A sharp, fast whoosh of air moving through a narrow passage from 0.20s to 0.60s. Male voice (uncertain) from 0.80s to 4.10s, 4.70s to 6.00s, 7.10s to 7.40s. A sharp, loud gunshot from a 5.56mm machine gun from 0.80s to 1.40s, 1.70s to 2.00s, 1.70s to 2.90s, 2.40s to 2.90s, 3.20s to 3.50s, 3.80s to 4.40s, 4.70s to 5.10s, 5.40s to 5.70s, 6.00s to 6.30s, 6.60s to 6.90s, 7.20s to 7.50s, 7.80s to 8.00s, 8.30s to 8.60s, 8.90s to 9.30s, 9.60s to 9.90s, 10.20s to 10.70s, 11.00s to 11.30s, 11.60s to 11.90s, 12.30s to 12.60s, 12.90s to 13.20s, 13.50s to 13.80s, 14.10s to 14.40s. Speech: [speech lang=\"en\"]I've never done it.[/speech] from 1.05s to 1.76s. Male voice (bored) from 1.90s to 2.40s. Speech: [speech lang=\"en\"]Um, I mean, I could probably figure it out.[/speech] from 2.40s to 4.08s. Speech: [speech lang=\"en\"]Patty good at running this place?[/speech] from 4.83s to 5.95s. Speech: [speech lang=\"en\"]No.[/speech] from 6.27s to 6.47s. Speech: [speech lang=\"en\"]How come?[/speech] from 7.07s to 7.41s. Female voice (playful) from 9.00s to 10.00s, 10.20s to 11.70s. Speech: [speech lang=\"en\"]For a number of things.[/speech] from 9.34s to 9.98s. A loud, sharp explosion with a deep, resonant boom from 10.20s to 15.00s. Speech: [speech lang=\"en\"]One, she doesn't know anything about a bar.[/speech] from 10.30s to 11.75s. Speech: [speech lang=\"en\"]Does she drink in there?[/speech] from 11.79s to 13.13s. A loud, sharp burst of air from a balloon being released from 12.60s to 14.60s. Speech: [speech lang=\"en\"]Oh, yeah.[/speech] from 13.15s to 13.55s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row18_cbf5e643f5402553b0cc68e7b22ac703_vid4.mp4",
+      "events": 14,
+      "caption": "Crowd noise with laughter and movement from 0.00s to 15.00s. Female voice (uncertain) from 0.30s to 1.30s, 5.60s to 6.10s, 6.90s to 8.40s, 14.10s to 15.00s. Speech: [speech lang=\"en\"]You my fill-in operator?[/speech] from 0.32s to 1.34s. Male voice (uncertain) from 1.70s to 2.50s, 3.20s to 5.10s, 11.90s to 13.20s. Speech: [speech lang=\"en\"]I don't think so.[/speech] from 1.80s to 2.42s. Speech: [speech lang=\"en\"]I'm Lou Bloom.[/speech] from 2.46s to 3.93s. Speech: [speech lang=\"en\"]I have some footage for sale.[/speech] from 3.99s to 5.65s. Speech: [speech lang=\"en\"]A stringer?[/speech] from 5.67s to 6.11s. Speech: [speech lang=\"en\"]What?[/speech] from 6.95s to 7.11s. Speech: [speech lang=\"en\"]Who do you work for?[/speech] from 7.66s to 8.36s. Speech: [speech lang=\"en\"]At the moment, I work for myself.[/speech] from 8.40s to 13.25s. Door closing with a thud from 8.50s to 8.90s. Mechanical door movement from 9.00s to 11.40s. Speech: [speech lang=\"en\"]Okay, we'll see, Frank.[/speech] from 14.27s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row19_0dd3d465e281f3f9e10956f7d8d018aa_vid4.mp4",
+      "events": 7,
+      "caption": "Male voice (urgent) from 0.00s to 2.20s, 2.60s to 5.00s, 5.50s to 8.90s, 9.20s to 11.60s. Speech: [speech lang=\"fr\"]Le plat c'est un steak avec une cr\u00eape et du bacon.[/speech] from 0.03s to 2.60s. Electronic alarm beeping from 1.00s to 1.60s, 2.00s to 2.60s, 3.10s to 3.60s, 4.10s to 4.60s, 5.00s to 5.60s, 6.00s to 6.50s, 7.00s to 7.60s, 8.00s to 8.60s. Digital alert tone from 1.00s to 1.40s, 2.00s to 2.30s, 3.20s to 3.60s, 4.10s to 4.50s, 5.00s to 5.60s, 6.00s to 6.50s, 7.00s to 7.40s, 8.00s to 8.30s. Speech: [speech lang=\"fr\"]Le steak est parfaitement croustillant dehors et tendre dedans.[/speech] from 2.62s to 5.53s. Speech: [speech lang=\"fr\"]Les tomates cerises apportent une touche de fra\u00eecheur et la sauce, tr\u00e8s riche, donne une saveur intense.[/speech] from 5.55s to 10.20s. Speech: [speech lang=\"fr\"]Pour aller avec[/speech] from 10.93s to 11.63s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row20_7dce566650baf21bf195659fdc257c54_vid4.mp4",
+      "events": 16,
+      "caption": "Natural water movement from 0.00s to 15.00s. Intimate jazz with rich harmonies and gentle swing from 0.00s to 15.00s. Female voice (conversational) from 0.50s to 1.20s, 1.40s to 3.80s, 4.10s to 4.90s. A loud, sharp whoosh of a fast-moving object passing by from 0.50s to 1.70s. A male voice speaks the phrase 'she's really cute' in a clear, friendly tone from 0.50s to 1.30s. Speech: [speech lang=\"en\"]Is she yours?[/speech] from 0.59s to 1.15s. Speech: [speech lang=\"en\"]She's really cute.[/speech] from 1.49s to 2.53s. Speech: [speech lang=\"en\"]I'm Angela Morgan.[/speech] from 2.73s to 3.79s. Speech: [speech lang=\"en\"]Katie Wells.[/speech] from 4.15s to 4.74s. A deep, resonant gong sound with a long, sustained decay from 5.00s to 9.30s. A male voice shouts 'let's go' in a loud, energetic tone from 8.40s to 9.20s. Female voice (whispering) from 9.20s to 11.10s. Speech: [speech lang=\"en\"]That's Katie, my play date.[/speech] from 9.22s to 11.09s. Cinematic impact sound from 11.10s to 14.00s. A loud, sharp sound of a car door slamming shut from 12.10s to 12.40s. Speech: [speech lang=\"en\"]Here it is.[/speech] from 13.77s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row21_2b014dedb01efcf897ad6a89c0c4cf7c_vid4.mp4",
+      "events": 1,
+      "caption": "Lush strings and piano in slow, expressive motion from 0.00s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row22_a5de01a21ea873274ae7191057a0d49e_vid4.mp4",
+      "events": 3,
+      "caption": "Car driving on wet road with tire noise from 0.00s to 15.00s. Fast-moving car sound from 0.00s to 2.00s, 2.40s to 3.70s, 3.90s to 10.00s, 10.20s to 14.00s. Impact sound with reverb from 11.30s to 12.60s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row23_664c18c2fa6fb2c4aa90c5717122cea5_vid4.mp4",
+      "events": 9,
+      "caption": "Male voice (formal) from 0.00s to 3.50s, 5.90s to 8.30s, 8.70s to 12.90s, 13.10s to 15.00s. Speech: [speech lang=\"en\"]MASH was not a successful show that first year in terms of ratings.[/speech] from 0.03s to 3.48s. Male voice (playful) from 3.60s to 5.70s. Speech: [speech lang=\"en\"]Well, that's impossible.[/speech] from 3.64s to 4.58s. Speech: [speech lang=\"en\"]There must be some mistake.[/speech] from 4.60s to 5.89s. Speech: [speech lang=\"en\"]We were, I believe, number 56 opposite the wonderful world of Disney.[/speech] from 5.91s to 10.30s. Speech: [speech lang=\"en\"]And they were just creaming us in the ratings.[/speech] from 10.88s to 12.84s. Engine revving and accelerating from 12.80s to 14.80s. Speech: [speech lang=\"en\"]The critics painted too, but we're trying to judge it.[/speech] from 13.12s to 15.07s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row24_e552d2cc722464d615fd150bd85f05a4_vid4.mp4",
+      "events": 9,
+      "caption": "Noise from 0.80s to 1.20s. A child speaks with a clear, youthful voice, saying 'we'll move again' from 1.20s to 5.80s. Speech: [speech lang=\"en\"]I wish I found the movie again.[/speech] from 1.23s to 3.23s. Speech: [speech lang=\"en\"]The music got to me in a very certain way.[/speech] from 3.27s to 5.70s. Speech: [speech lang=\"en\"]And a heart that's sweet and true.[/speech] from 5.74s to 9.37s. Female voice (positive) from 6.80s to 9.50s. Melodic vocal performance with warm, expressive tone from 6.80s to 14.00s. Ambient sounds of a quiet neighborhood with children and dogs from 9.20s to 15.00s. Speech: [speech lang=\"en\"]Raggedy Ann and Andy is a full-length musical adventure directed by Richard Williams.[/speech] from 9.41s to 14.97s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row25_6a19ef9eacccf8ca4464b3fb6e290762_vid4.mp4",
+      "events": 16,
+      "caption": "Low-frequency hum in a dark, enclosed space from 0.00s to 15.00s. A sharp, sudden pop from a small plastic toy from 0.00s to 0.80s. Female voice (fearful) from 1.30s to 3.80s. Speech: [speech lang=\"en\"]Come to your new home.[/speech] from 2.07s to 4.92s. Metal door slams shut with a loud impact from 3.40s to 4.40s. Female voice (whispering) from 4.90s to 6.00s, 8.90s to 10.20s, 10.80s to 11.30s. Speech: [speech lang=\"en\"]This is my daughter's room.[/speech] from 4.94s to 6.02s. Metal scraping sound from 6.30s to 8.70s. Metal object hits surface with a sharp, resonant clang from 6.80s to 7.40s. A sharp, loud gunshot from a 7.62mm machine gun from 6.80s to 7.40s. Speech: [speech lang=\"en\"]I want to show you something else.[/speech] from 8.95s to 10.33s. Speech: [speech lang=\"en\"]This way.[/speech] from 11.09s to 13.78s. A loud, sharp gunshot from a 5.56mm pistol from 12.00s to 13.20s. A short, high-pitched laugh from a female voice from 12.80s to 14.90s. A male voice speaks the phrase 'stop moving' in a clear tone from 13.70s to 14.60s. Speech: [speech lang=\"en\"]You're stuffed, Pat.[/speech] from 13.80s to 14.90s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row26_06810565d35f7fbef9ed012062c202a4_vid4.mp4",
+      "events": 6,
+      "caption": "Sharp gunshot sound from 0.20s to 1.00s, 1.30s to 2.00s. Impact of falling object on wood from 0.20s to 3.40s. Male voice (urgent) from 6.20s to 7.50s, 8.00s to 9.00s, 11.00s to 11.70s. Speech: [speech lang=\"en\"]Doldust, Burton was here.[/speech] from 6.28s to 7.48s. Speech: [speech lang=\"en\"]And he didn't leave long ago.[/speech] from 7.98s to 8.87s. Speech: [speech lang=\"en\"]Let's get moving.[/speech] from 11.16s to 11.74s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row27_cb3c98687a9879ecce8181935eece176_vid4.mp4",
+      "events": 6,
+      "caption": "Dramatic orchestral swell with choir and percussion from 0.00s to 15.00s. Metal object struck with force from 0.00s to 1.20s. Speech: [speech lang=\"vi\"]M\u00e0y th\u1eadt to ghen khi d\u00e1m d\u00e2n m\u00e0y \u0111\u01b0a tao v\u00e0o trong.[/speech] from 0.69s to 4.96s. Female voice (whispering) from 0.80s to 1.90s, 2.70s to 4.80s, 6.80s to 7.40s, 8.40s to 10.40s, 12.20s to 13.20s. Metallic impact with long decay from 6.10s to 6.80s, 10.50s to 11.60s, 13.10s to 13.80s. Fast-moving air effect from 12.40s to 13.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row28_6ec415781f68f1d17af68b9026c58784_vid4.mp4",
+      "events": 7,
+      "caption": "Ambient sounds of a train station with people and announcements from 0.00s to 10.00s. Male voice (formal) from 0.00s to 2.60s. Speech: [speech lang=\"en\"]You know, your predecessors had much more respect.[/speech] from 0.03s to 2.56s. Fast-moving object sound from 3.70s to 5.90s, 4.40s to 5.90s. Metal blade scraping and grinding from 3.70s to 5.30s. Mechanical gun firing rapidly from 5.90s to 10.00s. Metal door opens with a squeak from 5.90s to 7.50s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row29_cef6bff974666563ab615cd1f13ac4d7_vid4.mp4",
+      "events": 11,
+      "caption": "Cinematic impact sound from 0.00s to 2.00s, 4.50s to 6.50s, 8.90s to 10.80s, 13.50s to 15.00s. Female voice (fearful) from 0.50s to 1.70s, 2.20s to 4.50s. Speech: [speech lang=\"en\"]What do I say?[/speech] from 0.57s to 12.94s. A male voice speaks the phrase 'you're a big boy' in a clear, direct tone from 4.80s to 5.30s. A loud, sharp gunshot from a 5.56mm machine gun from 5.80s to 6.30s. A deep, resonant bass hit with a long reverb tail from 5.90s to 10.80s. A male voice screams in pain, breathless and strained from 6.80s to 8.60s. A loud, sharp crash of metal hitting a hard surface from 8.90s to 10.80s. A group of people cheering and shouting in unison from 9.20s to 12.20s. Male voice (whispering) from 12.20s to 12.90s, 14.20s to 14.60s. Fast-moving object whooshing past from 13.40s to 14.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row30_576ebe9c1886cbf9d71a21aa1c3d9b6b_vid4.mp4",
+      "events": 5,
+      "caption": "Ambient sounds of a quiet forest from 0.00s to 15.00s. Speech: [speech lang=\"ur\"]\u0628\u06af\u0648 \u0627\u06af\u0631 \u062a\u0645 \u06a9\u0648 \u0628\u06c1\u062a \u067e\u06cc\u0633\u06c1 \u0645\u0644 \u062c\u0627\u0626\u06d2 \u062a\u0648 \u062a\u0645 \u06a9\u06cc\u0627 \u06a9\u0631\u06d2 \u06af\u0627 \u06a9\u062a\u0646\u0627 \u0632\u0627\u0626\u0628\u06c1[/speech] from 0.05s to 14.34s. Sustained low-frequency tone from 3.50s to 15.00s. Male voice (whispering) from 7.10s to 7.40s, 9.80s to 12.10s. Male voice (playful) from 13.40s to 14.20s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row31_7c96df9b715d259453f1637f4a10064b_vid4.mp4",
+      "events": 9,
+      "caption": "Crowd noise with whistles and applause from 0.00s to 15.00s. Male voice (conversational) from 3.50s to 9.50s, 11.60s to 13.80s. Speech: [speech lang=\"en\"]I have a pool in my house that I live in, but you know what?[/speech] from 3.52s to 5.87s. Speech: [speech lang=\"en\"]I don't need it.[/speech] from 5.89s to 6.38s. Speech: [speech lang=\"en\"]I never go in it.[/speech] from 6.43s to 7.10s. Speech: [speech lang=\"en\"]I needed a pool when I was seven, not 45.[/speech] from 7.14s to 9.47s. A loud, exaggerated laugh from a cartoon character from 9.20s to 11.80s. Speech: [speech lang=\"en\"]What am I going to do now?[/speech] from 10.49s to 12.24s. Speech: [speech lang=\"en\"]Float in it like a tonto?[/speech] from 12.32s to 13.80s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row32_a429414d7be129a4b767e05b473c2274_vid4.mp4",
+      "events": 13,
+      "caption": "Crowd noise with basketball dribbling from 0.00s to 15.00s. Speech: [speech lang=\"en\"]He's 6'2\".[/speech] from 0.37s to 1.27s. Male voice (uncertain) from 0.40s to 1.40s, 2.10s to 3.20s, 4.00s to 5.00s, 7.00s to 9.60s, 12.30s to 13.10s. Speech: [speech lang=\"en\"]Put the hands on this kid.[/speech] from 2.13s to 3.22s. Speech: [speech lang=\"en\"]And he can jump.[/speech] from 4.32s to 5.00s. Speech: [speech lang=\"en\"]Here he goes.[/speech] from 7.09s to 7.51s. Speech: [speech lang=\"en\"]Here you go.[/speech] from 7.53s to 7.93s. Speech: [speech lang=\"en\"]Put the legs on him.[/speech] from 7.95s to 8.67s. Loud, sharp gunfire from a machine gun from 8.60s to 11.30s. Speech: [speech lang=\"en\"]So watch this.[/speech] from 8.79s to 9.36s. Speech: [speech lang=\"en\"]Can he jump?[/speech] from 9.38s to 12.79s. Speech: [speech lang=\"en\"]For what?[/speech] from 12.80s to 13.19s. Speech: [speech lang=\"en\"]No.[/speech] from 13.37s to 13.47s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row33_70b5fe1d6a126c70602066cc23d9d417_vid4.mp4",
+      "events": 7,
+      "caption": "Distant sirens and traffic in a city from 0.00s to 13.00s. Loud, sharp gunshot from a 7.6201 rifle from 1.50s to 2.00s, 3.60s to 4.00s. Metal door opens with a squeak from 2.00s to 5.10s. Cinematic impact sound from 6.00s to 7.10s, 7.80s to 8.60s. Male voice (formal) from 9.70s to 10.30s, 10.70s to 13.00s. Speech: [speech lang=\"en\"]Dear editor, this is the murderer of the two teenagers last[/speech] from 9.70s to 13.15s. Car moving slowly on wet road from 10.30s to 11.20s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row34_307d43e3c21dd0b6a1c0e75c9c92ed6e_vid4.mp4",
+      "events": 9,
+      "caption": "Children playing in a schoolyard with traffic and voices from 0.00s to 15.00s. Female voice (uncertain) from 0.00s to 5.00s, 10.30s to 11.40s, 12.40s to 12.80s, 13.40s to 14.20s, 14.70s to 15.00s. Speech: [speech lang=\"en\"]I need to talk to you.[/speech] from 0.25s to 11.32s. Melancholic melody with soft dynamics and emotional depth from 5.60s to 11.00s. Door opens and closes with a metallic sound from 8.00s to 11.50s. Metal door opens with a loud, sharp sound from 11.10s to 11.40s. Speech: [speech lang=\"en\"]What?[/speech] from 12.45s to 12.77s. Speech: [speech lang=\"en\"]What's that noise?[/speech] from 13.45s to 14.17s. Speech: [speech lang=\"en\"]Rescue.[/speech] from 14.77s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row35_8e8473e11104db66d08563b081409742_vid4.mp4",
+      "events": 7,
+      "caption": "Minor key trap with deep bass and sharp hi-hats from 0.00s to 2.90s. Male voice (formal) from 4.40s to 9.60s. Speech: [speech lang=\"en\"]Well, it's one of the best times of the year.[/speech] from 4.47s to 5.73s. Speech: [speech lang=\"en\"]It's Thanksgiving week, so we're gonna theme our watch list this week.[/speech] from 5.83s to 8.93s. Female voice (negative) from 8.70s to 9.30s, 9.90s to 12.20s, 12.60s to 14.70s. Speech: [speech lang=\"en\"]I gotta ask you, what movies or TV shows are you thankful for?[/speech] from 9.11s to 12.28s. Speech: [speech lang=\"en\"]There is a movie called The Homecoming.[/speech] from 12.64s to 14.73s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row36_b279f7afcf0335fa4e4b9630bb95868e_vid4.mp4",
+      "events": 6,
+      "caption": "Sustained ambient tone from 0.00s to 15.00s. Metal door slams shut from 6.20s to 7.10s. Speech: [speech lang=\"es\"]\u00bfMe vas a contar lo que est\u00e1 pasando?[/speech] from 6.68s to 8.15s. Female voice (fearful) from 6.70s to 8.10s. Sustained strings and piano create a somber, reflective atmosphere from 8.60s to 15.00s. Engine revving and accelerating from 10.80s to 13.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row37_8640493c60e059ab4c5db8d45b04bdef_vid4.mp4",
+      "events": 2,
+      "caption": "Kitchen sounds: clinking plates and cutlery from 0.00s to 13.00s. Metal door opens and closes with a sharp sound from 3.70s to 4.10s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row38_d26c6d5374d21695a074acd73da99f89_vid4.mp4",
+      "events": 2,
+      "caption": "Train station ambience with crowd and announcements from 0.00s to 15.00s. Epic orchestral swell with choir and percussion from 0.00s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row39_36261d67fd3e390d02edce06e3ccb7a9_vid4.mp4",
+      "events": 3,
+      "caption": "Background noise of a busy store from 0.00s to 15.00s. Danceable groove with syncopated percussion and melodic bass from 1.40s to 14.90s. Mechanical door movement from 1.40s to 3.50s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row40_c953d41fb5e0dae57c374105981311a6_vid4.mp4",
+      "events": 2,
+      "caption": "Laid-back groove with warm electric piano and bass from 0.00s to 8.30s. Dog barking loudly in a short burst from 4.40s to 5.60s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row41_dffe849c770d7f4fba19b8a7b9d7f232_vid4.mp4",
+      "events": 13,
+      "caption": "Driving rhythm, distorted guitars, urgent pace from 0.00s to 15.00s. Speech: [speech lang=\"en\"]There is nothing wrong with putting yourself back out there.[/speech] from 0.03s to 2.14s. Female voice (uncertain) from 0.10s to 2.20s, 9.80s to 14.10s. Male voice (negative) from 2.40s to 2.90s, 3.20s to 3.70s, 11.10s to 12.70s, 14.40s to 15.00s. Speech: [speech lang=\"en\"]I like you.[/speech] from 2.46s to 2.90s. Speech: [speech lang=\"en\"]I like you too.[/speech] from 2.92s to 3.68s. Electronic whoosh with reverb from 3.80s to 5.60s. Speech: [speech lang=\"en\"]Well, we're both very competitive, aren't we?[/speech] from 7.59s to 10.02s. Speech: [speech lang=\"en\"]Yeah, you shouldn't play board games with us.[/speech] from 10.04s to 12.22s. Fast-moving object sound from 11.10s to 11.60s. Speech: [speech lang=\"en\"]Yeah.[/speech] from 12.45s to 12.65s. Speech: [speech lang=\"en\"]Or games in general.[/speech] from 12.89s to 14.03s. Speech: [speech lang=\"en\"]Did we play Jank?[/speech] from 14.41s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row42_0a15fea5e4750fa39e3fb5fb77feeb9d_vid4.mp4",
+      "events": 14,
+      "caption": "Fast-moving object sound from 0.00s to 0.70s. Male voice (whispering) from 0.70s to 1.30s. Speech: [speech lang=\"en\"]It's coming out.[/speech] from 0.72s to 1.32s. Cinematic riser with metallic resonance from 1.40s to 6.00s. Atonal drone with deep bass and rhythmic pulse from 3.00s to 15.00s. Speech: [speech lang=\"en\"]Hey, John.[/speech] from 7.56s to 8.00s. Male voice (conversational) from 7.60s to 13.40s, 13.70s to 14.40s. Sudden burst of air from a jet engine from 8.00s to 8.70s. Speech: [speech lang=\"en\"]How's things going?[/speech] from 8.56s to 9.21s. Speech: [speech lang=\"en\"]Oh, just great.[/speech] from 9.55s to 10.27s. Door closing with a sharp impact from 10.10s to 10.70s. Speech: [speech lang=\"en\"]I got three charred bodies and three widows trying to identify them.[/speech] from 10.29s to 13.70s. Speech: [speech lang=\"en\"]Three?[/speech] from 13.72s to 13.94s. Speech: [speech lang=\"en\"]Only three?[/speech] from 14.06s to 14.46s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row43_7875289072e25217180e832a6d7e89c5_vid4.mp4",
+      "events": 15,
+      "caption": "Aggressive, fast-paced metal with heavy distortion and double bass drums from 0.50s to 15.00s. Rhythmic footsteps on gravel from 1.70s to 3.60s. Metal door opens with a squeak from 2.30s to 2.90s, 3.20s to 6.20s. Male voice (whispering) from 3.80s to 5.10s. Male voice (dramatic) from 3.80s to 6.20s. Speech: [speech lang=\"en\"]Charlie.[/speech] from 3.81s to 4.27s. Speech: [speech lang=\"en\"]Charlie.[/speech] from 4.31s to 5.12s. Speech: [speech lang=\"en\"]Charlie Valentine.[/speech] from 5.14s to 7.57s. Male voice yelling in a loud, aggressive tone from 6.40s to 7.60s. Loud explosion with sharp crack and rumble from 7.60s to 9.30s. Sudden burst of air from a balloon from 8.00s to 8.30s. A male ghostly breath whooshes through the air from 10.30s to 11.10s. Metal door slams shut with a sharp impact from 10.90s to 11.40s. A male voice speaks the phrase 'i'm here to serve' in a clear tone from 11.40s to 14.40s. Speech: [speech lang=\"en\"]He made a career out of ripping off criminals.[/speech] from 11.54s to 14.41s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row44_9dd490314b325d993797c3a9f001af2e_vid4.mp4",
+      "events": 5,
+      "caption": "Ambient sounds of a quiet neighborhood from 0.20s to 15.00s. Female voice (sad) from 1.50s to 3.10s. Speech: [speech lang=\"en\"]Uh, this is me here on the left.[/speech] from 1.55s to 13.52s. Female voice (bored) from 2.00s to 3.10s, 12.60s to 13.50s. Fast-moving object sound from 8.30s to 9.30s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row45_0f7f7a5f1c798f81ac106acd7330ee5f_vid4.mp4",
+      "events": 2,
+      "caption": "Church bells ringing in the distance from 2.30s to 13.70s. Footsteps on hard surface from 10.20s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row46_8e4af2c10752b3997f745bc182182ec2_vid4.mp4",
+      "events": 10,
+      "caption": "Natural sounds of a quiet countryside from 0.00s to 15.00s. Male voice (uncertain) from 5.60s to 6.60s, 8.60s to 10.00s, 13.60s to 14.40s. Speech: [speech lang=\"en\"]Are you here for cross country?[/speech] from 5.63s to 6.68s. Female voice (dramatic) from 6.80s to 8.00s, 10.70s to 11.40s. Fast whip motion from 6.80s to 7.00s. Speech: [speech lang=\"en\"]Yes, sir.[/speech] from 7.50s to 7.94s. Speech: [speech lang=\"en\"]Do you know anybody else coming to try out?[/speech] from 8.56s to 10.79s. Speech: [speech lang=\"en\"]No, sir.[/speech] from 10.81s to 11.31s. Speech: [speech lang=\"en\"]Okay.[/speech] from 13.66s to 13.76s. Speech: [speech lang=\"en\"]Tell me your name.[/speech] from 14.02s to 14.48s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row47_cee148b568a4d99095044aba276bb41d_vid4.mp4",
+      "events": 2,
+      "caption": "Syncopated rhythm, bright brass, danceable groove from 0.20s to 14.70s. Sustained trumpet sound from 4.60s to 6.60s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row48_bc80a214f728094cd7e64b48b8d8a914_vid4.mp4",
+      "events": 7,
+      "caption": "Ambient water flow from 0.30s to 3.20s. Female voice (angry) from 3.60s to 4.20s, 6.80s to 7.80s. A dog barks once, then a second dog barks in response from 5.00s to 5.30s. A sharp, high-pitched squeak from a metal hinge from 6.20s to 9.30s. Speech: [speech lang=\"en\"]Eh, manda.[/speech] from 6.70s to 7.90s. Female voice (urgent) from 10.00s to 10.90s. Low-frequency whoosh with deep resonance from 12.80s to 15.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row49_14f3c65da635c1a6470ec4b3ddb15a88_vid4.mp4",
+      "events": 5,
+      "caption": "Low hum of a running fan from 0.00s to 14.90s. Epic orchestral surge with choir and percussion from 0.20s to 10.40s. Engine noise during start and idle from 0.80s to 10.10s. Sudden burst of flame from 6.20s to 10.20s. Human breath in and out from 10.40s to 11.80s, 13.50s to 13.90s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row50_dcc96527f24019a0dc744533be205a8a_vid4.mp4",
+      "events": 5,
+      "caption": "Male voice (uncertain) from 0.00s to 7.50s, 8.10s to 15.00s. Speech: [speech lang=\"en\"]My role is I play the zookeeper and I'm a great zookeeper.[/speech] from 0.03s to 3.66s. Speech: [speech lang=\"en\"]I love the animals and they love me and I provide for them.[/speech] from 3.68s to 6.69s. Speech: [speech lang=\"en\"]I help them out a lot.[/speech] from 6.73s to 7.53s. Speech: [speech lang=\"en\"]And the woman I love, I try to make my own and[/speech] from 8.35s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row51_1c01e378a11dc9f112a5ef8b8e3d287b_vid4.mp4",
+      "events": 9,
+      "caption": "Ambient sounds of a quiet city street from 0.00s to 15.00s. Metal scraping sound from 0.90s to 2.10s. A steady 120 bpm beat with a deep, resonant bass and rhythmic hi-hats from 0.90s to 6.20s. Male voice (dramatic) from 1.90s to 3.80s, 4.60s to 6.80s, 7.40s to 9.30s. Speech: [speech lang=\"en\"]A new hero is rising, resilient, fierce, and female.[/speech] from 1.94s to 9.37s. Sudden impact sound from 2.90s to 3.20s. Sustained low-frequency tone from 6.80s to 9.30s. Cinematic stinger with deep bass and reverb from 8.30s to 11.10s. Mechanical sound of a car engine starting and idling from 10.40s to 13.90s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row52_39f8812cfd1821d625fd265235df3e75_vid4.mp4",
+      "events": 9,
+      "caption": "Natural storm sounds from 0.00s to 2.00s, 6.20s to 14.90s. Driving rhythm, melodic bass, and emotional saxophone from 0.80s to 14.90s. A child speaks with a questioning tone, asking a question from 2.70s to 4.00s. Speech: [speech lang=\"en\"]Are we there yet?[/speech] from 2.71s to 3.87s. Speech: [speech lang=\"en\"]We get there when we get there![/speech] from 4.15s to 5.80s. Male voice (angry) from 4.30s to 5.70s, 8.40s to 12.80s. Fast-moving object sound from 6.20s to 9.30s. Sudden burst of water from a hose from 10.60s to 11.00s. Low-frequency impact sound from 13.70s to 14.60s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row53_3e8d44cdfa42ddbac44ba740759e2a14_vid4.mp4",
+      "events": 4,
+      "caption": "Ambient horror soundscape from 0.00s to 15.00s. Heavy object hits water from 1.30s to 9.30s. Metal door opens and closes with a squeak from 1.70s to 2.00s. Engine revving loudly from 9.60s to 11.00s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row54_563e726c56dd5bcd70246bc8fb2da2d7_vid4.mp4",
+      "events": 12,
+      "caption": "Low-frequency hum with reverb from 0.00s to 15.00s. Female voice (whispering) from 0.20s to 1.40s. Speech: [speech lang=\"en\"]That's all it's not.[/speech] from 0.22s to 7.55s. Cinematic stinger with rising tension from 0.80s to 7.10s. Male voice (uncertain) from 7.50s to 8.40s, 8.60s to 10.30s, 10.40s to 11.50s. Speech: [speech lang=\"en\"]So you're going tomorrow?[/speech] from 7.57s to 8.38s. Speech: [speech lang=\"en\"]Yes, I'm going tomorrow with the advance team.[/speech] from 8.68s to 10.26s. Speech: [speech lang=\"en\"]I'd like you to take me with you.[/speech] from 10.50s to 11.48s. Door opens with a creak from 11.40s to 12.70s. Male voice (negative) from 12.50s to 14.10s. Speech: [speech lang=\"en\"]Are you trying to give me court-martial?[/speech] from 12.51s to 14.21s. Heavy impact sound from 14.20s to 14.90s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row55_ca0efeb855ed9716ff7e2c338024fbc4_vid4.mp4",
+      "events": 6,
+      "caption": "Crowd noise from a live event from 0.00s to 15.00s. Speech: [speech lang=\"en\"]She's the woman of the century and I'm talking about her soul now.[/speech] from 2.54s to 6.31s. Male voice (bored) from 2.60s to 6.40s. Speech: [speech lang=\"en\"]The Gigi Splash is about this worldwide rock star, Marianne Lane, who went[/speech] from 6.33s to 15.04s. Driving rhythm, distorted guitars, and urgent energy from 6.50s to 12.00s. Male voice (conversational) from 10.30s to 14.90s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row56_081668a762e62ebbde4f26f820b5dfd8_vid4.mp4",
+      "events": 8,
+      "caption": "Distant traffic and birds in a city from 0.00s to 15.00s. Driving rhythm, distorted guitars, and powerful drums from 0.00s to 15.00s. Sustained metallic tone from 0.00s to 2.90s, 6.10s to 7.70s, 9.00s to 11.70s. Male voice (formal) from 4.80s to 9.00s. Speech: [speech lang=\"en\"]Off Alaska's southern coast sits one of the most dangerous spots on any map.[/speech] from 4.86s to 9.03s. Male voice (determined) from 11.70s to 12.90s, 13.50s to 15.00s. Speech: [speech lang=\"en\"]Kodiak Island.[/speech] from 11.78s to 12.82s. Speech: [speech lang=\"en\"]3600 square miles of north.[/speech] from 12.85s to 15.05s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row57_1728b0419f5b1c0fd554257aeb63eba6_vid4.mp4",
+      "events": 15,
+      "caption": "Speech: [speech lang=\"en\"]And, oh, wow.[/speech] from 0.03s to 1.72s. Ambient sounds of a busy store with voices and footsteps from 0.10s to 14.90s. Male voice (playful) from 0.10s to 2.40s, 4.90s to 6.30s, 11.40s to 12.60s, 13.20s to 14.20s, 14.50s to 14.90s. Speech: [speech lang=\"en\"]Hey, guys.[/speech] from 1.74s to 2.52s. Speech: [speech lang=\"en\"]We are truly sorry.[/speech] from 2.72s to 3.66s. A woman speaks with a clear, direct tone from 4.10s to 4.70s. Speech: [speech lang=\"en\"]Hi.[/speech] from 4.18s to 4.54s. Speech: [speech lang=\"en\"]Yeah, that's my sister, everyone.[/speech] from 4.92s to 6.37s. A loud, sharp scream from a woman in distress from 6.60s to 8.50s. Speech: [speech lang=\"en\"]Hello.[/speech] from 7.01s to 7.97s. Speech: [speech lang=\"en\"]Uh, as you were.[/speech] from 7.99s to 9.03s. Speech: [speech lang=\"en\"]Hey, uh, hey, Nick.[/speech] from 11.44s to 12.58s. Speech: [speech lang=\"en\"]Your new sister-in-law.[/speech] from 13.20s to 14.12s. Speech: [speech lang=\"en\"]Hi.[/speech] from 14.60s to 14.80s. Speech: [speech lang=\"en\"]Hi.[/speech] from 14.82s to 14.88s.",
+      "duration": "15.00s"
+    },
+    {
+      "video_src": "assets/captioning/row58_a8197d771cb135a917014dd4827b6bf6_vid4.mp4",
+      "events": 7,
+      "caption": "Natural sounds of a forest with birds and wind from 0.00s to 15.00s. Male voice (formal) from 0.40s to 2.90s, 3.50s to 7.20s, 7.70s to 10.20s. Speech: [speech lang=\"en\"]Lacking the ability to make a quick getaway, sloths are at the mercy of Amazon's many predators.[/speech] from 0.42s to 7.02s. Fast-moving object sound from 7.50s to 8.30s. Speech: [speech lang=\"en\"]Predators like the jaguar.[/speech] from 7.78s to 10.23s. Low-frequency growl from a large creature from 8.90s to 11.00s. Cinematic impact sound from 11.10s to 15.00s.",
+      "duration": "15.00s"
+    }
+  ]
+}

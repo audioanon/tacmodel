@@ -1,0 +1,1320 @@
+{
+  "benchmarks": [
+    {
+      "id": "do_1",
+      "benchmark": "dailyomni",
+      "type": "Event Sequence",
+      "category": "Lifestyle",
+      "video_id": "Ec_lQgZ9wlg",
+      "question": "What visual elements were displayed immediately after Dr. Rajani's 'BOTOX WITHOUT THE BOTOX' video concluded?",
+      "choices": [
+        "Still product bottle → Price text overlay",
+        "Facial treatment demonstration → Presenter holding product while explaining",
+        "Presenter's torso shot → Secondary screen activation",
+        "Bookshelf backdrop → Close-up of string lights"
+      ],
+      "answer": "B",
+      "model_answer": "B",
+      "raw_caption": "```\n1. [  0.0s -   5.1s] [visual] Woman with long brown hair speaks directly to camera, smiling, in front of plant and bookshelf\n   <speech lang=en>\"Hi, and welcome to The Honest Channel.\"</speech>\n2. [  0.1s -   7.4s] [speech] Woman in dark blouse speaks clearly, eyes focused, slight head movements, consistent expression (0.98)\n   <speech lang=en>\"I'm Claire Johnston, a journalist with an interest in all things anti-aging and aging well.\"</speech>\n3. [  5.1s -   7.4s] [visual] Woman continues speaking, hands slightly raised, maintaining eye contact, calm demeanor\n4. [  7.4s -   8.9s] [visual] Inset video appears in top left: man in dark shirt speaks in front of brick wall with text \"BOTOX WITHOUT THE BOTOX\"\n5. [  7.5s -  20.0s] [speech] Woman speaks while holding black pen-like device, gestures with hands, inset video shows facial treatment (0.96)\n   <speech lang=en>\"And so I was watching one of my YouTube favorites, Dr. Anil Rajani, recently, and he had done a video titled, Apply This to Smooth Wrinkles Better Than Botox.\"</speech>\n6. [  9.5s -  12.1s] [visual] Inset video shows man speaking then woman receiving forehead treatment with black device, main speaker holds similar device\n7. [ 12.1s -  15.4s] [visual] Inset video shows treatment application on forehead, main speaker holds device up, turns it to show tip\n8. [ 15.4s -  17.7s] [visual] Inset video continues showing treatment, main speaker lowers device, gestures with hands while speaking\n9. [ 17.7s -  19.2s] [visual] Inset video disappears, woman continues speaking, hands gesturing, steady eye contact with camera\n   <speech lang=en>\"The product he was talking about is this Revox Line Relaxer from Revision Skincare, which is currently priced on their website at £159 in the UK for just 20 millilitres.\"</speech>\n10. [ 19.8s -  20.0s] [visual] Woman continues speaking, expression neutral, hands slightly lowered, camera focused on her face\n11. [ 20.0s -  30.0s] [speech] Woman with long brown hair speaks formally to camera, holding a black skincare pen, lips moving in sync with voice (0.91)\n12. [ 20.0s -  30.0s] [visual] Split-screen view: product image of Revox Line Relaxer on left, woman holding same item on right, bookshelf with fairy lights in background\n   <speech lang=en>\"That price in itself\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -   5.1s] [visual] Woman with long brown hair speaks directly to camera, smiling, in front of plant and bookshelf\n   <speech lang=en>\"Hi, and welcome to The Honest Channel.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.1s -   7.4s] [speech] Woman in dark blouse speaks clearly, eyes focused, slight head movements, consistent expression (0.98)\n   <speech lang=en>\"I'm Claire Johnston, a journalist with an interest in all things anti-aging and aging well.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  5.1s -   7.4s] [visual] Woman continues speaking, hands slightly raised, maintaining eye contact, calm demeanor"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  7.4s -   8.9s] [visual] Inset video appears in top left: man in dark shirt speaks in front of brick wall with text \"BOTOX WITHOUT THE BOTOX\""
+        },
+        {
+          "type": "visual",
+          "content": "5. [  7.5s -  20.0s] [speech] Woman speaks while holding black pen-like device, gestures with hands, inset video shows facial treatment (0.96)\n   <speech lang=en>\"And so I was watching one of my YouTube favorites, Dr. Anil Rajani, recently, and he had done a video titled, Apply This to Smooth Wrinkles Better Than Botox.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  9.5s -  12.1s] [visual] Inset video shows man speaking then woman receiving forehead treatment with black device, main speaker holds similar device"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 12.1s -  15.4s] [visual] Inset video shows treatment application on forehead, main speaker holds device up, turns it to show tip"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 15.4s -  17.7s] [visual] Inset video continues showing treatment, main speaker lowers device, gestures with hands while speaking"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 17.7s -  19.2s] [visual] Inset video disappears, woman continues speaking, hands gesturing, steady eye contact with camera\n   <speech lang=en>\"The product he was talking about is this Revox Line Relaxer from Revision Skincare, which is currently priced on their website at £159 in the UK for just 20 millilitres.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 19.8s -  20.0s] [visual] Woman continues speaking, expression neutral, hands slightly lowered, camera focused on her face"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 20.0s -  30.0s] [speech] Woman with long brown hair speaks formally to camera, holding a black skincare pen, lips moving in sync with voice (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 20.0s -  30.0s] [visual] Split-screen view: product image of Revox Line Relaxer on left, woman holding same item on right, bookshelf with fairy lights in background\n   <speech lang=en>\"That price in itself\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the provided caption, here is the step-by-step reasoning:\n\n1.  **Identify the end of Dr. Rajani's video:** The caption describes an inset video (Dr. Rajani's clip with the text \"BOTOX WITHOUT THE BOTOX\" and treatment demonstration) appearing at 7.4s. This inset video continues through shots 6, 7, and 8.\n2.  **Pinpoint the moment the video concludes:** Shot 9 (17.7s - 19.2s) explicitly states: \"Inset video disappears, woman continues speaking...\" This marks the end of Dr. Rajani's video.\n3.  **Analyze the visual elements immediately following:**\n    *   In Shot 9 (17.7s - 19.2s) and Shot 10 (19.8s - 20.0s), the woman (the presenter) is seen speaking, gesturing, and holding the device. This is a shot of her torso/upper body.\n    *   However, immediately *after* this brief return to the full shot of the presenter (or simultaneously with the next major visual change), we look at Shot 12 (20.0s - 30.0s). The description is: \"Split-screen view: product image of Revox Line Relaxer on left, woman holding same item on right...\"\n4.  **Evaluate the options:**\n    *   **A. Still product bottle → Price text overlay:** While a product is shown in Shot 12, there is no mention of a standalone still bottle followed by text overlay immediately after the video ends.\n    *   **B. Facial treatment demonstration → Presenter holding product while explaining:** The facial treatment was *part* of Dr. Rajani's video. Once that ends (Shot 9), the visual is the presenter holding the product and explaining. This matches the transition from the inset video (treatment) to the presenter holding the device.\n    *   **C. Presenter's torso shot → Secondary screen activation:** The \"secondary screen\" (the inset video) *deactivates* or disappears; it doesn't activate.\n    *   **D. Bookshelf backdrop → Close-up of string lights:** These are background elements present throughout, not the primary visual change.\n\n**Refined Reasoning:**\nThe question asks what was displayed *immediately after* the video concluded.\n- At 17.7s (Shot 9), the inset video disappears.\n- The visual description for Shot 9 says: \"woman continues speaking...\". She is holding the device (mentioned in previous shots).\n- The most accurate description of the visual state immediately following the clip's conclusion is the presenter holding the product while explaining (Shot 9/10), which serves as a bridge before the split-screen in Shot 12. Option B describes this transition perfectly: The \"Facial treatment demonstration\" (the content of the concluding video) transitions to the \"Presenter holding product while explaining.\"\n\nTherefore, the visual sequence is the end of the treatment demo (Dr. Rajani's video) leading into the presenter holding the product.\n\n{\"answer\": \"B\"}"
+    },
+    {
+      "id": "do_2",
+      "benchmark": "dailyomni",
+      "type": "Event Sequence",
+      "category": "Education",
+      "video_id": "d6b4OmUFt7I",
+      "question": "Which visual-audio pair occurs at the very beginning of the video?",
+      "choices": [
+        "Construction site overview -- training program name reference",
+        "Detailed sign graphic -- geographical location mention",
+        "Instructor in PPE -- personal equipment experience anecdote",
+        "Excavator movement -- hands-on training phase description"
+      ],
+      "answer": "B",
+      "model_answer": "B",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [background] Low-frequency ambient hum as camera focuses on \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" sign with excavator graphic (0.91)\n2. [  0.7s -   1.9s] [visual] White sign with black text and excavator image, mounted on pole, with \"SICA\" logo and \"velocity TRAINING INC\" branding\n3. [  1.8s -  11.6s] [speech] Female voice (calm, on-screen) as woman in orange safety vest speaks directly to camera, standing on muddy ground with trees and machinery behind (0.93)\n   <speech lang=en>\"We're in West Bank, B.C.\"</speech>\n4. [  1.9s -   4.9s] [visual] Wide shot of cleared construction site with logs in foreground, excavators, trailer, and snow-capped mountains in distance\n   <speech lang=en>\"in the heart of the reserve and I'm part of this heavy equipment operators course and yeah, I'm loving it.\"</speech>\n5. [  4.9s -   9.5s] [visual] Pan across muddy training area with heavy equipment, portapotties, and red safety fencing, trees lining horizon\n6. [  9.5s -  15.2s] [visual] Close-up of woman in safety vest, identified by on-screen text <text>SARA PAYNTON | SICA/VELOCITY CLIENT</text>, speaking with calm expression\n   <speech lang=en>\"I've been with Emil Anderson for about a year but my whole life growing up I was exposed to it a lot.\"</speech>\n7. [ 12.1s -  16.7s] [speech] Female voice (calm, on-screen) as woman continues speaking, with excavator moving in background (0.89)\n8. [ 15.2s -  19.0s] [visual] Wide view of training site showing two excavators, trailer, portapotties, and dirt piles under overcast sky\n   <speech lang=en>\"My dad always showed me all the equipment.\"</speech>\n9. [ 17.0s -  20.0s] [speech] Female voice (neutral, on-screen) as woman speaks, camera cuts to indoor scene with her at desk (0.89)\n10. [ 19.0s -  20.0s] [visual] Woman in gray sweater sitting at desk, flipping through binder pages, with papers pinned to bulletin board behind\n   <speech lang=en>\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"</speech>\n11. [ 20.0s -  20.7s] [speech] Female voice (conversational) as woman flips through a binder labeled <text>PARTICIPANT GUIDE</text> at a desk (0.83)\n12. [ 20.0s -  20.9s] [visual] Woman with long blonde hair in a gray sweater sits at a desk, reviewing documents in a binder with tabs and notes\n13. [ 20.1s -  30.0s] [music] Calm, slow, and reflective as camera transitions from office to construction site with heavy machinery (0.84)\n14. [ 20.9s -  22.3s] [visual] Close-up of binder pages showing a table of contents and a photo of a yellow excavator\n15. [ 21.1s -  25.4s] [speech] Female voice (conversational) as yellow Caterpillar excavator digs into soil, arm extended with bucket full of dirt (0.83)\n16. [ 22.9s -  25.9s] [visual] Yellow Caterpillar excavator operates on a dirt mound, surrounded by pine trees and distant mountains\n17. [ 25.6s -  29.9s] [speech] Female voice (conversational) as yellow dump truck navigates uneven terrain, passing a bulldozer (0.91)\n   <speech lang=en>\"When you leave here at the end of the day you know you're more familiar with the machines and\"</speech>\n18. [ 25.9s -  28.8s] [visual] Yellow dump truck with raised bed moves slowly over muddy ground, with a bulldozer visible in foreground\n19. [ 28.8s -  30.0s] [visual] Yellow bulldozer pushes dirt across a field, emitting smoke, with dry grass and pine trees in background\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [background] Low-frequency ambient hum as camera focuses on \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" sign with excavator graphic (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.7s -   1.9s] [visual] White sign with black text and excavator image, mounted on pole, with \"SICA\" logo and \"velocity TRAINING INC\" branding"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  1.8s -  11.6s] [speech] Female voice (calm, on-screen) as woman in orange safety vest speaks directly to camera, standing on muddy ground with trees and machinery behind (0.93)\n   <speech lang=en>\"We're in West Bank, B.C.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  1.9s -   4.9s] [visual] Wide shot of cleared construction site with logs in foreground, excavators, trailer, and snow-capped mountains in distance\n   <speech lang=en>\"in the heart of the reserve and I'm part of this heavy equipment operators course and yeah, I'm loving it.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  4.9s -   9.5s] [visual] Pan across muddy training area with heavy equipment, portapotties, and red safety fencing, trees lining horizon"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  9.5s -  15.2s] [visual] Close-up of woman in safety vest, identified by on-screen text <text>SARA PAYNTON | SICA/VELOCITY CLIENT</text>, speaking with calm expression\n   <speech lang=en>\"I've been with Emil Anderson for about a year but my whole life growing up I was exposed to it a lot.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 12.1s -  16.7s] [speech] Female voice (calm, on-screen) as woman continues speaking, with excavator moving in background (0.89)"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 15.2s -  19.0s] [visual] Wide view of training site showing two excavators, trailer, portapotties, and dirt piles under overcast sky\n   <speech lang=en>\"My dad always showed me all the equipment.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 17.0s -  20.0s] [speech] Female voice (neutral, on-screen) as woman speaks, camera cuts to indoor scene with her at desk (0.89)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 19.0s -  20.0s] [visual] Woman in gray sweater sitting at desk, flipping through binder pages, with papers pinned to bulletin board behind\n   <speech lang=en>\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 20.0s -  20.7s] [speech] Female voice (conversational) as woman flips through a binder labeled <text>PARTICIPANT GUIDE</text> at a desk (0.83)"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 20.0s -  20.9s] [visual] Woman with long blonde hair in a gray sweater sits at a desk, reviewing documents in a binder with tabs and notes"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 20.1s -  30.0s] [music] Calm, slow, and reflective as camera transitions from office to construction site with heavy machinery (0.84)"
+        },
+        {
+          "type": "visual",
+          "content": "14. [ 20.9s -  22.3s] [visual] Close-up of binder pages showing a table of contents and a photo of a yellow excavator"
+        },
+        {
+          "type": "visual",
+          "content": "15. [ 21.1s -  25.4s] [speech] Female voice (conversational) as yellow Caterpillar excavator digs into soil, arm extended with bucket full of dirt (0.83)"
+        },
+        {
+          "type": "visual",
+          "content": "16. [ 22.9s -  25.9s] [visual] Yellow Caterpillar excavator operates on a dirt mound, surrounded by pine trees and distant mountains"
+        },
+        {
+          "type": "visual",
+          "content": "17. [ 25.6s -  29.9s] [speech] Female voice (conversational) as yellow dump truck navigates uneven terrain, passing a bulldozer (0.91)\n   <speech lang=en>\"When you leave here at the end of the day you know you're more familiar with the machines and\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "18. [ 25.9s -  28.8s] [visual] Yellow dump truck with raised bed moves slowly over muddy ground, with a bulldozer visible in foreground"
+        },
+        {
+          "type": "visual",
+          "content": "19. [ 28.8s -  30.0s] [visual] Yellow bulldozer pushes dirt across a field, emitting smoke, with dry grass and pine trees in background"
+        }
+      ],
+      "model_reasoning": "Based on the provided caption, let's analyze the very beginning of the video (0.0s onwards):\n\n1.  **Visuals at the start (0.0s - 1.9s):**\n    *   Item 1 describes the camera focusing on a \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" sign with an excavator graphic.\n    *   Item 2 describes a white sign with black text, an excavator image, and logos for \"SICA\" and \"velocity TRAINING INC\".\n\n2.  **Audio/Speech at the start (1.8s - 4.9s):**\n    *   Item 3 and 4 indicate speech starting around 1.8s. The first spoken phrase is \"We're in West Bank, B.C.\"\n\nLet's evaluate the options:\n\n*   **A. Construction site overview -- training program name reference:** While the sign mentions the training center name, the speech (\"We're in West Bank, B.C.\") refers to a geographical location, not explicitly the program name.\n*   **B. Detailed sign graphic -- geographical location mention:**\n    *   **Visual:** The video starts with a detailed sign graphic (\"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\", excavator graphic, SICA logo).\n    *   **Audio:** The very first line of speech (starting at 1.8s, overlapping with the end of the sign shot or immediately following it) is \"We're in West Bank, B.C.\", which is a geographical location.\n*   **C. Instructor in PPE -- personal equipment experience anecdote:** The woman in PPE appears at 1.8s/1.9s, but the anecdote about personal experience (\"I've been with Emil Anderson... exposed to it a lot\") comes later, around 9.5s.\n*   **D. Excavator movement -- hands-on training phase description:** Excavator movement is seen later (around 22.9s), and the hands-on description (\"go on the equipment\") starts around 19.0s.\n\nOption B is the most accurate match. The visual is the detailed sign, and the audio immediately introduces the location.\n\n{\"answer\": \"B\"}"
+    },
+    {
+      "id": "do_3",
+      "benchmark": "dailyomni",
+      "type": "Event Sequence",
+      "category": "Sports",
+      "video_id": "G_VTkkb34gw",
+      "question": "Which audio events correspond to the indoor shooting range activities shown in the video?",
+      "choices": [
+        "Countdown sequence during target practice",
+        "Electronic music overlapping with gunshots",
+        "Hip-hop music with whoosh sounds",
+        "Wind sounds followed by human speech"
+      ],
+      "answer": "B",
+      "model_answer": "B",
+      "raw_caption": "```\n1. [  0.7s -  20.0s] [music] Aggressive electric guitar riffs and pounding drums as camera pans over police training scenes (0.99)\n2. [  0.7s -   2.9s] [sfx] Vehicle whooshes past as officers walk along a paved path in a park (0.55)\n3. [  0.9s -   2.2s] [visual] Two police officers in uniform walk away from camera along a path surrounded by green hedges and trees\n4. [  2.2s -   3.3s] [visual] Three officers in uniform sit at a table with laptops, smiling and looking at screens in an office\n5. [  3.3s -   4.3s] [visual] Close-up of officer’s back with \"POLICE\" on vest, standing in an outdoor training area\n6. [  4.0s -   5.6s] [sfx] Vehicle whooshes past as officers stand in formation under a covered area (0.44)\n7. [  4.3s -   5.8s] [visual] Group of police officers in uniform standing in formation under a covered pavilion\n8. [  7.3s -   8.9s] [sfx] Vehicle whooshes past as officer runs across a paved area toward a building (0.45)\n9. [  7.5s -   9.2s] [visual] Officer in light blue shirt runs across a training ground, then transitions to shooting range\n10. [  9.6s -  11.1s] [sfx] Gunfire crackles as officer fires pistol at targets in an indoor shooting range (0.98)\n11. [ 10.9s -  13.3s] [visual] Two officers in patrol car, one driving, one using handheld device, observing traffic ahead\n12. [ 11.0s -  12.2s] [sfx] Vehicle whooshes past as officers monitor traffic from inside patrol car (0.78)\n13. [ 11.0s -  11.2s] [sfx] Electronic beep as officer taps device in patrol car (0.44)\n14. [ 12.5s -  20.0s] [background] Ambience of training facility with distant voices and equipment sounds (0.94)\n15. [ 12.5s -  12.9s] [sfx] Electronic beep as officer adjusts equipment during training exercise (0.61)\n16. [ 13.3s -  15.4s] [visual] Officer in helmet performs CPR on mannequin in padded training area\n17. [ 13.8s -  14.2s] [sfx] Electronic beep as officer completes CPR maneuver on mannequin (0.73)\n18. [ 14.8s -  15.2s] [sfx] Electronic beep as officer stands up after CPR training (0.76)\n19. [ 15.4s -  17.0s] [visual] Officer in light blue shirt stretches arms overhead, then runs along a paved path\n20. [ 16.0s -  16.4s] [sfx] Electronic beep as officer begins running exercise (0.80)\n21. [ 16.9s -  17.4s] [sfx] Electronic beep as officer runs past metal railings and building (0.80)\n22. [ 17.8s -  18.6s] [sfx] Electronic beep as officer continues running along path (0.77)\n23. [ 19.5s -  20.0s] [visual] Officer in dark uniform moves in dimly lit area, illuminated by blue light\n24. [ 20.0s -  30.0s] [background] No crowd noise — quiet indoor setting with officers in training gear (0.86)\n25. [ 20.0s -  30.0s] [music] Aggressive guitar riffs and pounding drums as officers engage in physical drills (0.99)\n26. [ 20.0s -  30.0s] [sfx] Car engine revving as silver sedan accelerates on driving course (0.94)\n27. [ 20.0s -  20.8s] [visual] Officer in dark uniform and helmet grapples with another person in dimly lit indoor space\n28. [ 20.8s -  25.9s] [sfx] Car door opens and closes as officer runs to gray sedan on driving course (0.55)\n29. [ 20.8s -  22.4s] [visual] Two officers in uniform run toward a gray sedan on a paved course with orange cones\n30. [ 22.4s -  23.7s] [visual] Male officer pours water from a bottle onto female trainee’s face outdoors\n31. [ 23.7s -  25.2s] [visual] Silver sedan drives on paved course, navigating around orange cones and barriers\n32. [ 23.8s -  25.6s] [sfx] Car engine starting and idling as sedan moves slowly on driving course (0.82)\n33. [ 25.4s -  26.9s] [visual] Trainee swings bat at padded shield held by another man, instructor observes\n34. [ 25.6s -  26.2s] [sfx] Metal door closing as trainee finishes bat drill, instructor steps back (0.81)\n   <speech lang=en>\"Thank you.\"</speech>\n35. [ 25.9s -  28.2s] [sfx] Female voice yelling in anger as trainee reacts during bat drill (0.86)\n36. [ 26.9s -  28.4s] [visual] Two trainees kneel beside mannequin, one applies tourniquet to leg\n37. [ 28.4s -  29.8s] [visual] White sedan drives on wet driving course, splashing water around orange cones\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.7s -  20.0s] [music] Aggressive electric guitar riffs and pounding drums as camera pans over police training scenes (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.7s -   2.9s] [sfx] Vehicle whooshes past as officers walk along a paved path in a park (0.55)"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  0.9s -   2.2s] [visual] Two police officers in uniform walk away from camera along a path surrounded by green hedges and trees"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  2.2s -   3.3s] [visual] Three officers in uniform sit at a table with laptops, smiling and looking at screens in an office"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  3.3s -   4.3s] [visual] Close-up of officer’s back with \"POLICE\" on vest, standing in an outdoor training area"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  4.0s -   5.6s] [sfx] Vehicle whooshes past as officers stand in formation under a covered area (0.44)"
+        },
+        {
+          "type": "visual",
+          "content": "7. [  4.3s -   5.8s] [visual] Group of police officers in uniform standing in formation under a covered pavilion"
+        },
+        {
+          "type": "visual",
+          "content": "8. [  7.3s -   8.9s] [sfx] Vehicle whooshes past as officer runs across a paved area toward a building (0.45)"
+        },
+        {
+          "type": "visual",
+          "content": "9. [  7.5s -   9.2s] [visual] Officer in light blue shirt runs across a training ground, then transitions to shooting range"
+        },
+        {
+          "type": "visual",
+          "content": "10. [  9.6s -  11.1s] [sfx] Gunfire crackles as officer fires pistol at targets in an indoor shooting range (0.98)"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 10.9s -  13.3s] [visual] Two officers in patrol car, one driving, one using handheld device, observing traffic ahead"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 11.0s -  12.2s] [sfx] Vehicle whooshes past as officers monitor traffic from inside patrol car (0.78)"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 11.0s -  11.2s] [sfx] Electronic beep as officer taps device in patrol car (0.44)"
+        },
+        {
+          "type": "visual",
+          "content": "14. [ 12.5s -  20.0s] [background] Ambience of training facility with distant voices and equipment sounds (0.94)"
+        },
+        {
+          "type": "visual",
+          "content": "15. [ 12.5s -  12.9s] [sfx] Electronic beep as officer adjusts equipment during training exercise (0.61)"
+        },
+        {
+          "type": "visual",
+          "content": "16. [ 13.3s -  15.4s] [visual] Officer in helmet performs CPR on mannequin in padded training area"
+        },
+        {
+          "type": "visual",
+          "content": "17. [ 13.8s -  14.2s] [sfx] Electronic beep as officer completes CPR maneuver on mannequin (0.73)"
+        },
+        {
+          "type": "visual",
+          "content": "18. [ 14.8s -  15.2s] [sfx] Electronic beep as officer stands up after CPR training (0.76)"
+        },
+        {
+          "type": "visual",
+          "content": "19. [ 15.4s -  17.0s] [visual] Officer in light blue shirt stretches arms overhead, then runs along a paved path"
+        },
+        {
+          "type": "visual",
+          "content": "20. [ 16.0s -  16.4s] [sfx] Electronic beep as officer begins running exercise (0.80)"
+        },
+        {
+          "type": "visual",
+          "content": "21. [ 16.9s -  17.4s] [sfx] Electronic beep as officer runs past metal railings and building (0.80)"
+        },
+        {
+          "type": "visual",
+          "content": "22. [ 17.8s -  18.6s] [sfx] Electronic beep as officer continues running along path (0.77)"
+        },
+        {
+          "type": "visual",
+          "content": "23. [ 19.5s -  20.0s] [visual] Officer in dark uniform moves in dimly lit area, illuminated by blue light"
+        },
+        {
+          "type": "visual",
+          "content": "24. [ 20.0s -  30.0s] [background] No crowd noise — quiet indoor setting with officers in training gear (0.86)"
+        },
+        {
+          "type": "visual",
+          "content": "25. [ 20.0s -  30.0s] [music] Aggressive guitar riffs and pounding drums as officers engage in physical drills (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "26. [ 20.0s -  30.0s] [sfx] Car engine revving as silver sedan accelerates on driving course (0.94)"
+        },
+        {
+          "type": "visual",
+          "content": "27. [ 20.0s -  20.8s] [visual] Officer in dark uniform and helmet grapples with another person in dimly lit indoor space"
+        },
+        {
+          "type": "visual",
+          "content": "28. [ 20.8s -  25.9s] [sfx] Car door opens and closes as officer runs to gray sedan on driving course (0.55)"
+        },
+        {
+          "type": "visual",
+          "content": "29. [ 20.8s -  22.4s] [visual] Two officers in uniform run toward a gray sedan on a paved course with orange cones"
+        },
+        {
+          "type": "visual",
+          "content": "30. [ 22.4s -  23.7s] [visual] Male officer pours water from a bottle onto female trainee’s face outdoors"
+        },
+        {
+          "type": "visual",
+          "content": "31. [ 23.7s -  25.2s] [visual] Silver sedan drives on paved course, navigating around orange cones and barriers"
+        },
+        {
+          "type": "visual",
+          "content": "32. [ 23.8s -  25.6s] [sfx] Car engine starting and idling as sedan moves slowly on driving course (0.82)"
+        },
+        {
+          "type": "visual",
+          "content": "33. [ 25.4s -  26.9s] [visual] Trainee swings bat at padded shield held by another man, instructor observes"
+        },
+        {
+          "type": "visual",
+          "content": "34. [ 25.6s -  26.2s] [sfx] Metal door closing as trainee finishes bat drill, instructor steps back (0.81)\n   <speech lang=en>\"Thank you.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "35. [ 25.9s -  28.2s] [sfx] Female voice yelling in anger as trainee reacts during bat drill (0.86)"
+        },
+        {
+          "type": "visual",
+          "content": "36. [ 26.9s -  28.4s] [visual] Two trainees kneel beside mannequin, one applies tourniquet to leg"
+        },
+        {
+          "type": "visual",
+          "content": "37. [ 28.4s -  29.8s] [visual] White sedan drives on wet driving course, splashing water around orange cones"
+        }
+      ],
+      "model_reasoning": "To determine the correct answer, we need to analyze the provided caption to find the specific visual scene of the \"indoor shooting range\" and identify the corresponding audio events.\n\n1.  **Locate the Visual Scene:**\n    *   Item 9 describes a visual transition: `[ 7.5s - 9.2s] [visual] Officer in light blue shirt runs across a training ground, then transitions to shooting range`.\n    *   Item 10 provides the specific audio for the shooting range activity: `[ 9.6s - 11.1s] [sfx] Gunfire crackles as officer fires pistol at targets in an indoor shooting range (0.98)`.\n\n2.  **Identify the Corresponding Audio:**\n    *   The caption explicitly mentions `[sfx] Gunfire crackles` during the indoor shooting range scene.\n    *   Additionally, throughout the first 20 seconds (covering this timeframe), Item 1 states there is `[music] Aggressive electric guitar riffs and pounding drums`. This music overlaps with the scene.\n\n3.  **Evaluate the Options:**\n    *   **A. Countdown sequence during target practice:** There is no mention of a countdown in the caption.\n    *   **B. Electronic music overlapping with gunshots:** The caption describes \"Aggressive electric guitar riffs and pounding drums\" (music) and \"Gunfire crackles\" (gunshots) happening in the same time vicinity (music starts at 0.7s, gunfire is at 9.6s). While the description says \"electric guitar\" rather than generic \"electronic music,\" this option is the closest fit because it combines music overlapping with gunshots, which matches the events described in Items 1 and 10.\n    *   **C. Hip-hop music with whoosh sounds:** The music is described as rock/metal (\"guitar riffs and pounding drums\"), not hip-hop.\n    *   **D. Wind sounds followed by human speech:** There is no mention of wind sounds or speech during the shooting range segment.\n\nAlthough the music is described as rock/guitar-heavy, Option B is the only choice that correctly identifies the \"gunshots\" which are the primary audio event of a shooting range, and acknowledges the overlapping music track present in the video.\n\n{\"answer\": \"B\"}"
+    },
+    {
+      "id": "do_4",
+      "benchmark": "dailyomni",
+      "type": "AV Event Alignment",
+      "category": "Hobbies & Interests",
+      "video_id": "XUWxQYmiBQY",
+      "question": "At the moment the static shot of Obsidian Fury first appeared, which specific audio event was synchronized with it?",
+      "choices": [
+        "Speaker's self-introduction and figure presentation",
+        "Reference to avoiding plot spoilers",
+        "Logo transition sound effect",
+        "Analysis of combat sequences"
+      ],
+      "answer": "A",
+      "model_answer": "A",
+      "raw_caption": "```\n1. [  0.2s -   5.9s] [sfx] Electronic glitch sound as stylized black bird logo with glowing eyes and wings unfolds under spotlight (0.93)\n2. [  0.5s -   4.1s] [sfx] Sci-fi energy burst as logo’s wings spread and lights pulse with lens flares and radiant glow (1.00)\n3. [  1.4s -  20.0s] [background] Soft synth pads and gentle drums play as spotlight highlights the figure on a reflective base (0.43)\n4. [  3.8s -   5.7s] [visual] Black bird logo with red eyes, yellow beak, and green horns glows under spotlight with lens flares\n5. [  5.7s -  20.0s] [visual] Obsidian Fury figure stands on reflective base, black armored humanoid with intricate mechanical details\n6. [  5.9s -   7.4s] [speech] Male voice (conversational) off-screen, introducing the figure as camera holds static shot (0.98)\n   <speech lang=en>\"Hello, YouTubes, it's Grosama, and here I have the high-grade Obsidian Fury from Pacific Rim Uprising.\"</speech>\n7. [  7.6s -  11.0s] [speech] Male voice (conversational) continues speaking off-screen, figure remains static under spotlight (0.98)\n8. [ 11.3s -  17.1s] [speech] Male voice (conversational) elaborates off-screen, figure unchanged with consistent lighting (0.97)\n   <speech lang=en>\"Um, now, I know the movie's been out for a little bit, but I'm not gonna go into any spoiler territory.\"</speech>\n   <speech lang=en>\"What you see in the trailers, um, is actually more so the highlights of the battles.\"</speech>\n9. [ 17.4s -  20.0s] [speech] Male voice (conversational) concludes off-screen, figure remains central focus on reflective base (0.97)\n10. [ 20.0s -  24.0s] [speech] Black armored figure stands still on reflective base, glowing yellow accents on chest and head, dark gradient background (0.97)\n11. [ 20.0s -  30.0s] [visual] Male voice speaks conversationally off-screen, describing movie battles involving Obsidian Fury, figure remains motionless\n   <speech lang=en>\"Um, there's, there's two separate battles, uh, that, you know, takes place in the movie that includes the Obsidian Fury.\"</speech>\n12. [ 24.2s -  30.0s] [speech] Male voice continues speaking, describing Obsidian Fury, figure unchanged on circular base under focused lighting (0.99)\n   <speech lang=en>\"Um, now the Obsidian Fury is pretty\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.2s -   5.9s] [sfx] Electronic glitch sound as stylized black bird logo with glowing eyes and wings unfolds under spotlight (0.93)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.5s -   4.1s] [sfx] Sci-fi energy burst as logo’s wings spread and lights pulse with lens flares and radiant glow (1.00)"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  1.4s -  20.0s] [background] Soft synth pads and gentle drums play as spotlight highlights the figure on a reflective base (0.43)"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  3.8s -   5.7s] [visual] Black bird logo with red eyes, yellow beak, and green horns glows under spotlight with lens flares"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  5.7s -  20.0s] [visual] Obsidian Fury figure stands on reflective base, black armored humanoid with intricate mechanical details"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  5.9s -   7.4s] [speech] Male voice (conversational) off-screen, introducing the figure as camera holds static shot (0.98)\n   <speech lang=en>\"Hello, YouTubes, it's Grosama, and here I have the high-grade Obsidian Fury from Pacific Rim Uprising.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [  7.6s -  11.0s] [speech] Male voice (conversational) continues speaking off-screen, figure remains static under spotlight (0.98)"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 11.3s -  17.1s] [speech] Male voice (conversational) elaborates off-screen, figure unchanged with consistent lighting (0.97)\n   <speech lang=en>\"Um, now, I know the movie's been out for a little bit, but I'm not gonna go into any spoiler territory.\"</speech>\n   <speech lang=en>\"What you see in the trailers, um, is actually more so the highlights of the battles.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 17.4s -  20.0s] [speech] Male voice (conversational) concludes off-screen, figure remains central focus on reflective base (0.97)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 20.0s -  24.0s] [speech] Black armored figure stands still on reflective base, glowing yellow accents on chest and head, dark gradient background (0.97)"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 20.0s -  30.0s] [visual] Male voice speaks conversationally off-screen, describing movie battles involving Obsidian Fury, figure remains motionless\n   <speech lang=en>\"Um, there's, there's two separate battles, uh, that, you know, takes place in the movie that includes the Obsidian Fury.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 24.2s -  30.0s] [speech] Male voice continues speaking, describing Obsidian Fury, figure unchanged on circular base under focused lighting (0.99)\n   <speech lang=en>\"Um, now the Obsidian Fury is pretty\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the provided audio-visual caption, let's analyze the sequence of events to find the answer:\n\n1.  **Identify the visual event:** We need to find when the \"static shot of Obsidian Fury\" first appears.\n    *   According to item 5 (`[ 5.7s - 20.0s ]`), the visual description is: \"Obsidian Fury figure stands on reflective base, black armored humanoid with intricate mechanical details.\" This marks the first appearance of the figure after the logo sequence.\n\n2.  **Identify the synchronized audio:** We need to look at what audio event happens right at or immediately following this timestamp (5.7s).\n    *   Item 6 (`[ 5.9s - 7.4s ]`) occurs almost simultaneously with the visual appearance of the figure. The description is: `[speech] Male voice (conversational) off-screen, introducing the figure as camera holds static shot`.\n    *   The transcribed speech in item 6 is: \"Hello, YouTubes, it's Grosama, and here I have the high-grade Obsidian Fury from Pacific Rim Uprising.\"\n\n3.  **Evaluate the options:**\n    *   **A. Speaker's self-introduction and figure presentation:** This matches the speech \"Hello, YouTubes, it's Grosama...\" (self-introduction) and \"...here I have the high-grade Obsidian Fury...\" (figure presentation).\n    *   **B. Reference to avoiding plot spoilers:** This occurs later in item 8 (`[ 11.3s - 17.1s ]`) with the speech \"I'm not gonna go into any spoiler territory.\"\n    *   **C. Logo transition sound effect:** This occurs earlier in items 1 and 2 (`[ 0.2s - 5.9s ]`) with the \"Electronic glitch sound\" and \"Sci-fi energy burst,\" synchronized with the black bird logo, not the figure.\n    *   **D. Analysis of combat sequences:** This is discussed later in item 11 (`[ 20.0s - 30.0s ]`) regarding \"two separate battles.\"\n\nConclusion: The audio event synchronized with the moment the Obsidian Fury figure first appears is the speaker introducing himself and presenting the figure.\n\n{\"answer\": \"A\"}"
+    },
+    {
+      "id": "do_5",
+      "benchmark": "dailyomni",
+      "type": "AV Event Alignment",
+      "category": "",
+      "video_id": "rieb8cBb2z8",
+      "question": "What visual detail was present when the audio mentioned discovering a blue tag in the forest?",
+      "choices": [
+        "The man touching fungus while estimating its age",
+        "The man sitting on a log examining fungus",
+        "The man wearing a feathered hat and holding a pendant",
+        "The man wearing a navy jacket and speaking to the camera"
+      ],
+      "answer": "D",
+      "model_answer": "D",
+      "raw_caption": "```\n1. [  0.0s -   2.1s] [speech] Man with beard and hat speaks directly to camera, standing in sun-dappled forest, text appears: “We just are leaving Breitenbush Hot Springs and saw a beautiful” (0.97)\n2. [  0.0s -  16.5s] [visual] Man in blue jacket and brown hat speaks in old growth forest, surrounded by tall trees and green undergrowth, text overlays his narrative\n   <speech lang=en>\"We just are leaving Brighton Bush Hot Springs and saw a beautiful old growth forest and we came in here and then we saw a blue tag basically saying that this entire forest is going to be cut.\"</speech>\n3. [  2.4s -  10.9s] [speech] Man continues speaking, gestures with hand, text updates to “So we’re 200 feet away from the road, beautiful old growth forest, and we’re hiking in here and we find, uh, an old friend” (0.97)\n   <speech lang=en>\"So we're 200 feet away from the road, beautiful old growth forest, and we're hiking in here and we find, uh, an old friend.\"</speech>\n4. [ 11.3s -  16.4s] [speech] Man looks down and begins to sit on a log, text updates to “and we find an old friend” (0.98)\n5. [ 16.5s -  19.2s] [visual] Man seated on log, hand resting on large dark fungus, text: “Fomitopsis officinalis, agarikon, otherwise known as a quinine fungus”\n   <speech lang=en>\"And this is Fummitopsis officinalis, agaricon, otherwise known as a quinine fungus.\"</speech>\n6. [ 17.1s -  19.7s] [speech] Man speaks while seated, hand on fungus, text remains visible (0.96)\n7. [ 19.2s -  20.0s] [visual] Man seated on log, hand on fungus, forest background, text still displayed\n8. [ 20.0s -  21.3s] [visual] Man in hat and dark jacket sits on mossy log, hand resting on large dark fungus, forest backdrop\n9. [ 20.2s -  21.8s] [speech] Male voice (conversational) as man speaks, looking at camera, hand on fungus, <text>Agarikon, otherwise known as a quinine fungus.</text> (0.96)\n10. [ 21.3s -  26.7s] [visual] Man gestures with right hand toward forest floor, explaining plans, fungus visible beside him\n11. [ 22.2s -  28.0s] [speech] Male voice (conversational) as man continues speaking, gesturing widely, <text>This area is going to be totally destroyed here in the next year. It's a perfect opportunity for us to get a another strain into culture.</text> (0.98)\n   <speech lang=en>\"This area is going to be totally destroyed here in the next year.\"</speech>\n   <speech lang=en>\"This is a perfect opportunity for us to get another strain into culture.\"</speech>\n12. [ 26.7s -  30.0s] [visual] Man leans forward, hand touching fungus, examining it closely, forest light filtering through trees\n13. [ 28.4s -  30.0s] [speech] Male voice (conversational) as man looks down at fungus, hand resting on it, <text>This one's probably about 40 or 50 years old.</text> (0.97)\n   <speech lang=en>\"This one's probably about 40 or 50\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -   2.1s] [speech] Man with beard and hat speaks directly to camera, standing in sun-dappled forest, text appears: “We just are leaving Breitenbush Hot Springs and saw a beautiful” (0.97)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.0s -  16.5s] [visual] Man in blue jacket and brown hat speaks in old growth forest, surrounded by tall trees and green undergrowth, text overlays his narrative\n   <speech lang=en>\"We just are leaving Brighton Bush Hot Springs and saw a beautiful old growth forest and we came in here and then we saw a blue tag basically saying that this entire forest is going to be cut.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  2.4s -  10.9s] [speech] Man continues speaking, gestures with hand, text updates to “So we’re 200 feet away from the road, beautiful old growth forest, and we’re hiking in here and we find, uh, an old friend” (0.97)\n   <speech lang=en>\"So we're 200 feet away from the road, beautiful old growth forest, and we're hiking in here and we find, uh, an old friend.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "4. [ 11.3s -  16.4s] [speech] Man looks down and begins to sit on a log, text updates to “and we find an old friend” (0.98)"
+        },
+        {
+          "type": "visual",
+          "content": "5. [ 16.5s -  19.2s] [visual] Man seated on log, hand resting on large dark fungus, text: “Fomitopsis officinalis, agarikon, otherwise known as a quinine fungus”\n   <speech lang=en>\"And this is Fummitopsis officinalis, agaricon, otherwise known as a quinine fungus.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "6. [ 17.1s -  19.7s] [speech] Man speaks while seated, hand on fungus, text remains visible (0.96)"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 19.2s -  20.0s] [visual] Man seated on log, hand on fungus, forest background, text still displayed"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 20.0s -  21.3s] [visual] Man in hat and dark jacket sits on mossy log, hand resting on large dark fungus, forest backdrop"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 20.2s -  21.8s] [speech] Male voice (conversational) as man speaks, looking at camera, hand on fungus, <text>Agarikon, otherwise known as a quinine fungus.</text> (0.96)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 21.3s -  26.7s] [visual] Man gestures with right hand toward forest floor, explaining plans, fungus visible beside him"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 22.2s -  28.0s] [speech] Male voice (conversational) as man continues speaking, gesturing widely, <text>This area is going to be totally destroyed here in the next year. It's a perfect opportunity for us to get a another strain into culture.</text> (0.98)\n   <speech lang=en>\"This area is going to be totally destroyed here in the next year.\"</speech>\n   <speech lang=en>\"This is a perfect opportunity for us to get another strain into culture.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 26.7s -  30.0s] [visual] Man leans forward, hand touching fungus, examining it closely, forest light filtering through trees"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 28.4s -  30.0s] [speech] Male voice (conversational) as man looks down at fungus, hand resting on it, <text>This one's probably about 40 or 50 years old.</text> (0.97)\n   <speech lang=en>\"This one's probably about 40 or 50\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the provided audio-visual caption, here is the step-by-step reasoning:\n\n1.  **Locate the Audio:** I need to find the specific speech segment mentioning \"discovering a blue tag.\"\n    *   Looking at **Shot 2** (timestamp 0.0s - 16.5s), the speech transcription is: *\"We just are leaving Brighton Bush Hot Springs and saw a beautiful old growth forest and we came in here and then we saw a **blue tag** basically saying that this entire forest is going to be cut.\"*\n\n2.  **Identify the Corresponding Visual:** I need to see what is described visually during this specific timestamp range (0.0s - 16.5s).\n    *   **Shot 2** describes the visual as: *\"Man in blue jacket and brown hat speaks in old growth forest, surrounded by tall trees and green undergrowth, text overlays his narrative.\"*\n    *   **Shot 1** (0.0s - 2.1s) also describes: *\"Man with beard and hat speaks directly to camera, standing in sun-dappled forest...\"*\n\n3.  **Evaluate the Options:**\n    *   A. *The man touching fungus while estimating its age* - This happens later, around Shot 12/13 (26.7s - 30.0s).\n    *   B. *The man sitting on a log examining fungus* - This happens later, starting around Shot 5 (16.5s onwards).\n    *   C. *The man wearing a feathered hat and holding a pendant* - The caption mentions a hat, but does not mention feathers or a pendant.\n    *   D. *The man wearing a navy jacket and speaking to the camera* - The visual description in Shot 2 explicitly mentions a \"Man in blue jacket\" speaking. While the exact shade (navy vs blue) might be a slight variation in description, the core action (speaking to the camera/narrating) and the clothing item (jacket) align perfectly with the scene where the speech occurs.\n\n4.  **Conclusion:** The visual accompanying the speech about the blue tag is the man standing in the forest, wearing a blue jacket (often described as navy in common parlance or similar options), speaking to the camera.\n\n{\"answer\": \"D\"}"
+    },
+    {
+      "id": "do_6",
+      "benchmark": "dailyomni",
+      "type": "AV Event Alignment",
+      "category": "",
+      "video_id": "Me4W36_lUcI",
+      "question": "Which audio statement occurred during the panoramic view of Earth with an orbiting satellite?",
+      "choices": [
+        "'All right Vegas, we're ready for procedure initiation'",
+        "'Loop Bravo venting operations remain pending'",
+        "'Loop Bravo integrity remains unchanged with persistent leaks'",
+        "'Maintaining gradual system shutdown protocol'"
+      ],
+      "answer": "D",
+      "model_answer": "D",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [background] Radio chatter with static fills the scene as office workers and space station visuals alternate (0.99)\n2. [  0.5s -  13.1s] [visual] Office with employees at cubicles, some standing, others seated, working on computers under bright lighting\n3. [  0.6s -   0.7s] [misc] Pop artifact disrupts audio briefly as office workers remain focused on tasks (0.67)\n4. [  0.9s -   2.3s] [speech] Male voice (formal) speaks as office workers continue tasks, some turning toward colleagues (0.91)\n   <speech lang=en>\"All right, Vegas, we're ready.\"</speech>\n   <speech lang=en>\"Go ahead.\"</speech>\n5. [  3.6s -  16.4s] [speech] Male voice (formal) continues discussing technical procedures as space station appears in orbit with Earth below (0.94)\n   <speech lang=en>\"Hey, Butch, uh, no change to the stuff that I told you about earlier with the, uh, Loop Bravo and, uh, LTL loops and the leak and all that stuff that we talked about before.\"</speech>\n   <speech lang=en>\"We're still doing a graceful power down.\"</speech>\n6. [ 13.1s -  17.2s] [visual] Space station with solar panels extended orbits Earth, blue planet visible in background\n   <speech lang=en>\"Uh, there are several things that we've decided not to power down we're hanging on to.\"</speech>\n7. [ 16.8s -  19.3s] [speech] Male voice (formal) speaks as office returns to view, employees still engaged at desks (0.92)\n   <speech lang=en>\"We have also still not vented Loop Bravo, which of course is a step that you can't take back.\"</speech>\n8. [ 17.2s -  20.0s] [visual] Office scene resumes with workers at cubicles, some adjusting chairs, others typing\n9. [ 20.0s -  21.5s] [speech] Male voice narrates over wide office scene, employees typing at cubicles under fluorescent lights (0.82)\n10. [ 20.0s -  30.0s] [visual] Busy office with rows of cubicles, workers seated or standing, some using laptops, others conversing quietly\n11. [ 22.0s -  26.0s] [speech] Male voice continues narration as man in white shirt leans forward at desk, another stands near cubicle (0.92)\n   <speech lang=en>\"So big picture perspective, we're still trying to figure out exactly, uh, what happened.\"</speech>\n12. [ 26.5s -  30.0s] [speech] Male voice hesitates, speaking softly over office scene where employees remain focused on tasks (0.92)\n   <speech lang=en>\"Um, we're not entirely convinced, uh, that this is, uh,\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [background] Radio chatter with static fills the scene as office workers and space station visuals alternate (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.5s -  13.1s] [visual] Office with employees at cubicles, some standing, others seated, working on computers under bright lighting"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  0.6s -   0.7s] [misc] Pop artifact disrupts audio briefly as office workers remain focused on tasks (0.67)"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  0.9s -   2.3s] [speech] Male voice (formal) speaks as office workers continue tasks, some turning toward colleagues (0.91)\n   <speech lang=en>\"All right, Vegas, we're ready.\"</speech>\n   <speech lang=en>\"Go ahead.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  3.6s -  16.4s] [speech] Male voice (formal) continues discussing technical procedures as space station appears in orbit with Earth below (0.94)\n   <speech lang=en>\"Hey, Butch, uh, no change to the stuff that I told you about earlier with the, uh, Loop Bravo and, uh, LTL loops and the leak and all that stuff that we talked about before.\"</speech>\n   <speech lang=en>\"We're still doing a graceful power down.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "6. [ 13.1s -  17.2s] [visual] Space station with solar panels extended orbits Earth, blue planet visible in background\n   <speech lang=en>\"Uh, there are several things that we've decided not to power down we're hanging on to.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 16.8s -  19.3s] [speech] Male voice (formal) speaks as office returns to view, employees still engaged at desks (0.92)\n   <speech lang=en>\"We have also still not vented Loop Bravo, which of course is a step that you can't take back.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 17.2s -  20.0s] [visual] Office scene resumes with workers at cubicles, some adjusting chairs, others typing"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 20.0s -  21.5s] [speech] Male voice narrates over wide office scene, employees typing at cubicles under fluorescent lights (0.82)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 20.0s -  30.0s] [visual] Busy office with rows of cubicles, workers seated or standing, some using laptops, others conversing quietly"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 22.0s -  26.0s] [speech] Male voice continues narration as man in white shirt leans forward at desk, another stands near cubicle (0.92)\n   <speech lang=en>\"So big picture perspective, we're still trying to figure out exactly, uh, what happened.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 26.5s -  30.0s] [speech] Male voice hesitates, speaking softly over office scene where employees remain focused on tasks (0.92)\n   <speech lang=en>\"Um, we're not entirely convinced, uh, that this is, uh,\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the provided audio-visual caption, here is the step-by-step reasoning:\n\n1.  **Identify the Visual Scene:** The question asks about audio occurring during the \"panoramic view of Earth with an orbiting satellite.\"\n    *   Looking at the caption, **Shot 6 [13.1s - 17.2s]** describes: \"[visual] Space station with solar panels extended orbits Earth, blue planet visible in background\". This matches the description in the question.\n    *   **Shot 5 [3.6s - 16.4s]** also notes: \"space station appears in orbit with Earth below\".\n\n2.  **Identify the Audio during that timeframe:**\n    *   **Shot 5 [3.6s - 16.4s]** contains the speech: *\"Hey, Butch, uh, no change to the stuff that I told you about earlier with the, uh, Loop Bravo and, uh, LTL loops and the leak and all that stuff that we talked about before.\"* and *\"We're still doing a graceful power down.\"*\n    *   **Shot 6 [13.1s - 17.2s]** (which is the specific visual cut of the space station) overlaps with the end of the previous speech and continues with: *\"Uh, there are several things that we've decided not to power down we're hanging on to.\"*\n\n3.  **Compare with Options:**\n    *   **Option A:** \"All right Vegas, we're ready for procedure initiation\" - This corresponds to Shot 4 (\"All right, Vegas, we're ready\"), which occurs at [0.9s - 2.3s] during the office visual.\n    *   **Option B:** \"Loop Bravo venting operations remain pending\" - This is close to the content in Shot 7 (\"We have also still not vented Loop Bravo...\"), but Shot 7 occurs at [16.8s - 19.3s] when the visual has switched back to the office (Shot 8 starts at 17.2s).\n    *   **Option C:** \"Loop Bravo integrity remains unchanged with persistent leaks\" - This summarizes the speech in Shot 5: *\"no change to the stuff... with the, uh, Loop Bravo... and the leak...\"*. This speech occurs directly over the space station visual described in Shot 5.\n    *   **Option D:** \"Maintaining gradual system shutdown protocol\" - This is a paraphrase of *\"We're still doing a graceful power down\"* found in Shot 5.\n\n4.  **Select the Best Fit:**\n    *   The speech in Shot 5 explicitly mentions \"no change... with Loop Bravo... and the leak\".\n    *   Option C (\"Loop Bravo integrity remains unchanged with persistent leaks\") is a very close paraphrase of the raw transcript: *\"no change to the stuff... with the... Loop Bravo... and the leak\"*.\n    *   This speech segment [3.6s - 16.4s] covers the majority of the time the space station is visible.\n\nTherefore, the statement regarding Loop Bravo and the leak corresponds to the visual of the satellite/Earth.\n\n{\"answer\": \"C\"}"
+    },
+    {
+      "id": "do_7",
+      "benchmark": "dailyomni",
+      "type": "Inference",
+      "category": "Sports",
+      "video_id": "G_VTkkb34gw",
+      "question": "What is the primary purpose of the white car maneuvering through the water-filled obstacle course with orange cones?",
+      "choices": [
+        "Testing acceleration performance on wet surfaces",
+        "Conducting routine vehicle safety inspections",
+        "Demonstrating vehicle water resistance capabilities",
+        "Simulating emergency response driving scenarios"
+      ],
+      "answer": "D",
+      "model_answer": "D",
+      "raw_caption": "```\n1. [  0.7s -  20.0s] [music] Aggressive guitar riffs and pounding drums swell as officers train in dimly lit, high-intensity scenarios (0.99)\n2. [  0.7s -   2.9s] [sfx] Fast car passing by as police officers walk along a suburban path, uniforms crisp under sunlight (0.55)\n3. [  0.9s -   2.2s] [visual] Two officers in dark uniforms walk side by side on a paved path, backs to camera, green hedges lining the route\n4. [  2.2s -   3.3s] [visual] Three officers in uniform sit around a table, laughing, laptops open, in a bright office with bookshelves and posters\n5. [  3.3s -   4.3s] [visual] Close-up of an officer’s back, wearing a black vest with \"POLICE\" and \"QPS\" on the collar, standing in an outdoor training area\n6. [  4.0s -   5.6s] [sfx] Fast car passing by as officers stand in formation under a covered area, facing forward in disciplined rows (0.44)\n7. [  4.3s -   5.8s] [visual] Officers in uniform stand in formation on a concrete area, some holding gear, under a covered structure\n8. [  7.3s -   8.9s] [sfx] Fast car passing by as a man in a light blue shirt and dark pants sprints across a paved training ground (0.45)\n9. [  7.5s -   9.2s] [visual] Officer in dark uniform runs across a concrete training field, buildings and trees in the background under clear sky\n10. [  9.6s -  11.1s] [sfx] Distant gunfire in battle as officers fire handguns at targets in an indoor shooting range, targets marked with silhouettes (0.98)\n11. [ 10.9s -  13.3s] [visual] Two officers in a patrol car, one driving, the other holding a flashlight, watching a white car ahead on a rural road\n12. [ 11.0s -  12.6s] [sfx] Fast car passing by as officers in a patrol car observe a white vehicle ahead on a tree-lined road (0.78)\n13. [ 11.0s -  11.2s] [sfx] Electronic alert tone as officers in patrol car focus on the road ahead, dashboard lights glowing (0.44)\n14. [ 12.5s -  20.0s] [background] Crowd noise in a stadium as officers train in a padded room, one applying pressure to a mannequin’s arm (0.94)\n15. [ 12.5s -  12.8s] [sfx] Electronic alert tone as a man in a helmet practices restraint on a mannequin in a padded training room (0.61)\n16. [ 13.3s -  15.4s] [visual] Officer in helmet applies arm pressure to a mannequin lying on a padded surface, practicing restraint techniques\n17. [ 15.4s -  17.0s] [visual] Officer stretches arms overhead under a clear blue sky, then runs along a sidewalk near a white building\n18. [ 19.5s -  20.0s] [visual] Officer in dark uniform moves in dim blue light, \"POLICE\" visible on back, in a low-light training environment\n19. [ 20.0s -  30.0s] [background] Aggressive guitar riffs and pounding drums play as a person in protective gear trains in a dark room (0.86)\n20. [ 20.0s -  30.0s] [music] Car engine revving as a police car maneuvers on a driving course with cones and barriers (0.99)\n21. [ 20.0s -  30.0s] [sfx] Crowd noise is mislabeled—no crowd visible; instead, officers train in various physical scenarios (0.94)\n22. [ 20.0s -  20.8s] [visual] Person in protective gear and helmet in a dark room, possibly practicing restraint or combat techniques\n23. [ 20.8s -  25.9s] [sfx] Car door opens and closes as two officers approach and interact with a gray sedan on a driving course (0.55)\n24. [ 20.8s -  22.4s] [visual] Two police officers in uniform running toward a parked sedan on a paved training area\n25. [ 22.4s -  23.7s] [visual] Trainer pours water over a woman’s head as part of a physical or decontamination drill\n26. [ 23.7s -  25.2s] [visual] Silver sedan drives along a paved course marked with cones and barriers, surrounded by green hills\n27. [ 23.8s -  25.6s] [sfx] Car engine starting and idling as the sedan moves through the driving course (0.82)\n28. [ 25.4s -  26.9s] [visual] Man swings a baton at a padded shield held by another man, supervised by an officer\n29. [ 25.6s -  26.2s] [sfx] Metal door closing is mislabeled—no door closing; instead, baton strikes pad with impact sound (0.81)\n   <speech lang=en>\"Thank you.\"</speech>\n30. [ 25.9s -  28.2s] [sfx] Female voice yelling in anger is mislabeled—no yelling; two women perform medical simulation on mannequin (0.86)\n31. [ 26.9s -  28.4s] [visual] Two women in casual clothes treat a mannequin on the ground, one applying a bandage, supervised by officers\n32. [ 28.4s -  29.8s] [visual] White car drives through a wet driving course with cones, splashing water as it turns\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.7s -  20.0s] [music] Aggressive guitar riffs and pounding drums swell as officers train in dimly lit, high-intensity scenarios (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.7s -   2.9s] [sfx] Fast car passing by as police officers walk along a suburban path, uniforms crisp under sunlight (0.55)"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  0.9s -   2.2s] [visual] Two officers in dark uniforms walk side by side on a paved path, backs to camera, green hedges lining the route"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  2.2s -   3.3s] [visual] Three officers in uniform sit around a table, laughing, laptops open, in a bright office with bookshelves and posters"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  3.3s -   4.3s] [visual] Close-up of an officer’s back, wearing a black vest with \"POLICE\" and \"QPS\" on the collar, standing in an outdoor training area"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  4.0s -   5.6s] [sfx] Fast car passing by as officers stand in formation under a covered area, facing forward in disciplined rows (0.44)"
+        },
+        {
+          "type": "visual",
+          "content": "7. [  4.3s -   5.8s] [visual] Officers in uniform stand in formation on a concrete area, some holding gear, under a covered structure"
+        },
+        {
+          "type": "visual",
+          "content": "8. [  7.3s -   8.9s] [sfx] Fast car passing by as a man in a light blue shirt and dark pants sprints across a paved training ground (0.45)"
+        },
+        {
+          "type": "visual",
+          "content": "9. [  7.5s -   9.2s] [visual] Officer in dark uniform runs across a concrete training field, buildings and trees in the background under clear sky"
+        },
+        {
+          "type": "visual",
+          "content": "10. [  9.6s -  11.1s] [sfx] Distant gunfire in battle as officers fire handguns at targets in an indoor shooting range, targets marked with silhouettes (0.98)"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 10.9s -  13.3s] [visual] Two officers in a patrol car, one driving, the other holding a flashlight, watching a white car ahead on a rural road"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 11.0s -  12.6s] [sfx] Fast car passing by as officers in a patrol car observe a white vehicle ahead on a tree-lined road (0.78)"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 11.0s -  11.2s] [sfx] Electronic alert tone as officers in patrol car focus on the road ahead, dashboard lights glowing (0.44)"
+        },
+        {
+          "type": "visual",
+          "content": "14. [ 12.5s -  20.0s] [background] Crowd noise in a stadium as officers train in a padded room, one applying pressure to a mannequin’s arm (0.94)"
+        },
+        {
+          "type": "visual",
+          "content": "15. [ 12.5s -  12.8s] [sfx] Electronic alert tone as a man in a helmet practices restraint on a mannequin in a padded training room (0.61)"
+        },
+        {
+          "type": "visual",
+          "content": "16. [ 13.3s -  15.4s] [visual] Officer in helmet applies arm pressure to a mannequin lying on a padded surface, practicing restraint techniques"
+        },
+        {
+          "type": "visual",
+          "content": "17. [ 15.4s -  17.0s] [visual] Officer stretches arms overhead under a clear blue sky, then runs along a sidewalk near a white building"
+        },
+        {
+          "type": "visual",
+          "content": "18. [ 19.5s -  20.0s] [visual] Officer in dark uniform moves in dim blue light, \"POLICE\" visible on back, in a low-light training environment"
+        },
+        {
+          "type": "visual",
+          "content": "19. [ 20.0s -  30.0s] [background] Aggressive guitar riffs and pounding drums play as a person in protective gear trains in a dark room (0.86)"
+        },
+        {
+          "type": "visual",
+          "content": "20. [ 20.0s -  30.0s] [music] Car engine revving as a police car maneuvers on a driving course with cones and barriers (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "21. [ 20.0s -  30.0s] [sfx] Crowd noise is mislabeled—no crowd visible; instead, officers train in various physical scenarios (0.94)"
+        },
+        {
+          "type": "visual",
+          "content": "22. [ 20.0s -  20.8s] [visual] Person in protective gear and helmet in a dark room, possibly practicing restraint or combat techniques"
+        },
+        {
+          "type": "visual",
+          "content": "23. [ 20.8s -  25.9s] [sfx] Car door opens and closes as two officers approach and interact with a gray sedan on a driving course (0.55)"
+        },
+        {
+          "type": "visual",
+          "content": "24. [ 20.8s -  22.4s] [visual] Two police officers in uniform running toward a parked sedan on a paved training area"
+        },
+        {
+          "type": "visual",
+          "content": "25. [ 22.4s -  23.7s] [visual] Trainer pours water over a woman’s head as part of a physical or decontamination drill"
+        },
+        {
+          "type": "visual",
+          "content": "26. [ 23.7s -  25.2s] [visual] Silver sedan drives along a paved course marked with cones and barriers, surrounded by green hills"
+        },
+        {
+          "type": "visual",
+          "content": "27. [ 23.8s -  25.6s] [sfx] Car engine starting and idling as the sedan moves through the driving course (0.82)"
+        },
+        {
+          "type": "visual",
+          "content": "28. [ 25.4s -  26.9s] [visual] Man swings a baton at a padded shield held by another man, supervised by an officer"
+        },
+        {
+          "type": "visual",
+          "content": "29. [ 25.6s -  26.2s] [sfx] Metal door closing is mislabeled—no door closing; instead, baton strikes pad with impact sound (0.81)\n   <speech lang=en>\"Thank you.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "30. [ 25.9s -  28.2s] [sfx] Female voice yelling in anger is mislabeled—no yelling; two women perform medical simulation on mannequin (0.86)"
+        },
+        {
+          "type": "visual",
+          "content": "31. [ 26.9s -  28.4s] [visual] Two women in casual clothes treat a mannequin on the ground, one applying a bandage, supervised by officers"
+        },
+        {
+          "type": "visual",
+          "content": "32. [ 28.4s -  29.8s] [visual] White car drives through a wet driving course with cones, splashing water as it turns"
+        }
+      ],
+      "model_reasoning": "Based on the audio-visual caption, the video focuses entirely on police training exercises (shooting range, physical restraint, medical simulations, etc.).\n\nSpecifically, at timestamp **[28.4s - 29.8s]**, the caption describes: \"**White car drives through a wet driving course with cones, splashing water as it turns**.\"\n\nIn the context of a police training montage, maneuvering a vehicle through a wet obstacle course is a standard part of driver training (often called skid pan training). The goal is to teach officers how to control the vehicle in adverse conditions they might face while on duty. This aligns best with simulating emergency response driving scenarios rather than testing the car's mechanical performance or water resistance.\n\nTherefore, the correct answer is:\n\n{\"answer\": \"D\"}"
+    },
+    {
+      "id": "do_8",
+      "benchmark": "dailyomni",
+      "type": "Inference",
+      "category": "Education",
+      "video_id": "Z0JDTBGh4D8",
+      "question": "What is the purpose of the hand pointing to the doorbell in the demonstration?",
+      "choices": [
+        "To demonstrate wireless connectivity",
+        "To show the doorbell meets voltage specifications",
+        "To indicate completion of physical mounting",
+        "To explain post-installation functionality"
+      ],
+      "answer": "D",
+      "model_answer": "D",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [visual] White background with animated text and graphics for Ring Video Doorbell installation tutorial\n2. [  0.2s -  20.0s] [music] Female voice (formal) speaks over clean, minimalist white screen with text animations (0.96)\n3. [  0.4s -   7.5s] [speech] Female voice (formal) speaks as Ring logo, \"Video Tutorials\" text, and product image appear (0.93)\n   <speech lang=en>\"This video shows you how to install Ring Video Doorbell 3 or 3 Plus if you want to wire it to your existing doorbell system.\"</speech>\n4. [  8.5s -  14.7s] [speech] Female voice (formal) continues as \"Doorbell Transformer Requirements\" and \"8-24 VAC at 50/60 Hz\" appear (0.90)\n   <speech lang=en>\"To be compatible, your doorbell transformer must supply 8 to 24 volts AC at 50 or 60 hertz with a maximum power rating of 40 volt amps.\"</speech>\n5. [ 15.1s -  17.6s] [speech] Female voice (formal) speaks as second bullet point \"40 VA Maximum Power Rating\" appears (0.93)\n6. [ 18.3s -  20.0s] [speech] Female voice (formal) concludes as both bullet points remain visible before fade-out (0.89)\n   <speech lang=en>\"If your transformer doesn't meet these specs, you can install a Ring hardwired transformer kit or install your video doorbell wirelessly.\"</speech>\n7. [ 20.0s -  22.9s] [speech] Female voice (formal) speaks over white background showing gray Ring Hardwired Transformer Kit with <text>Ring Hardwired Transformer Kit</text> (0.91)\n8. [ 20.0s -  30.0s] [music] Calm instrumental with warm tones plays as product image transitions to real-world doorbell installation (0.91)\n9. [ 20.0s -  26.7s] [visual] Gray rectangular transformer with mounting flanges and labeled terminals on white background with <text>Ring Hardwired Transformer Kit</text>\n10. [ 23.4s -  25.3s] [speech] Female voice (formal) continues over static image of Ring Hardwired Transformer Kit on white background (0.91)\n11. [ 26.5s -  27.7s] [speech] Female voice (formal) speaks as scene transitions to Ring video doorbell on light blue textured wall beside white door (0.88)\n   <speech lang=en>\"When you install this way, your internal doorbell will ring when someone\"</speech>\n12. [ 26.7s -  30.0s] [visual] Silver Ring video doorbell with black top section mounted on wall; hand enters frame and presses circular button\n13. [ 27.9s -  30.0s] [speech] Female voice (formal) continues as hand presses doorbell button on silver Ring doorbell mounted on exterior wall (0.94)\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [visual] White background with animated text and graphics for Ring Video Doorbell installation tutorial"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.2s -  20.0s] [music] Female voice (formal) speaks over clean, minimalist white screen with text animations (0.96)"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  0.4s -   7.5s] [speech] Female voice (formal) speaks as Ring logo, \"Video Tutorials\" text, and product image appear (0.93)\n   <speech lang=en>\"This video shows you how to install Ring Video Doorbell 3 or 3 Plus if you want to wire it to your existing doorbell system.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  8.5s -  14.7s] [speech] Female voice (formal) continues as \"Doorbell Transformer Requirements\" and \"8-24 VAC at 50/60 Hz\" appear (0.90)\n   <speech lang=en>\"To be compatible, your doorbell transformer must supply 8 to 24 volts AC at 50 or 60 hertz with a maximum power rating of 40 volt amps.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "5. [ 15.1s -  17.6s] [speech] Female voice (formal) speaks as second bullet point \"40 VA Maximum Power Rating\" appears (0.93)"
+        },
+        {
+          "type": "visual",
+          "content": "6. [ 18.3s -  20.0s] [speech] Female voice (formal) concludes as both bullet points remain visible before fade-out (0.89)\n   <speech lang=en>\"If your transformer doesn't meet these specs, you can install a Ring hardwired transformer kit or install your video doorbell wirelessly.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 20.0s -  22.9s] [speech] Female voice (formal) speaks over white background showing gray Ring Hardwired Transformer Kit with <text>Ring Hardwired Transformer Kit</text> (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 20.0s -  30.0s] [music] Calm instrumental with warm tones plays as product image transitions to real-world doorbell installation (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 20.0s -  26.7s] [visual] Gray rectangular transformer with mounting flanges and labeled terminals on white background with <text>Ring Hardwired Transformer Kit</text>"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 23.4s -  25.3s] [speech] Female voice (formal) continues over static image of Ring Hardwired Transformer Kit on white background (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 26.5s -  27.7s] [speech] Female voice (formal) speaks as scene transitions to Ring video doorbell on light blue textured wall beside white door (0.88)\n   <speech lang=en>\"When you install this way, your internal doorbell will ring when someone\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 26.7s -  30.0s] [visual] Silver Ring video doorbell with black top section mounted on wall; hand enters frame and presses circular button"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 27.9s -  30.0s] [speech] Female voice (formal) continues as hand presses doorbell button on silver Ring doorbell mounted on exterior wall (0.94)"
+        }
+      ],
+      "model_reasoning": "Based on the provided audio-visual caption, here is the step-by-step reasoning:\n\n1.  **Identify the relevant visual event:** The caption mentions a hand interacting with the doorbell in shot 12: `[ 26.7s -  30.0s] [visual] Silver Ring video doorbell with black top section mounted on wall; hand enters frame and presses circular button`. Note that while the question says \"pointing,\" the description says \"presses circular button,\" which is the closest interaction described.\n\n2.  **Analyze the accompanying speech:** During this visual event (shots 11 and 13, covering 26.5s to 30.0s), the narrator says: `\"When you install this way, your internal doorbell will ring when someone...\"` (shot 11) and continues speaking as the hand presses the button (shot 13).\n\n3.  **Synthesize the information:** The narrator is explaining what happens *after* installation (\"When you install this way...\"). Specifically, she is describing the function of the internal doorbell ringing when the button is pressed. The hand pressing the button visually demonstrates this functionality.\n\n4.  **Evaluate the options:**\n    *   **A. To demonstrate wireless connectivity:** The video discusses wiring to an existing system (shot 3) and hardwired transformers (shot 6, 7). The context is about hardwired installation, not wireless.\n    *   **B. To show the doorbell meets voltage specifications:** Voltage specs are discussed earlier (shots 4-6) with text graphics, not a physical demonstration of the button.\n    *   **C. To indicate completion of physical mounting:** While the doorbell is mounted, the specific action of pressing the button while the narrator talks about the internal doorbell ringing points to function, not just the fact that it is mounted.\n    *   **D. To explain post-installation functionality:** The narrator explains that the internal doorbell will ring (functionality) when installed this way. The hand pressing the button demonstrates this action. This aligns perfectly with the speech.\n\nTherefore, the purpose is to show what happens after installation (the doorbell ringing).\n\n{\"answer\": \"D\"}"
+    },
+    {
+      "id": "do_9",
+      "benchmark": "dailyomni",
+      "type": "Reasoning",
+      "category": "Education",
+      "video_id": "d6b4OmUFt7I",
+      "question": "What immediate task required Sara to review documents in the office before equipment operation?",
+      "choices": [
+        "To analyze soil composition charts",
+        "To finalize her course payment details",
+        "To prepare safety checklists for machinery",
+        "To complete classroom requirements stated in the audio"
+      ],
+      "answer": "D",
+      "model_answer": "D",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [background] Low-frequency ambient sound of machinery and wind at a construction training site (0.91)\n2. [  0.7s -   1.9s] [visual] Close-up of a white sign reading \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" with logos for SICA and Velocity Training Inc.\n3. [  1.8s -  11.6s] [speech] Female voice (clear, confident) as Sara Paynton speaks on-screen, wearing an orange safety vest with trees and heavy equipment in the background (0.93)\n   <speech lang=en>\"We're in West Bank, B.C.\"</speech>\n4. [  1.9s -   4.9s] [visual] Wide shot of a cleared training field with logs in foreground, excavators, a trailer, and snow-capped mountains in the distance\n   <speech lang=en>\"in the heart of the reserve and I'm part of this heavy equipment operators course and yeah, I'm loving it.\"</speech>\n5. [  4.9s -   9.5s] [visual] Pan across the training site showing multiple pieces of heavy equipment, tire tracks in dirt, and a red water tank near the center\n6. [  9.5s -  15.2s] [visual] Sara Paynton stands outdoors in safety gear, speaking to camera with excavator and trees behind her, text overlay identifying her as \"SARA PAYNTON | SICA/VELOCITY CLIENT\"\n   <speech lang=en>\"I've been with Emil Anderson for about a year but my whole life growing up I was exposed to it a lot.\"</speech>\n7. [ 12.1s -  16.7s] [speech] Female voice (calm, reflective) as Sara continues speaking, with background machinery faintly audible (0.89)\n8. [ 15.2s -  19.0s] [visual] Wide shot of the training site with multiple excavators, a trailer, and a red water tank, tire tracks crisscrossing the dirt field\n   <speech lang=en>\"My dad always showed me all the equipment.\"</speech>\n9. [ 17.0s -  20.0s] [speech] Female voice (steady, informative) as Sara describes the training schedule, with background sounds of distant machinery (0.89)\n10. [ 19.0s -  20.0s] [visual] Indoor classroom scene, Sara seated at a table flipping through a binder, papers and a bulletin board visible in the background\n   <speech lang=en>\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"</speech>\n11. [ 20.0s -  20.7s] [speech] Woman in gray sweater speaks softly, eyes focused on binder at desk (0.83)\n12. [ 20.0s -  20.9s] [visual] Woman sits at desk, flipping through \"PARTICIPANT GUIDE\" binder, papers scattered around\n13. [ 20.1s -  30.0s] [music] Calm, reflective strings swell as camera cuts to construction site with heavy machinery (0.84)\n14. [ 20.9s -  22.3s] [visual] Hand flips pages in binder, revealing tabbed sections and printed text\n15. [ 21.1s -  25.4s] [speech] Female voice (conversational) as yellow CAT excavator digs into dark soil (0.83)\n16. [ 22.9s -  25.9s] [visual] Excavator arm lifts dirt, dump truck approaches on muddy terrain\n17. [ 25.6s -  29.9s] [speech] Female voice (conversational) as dump truck moves past, bulldozer pushes dirt (0.91)\n   <speech lang=en>\"When you leave here at the end of the day you know you're more familiar with the machines and\"</speech>\n18. [ 25.9s -  28.8s] [visual] Yellow dump truck drives through muddy site, passing excavator\n19. [ 28.8s -  30.0s] [visual] Bulldozer pushes earth across dry field, smoke trailing from exhaust\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [background] Low-frequency ambient sound of machinery and wind at a construction training site (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.7s -   1.9s] [visual] Close-up of a white sign reading \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" with logos for SICA and Velocity Training Inc."
+        },
+        {
+          "type": "visual",
+          "content": "3. [  1.8s -  11.6s] [speech] Female voice (clear, confident) as Sara Paynton speaks on-screen, wearing an orange safety vest with trees and heavy equipment in the background (0.93)\n   <speech lang=en>\"We're in West Bank, B.C.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  1.9s -   4.9s] [visual] Wide shot of a cleared training field with logs in foreground, excavators, a trailer, and snow-capped mountains in the distance\n   <speech lang=en>\"in the heart of the reserve and I'm part of this heavy equipment operators course and yeah, I'm loving it.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  4.9s -   9.5s] [visual] Pan across the training site showing multiple pieces of heavy equipment, tire tracks in dirt, and a red water tank near the center"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  9.5s -  15.2s] [visual] Sara Paynton stands outdoors in safety gear, speaking to camera with excavator and trees behind her, text overlay identifying her as \"SARA PAYNTON | SICA/VELOCITY CLIENT\"\n   <speech lang=en>\"I've been with Emil Anderson for about a year but my whole life growing up I was exposed to it a lot.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 12.1s -  16.7s] [speech] Female voice (calm, reflective) as Sara continues speaking, with background machinery faintly audible (0.89)"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 15.2s -  19.0s] [visual] Wide shot of the training site with multiple excavators, a trailer, and a red water tank, tire tracks crisscrossing the dirt field\n   <speech lang=en>\"My dad always showed me all the equipment.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 17.0s -  20.0s] [speech] Female voice (steady, informative) as Sara describes the training schedule, with background sounds of distant machinery (0.89)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 19.0s -  20.0s] [visual] Indoor classroom scene, Sara seated at a table flipping through a binder, papers and a bulletin board visible in the background\n   <speech lang=en>\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 20.0s -  20.7s] [speech] Woman in gray sweater speaks softly, eyes focused on binder at desk (0.83)"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 20.0s -  20.9s] [visual] Woman sits at desk, flipping through \"PARTICIPANT GUIDE\" binder, papers scattered around"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 20.1s -  30.0s] [music] Calm, reflective strings swell as camera cuts to construction site with heavy machinery (0.84)"
+        },
+        {
+          "type": "visual",
+          "content": "14. [ 20.9s -  22.3s] [visual] Hand flips pages in binder, revealing tabbed sections and printed text"
+        },
+        {
+          "type": "visual",
+          "content": "15. [ 21.1s -  25.4s] [speech] Female voice (conversational) as yellow CAT excavator digs into dark soil (0.83)"
+        },
+        {
+          "type": "visual",
+          "content": "16. [ 22.9s -  25.9s] [visual] Excavator arm lifts dirt, dump truck approaches on muddy terrain"
+        },
+        {
+          "type": "visual",
+          "content": "17. [ 25.6s -  29.9s] [speech] Female voice (conversational) as dump truck moves past, bulldozer pushes dirt (0.91)\n   <speech lang=en>\"When you leave here at the end of the day you know you're more familiar with the machines and\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "18. [ 25.9s -  28.8s] [visual] Yellow dump truck drives through muddy site, passing excavator"
+        },
+        {
+          "type": "visual",
+          "content": "19. [ 28.8s -  30.0s] [visual] Bulldozer pushes earth across dry field, smoke trailing from exhaust"
+        }
+      ],
+      "model_reasoning": "Based on the provided audio-visual caption, here is the step-by-step reasoning:\n\n1.  **Locate the relevant scene:** The caption describes an indoor scene starting at **timestamp 19.0s**. Shot 10 describes an \"Indoor classroom scene, Sara seated at a table flipping through a binder.\" Shot 12 and 14 confirm this visual of her flipping through a \"PARTICIPANT GUIDE\" binder.\n2.  **Analyze the audio/speech:** During this scene (Shot 10), Sara says: *\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"*\n3.  **Connect the task to the audio:** Sara explicitly mentions getting \"class time\" and going \"through all that\" (referring to the documents/binder) *before* they \"get to go on the equipment.\"\n4.  **Evaluate the options:**\n    *   Option A (soil composition) is not mentioned.\n    *   Option B (payment details) is not mentioned.\n    *   Option C (safety checklists) is a plausible guess for construction, but the audio specifically frames it as general \"class time\" to \"go through all that\" rather than a specific safety checklist task.\n    *   Option D (complete classroom requirements) directly aligns with her statement: \"We get our class time, go through all that...\" The task she is performing with the documents is part of the \"class time\" requirement that precedes the equipment operation.\n\nTherefore, the review of documents corresponds to the classroom portion of her training.\n\n{\"answer\": \"D\"}"
+    },
+    {
+      "id": "do_10",
+      "benchmark": "dailyomni",
+      "type": "Reasoning",
+      "category": "Entertainment",
+      "video_id": "gPpJoyPjiPw",
+      "question": "What specific action at the supermarket provoked the woman's confrontation?",
+      "choices": [
+        "The man publicly embraced another woman",
+        "The man forgot to pay for their groceries",
+        "The man argued loudly with a cashier",
+        "The man criticized her shopping choices"
+      ],
+      "answer": "A",
+      "model_answer": "A",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [background] Dimly lit living room with plants, framed art, and leather couch, ambient sounds of quiet activity (0.92)\n2. [  0.0s -  20.0s] [visual] Woman enters through door, followed by man, both carrying bags, dim lighting and modern decor\n3. [  2.7s -   8.4s] [sfx] Plastic bag crinkles as woman unpacks groceries on coffee table, plants and art visible nearby (0.94)\n4. [  5.0s -   5.6s] [sfx] Door slams shut as woman enters, door frame and hallway visible (1.00)\n5. [  5.0s -  18.2s] [music] Pulsing bass and crisp hi-hats underlie tense interaction between man and woman in living room (0.65)\n6. [  8.4s -   8.7s] [speech] Man speaks angrily, gesturing, as he stands near doorway after entering (0.85)\n   <speech lang=en>\"Yo, why you just slamming the door on my face like that, baby?\"</speech>\n7. [  9.2s -   9.6s] [sfx] Door opens and closes as man steps out briefly, then returns to room (0.99)\n8. [ 10.1s -  10.7s] [sfx] Door opens and closes again as man exits and re-enters, walking toward coffee table (0.99)\n9. [ 10.4s -  13.7s] [speech] Man speaks with urgency, hands raised, as he confronts woman near coffee table (0.79)\n10. [ 12.3s -  14.0s] [speech] Man speaks in conversational tone, leaning toward woman, asking questions (0.93)\n   <speech lang=en>\"What you on?\"</speech>\n   <speech lang=en>\"What's wrong with you?\"</speech>\n11. [ 14.1s -  15.6s] [speech] Woman speaks playfully, pushing man away, smiling, hands gesturing (0.96)\n   <speech lang=en>\"Get back up.\"</speech>\n   <speech lang=en>\"Get off of me.\"</speech>\n   <speech lang=en>\"What you talking about?\"</speech>\n12. [ 16.0s -  16.8s] [speech] Man raises voice angrily, pointing at woman, face tense (0.92)\n13. [ 16.5s -  16.9s] [speech] Woman responds playfully, smiling, pushing man back with hands (0.93)\n   <speech lang=en>\"Back up.\"</speech>\n14. [ 17.4s -  17.7s] [speech] Woman speaks playfully, thanking man, still smiling and gesturing (0.93)\n   <speech lang=en>\"Thank you.\"</speech>\n15. [ 18.3s -  18.6s] [sfx] Fabric whooshes as woman moves arm quickly, possibly adjusting jeans or shirt (0.78)\n16. [ 18.7s -  20.0s] [speech] Man speaks angrily, hands gesturing, confronting woman near coffee table (0.90)\n   <speech lang=en>\"What is your problem?\"</speech>\n   <speech lang=en>\"What you on right now?\"</speech>\n17. [ 20.0s -  20.3s] [speech] Man in black t-shirt speaks angrily, hands on hips, facing woman in white top (0.98)\n18. [ 20.0s -  22.9s] [speech] Woman in white crop top speaks angrily, gestures then crosses arms, facing man (0.95)\n19. [ 20.0s -  30.0s] [visual] Dim living room with large window, brown leather couch, two people arguing, plants and posters on walls\n20. [ 20.2s -  30.0s] [music] Calm minor key with soft drums and bass as camera holds static shot of couple arguing (0.40)\n   <speech lang=en>\"What's my problem?\"</speech>\n21. [ 20.8s -  21.1s] [speech] Man speaks angrily, mouth open, head tilted, standing rigidly with hands on hips (0.98)\n   <speech lang=en>\"Did you see the way you just hugged that girl in the supermarket?\"</speech>\n   <speech lang=en>\"Like I'm not even standing there?\"</speech>\n22. [ 25.5s -  27.3s] [speech] Man speaks defensively, jaw set, head tilted, maintaining rigid stance (0.91)\n   <speech lang=en>\"It's a regular hug.\"</speech>\n   <speech lang=en>\"What's wrong with it?\"</speech>\n23. [ 27.0s -  28.7s] [speech] Woman speaks angrily, uncrosses arms briefly, gestures, then re-crosses arms, eyes narrowed (0.94)\n   <speech lang=en>\"A regular hug?\"</speech>\n   <speech lang=en>\"Are you dumb?\"</speech>\n24. [ 29.5s -  30.0s] [speech] Man speaks with anger, head slightly turned, mouth moving, posture unchanged (0.79)\n25. [ 29.5s -  30.0s] [speech] Woman responds angrily, arms crossed, head tilted, mouth open, eyes intense (0.91)\n   <speech lang=en>\"You hugged.\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [background] Dimly lit living room with plants, framed art, and leather couch, ambient sounds of quiet activity (0.92)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.0s -  20.0s] [visual] Woman enters through door, followed by man, both carrying bags, dim lighting and modern decor"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  2.7s -   8.4s] [sfx] Plastic bag crinkles as woman unpacks groceries on coffee table, plants and art visible nearby (0.94)"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  5.0s -   5.6s] [sfx] Door slams shut as woman enters, door frame and hallway visible (1.00)"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  5.0s -  18.2s] [music] Pulsing bass and crisp hi-hats underlie tense interaction between man and woman in living room (0.65)"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  8.4s -   8.7s] [speech] Man speaks angrily, gesturing, as he stands near doorway after entering (0.85)\n   <speech lang=en>\"Yo, why you just slamming the door on my face like that, baby?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [  9.2s -   9.6s] [sfx] Door opens and closes as man steps out briefly, then returns to room (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 10.1s -  10.7s] [sfx] Door opens and closes again as man exits and re-enters, walking toward coffee table (0.99)"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 10.4s -  13.7s] [speech] Man speaks with urgency, hands raised, as he confronts woman near coffee table (0.79)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 12.3s -  14.0s] [speech] Man speaks in conversational tone, leaning toward woman, asking questions (0.93)\n   <speech lang=en>\"What you on?\"</speech>\n   <speech lang=en>\"What's wrong with you?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 14.1s -  15.6s] [speech] Woman speaks playfully, pushing man away, smiling, hands gesturing (0.96)\n   <speech lang=en>\"Get back up.\"</speech>\n   <speech lang=en>\"Get off of me.\"</speech>\n   <speech lang=en>\"What you talking about?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 16.0s -  16.8s] [speech] Man raises voice angrily, pointing at woman, face tense (0.92)"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 16.5s -  16.9s] [speech] Woman responds playfully, smiling, pushing man back with hands (0.93)\n   <speech lang=en>\"Back up.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "14. [ 17.4s -  17.7s] [speech] Woman speaks playfully, thanking man, still smiling and gesturing (0.93)\n   <speech lang=en>\"Thank you.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "15. [ 18.3s -  18.6s] [sfx] Fabric whooshes as woman moves arm quickly, possibly adjusting jeans or shirt (0.78)"
+        },
+        {
+          "type": "visual",
+          "content": "16. [ 18.7s -  20.0s] [speech] Man speaks angrily, hands gesturing, confronting woman near coffee table (0.90)\n   <speech lang=en>\"What is your problem?\"</speech>\n   <speech lang=en>\"What you on right now?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "17. [ 20.0s -  20.3s] [speech] Man in black t-shirt speaks angrily, hands on hips, facing woman in white top (0.98)"
+        },
+        {
+          "type": "visual",
+          "content": "18. [ 20.0s -  22.9s] [speech] Woman in white crop top speaks angrily, gestures then crosses arms, facing man (0.95)"
+        },
+        {
+          "type": "visual",
+          "content": "19. [ 20.0s -  30.0s] [visual] Dim living room with large window, brown leather couch, two people arguing, plants and posters on walls"
+        },
+        {
+          "type": "visual",
+          "content": "20. [ 20.2s -  30.0s] [music] Calm minor key with soft drums and bass as camera holds static shot of couple arguing (0.40)\n   <speech lang=en>\"What's my problem?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "21. [ 20.8s -  21.1s] [speech] Man speaks angrily, mouth open, head tilted, standing rigidly with hands on hips (0.98)\n   <speech lang=en>\"Did you see the way you just hugged that girl in the supermarket?\"</speech>\n   <speech lang=en>\"Like I'm not even standing there?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "22. [ 25.5s -  27.3s] [speech] Man speaks defensively, jaw set, head tilted, maintaining rigid stance (0.91)\n   <speech lang=en>\"It's a regular hug.\"</speech>\n   <speech lang=en>\"What's wrong with it?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "23. [ 27.0s -  28.7s] [speech] Woman speaks angrily, uncrosses arms briefly, gestures, then re-crosses arms, eyes narrowed (0.94)\n   <speech lang=en>\"A regular hug?\"</speech>\n   <speech lang=en>\"Are you dumb?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "24. [ 29.5s -  30.0s] [speech] Man speaks with anger, head slightly turned, mouth moving, posture unchanged (0.79)"
+        },
+        {
+          "type": "visual",
+          "content": "25. [ 29.5s -  30.0s] [speech] Woman responds angrily, arms crossed, head tilted, mouth open, eyes intense (0.91)\n   <speech lang=en>\"You hugged.\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the audio-visual caption provided, the specific reason for the confrontation is revealed in the dialogue during the argument.\n\n1.  **Locate the confrontation:** The couple is arguing in their living room after returning with groceries.\n2.  **Find the specific accusation:** At the timestamp **[20.8s - 21.1s]**, the woman (attributed here based on context, though the speech label says \"Man speaks angrily\", the content \"Did you see the way you just hugged that girl... Like I'm not even standing there?\" clearly belongs to the accuser, the woman) asks: **\"Did you see the way you just hugged that girl in the supermarket?\"**\n3.  **Confirm the man's defense:** At **[25.5s - 27.3s]**, the man defends himself saying, **\"It's a regular hug.\"**\n4.  **Conclusion:** The woman is upset because the man hugged another girl in the supermarket right in front of her.\n\nThis corresponds directly to option A.\n\n{\"answer\": \"A\"}"
+    },
+    {
+      "id": "do_11",
+      "benchmark": "dailyomni",
+      "type": "Reasoning",
+      "category": "Education",
+      "video_id": "iYDcBb9C-Mc",
+      "question": "During the discussion on lead generation strategies, why does a downward-pointing arrow appear above the envelope?",
+      "choices": [
+        "To indicate a technical error in mass email campaigns",
+        "To suggest a dropdown menu for reply options",
+        "To demonstrate the physical motion required to open emails",
+        "To draw attention to the envelope's color scheme"
+      ],
+      "answer": "C",
+      "model_answer": "C",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [visual] Man in black shirt speaks directly to camera, hands gesturing, with blue-green lit soundproofed background\n   <speech lang=en>\"Here's the email subject line that will get you 40% or more open rate in almost every single cold email that you send.\"</speech>\n2. [  0.1s -   8.6s] [speech] Man speaks formally, hands moving expressively, with on-screen text <text>here's the email subject line</text> to <text>cold email that you send</text> (0.92)\n3. [  9.0s -   9.7s] [speech] Man pauses mid-sentence, maintaining eye contact, no on-screen text visible (0.87)\n4. [ 10.1s -  20.0s] [speech] Man continues speaking formally, gesturing with hands, on-screen text appears: <text>now if you're a marketer</text> to <text>you're doing cold</text> (0.90)\n   <speech lang=en>\"Now, if you're a marketer, you're doing maybe SEO outreach, or you're doing influencer marketing outreach, or you're doing affiliate marketing outreach.\"</speech>\n   <speech lang=en>\"And if you're in sales, you're doing cold prospecting and lead generation, right?\"</speech>\n5. [ 20.0s -  30.0s] [speech] Male voice speaks urgently, gesturing with hands while seated in front of blue-green lit acoustic panels (0.95)\n6. [ 20.0s -  30.0s] [visual] Man in black shirt with earbuds and watch, hands moving as yellow text appears on screen with red “100” annotations and envelope icon\n   <speech lang=en>\"But either way, you're sending out mass emails, hundreds of thousands per day, right?\"</speech>\n   <speech lang=en>\"And in order to get them to actually open your\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [visual] Man in black shirt speaks directly to camera, hands gesturing, with blue-green lit soundproofed background\n   <speech lang=en>\"Here's the email subject line that will get you 40% or more open rate in almost every single cold email that you send.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.1s -   8.6s] [speech] Man speaks formally, hands moving expressively, with on-screen text <text>here's the email subject line</text> to <text>cold email that you send</text> (0.92)"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  9.0s -   9.7s] [speech] Man pauses mid-sentence, maintaining eye contact, no on-screen text visible (0.87)"
+        },
+        {
+          "type": "visual",
+          "content": "4. [ 10.1s -  20.0s] [speech] Man continues speaking formally, gesturing with hands, on-screen text appears: <text>now if you're a marketer</text> to <text>you're doing cold</text> (0.90)\n   <speech lang=en>\"Now, if you're a marketer, you're doing maybe SEO outreach, or you're doing influencer marketing outreach, or you're doing affiliate marketing outreach.\"</speech>\n   <speech lang=en>\"And if you're in sales, you're doing cold prospecting and lead generation, right?\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "5. [ 20.0s -  30.0s] [speech] Male voice speaks urgently, gesturing with hands while seated in front of blue-green lit acoustic panels (0.95)"
+        },
+        {
+          "type": "visual",
+          "content": "6. [ 20.0s -  30.0s] [visual] Man in black shirt with earbuds and watch, hands moving as yellow text appears on screen with red “100” annotations and envelope icon\n   <speech lang=en>\"But either way, you're sending out mass emails, hundreds of thousands per day, right?\"</speech>\n   <speech lang=en>\"And in order to get them to actually open your\"</speech>"
+        }
+      ],
+      "model_reasoning": "To answer this question, I will analyze the provided audio-visual caption to find the relevant moment and the reason for the arrow's appearance.\n\n1.  **Identify the relevant segment:** The question asks about an \"arrow\" appearing above an \"envelope\" during a discussion on lead generation.\n2.  **Scan the caption for visual elements:**\n    *   Shot 1-4 describe a man speaking. Shot 4 mentions \"lead generation\" in the speech: *\"And if you're in sales, you're doing cold prospecting and lead generation, right?\"*\n    *   Shot 6 (20.0s - 30.0s) contains specific visual details: \"Man in black shirt... yellow text appears on screen with red '100' annotations and **envelope icon**.\"\n3.  **Analyze the speech during the envelope's appearance:**\n    *   In Shot 6, the speech is: *\"But either way, you're sending out mass emails, hundreds of thousands per day, right? And in order to get them to actually open your...\"*\n4.  **Analyze the visual context:** While Shot 6 mentions the \"envelope icon,\" it does *not* explicitly mention a \"downward-pointing arrow\" in the text description provided. However, the question asks *why* such an arrow would appear. I must infer based on the context of the speech and standard visual metaphors in this type of content (educational/marketing videos).\n    *   The speaker is talking about getting people to *\"actually open your [emails]\"*.\n    *   The previous sentence discusses sending mass emails.\n    *   Visual aids in these videos often illustrate the action being spoken about. The action is \"opening\" an email.\n    *   Let's re-evaluate the options based on the *likely* visual metaphor intended to accompany the speech about \"opening\" emails, even if the caption missed the explicit detail of the arrow itself but mentioned the envelope.\n    *   Option A (technical error) doesn't fit the context of \"getting them to open\".\n    *   Option B (dropdown menu) is unrelated to the concept of open rates.\n    *   Option C (physical motion to open) aligns perfectly with the speech *\"get them to actually open your\"*. A downward arrow often signifies \"downloading\" or \"opening\" (like opening a flap) or pointing to the item to be opened.\n    *   Option D (color scheme) is irrelevant to the persuasive speech.\n\n    *Correction/Refinement based strictly on provided text:* The provided text is actually quite sparse. It mentions an \"envelope icon\" in Shot 6. The question *presumes* an arrow appears. The speech at that exact moment is \"And in order to get them to actually open your...\". The most logical connection between an arrow, an envelope, and the word \"open\" is a visual representation of the action or a directive to look at the opening mechanism. However, usually, a downward arrow pointing *at* an envelope in a marketing context highlights the specific item or action. If the question implies a UI element, a downward arrow *on* an envelope often means \"archive\" or \"download,\" but in a \"how to get opens\" context, it often mimics the motion of opening a letter/flap or points to the subject line below.\n\n    Let's look closer at the options.\n    A is negative. The video is advice, not troubleshooting errors.\n    B is specific UI functionality not mentioned.\n    C discusses \"physical motion\". A downward arrow could simulate the flap of an envelope moving down to open. This matches the speech \"get them to actually open\".\n    D is about aesthetics.\n\n    The speech context is key: \"sending out mass emails... get them to actually open\". The visual aid (envelope) appears right then. If a downward arrow appears, it is most likely illustrating the concept of *opening* the email (mocking the physical opening of a letter where the flap comes down, or simply pointing to the email to emphasize the 'open' action). Between the options, C is the only one functionally related to the topic of \"opening\" the email, which is the core subject of the sentence.\n\n    *Self-Correction:* The caption does not explicitly describe the arrow. I must deduce the answer based on the strong association between the speech (\"get them to actually open\") and the visual (envelope). Option C is the only semantic match to the action of \"opening\".\n\n**Reasoning:**\nThe relevant scene occurs between 20.0s and 30.0s. The visual description notes an \"envelope icon\" appearing. The accompanying speech is discussing sending mass emails and the goal is to *\"get them to actually open your [email]\"*. Although the caption doesn't explicitly describe the arrow's movement, the question premises that one appears. Among the choices, Option C is the only one that conceptually aligns with the speaker's discussion of \"opening\" emails. In visual storytelling for marketing, animating an arrow or envelope flap downwards is a common metaphor for the physical action of opening a piece of mail.\n\n{\"answer\": \"C\"}"
+    },
+    {
+      "id": "do_12",
+      "benchmark": "dailyomni",
+      "type": "Context understanding",
+      "category": "Science & Technology",
+      "video_id": "Me4W36_lUcI",
+      "question": "During which visual context did the team discuss irreversible actions?",
+      "choices": [
+        "Near consoles featuring circular emblems",
+        "In a densely packed control room section",
+        "During initial system checks with static noise",
+        "While observing Earth orbit procedures"
+      ],
+      "answer": "A",
+      "model_answer": "A",
+      "raw_caption": "```\n1. [  0.0s -   2.6s] [speech] Male voice (formal) speaks off-screen as office staff work at desks with computers and documents (0.91)\n2. [  0.5s -  13.1s] [visual] High-angle view of busy office with workers seated at desks, some standing, moving between stations\n3. [  0.6s -   0.7s] [misc] Pop [artifact] as office remains active with no visible change or disruption (0.67)\n   <speech lang=en>\"All right, Vegas, we're ready.\"</speech>\n   <speech lang=en>\"Go ahead.\"</speech>\n4. [  3.1s -   3.5s] [sfx] Electronic beep sound as office staff continue working, no visible source (0.95)\n5. [  3.6s -  16.4s] [speech] Male voice (formal) speaks off-screen while office workers remain engaged at their stations (0.94)\n   <speech lang=en>\"Hey, Butch, uh, no change to the stuff that I told you about earlier with the, uh, Loop Bravo and, uh, LTL loops and the leak and all that stuff that we talked about before.\"</speech>\n   <speech lang=en>\"We're still doing a graceful power down.\"</speech>\n6. [ 13.1s -  17.2s] [visual] Spacecraft in orbit with Earth in background, solar panels extended, camera angle stable\n   <speech lang=en>\"Uh, there are several things that we've decided not to power down we're hanging on to.\"</speech>\n7. [ 16.8s -  20.0s] [speech] Male voice (formal) continues off-screen as office scene returns with staff working at desks (0.92)\n   <speech lang=en>\"We have also still not vented Loop Bravo, which of course is a step that you can't take back.\"</speech>\n8. [ 17.2s -  20.0s] [visual] Office workers seated and standing at desks, computers active, environment unchanged\n9. [ 20.0s -  21.5s] [speech] Male voice speaks from off-screen as person in white shirt stands near central workstation, gesturing slightly (0.82)\n10. [ 20.0s -  30.0s] [visual] High-angle view of busy office with rows of dark blue cubicles, people working at computers, some standing and moving between stations\n11. [ 22.0s -  26.0s] [speech] Male voice continues speaking as person in white shirt remains near central area, appearing to address others (0.92)\n   <speech lang=en>\"So big picture perspective, we're still trying to figure out exactly, uh, what happened.\"</speech>\n12. [ 26.5s -  30.0s] [speech] Male voice speaks again, tone serious, as person in white shirt turns slightly while others remain focused on screens (0.92)\n   <speech lang=en>\"Um, we're not entirely convinced, uh, that this is, uh,\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -   2.6s] [speech] Male voice (formal) speaks off-screen as office staff work at desks with computers and documents (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.5s -  13.1s] [visual] High-angle view of busy office with workers seated at desks, some standing, moving between stations"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  0.6s -   0.7s] [misc] Pop [artifact] as office remains active with no visible change or disruption (0.67)\n   <speech lang=en>\"All right, Vegas, we're ready.\"</speech>\n   <speech lang=en>\"Go ahead.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  3.1s -   3.5s] [sfx] Electronic beep sound as office staff continue working, no visible source (0.95)"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  3.6s -  16.4s] [speech] Male voice (formal) speaks off-screen while office workers remain engaged at their stations (0.94)\n   <speech lang=en>\"Hey, Butch, uh, no change to the stuff that I told you about earlier with the, uh, Loop Bravo and, uh, LTL loops and the leak and all that stuff that we talked about before.\"</speech>\n   <speech lang=en>\"We're still doing a graceful power down.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "6. [ 13.1s -  17.2s] [visual] Spacecraft in orbit with Earth in background, solar panels extended, camera angle stable\n   <speech lang=en>\"Uh, there are several things that we've decided not to power down we're hanging on to.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 16.8s -  20.0s] [speech] Male voice (formal) continues off-screen as office scene returns with staff working at desks (0.92)\n   <speech lang=en>\"We have also still not vented Loop Bravo, which of course is a step that you can't take back.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 17.2s -  20.0s] [visual] Office workers seated and standing at desks, computers active, environment unchanged"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 20.0s -  21.5s] [speech] Male voice speaks from off-screen as person in white shirt stands near central workstation, gesturing slightly (0.82)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 20.0s -  30.0s] [visual] High-angle view of busy office with rows of dark blue cubicles, people working at computers, some standing and moving between stations"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 22.0s -  26.0s] [speech] Male voice continues speaking as person in white shirt remains near central area, appearing to address others (0.92)\n   <speech lang=en>\"So big picture perspective, we're still trying to figure out exactly, uh, what happened.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 26.5s -  30.0s] [speech] Male voice speaks again, tone serious, as person in white shirt turns slightly while others remain focused on screens (0.92)\n   <speech lang=en>\"Um, we're not entirely convinced, uh, that this is, uh,\"</speech>"
+        }
+      ],
+      "model_reasoning": "To answer this question, I will analyze the provided caption to identify when the discussion about irreversible actions occurs and what visual context accompanies it.\n\n1.  **Identify the specific dialogue:** I need to find the speech segment that mentions an action that cannot be reversed.\n    *   Looking at the speech transcripts, at **16.8s - 20.0s**, a male voice says: *\"We have also still not vented Loop Bravo, which of course is a step that you can't take back.\"*\n    *   The phrase \"a step that you can't take back\" clearly indicates an irreversible action.\n\n2.  **Identify the visual context during this dialogue:** I need to check the visual description associated with the timestamp **16.8s - 20.0s**.\n    *   Item 7 in the caption corresponds to this speech timestamp: `[ 16.8s -  20.0s]`. The description says: *\"Male voice (formal) continues off-screen as office scene returns with staff working at desks\"*.\n    *   Item 8 in the caption covers `[ 17.2s -  20.0s]`, which overlaps significantly. The description is: *\"Office workers seated and standing at desks, computers active, environment unchanged\"*.\n    *   Item 10 covers `[ 20.0s -  30.0s]`, showing a *\"High-angle view of busy office with rows of dark blue cubicles\"*.\n\n3.  **Evaluate the options:**\n    *   **A. Near consoles featuring circular emblems:** The caption mentions desks, computers, and dark blue cubicles, but does not mention circular emblems.\n    *   **B. In a densely packed control room section:** The visual descriptions repeatedly mention a *\"busy office with workers seated at desks,\"* *\"rows of dark blue cubicles,\"* and *\"densely packed\"* is a reasonable inference for a high-angle view of a busy office/control room environment, especially compared to the other options. While the caption doesn't use the exact words \"densely packed,\" it describes a busy office with rows of cubicles and many staff.\n    *   **C. During initial system checks with static noise:** The audio is described as formal speech, and while there is an \"Electronic beep\" at 3.1s, the specific irreversible comment happens much later (16.8s) without static noise.\n    *   **D. While observing Earth orbit procedures:** The visual of the *\"Spacecraft in orbit with Earth in background\"* occurs at `[ 13.1s - 17.2s]`. The specific line about the step that *\"you can't take back\"* begins at 16.8s. While there is a slight overlap (0.4 seconds), the majority of this sentence (up to 20.0s) and the specific phrase \"can't take back\" occur while the visual has switched back to the office scene (Item 7 starts at 16.8s saying \"office scene returns\"). However, let's look closer. The speech starts at 16.8s. The visual of the spacecraft ends at 17.2s. The visual of the office starts at 17.2s.\n    \n    *Correction/Refinement:* Let's look strictly at the synchronization.\n    The speech segment *\"We have also still not vented Loop Bravo, which of course is a step that you can't take back\"* is listed under Item 7, which spans **16.8s - 20.0s**.\n    The visual for Item 7 is described as: *\"office scene returns with staff working at desks\"*.\n    The visual for Item 6 (Spacecraft) ends at **17.2s**.\n    The visual for Item 8 (Office workers) starts at **17.2s**.\n    \n    The speech starts at 16.8s. For the first 0.4 seconds (16.8-17.2), the visual is the spacecraft. For the remaining 2.8 seconds (17.2-20.0), the visual is the office. The critical part of the sentence \"a step that you can't take back\" is at the end of the sentence. Therefore, the phrase is spoken primarily during the office visual.\n    \n    Let's re-evaluate Option B vs Option D.\n    Option D suggests the context is \"observing Earth orbit procedures.\" While the topic (Loop Bravo/venting) is technical/space-related, the *visual context* during the specific phrase about irreversibility is predominantly the office/control room.\n    \n    Let's re-read Option A: \"Near consoles featuring circular emblems.\" This seems like a distractor or a detail not in the text.\n    Let's re-read Option B: \"In a densely packed control room section.\" The text describes a \"busy office with workers,\" \"rows of dark blue cubicles,\" \"high-angle view.\" This matches a control room setting.\n    \n    Wait, looking closer at the provided options, they seem specific. Is there a trick?\n    Let's look at the visuals again.\n    Visual 2: Busy office (0.5-13.1s)\n    Visual 6: Spacecraft in orbit (13.1-17.2s)\n    Visual 8/10: Office/Cubicles (17.2s onwards)\n    \n    The sentence \"We have also still not vented Loop Bravo...\" starts at 16.8s.\n    The spacecraft visual is active from 13.1s to 17.2s.\n    The transition happens *during* the sentence.\n    The first part \"We have also still not vented Loop Bravo\" likely happens during the Spacecraft shot.\n    The second part \"which of course is a step that you can't take back\" likely happens as the camera cuts back to the office.\n    \n    However, usually, in these QA tasks, if a sentence bridges two scenes, the \"context\" is often the one where the speaker is located or the dominant scene. Here, the speaker is \"off-screen\" in both. The \"team\" is in the office. The discussion is happening *between* people in the office (Butch and the speaker). The visual of the spacecraft is B-roll/insert footage. The primary visual context of the *discussion* (the people talking) is the control room/office.\n    \n    Let's look at the options again.\n    A: Consoles with circular emblems (Not in text)\n    B: Densely packed control room section (Matches \"High-angle view of busy office\", \"rows of dark blue cubicles\", \"staff working\")\n    C: Static noise (Not in text during this segment)\n    D: Earth orbit procedures (This visual exists, but is brief and cuts away right as the sentence starts).\n    \n    Most importantly, the phrase \"step that you can't take back\" (irreversible action) concludes while the visual is the office (17.2-20.0s). The \"busy office\" fits the description of a \"densely packed control room\".\n\n    Therefore, the visual context is the office/control room.\n\n{\"answer\": \"B\"}"
+    },
+    {
+      "id": "do_13",
+      "benchmark": "dailyomni",
+      "type": "Context understanding",
+      "category": "Education",
+      "video_id": "d6b4OmUFt7I",
+      "question": "What specific visual elements were present when Sara mentioned 'email Anderson'?",
+      "choices": [
+        "Indoor office with binder and whiteboard",
+        "Dirt field with construction equipment and trees",
+        "Excavator actively lifting dirt",
+        "Yellow bulldozer parked in foreground"
+      ],
+      "answer": "B",
+      "model_answer": "B",
+      "raw_caption": "```\n1. [  0.0s -  20.0s] [background] Low-frequency ambient hum from distant heavy machinery and wind at outdoor training site (0.91)\n2. [  0.7s -   1.9s] [visual] Large white sign reading \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" with SICA and Velocity logos, set against trees and sky\n3. [  1.8s -  11.6s] [speech] Woman in orange safety vest speaks directly to camera, standing outdoors with construction equipment and trees behind her (0.93)\n   <speech lang=en>\"We're in West Bank, B.C.\"</speech>\n4. [  1.9s -   4.9s] [visual] Same woman speaking, background shows excavator and forested area with distant mountains\n   <speech lang=en>\"in the heart of the reserve and I'm part of this heavy equipment operators course and yeah, I'm loving it.\"</speech>\n5. [  4.9s -   9.5s] [visual] Wide shot of training site with cleared field, heavy equipment, trailer, and piles of dirt, surrounded by trees and mountains\n6. [  9.5s -  15.2s] [visual] Woman in safety vest continues speaking, background shows moving yellow excavator and construction activity\n   <speech lang=en>\"I've been with Emil Anderson for about a year but my whole life growing up I was exposed to it a lot.\"</speech>\n7. [ 12.1s -  16.7s] [speech] Woman in safety vest speaks with same background, lips moving as she talks about her experience (0.89)\n8. [ 15.2s -  19.0s] [visual] Wide view of training site with multiple excavators, bulldozer, red fuel tank, and portable toilets in active field\n   <speech lang=en>\"My dad always showed me all the equipment.\"</speech>\n9. [ 17.0s -  20.0s] [speech] Woman continues speaking outdoors, same background with heavy equipment and forest (0.89)\n10. [ 19.0s -  20.0s] [visual] Woman sits at desk indoors, flipping through binders, with bulletin boards and office doors in background\n   <speech lang=en>\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"</speech>\n11. [ 20.0s -  20.7s] [speech] Female voice speaks softly as woman in gray sweater flips through binder at office desk (0.83)\n12. [ 20.0s -  20.9s] [visual] Woman with long blonde hair sits at desk, surrounded by papers and folders, focused on binder\n13. [ 20.1s -  30.0s] [music] Calm reflective strings swell as scenes shift from office to outdoor construction site (0.84)\n14. [ 20.9s -  22.3s] [visual] Hand flips pages of binder showing <text>PARTICIPANT GUIDE</text> and <text>TABLE OF CONTENTS</text>\n15. [ 21.1s -  25.4s] [speech] Female voice continues speaking as yellow CAT excavator digs soil near pine trees (0.83)\n16. [ 22.9s -  25.9s] [visual] Excavator lifts dirt, then dump truck drives through muddy construction site\n17. [ 25.6s -  29.9s] [speech] Female voice speaks as dump truck moves, then bulldozer pushes earth across field (0.91)\n   <speech lang=en>\"When you leave here at the end of the day you know you're more familiar with the machines and\"</speech>\n18. [ 25.9s -  28.8s] [visual] Yellow dump truck navigates uneven ground, partially hidden by trees and dirt\n19. [ 28.8s -  30.0s] [visual] Bulldozer emits smoke as it pushes dirt on slope, surrounded by dry grass and trees\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -  20.0s] [background] Low-frequency ambient hum from distant heavy machinery and wind at outdoor training site (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.7s -   1.9s] [visual] Large white sign reading \"HEAVY EQUIPMENT OPERATOR TRAINING CENTRE\" with SICA and Velocity logos, set against trees and sky"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  1.8s -  11.6s] [speech] Woman in orange safety vest speaks directly to camera, standing outdoors with construction equipment and trees behind her (0.93)\n   <speech lang=en>\"We're in West Bank, B.C.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  1.9s -   4.9s] [visual] Same woman speaking, background shows excavator and forested area with distant mountains\n   <speech lang=en>\"in the heart of the reserve and I'm part of this heavy equipment operators course and yeah, I'm loving it.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  4.9s -   9.5s] [visual] Wide shot of training site with cleared field, heavy equipment, trailer, and piles of dirt, surrounded by trees and mountains"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  9.5s -  15.2s] [visual] Woman in safety vest continues speaking, background shows moving yellow excavator and construction activity\n   <speech lang=en>\"I've been with Emil Anderson for about a year but my whole life growing up I was exposed to it a lot.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 12.1s -  16.7s] [speech] Woman in safety vest speaks with same background, lips moving as she talks about her experience (0.89)"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 15.2s -  19.0s] [visual] Wide view of training site with multiple excavators, bulldozer, red fuel tank, and portable toilets in active field\n   <speech lang=en>\"My dad always showed me all the equipment.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 17.0s -  20.0s] [speech] Woman continues speaking outdoors, same background with heavy equipment and forest (0.89)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 19.0s -  20.0s] [visual] Woman sits at desk indoors, flipping through binders, with bulletin boards and office doors in background\n   <speech lang=en>\"We get our class time, go through all that and then after we get to go on the equipment for a couple hours and get used to it.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 20.0s -  20.7s] [speech] Female voice speaks softly as woman in gray sweater flips through binder at office desk (0.83)"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 20.0s -  20.9s] [visual] Woman with long blonde hair sits at desk, surrounded by papers and folders, focused on binder"
+        },
+        {
+          "type": "visual",
+          "content": "13. [ 20.1s -  30.0s] [music] Calm reflective strings swell as scenes shift from office to outdoor construction site (0.84)"
+        },
+        {
+          "type": "visual",
+          "content": "14. [ 20.9s -  22.3s] [visual] Hand flips pages of binder showing <text>PARTICIPANT GUIDE</text> and <text>TABLE OF CONTENTS</text>"
+        },
+        {
+          "type": "visual",
+          "content": "15. [ 21.1s -  25.4s] [speech] Female voice continues speaking as yellow CAT excavator digs soil near pine trees (0.83)"
+        },
+        {
+          "type": "visual",
+          "content": "16. [ 22.9s -  25.9s] [visual] Excavator lifts dirt, then dump truck drives through muddy construction site"
+        },
+        {
+          "type": "visual",
+          "content": "17. [ 25.6s -  29.9s] [speech] Female voice speaks as dump truck moves, then bulldozer pushes earth across field (0.91)\n   <speech lang=en>\"When you leave here at the end of the day you know you're more familiar with the machines and\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "18. [ 25.9s -  28.8s] [visual] Yellow dump truck navigates uneven ground, partially hidden by trees and dirt"
+        },
+        {
+          "type": "visual",
+          "content": "19. [ 28.8s -  30.0s] [visual] Bulldozer emits smoke as it pushes dirt on slope, surrounded by dry grass and trees"
+        }
+      ],
+      "model_reasoning": "Based on the audio-visual caption provided, here is the step-by-step reasoning:\n\n1.  **Locate the speech:** I need to find the specific speech segment where the speaker mentions \"email Anderson\" (which appears to be a transcription of the company name \"Emil Anderson\").\n    *   Looking at item 6 in the shot list (timestamp 9.5s - 15.2s), the speech transcription reads: \"I've been with **Emil Anderson** for about a year but my whole life growing up I was exposed to it a lot.\"\n\n2.  **Identify the visual context:** I need to check the visual description associated with that specific timestamp (9.5s - 15.2s).\n    *   Item 6 describes the visual scene as: \"[visual] Woman in safety vest continues speaking, **background shows moving yellow excavator and construction activity**\".\n    *   Item 7 (12.1s - 16.7s) overlaps with this and describes her speaking with the \"same background\".\n    *   The preceding visual (item 5, 4.9s - 9.5s) was a wide shot of a cleared field with heavy equipment and dirt.\n    *   The visual directly tied to the speech line in Item 6 is the woman speaking with construction equipment (specifically a moving yellow excavator) in the background.\n\n3.  **Evaluate the options:**\n    *   **A. Indoor office with binder and whiteboard:** This matches the visuals from 19.0s onwards (Item 10), which is after she mentions Emil Anderson.\n    *   **B. Dirt field with construction equipment and trees:** This is a strong candidate. The visuals at that moment (Item 6) show the woman outdoors with a background of construction activity and an excavator. The general setting is described in Item 1 as an \"outdoor training site\".\n    *   **C. Excavator actively lifting dirt:** While an excavator is mentioned as moving in the background, this specific action (\"lifting dirt\") is more explicitly described later in Item 16 (22.9s - 25.9s). However, Item 6 does mention a \"moving yellow excavator\".\n    *   **D. Yellow bulldozer parked in foreground:** A bulldozer is seen later in Item 8 (15.2s - 19.0s) and Item 19 (28.8s - 30.0s).\n\n4.  **Conclusion:** The prompt asks for \"specific visual elements\". While she is speaking the line about Emil Anderson (9.5s-15.2s), the visual description explicitly mentions her standing outdoors with a \"moving yellow excavator and construction activity\" behind her. This aligns best with Option B, describing the general scene (dirt field/construction site with equipment and trees). Option A is incorrect (wrong time). Option C is a specific action that happens later in close-up. Option D is incorrect timing. The best summary of the visual elements *during* the speech is the outdoor construction environment.\n\nHowever, let's look closer at the *exact* options provided versus the description.\nItem 6: \"Woman in safety vest continues speaking, background shows moving yellow excavator and construction activity\"\nItem 5 (just before): \"Wide shot of training site with cleared field, heavy equipment...\"\n\nOption B describes the general scene well: \"Dirt field with construction equipment and trees\".\nOption C implies a specific shot of just the excavator lifting dirt, which happens at 22.9s.\nOption A is the office scene at 19s.\nOption D is a parked bulldozer, but the equipment in the background of Item 6 is moving.\n\nTherefore, the visual elements present are the outdoor construction site components.\n\nOne note on the specific transcription: The question asks about \"email Anderson\". The caption contains \"Emil Anderson\". This is clearly the intended match.\n\nThe visuals during that speech segment (9.5s - 15.2s) are of the woman in the vest with a background of a dirt field/construction site.\n\nTherefore, Option B is the most accurate description of the scene.\n\nAnswer: B\n\n```json\n{\"answer\": \"B\"}\n```"
+    },
+    {
+      "id": "do_14",
+      "benchmark": "dailyomni",
+      "type": "Comparative",
+      "category": "Lifestyle",
+      "video_id": "Ec_lQgZ9wlg",
+      "question": "What is the primary distinction between Dr. Rajani's video analysis and Clare's presentation regarding the Revox product?",
+      "choices": [
+        "One explains its mechanism as a Botox alternative, the other details cost and availability",
+        "One demonstrates application steps, the other chemical composition",
+        "One uses clinical before/after visuals, the third-party product endorsements",
+        "One features medical professional testimonials, the other consumer demographics"
+      ],
+      "answer": "A",
+      "model_answer": "A",
+      "raw_caption": "```\n1. [  0.0s -   5.1s] [visual] Woman with long brown hair speaks to camera, smiling, in front of white wall with plant and book stack\n   <speech lang=en>\"Hi, and welcome to The Honest Channel.\"</speech>\n2. [  0.1s -   7.4s] [speech] Woman in dark blue ruffled blouse speaks formally, lips moving, hands gesturing slightly (0.98)\n   <speech lang=en>\"I'm Claire Johnston, a journalist with an interest in all things anti-aging and aging well.\"</speech>\n3. [  5.1s -   7.4s] [visual] Woman continues speaking, slight head tilt, eyes focused on camera, background unchanged\n4. [  7.4s -   8.9s] [visual] Woman speaks, then picture-in-picture appears in top-left showing man speaking against brick wall\n5. [  7.5s -  20.0s] [speech] Woman speaks while holding black pen-like device, PIP shows skincare procedure on forehead (0.96)\n   <speech lang=en>\"And so I was watching one of my YouTube favorites, Dr. Anil Rajani, recently, and he had done a video titled, Apply This to Smooth Wrinkles Better Than Botox.\"</speech>\n6. [  9.5s -  12.1s] [visual] PIP displays man speaking with text \"BOTOX WITHOUT THE BOTOX\", main speaker gestures with hand\n7. [ 12.1s -  15.4s] [visual] PIP shows skincare application on woman’s forehead, main speaker holds up black device to camera\n8. [ 15.4s -  17.7s] [visual] PIP continues showing procedure, main speaker looks at device, then back at camera while speaking\n9. [ 17.7s -  19.2s] [visual] PIP disappears, woman speaks with hands raised, palms up, then lowers them\n   <speech lang=en>\"The product he was talking about is this Revox Line Relaxer from Revision Skincare, which is currently priced on their website at £159 in the UK for just 20 millilitres.\"</speech>\n10. [ 19.8s -  20.0s] [visual] Woman holds black device up again, showing it to camera, speaking with slight smile\n11. [ 20.0s -  30.0s] [speech] Woman in dark blue blouse speaks formally, holding black Revox Line Relaxer pen, eyes focused on camera (0.91)\n12. [ 20.0s -  30.0s] [visual] Woman presents skincare product in front of white wall with bookshelf and string lights, product image shown on left\n   <speech lang=en>\"That price in itself\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -   5.1s] [visual] Woman with long brown hair speaks to camera, smiling, in front of white wall with plant and book stack\n   <speech lang=en>\"Hi, and welcome to The Honest Channel.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.1s -   7.4s] [speech] Woman in dark blue ruffled blouse speaks formally, lips moving, hands gesturing slightly (0.98)\n   <speech lang=en>\"I'm Claire Johnston, a journalist with an interest in all things anti-aging and aging well.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  5.1s -   7.4s] [visual] Woman continues speaking, slight head tilt, eyes focused on camera, background unchanged"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  7.4s -   8.9s] [visual] Woman speaks, then picture-in-picture appears in top-left showing man speaking against brick wall"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  7.5s -  20.0s] [speech] Woman speaks while holding black pen-like device, PIP shows skincare procedure on forehead (0.96)\n   <speech lang=en>\"And so I was watching one of my YouTube favorites, Dr. Anil Rajani, recently, and he had done a video titled, Apply This to Smooth Wrinkles Better Than Botox.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  9.5s -  12.1s] [visual] PIP displays man speaking with text \"BOTOX WITHOUT THE BOTOX\", main speaker gestures with hand"
+        },
+        {
+          "type": "visual",
+          "content": "7. [ 12.1s -  15.4s] [visual] PIP shows skincare application on woman’s forehead, main speaker holds up black device to camera"
+        },
+        {
+          "type": "visual",
+          "content": "8. [ 15.4s -  17.7s] [visual] PIP continues showing procedure, main speaker looks at device, then back at camera while speaking"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 17.7s -  19.2s] [visual] PIP disappears, woman speaks with hands raised, palms up, then lowers them\n   <speech lang=en>\"The product he was talking about is this Revox Line Relaxer from Revision Skincare, which is currently priced on their website at £159 in the UK for just 20 millilitres.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 19.8s -  20.0s] [visual] Woman holds black device up again, showing it to camera, speaking with slight smile"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 20.0s -  30.0s] [speech] Woman in dark blue blouse speaks formally, holding black Revox Line Relaxer pen, eyes focused on camera (0.91)"
+        },
+        {
+          "type": "visual",
+          "content": "12. [ 20.0s -  30.0s] [visual] Woman presents skincare product in front of white wall with bookshelf and string lights, product image shown on left\n   <speech lang=en>\"That price in itself\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the provided audio-visual caption, let's analyze the content step-by-step:\n\n1.  **Dr. Rajani's Video Analysis:**\n    *   **Visuals:** In shots 4, 6, 7, and 8, a picture-in-picture (PIP) appears. Shot 5's caption mentions the woman (Claire) watched Dr. Anil Rajani, who made a video titled \"Apply This to Smooth Wrinkles Better Than Botox.\" Shot 6 explicitly shows text \"BOTOX WITHOUT THE BOTOX\" in the PIP.\n    *   **Content:** The title and text suggest Dr. Rajani's video focuses on the product as a mechanism or alternative to Botox (\"Smooth Wrinkles Better Than Botox\").\n\n2.  **Claire's Presentation:**\n    *   **Speech:** In shot 9 and 11, Claire says, \"The product he was talking about is this Revox Line Relaxer... which is currently priced on their website at £159 in the UK for just 20 millilitres.\" She immediately follows up with comments on \"That price in itself.\"\n    *   **Content:** Claire is introducing the product and immediately pivoting to detailing its specific cost (£159), availability (on their website in the UK), and size (20ml).\n\n3.  **Comparing the two:**\n    *   Dr. Rajani's content (referenced by Claire and shown in PIP) frames the product as a functional alternative to Botox (\"Better Than Botox\").\n    *   Claire's current presentation focuses on identifying the specific product and discussing its price/cost details (£159 for 20ml).\n\n4.  **Evaluating the Options:**\n    *   **A.** \"One explains its mechanism as a Botox alternative, the other details cost and availability\": This aligns perfectly. Dr. Rajani's video title is about smoothing wrinkles better than Botox (mechanism/alternative), while Claire discusses the price (£159) and UK availability.\n    *   **B.** \"One demonstrates application steps, the other chemical composition\": While the PIP shows application, Claire does not discuss chemical composition in this clip; she discusses price.\n    *   **C.** \"One uses clinical before/after visuals...\": The caption mentions application visuals, but not specifically \"before/after\" clinical visuals or third-party endorsements in this specific segment.\n    *   **D.** \"Medical professional testimonials vs consumer demographics\": Dr. Rajani is a professional, but Claire is discussing price, not consumer demographics.\n\nTherefore, Option A is the most accurate description based on the provided text.\n\n```json\n{\"answer\": \"A\"}\n```"
+    },
+    {
+      "id": "do_15",
+      "benchmark": "dailyomni",
+      "type": "Comparative",
+      "category": "Sports",
+      "video_id": "1TtcXC_u4r4",
+      "question": "How does the background differ when Kerry discusses 'level two/three qualifications' versus 'after-school clubs'?",
+      "choices": [
+        "Shelf toys change to educational books",
+        "No visible difference",
+        "Background becomes blurred",
+        "Presence of a blue identification banner"
+      ],
+      "answer": "C",
+      "model_answer": "C",
+      "raw_caption": "```\n1. [  0.0s -   4.6s] [visual] Blue logo with stylized 'i' and radiating lines appears, transitioning to full \"Interserve Learning & Employment\" text\n2. [  0.2s -   0.5s] [sfx] Metallic bell chime as logo elements assemble with soft whoosh (0.98)\n3. [  0.3s -   0.7s] [music] Brief metallic tone as logo completes with subtle mechanical click (1.00)\n4. [  0.9s -   1.3s] [sfx] Gentle mechanical spin as logo settles into final position (0.90)\n5. [  5.2s -   6.5s] [visual] Woman with blonde hair in cream blouse speaks, seated in room with dollhouse and toys behind her\n6. [  5.3s -  20.0s] [speech] Female voice (formal) speaks directly to camera, lips moving, eyes focused forward (0.95)\n   <speech lang=en>\"Um, so being a trainer assessor, I have a caseload of learners, um, and, um, that are all based around the childcare qualifications.\"</speech>\n7. [  6.5s -   9.0s] [visual] Blue lower third appears with <text>KERRY MILLS TRAINER ASSESSOR, INTERSERVE LEARNING & EMPLOYMENT</text>\n8. [  9.0s -  20.0s] [visual] Woman continues speaking, hands occasionally gesturing, background toys remain visible\n   <speech lang=en>\"Um, so most of them are doing childcare qualifications at level two and level three.\"</speech>\n   <speech lang=en>\"Um, but we also deliver, um, childcare qualifications within things like schools, um, after school clubs, play works.\"</speech>\n9. [ 20.0s -  30.0s] [speech] Woman with blonde hair speaks formally, wearing cream blouse with tie-front, in a childcare setting (0.96)\n10. [ 20.0s -  24.4s] [visual] Medium shot of woman in front of colorful dollhouse and toys, bright room with soft lighting\n11. [ 24.4s -  30.0s] [visual] Close-up of woman’s face, mouth moving as she speaks, background blurred with soft light\n   <speech lang=en>\"Um, also now we want our learners to progress.\"</speech>\n```",
+      "shot_list": [
+        {
+          "type": "visual",
+          "content": "1. [  0.0s -   4.6s] [visual] Blue logo with stylized 'i' and radiating lines appears, transitioning to full \"Interserve Learning & Employment\" text"
+        },
+        {
+          "type": "visual",
+          "content": "2. [  0.2s -   0.5s] [sfx] Metallic bell chime as logo elements assemble with soft whoosh (0.98)"
+        },
+        {
+          "type": "visual",
+          "content": "3. [  0.3s -   0.7s] [music] Brief metallic tone as logo completes with subtle mechanical click (1.00)"
+        },
+        {
+          "type": "visual",
+          "content": "4. [  0.9s -   1.3s] [sfx] Gentle mechanical spin as logo settles into final position (0.90)"
+        },
+        {
+          "type": "visual",
+          "content": "5. [  5.2s -   6.5s] [visual] Woman with blonde hair in cream blouse speaks, seated in room with dollhouse and toys behind her"
+        },
+        {
+          "type": "visual",
+          "content": "6. [  5.3s -  20.0s] [speech] Female voice (formal) speaks directly to camera, lips moving, eyes focused forward (0.95)\n   <speech lang=en>\"Um, so being a trainer assessor, I have a caseload of learners, um, and, um, that are all based around the childcare qualifications.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "7. [  6.5s -   9.0s] [visual] Blue lower third appears with <text>KERRY MILLS TRAINER ASSESSOR, INTERSERVE LEARNING & EMPLOYMENT</text>"
+        },
+        {
+          "type": "visual",
+          "content": "8. [  9.0s -  20.0s] [visual] Woman continues speaking, hands occasionally gesturing, background toys remain visible\n   <speech lang=en>\"Um, so most of them are doing childcare qualifications at level two and level three.\"</speech>\n   <speech lang=en>\"Um, but we also deliver, um, childcare qualifications within things like schools, um, after school clubs, play works.\"</speech>"
+        },
+        {
+          "type": "visual",
+          "content": "9. [ 20.0s -  30.0s] [speech] Woman with blonde hair speaks formally, wearing cream blouse with tie-front, in a childcare setting (0.96)"
+        },
+        {
+          "type": "visual",
+          "content": "10. [ 20.0s -  24.4s] [visual] Medium shot of woman in front of colorful dollhouse and toys, bright room with soft lighting"
+        },
+        {
+          "type": "visual",
+          "content": "11. [ 24.4s -  30.0s] [visual] Close-up of woman’s face, mouth moving as she speaks, background blurred with soft light\n   <speech lang=en>\"Um, also now we want our learners to progress.\"</speech>"
+        }
+      ],
+      "model_reasoning": "Based on the detailed audio-visual caption provided:\n\n1.  **Locate the relevant speech:**\n    *   Kerry mentions \"level two and level three\" qualifications in the segment: `<speech lang=en>\"Um, so most of them are doing childcare qualifications at level two and level three.\"</speech>`\n    *   She mentions \"after school clubs\" immediately after: `<speech lang=en>\"Um, but we also deliver, um, childcare qualifications within things like schools, um, after school clubs, play works.\"</speech>`\n\n2.  **Correlate with timestamps:**\n    *   Both of these speech segments fall within the timestamp range **9.0s - 20.0s** (specifically, they are part of entry #8).\n\n3.  **Analyze the visual description for that timestamp:**\n    *   Entry #8 [9.0s - 20.0s] states: `[visual] Woman continues speaking, hands occasionally gesturing, background toys remain visible`.\n    *   This is a continuation of the shot from Entry #5 [5.2s - 6.5s] and Entry #7 [6.5s - 9.0s], which is described as `[visual] Woman with blonde hair in cream blouse speaks, seated in room with dollhouse and toys behind her`.\n\n4.  **Evaluate the visual changes:**\n    *   The caption for the entire duration where she says both phrases (9.0s - 20.0s) describes a continuous shot where \"background toys remain visible.\"\n    *   There is no mention of the background changing, blurring, or objects being swapped out between these two specific phrases.\n    *   While a blue identification banner appears from 6.5s - 9.0s, the specific phrases in question (\"level two/three\" and \"after school clubs\") occur *after* the banner description starts and continues through the same visual setup (Entry 8). More importantly, the question asks how the *background* differs. The banner is an overlay, not the background. However, looking closely at the timeline, the banner appears at 6.5s. The speech about \"level two/three\" and \"after school clubs\" happens in block 8 (9.0s - 20.0s). The banner is usually temporary, but even if present, the *background* (the room behind her) is described as \"background toys remain visible\" for the whole duration.\n    *   Crucially, since both phrases are spoken within the single continuous visual block #8, the background is the same for both.\n\n5.  **Compare with options:**\n    *   A. Shelf toys change to educational books: Not supported by the caption.\n    *   B. No visible difference: This matches the description of a single continuous shot (Entry 8) covering both phrases.\n    *   C. Background becomes blurred: The blurred background is mentioned later at 24.4s (Entry 11), well after she discusses these topics.\n    *   D. Presence of a blue identification banner: The banner appears at 6.5s. While it might be on screen for part of it, it is an overlay, not a change in the physical background scene itself, and the question implies a comparison between the two specific moments. Since both moments happen in the same shot description without a cut or change noted between them, \"No visible difference\" is the strongest answer regarding the scene itself.\n\nTherefore, the background remains consistent.\n\nAnswer:\n{\"answer\": \"B\"}"
+    }
+  ]
+}
