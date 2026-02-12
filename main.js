@@ -182,8 +182,8 @@ async function renderHomePage() {
                     <source src="${audioClip.video_src}" type="video/mp4">
                 </audio>
             </div>
-            <button class="home-reasoning-toggle" style="margin-top:12px;" onclick="toggleHomeEventList(this)">▶ Show Event List</button>
-            <div class="home-event-list" style="display:none; margin-top:12px;">${eventCards}</div>
+            <button class="home-reasoning-toggle active" style="margin-top:12px;" onclick="toggleHomeEventList(this)">▼ Hide Event List</button>
+            <div class="home-event-list" style="display:flex; margin-top:12px;">${eventCards}</div>
         `;
     }
 
@@ -216,8 +216,8 @@ async function renderHomePage() {
                     <div class="vc-caption-overlay home-vc-overlay" data-home-overlay="video"></div>
                 </div>
             </div>
-            <button class="home-reasoning-toggle" style="margin-top:12px;" onclick="toggleHomeEventList(this)">▶ Show Event List</button>
-            <div class="home-event-list" style="display:none; margin-top:12px;">${eventCards}</div>
+            <button class="home-reasoning-toggle active" style="margin-top:12px;" onclick="toggleHomeEventList(this)">▼ Hide Event List</button>
+            <div class="home-event-list" style="display:flex; margin-top:12px;">${eventCards}</div>
         `;
     }
 
@@ -573,6 +573,11 @@ function renderAudioBenchmarkExamples() {
     }
 
     container.innerHTML = examples.map((example, index) => createAudioBenchmarkCardHTML(example, index)).join('');
+
+    // Expand first reasoning chain by default
+    if (examples.length > 0) {
+        setTimeout(() => toggleAudioReasoning('audio-0'), 0);
+    }
 }
 
 function createAudioBenchmarkCardHTML(example, index) {
@@ -641,7 +646,7 @@ function createAudioBenchmarkCardHTML(example, index) {
             </div>
             <div class="reasoning-toggle">
                 <button class="reasoning-btn" onclick="toggleAudioReasoning('${cardIndex}')">
-                    <span>View Audio Caption</span>
+                    <span>View Reasoning Chain</span>
                     <span class="toggle-icon">▼</span>
                 </button>
             </div>
@@ -873,6 +878,11 @@ function renderBenchmarkExamples() {
     }
 
     container.innerHTML = examples.map((example, index) => createBenchmarkCardHTML(example, index)).join('');
+
+    // Expand first reasoning chain by default
+    if (examples.length > 0) {
+        setTimeout(() => toggleReasoning(0), 0);
+    }
 }
 
 function createBenchmarkCardHTML(example, index) {
