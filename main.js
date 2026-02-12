@@ -1691,6 +1691,11 @@ function attachAudioSyncListeners() {
 // ============================================
 
 function initHomeCharts() {
+    // Register the plugin if available globally
+    if (typeof ChartDataLabels !== 'undefined') {
+        Chart.register(ChartDataLabels);
+    }
+
     const ctxAV = document.getElementById('avChart');
     const ctxAudio = document.getElementById('audioChart');
     const commonOptions = getChartOptions();
@@ -1704,11 +1709,24 @@ function initHomeCharts() {
                     {
                         label: ' Native MLLM',
                         data: [76.2, 65.1, 57.3, 58.5],
+                        modelNames: ['Qwen3-Omni', 'Gemini 2.5 Pro', 'Qwen3-Omni', 'PandaGPT'],
                         backgroundColor: 'rgba(160, 160, 176, 0.5)',
                         borderColor: 'rgba(160, 160, 176, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40
+                        maxBarThickness: 40,
+                        datalabels: {
+                            display: true,
+                            align: 'end',
+                            anchor: 'end',
+                            offset: -20,
+                            color: '#e0e0e0',
+                            font: { size: 9, family: 'Inter', weight: 500 },
+                            formatter: function (value, context) {
+                                return context.dataset.modelNames[context.dataIndex];
+                            },
+                            rotation: -90
+                        }
                     },
                     {
                         label: ' TAC-V + Gemini 3',
@@ -1717,7 +1735,8 @@ function initHomeCharts() {
                         borderColor: 'rgba(99, 102, 241, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40
+                        maxBarThickness: 40,
+                        datalabels: { display: false }
                     }
                 ]
             },
@@ -1732,22 +1751,36 @@ function initHomeCharts() {
                 labels: ['MMAU', 'MMAR', 'MMSU', 'MMAU-Pro'],
                 datasets: [
                     {
-                        label: 'Native LALM (SOTA)',
+                        label: ' Native LALM',
                         data: [75.9, 60.1, 62.3, 59.2],
+                        modelNames: ['Audio Thinker', 'Audio Flamingo 3', 'Audio Flamingo 3', 'Gemini 2.5 Flash'],
                         backgroundColor: 'rgba(160, 160, 176, 0.5)',
                         borderColor: 'rgba(160, 160, 176, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40
+                        maxBarThickness: 40,
+                        datalabels: {
+                            display: true,
+                            align: 'end',
+                            anchor: 'end',
+                            offset: -20,
+                            color: '#e0e0e0',
+                            font: { size: 9, family: 'Inter', weight: 500 },
+                            formatter: function (value, context) {
+                                return context.dataset.modelNames[context.dataIndex];
+                            },
+                            rotation: -90
+                        }
                     },
                     {
-                        label: 'TAC + Gemini 3',
+                        label: ' TAC + Gemini 3',
                         data: [72.2, 71.9, 72.4, 62.9],
                         backgroundColor: 'rgba(99, 102, 241, 0.8)',
                         borderColor: 'rgba(99, 102, 241, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40
+                        maxBarThickness: 40,
+                        datalabels: { display: false }
                     }
                 ]
             },
@@ -1778,6 +1811,11 @@ function getChartOptions() {
                         return context.dataset.label + ': ' + context.parsed.y;
                     }
                 }
+            },
+            datalabels: {
+                display: false, // Default to false
+                clip: false,
+                clamp: true
             }
         },
         scales: {
