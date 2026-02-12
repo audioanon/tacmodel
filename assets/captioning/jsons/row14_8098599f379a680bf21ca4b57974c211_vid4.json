@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "description": "Emergency vehicle passing",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.903
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 0.4,
+      "end_time": 1.9,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.743
+    },
+    {
+      "description": "Intimate jazz with walking bass and syncopated piano",
+      "start_time": 0.8,
+      "end_time": 15.0,
+      "duration": 14.2,
+      "type": "music",
+      "confidence": 0.97
+    },
+    {
+      "description": "Car engine idling then accelerating",
+      "start_time": 3.2,
+      "end_time": 5.6,
+      "duration": 2.3999999999999995,
+      "type": "sfx",
+      "confidence": 0.476
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 5.3,
+      "end_time": 8.2,
+      "duration": 2.8999999999999995,
+      "type": "speech",
+      "confidence": 0.794
+    },
+    {
+      "description": "Crowd yelling in unison",
+      "start_time": 5.3,
+      "end_time": 10.7,
+      "duration": 5.3999999999999995,
+      "type": "sfx",
+      "confidence": 0.986
+    },
+    {
+      "description": "Car engine starts and idles",
+      "start_time": 10.7,
+      "end_time": 14.0,
+      "duration": 3.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.267
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 10.8,
+      "end_time": 12.2,
+      "duration": 1.3999999999999986,
+      "type": "sfx",
+      "confidence": 0.582
+    },
+    {
+      "description": "Engine revving loudly",
+      "start_time": 11.1,
+      "end_time": 15.0,
+      "duration": 3.9000000000000004,
+      "type": "sfx",
+      "confidence": 0.663
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 11.6,
+      "end_time": 13.9,
+      "duration": 2.3000000000000007,
+      "type": "speech",
+      "confidence": 0.712
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.352,
+        "end": 13.619,
+        "text": " This whole time though, we're coming to get you.",
+        "words": [
+          {
+            "word": "This",
+            "start": 0.352,
+            "end": 0.713,
+            "score": 0.442
+          },
+          {
+            "word": "whole",
+            "start": 0.793,
+            "end": 0.953,
+            "score": 0.303
+          },
+          {
+            "word": "time",
+            "start": 0.993,
+            "end": 1.214,
+            "score": 0.36
+          },
+          {
+            "word": "though,",
+            "start": 1.254,
+            "end": 8.168,
+            "score": 0.485
+          },
+          {
+            "word": "we're",
+            "start": 11.555,
+            "end": 11.735,
+            "score": 0.299
+          },
+          {
+            "word": "coming",
+            "start": 12.036,
+            "end": 12.317,
+            "score": 0.554
+          },
+          {
+            "word": "to",
+            "start": 12.337,
+            "end": 12.437,
+            "score": 0.724
+          },
+          {
+            "word": "get",
+            "start": 12.858,
+            "end": 12.958,
+            "score": 0.426
+          },
+          {
+            "word": "you.",
+            "start": 13.058,
+            "end": 13.619,
+            "score": 0.512
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.381,
+        "end": 15.002,
+        "text": "They give out",
+        "words": [
+          {
+            "word": "They",
+            "start": 14.381,
+            "end": 14.621,
+            "score": 0.646
+          },
+          {
+            "word": "give",
+            "start": 14.701,
+            "end": 14.922,
+            "score": 0.868
+          },
+          {
+            "word": "out",
+            "start": 14.942,
+            "end": 15.002,
+            "score": 0.143
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

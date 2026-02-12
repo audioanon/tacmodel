@@ -1,0 +1,146 @@
+{
+  "events": [
+    {
+      "description": "Low-frequency ambient tone",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.929
+    },
+    {
+      "description": "Male voice (fearful)",
+      "start_time": 7.4,
+      "end_time": 7.8,
+      "duration": 0.39999999999999947,
+      "type": "speech",
+      "confidence": 0.981
+    },
+    {
+      "description": "Fast-moving air sound",
+      "start_time": 8.8,
+      "end_time": 10.4,
+      "duration": 1.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.872
+    },
+    {
+      "description": "Male voice (fearful)",
+      "start_time": 10.0,
+      "end_time": 13.8,
+      "duration": 3.8000000000000007,
+      "type": "speech",
+      "confidence": 0.95
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 11.4,
+      "end_time": 12.3,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.904
+    },
+    {
+      "description": "Engine revving loudly",
+      "start_time": 11.7,
+      "end_time": 15.0,
+      "duration": 3.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.466
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 13.9,
+      "end_time": 14.9,
+      "duration": 1.0,
+      "type": "sfx",
+      "confidence": 0.603
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 9.97,
+        "end": 14.175,
+        "text": " Sei convinto che esistono scherzi della natura dotati di poteri speciali.",
+        "words": [
+          {
+            "word": "Sei",
+            "start": 9.97,
+            "end": 10.232,
+            "score": 0.332
+          },
+          {
+            "word": "convinto",
+            "start": 10.292,
+            "end": 10.614,
+            "score": 0.648
+          },
+          {
+            "word": "che",
+            "start": 10.674,
+            "end": 10.735,
+            "score": 0.868
+          },
+          {
+            "word": "esistono",
+            "start": 10.755,
+            "end": 11.177,
+            "score": 0.774
+          },
+          {
+            "word": "scherzi",
+            "start": 11.358,
+            "end": 11.68,
+            "score": 0.916
+          },
+          {
+            "word": "della",
+            "start": 11.761,
+            "end": 11.942,
+            "score": 0.981
+          },
+          {
+            "word": "natura",
+            "start": 11.982,
+            "end": 12.244,
+            "score": 0.937
+          },
+          {
+            "word": "dotati",
+            "start": 12.465,
+            "end": 12.767,
+            "score": 0.984
+          },
+          {
+            "word": "di",
+            "start": 12.807,
+            "end": 12.908,
+            "score": 0.371
+          },
+          {
+            "word": "poteri",
+            "start": 12.968,
+            "end": 13.229,
+            "score": 0.605
+          },
+          {
+            "word": "speciali.",
+            "start": 13.29,
+            "end": 14.175,
+            "score": 0.905
+          }
+        ],
+        "detected_language": "it"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

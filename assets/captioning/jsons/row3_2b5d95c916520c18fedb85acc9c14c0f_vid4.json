@@ -1,0 +1,162 @@
+{
+  "events": [
+    {
+      "description": "Distant traffic and birds",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.334
+    },
+    {
+      "description": "Engine revving loudly",
+      "start_time": 0.0,
+      "end_time": 7.0,
+      "duration": 7.0,
+      "type": "sfx",
+      "confidence": 0.645
+    },
+    {
+      "description": "Driving beat, distorted guitars, intense energy",
+      "start_time": 0.1,
+      "end_time": 15.0,
+      "duration": 14.9,
+      "type": "music",
+      "confidence": 0.874
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 7.7,
+      "end_time": 9.0,
+      "duration": 1.2999999999999998,
+      "type": "speech",
+      "confidence": 0.895
+    },
+    {
+      "description": "Male voice (angry)",
+      "start_time": 9.1,
+      "end_time": 10.7,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.964
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 11.2,
+      "end_time": 14.0,
+      "duration": 2.8000000000000007,
+      "type": "sfx",
+      "confidence": 0.86
+    },
+    {
+      "description": "Sharp metallic whoosh",
+      "start_time": 11.7,
+      "end_time": 12.5,
+      "duration": 0.8000000000000007,
+      "type": "sfx",
+      "confidence": 0.754
+    },
+    {
+      "description": "Male voice (angry)",
+      "start_time": 13.4,
+      "end_time": 15.0,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.934
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 7.777,
+        "end": 8.866,
+        "text": " Are we there yet?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 7.777,
+            "end": 7.898,
+            "score": 0.247
+          },
+          {
+            "word": "we",
+            "start": 7.918,
+            "end": 8.14,
+            "score": 0.852
+          },
+          {
+            "word": "there",
+            "start": 8.18,
+            "end": 8.624,
+            "score": 0.678
+          },
+          {
+            "word": "yet?",
+            "start": 8.644,
+            "end": 8.866,
+            "score": 0.858
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.148,
+        "end": 10.902,
+        "text": "We get there when we get there!",
+        "words": [
+          {
+            "word": "We",
+            "start": 9.148,
+            "end": 9.309,
+            "score": 0.906
+          },
+          {
+            "word": "get",
+            "start": 9.35,
+            "end": 9.491,
+            "score": 0.69
+          },
+          {
+            "word": "there",
+            "start": 9.511,
+            "end": 9.713,
+            "score": 0.81
+          },
+          {
+            "word": "when",
+            "start": 9.813,
+            "end": 9.975,
+            "score": 0.986
+          },
+          {
+            "word": "we",
+            "start": 10.015,
+            "end": 10.156,
+            "score": 0.997
+          },
+          {
+            "word": "get",
+            "start": 10.196,
+            "end": 10.358,
+            "score": 0.84
+          },
+          {
+            "word": "there!",
+            "start": 10.398,
+            "end": 10.902,
+            "score": 0.888
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

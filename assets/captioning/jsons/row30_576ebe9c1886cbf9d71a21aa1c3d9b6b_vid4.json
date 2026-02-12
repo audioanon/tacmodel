@@ -1,0 +1,186 @@
+{
+  "events": [
+    {
+      "description": "Dripping water in a dark cave",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.707
+    },
+    {
+      "description": "Low growl from beast",
+      "start_time": 0.0,
+      "end_time": 2.0,
+      "duration": 2.0,
+      "type": "sfx",
+      "confidence": 0.81
+    },
+    {
+      "description": "Low growl from beast",
+      "start_time": 3.2,
+      "end_time": 4.8,
+      "duration": 1.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.81
+    },
+    {
+      "description": "Low-frequency vibration",
+      "start_time": 3.5,
+      "end_time": 15.0,
+      "duration": 11.5,
+      "type": "sfx",
+      "confidence": 0.8
+    },
+    {
+      "description": "Low growl from beast",
+      "start_time": 5.4,
+      "end_time": 6.6,
+      "duration": 1.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.754
+    },
+    {
+      "description": "Male voice (whispering)",
+      "start_time": 7.1,
+      "end_time": 7.4,
+      "duration": 0.3000000000000007,
+      "type": "speech",
+      "confidence": 0.956
+    },
+    {
+      "description": "Low growl from beast",
+      "start_time": 8.2,
+      "end_time": 9.5,
+      "duration": 1.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.508
+    },
+    {
+      "description": "Male voice (whispering)",
+      "start_time": 9.8,
+      "end_time": 12.1,
+      "duration": 2.299999999999999,
+      "type": "speech",
+      "confidence": 0.936
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 13.4,
+      "end_time": 14.2,
+      "duration": 0.7999999999999989,
+      "type": "speech",
+      "confidence": 0.855
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.048,
+        "end": 15.002,
+        "text": " \u0628\u06be\u06af\u0648 \u0627\u06af\u0631 \u062a\u0645 \u06a9\u0648 \u0628\u06c1\u062a \u067e\u06cc\u0633\u06c1 \u0645\u0644 \u062c\u0627\u0626\u06d2 \u062a\u0648 \u062a\u0645 \u06a9\u06cc\u0627 \u06a9\u06be\u0631\u06d2 \u06af\u0627 \u06a9\u062a\u0646\u0627 \u0635\u0627\u062d\u0628\u06c1",
+        "words": [
+          {
+            "word": "\u0628\u06be\u06af\u0648",
+            "start": 0.048,
+            "end": 9.77,
+            "score": 0.988
+          },
+          {
+            "word": "\u0627\u06af\u0631",
+            "start": 9.79,
+            "end": 9.991,
+            "score": 0.881
+          },
+          {
+            "word": "\u062a\u0645",
+            "start": 10.011,
+            "end": 10.131,
+            "score": 0.824
+          },
+          {
+            "word": "\u06a9\u0648",
+            "start": 10.171,
+            "end": 10.231,
+            "score": 0.914
+          },
+          {
+            "word": "\u0628\u06c1\u062a",
+            "start": 10.271,
+            "end": 10.492,
+            "score": 0.848
+          },
+          {
+            "word": "\u067e\u06cc\u0633\u06c1",
+            "start": 10.532,
+            "end": 10.792,
+            "score": 0.599
+          },
+          {
+            "word": "\u0645\u0644",
+            "start": 10.813,
+            "end": 10.953,
+            "score": 0.824
+          },
+          {
+            "word": "\u062c\u0627\u0626\u06d2",
+            "start": 10.993,
+            "end": 11.193,
+            "score": 0.931
+          },
+          {
+            "word": "\u062a\u0648",
+            "start": 11.394,
+            "end": 11.474,
+            "score": 0.997
+          },
+          {
+            "word": "\u062a\u0645",
+            "start": 11.534,
+            "end": 11.695,
+            "score": 0.383
+          },
+          {
+            "word": "\u06a9\u06cc\u0627",
+            "start": 11.715,
+            "end": 11.835,
+            "score": 0.995
+          },
+          {
+            "word": "\u06a9\u06be\u0631\u06d2",
+            "start": 11.895,
+            "end": 13.539,
+            "score": 0.675
+          },
+          {
+            "word": "\u06af\u0627",
+            "start": 13.559,
+            "end": 13.599,
+            "score": 0.0
+          },
+          {
+            "word": "\u06a9\u062a\u0646\u0627",
+            "start": 13.619,
+            "end": 13.739,
+            "score": 0.621
+          },
+          {
+            "word": "\u0635\u0627\u062d\u0628\u06c1",
+            "start": 13.819,
+            "end": 15.002,
+            "score": 0.54
+          }
+        ],
+        "detected_language": "ur"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "events": [
+    {
+      "description": "Heroic brass and strings build to a powerful climax",
+      "start_time": 0.0,
+      "end_time": 10.8,
+      "duration": 10.8,
+      "type": "music",
+      "confidence": 0.991
+    },
+    {
+      "description": "Metal door slams shut",
+      "start_time": 0.6,
+      "end_time": 1.4,
+      "duration": 0.7999999999999999,
+      "type": "sfx",
+      "confidence": 0.058
+    },
+    {
+      "description": "Metal door slams shut",
+      "start_time": 3.3,
+      "end_time": 4.4,
+      "duration": 1.1000000000000005,
+      "type": "sfx",
+      "confidence": 0.09
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 6.2,
+      "end_time": 6.8,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.471
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 8.6,
+      "end_time": 9.8,
+      "duration": 1.200000000000001,
+      "type": "sfx",
+      "confidence": 0.832
+    },
+    {
+      "description": "Click",
+      "start_time": 8.6,
+      "end_time": 9.0,
+      "duration": 0.40000000000000036,
+      "type": "sfx",
+      "confidence": 0.139
+    },
+    {
+      "description": "Male voice (persuasive)",
+      "start_time": 11.0,
+      "end_time": 11.9,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.936
+    },
+    {
+      "description": "Heroic brass and strings build to a powerful climax",
+      "start_time": 12.0,
+      "end_time": 15.0,
+      "duration": 3.0,
+      "type": "music",
+      "confidence": 0.741
+    },
+    {
+      "description": "Male voice (persuasive)",
+      "start_time": 12.2,
+      "end_time": 13.6,
+      "duration": 1.4000000000000004,
+      "type": "speech",
+      "confidence": 0.947
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 13.9,
+      "end_time": 14.6,
+      "duration": 0.6999999999999993,
+      "type": "speech",
+      "confidence": 0.331
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 10.983,
+        "end": 13.888,
+        "text": " It isn't love, it's human desire.",
+        "words": [
+          {
+            "word": "It",
+            "start": 10.983,
+            "end": 11.144,
+            "score": 0.782
+          },
+          {
+            "word": "isn't",
+            "start": 11.225,
+            "end": 11.427,
+            "score": 0.653
+          },
+          {
+            "word": "love,",
+            "start": 11.508,
+            "end": 11.851,
+            "score": 0.935
+          },
+          {
+            "word": "it's",
+            "start": 11.891,
+            "end": 12.456,
+            "score": 0.828
+          },
+          {
+            "word": "human",
+            "start": 12.496,
+            "end": 12.98,
+            "score": 0.905
+          },
+          {
+            "word": "desire.",
+            "start": 13.122,
+            "end": 13.888,
+            "score": 0.886
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

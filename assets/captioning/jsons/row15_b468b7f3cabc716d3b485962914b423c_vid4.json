@@ -1,0 +1,304 @@
+{
+  "events": [
+    {
+      "description": "Low hum in empty space",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.894
+    },
+    {
+      "description": "Female voice (urgent)",
+      "start_time": 0.2,
+      "end_time": 4.0,
+      "duration": 3.8,
+      "type": "speech",
+      "confidence": 0.927
+    },
+    {
+      "description": "Cinematic tension builds with strings and brass",
+      "start_time": 3.8,
+      "end_time": 11.3,
+      "duration": 7.500000000000001,
+      "type": "music",
+      "confidence": 0.973
+    },
+    {
+      "description": "Metal door closing",
+      "start_time": 3.9,
+      "end_time": 5.6,
+      "duration": 1.6999999999999997,
+      "type": "sfx",
+      "confidence": 0.495
+    },
+    {
+      "description": "Female voice (urgent)",
+      "start_time": 4.3,
+      "end_time": 8.0,
+      "duration": 3.7,
+      "type": "speech",
+      "confidence": 0.905
+    },
+    {
+      "description": "Metal door closing",
+      "start_time": 8.0,
+      "end_time": 8.4,
+      "duration": 0.40000000000000036,
+      "type": "sfx",
+      "confidence": 0.87
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 9.8,
+      "end_time": 11.3,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.744
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 11.3,
+      "end_time": 15.0,
+      "duration": 3.6999999999999993,
+      "type": "speech",
+      "confidence": 0.921
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.166,
+        "end": 3.935,
+        "text": " We are fighting a war 30 years in the future.",
+        "words": [
+          {
+            "word": "We",
+            "start": 0.166,
+            "end": 0.447,
+            "score": 0.651
+          },
+          {
+            "word": "are",
+            "start": 0.647,
+            "end": 0.727,
+            "score": 0.902
+          },
+          {
+            "word": "fighting",
+            "start": 0.848,
+            "end": 1.289,
+            "score": 0.788
+          },
+          {
+            "word": "a",
+            "start": 1.309,
+            "end": 1.329,
+            "score": 1.0
+          },
+          {
+            "word": "war",
+            "start": 1.529,
+            "end": 1.83,
+            "score": 0.784
+          },
+          {
+            "word": "30",
+            "start": 1.85,
+            "end": 1.89,
+            "score": 0.995
+          },
+          {
+            "word": "years",
+            "start": 2.291,
+            "end": 2.873,
+            "score": 0.767
+          },
+          {
+            "word": "in",
+            "start": 2.893,
+            "end": 3.334,
+            "score": 0.889
+          },
+          {
+            "word": "the",
+            "start": 3.374,
+            "end": 3.434,
+            "score": 0.976
+          },
+          {
+            "word": "future.",
+            "start": 3.514,
+            "end": 3.935,
+            "score": 0.821
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 3.995,
+        "end": 5.719,
+        "text": "Our enemy is not human.",
+        "words": [
+          {
+            "word": "Our",
+            "start": 3.995,
+            "end": 4.456,
+            "score": 0.927
+          },
+          {
+            "word": "enemy",
+            "start": 4.497,
+            "end": 4.857,
+            "score": 0.943
+          },
+          {
+            "word": "is",
+            "start": 4.938,
+            "end": 4.998,
+            "score": 0.738
+          },
+          {
+            "word": "not",
+            "start": 5.038,
+            "end": 5.298,
+            "score": 0.801
+          },
+          {
+            "word": "human.",
+            "start": 5.379,
+            "end": 5.719,
+            "score": 0.954
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.02,
+        "end": 7.905,
+        "text": "We need you to fight.",
+        "words": [
+          {
+            "word": "We",
+            "start": 6.02,
+            "end": 6.361,
+            "score": 0.972
+          },
+          {
+            "word": "need",
+            "start": 6.481,
+            "end": 6.822,
+            "score": 0.918
+          },
+          {
+            "word": "you",
+            "start": 6.922,
+            "end": 7.223,
+            "score": 0.8
+          },
+          {
+            "word": "to",
+            "start": 7.323,
+            "end": 7.444,
+            "score": 0.928
+          },
+          {
+            "word": "fight.",
+            "start": 7.584,
+            "end": 7.905,
+            "score": 0.831
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.925,
+        "end": 15.002,
+        "text": "This is a film about people living in present day who are",
+        "words": [
+          {
+            "word": "This",
+            "start": 7.925,
+            "end": 11.473,
+            "score": 0.99
+          },
+          {
+            "word": "is",
+            "start": 11.554,
+            "end": 11.614,
+            "score": 0.912
+          },
+          {
+            "word": "a",
+            "start": 11.674,
+            "end": 11.694,
+            "score": 0.993
+          },
+          {
+            "word": "film",
+            "start": 11.774,
+            "end": 12.055,
+            "score": 0.92
+          },
+          {
+            "word": "about",
+            "start": 12.095,
+            "end": 12.656,
+            "score": 0.952
+          },
+          {
+            "word": "people",
+            "start": 12.977,
+            "end": 13.258,
+            "score": 0.644
+          },
+          {
+            "word": "living",
+            "start": 13.338,
+            "end": 13.599,
+            "score": 0.853
+          },
+          {
+            "word": "in",
+            "start": 13.639,
+            "end": 13.679,
+            "score": 0.742
+          },
+          {
+            "word": "present",
+            "start": 13.759,
+            "end": 14.06,
+            "score": 0.846
+          },
+          {
+            "word": "day",
+            "start": 14.1,
+            "end": 14.3,
+            "score": 0.928
+          },
+          {
+            "word": "who",
+            "start": 14.34,
+            "end": 14.561,
+            "score": 0.813
+          },
+          {
+            "word": "are",
+            "start": 14.641,
+            "end": 15.002,
+            "score": 0.663
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

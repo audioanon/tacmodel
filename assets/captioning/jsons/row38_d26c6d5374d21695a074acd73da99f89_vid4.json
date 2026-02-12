@@ -1,0 +1,80 @@
+{
+  "events": [
+    {
+      "description": "Crowd and train sounds",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.98
+    },
+    {
+      "description": "Soft piano, slow, reflective, emotional",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.961
+    },
+    {
+      "description": "Sustained string tone",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "sfx",
+      "confidence": 0.963
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 10.325,
+        "end": 10.97,
+        "text": " And that's.",
+        "words": [
+          {
+            "word": "And",
+            "start": 10.325,
+            "end": 10.547,
+            "score": 0.253
+          },
+          {
+            "word": "that's.",
+            "start": 10.567,
+            "end": 10.97,
+            "score": 0.419
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.559,
+        "end": 15.002,
+        "text": "I'm welcome.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 14.559,
+            "end": 14.639,
+            "score": 0.278
+          },
+          {
+            "word": "welcome.",
+            "start": 14.7,
+            "end": 15.002,
+            "score": 0.284
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

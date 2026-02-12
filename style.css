@@ -1593,6 +1593,101 @@ body::before {
     line-height: 1.5;
 }
 
+/* Event cards for audio captioning */
+.vc-event-card {
+    padding: 10px 14px;
+    border-radius: var(--radius-sm);
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.vc-event-card:hover {
+    background: rgba(255, 255, 255, 0.06);
+}
+
+.vc-event-card.active {
+    background: rgba(99, 102, 241, 0.12);
+    border-color: rgba(99, 102, 241, 0.4);
+    box-shadow: 0 0 12px rgba(99, 102, 241, 0.3);
+    transform: scale(1.02);
+}
+
+.vc-event-badge {
+    display: inline-block;
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 2px 6px;
+    border-radius: 4px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.vc-event-badge.music {
+    background: rgba(59, 130, 246, 0.7);
+}
+
+.vc-event-badge.speech {
+    background: rgba(16, 185, 129, 0.7);
+}
+
+.vc-event-badge.sfx {
+    background: rgba(245, 158, 11, 0.7);
+}
+
+.vc-event-badge.visual {
+    background: rgba(139, 92, 246, 0.7);
+}
+
+/* Caption overlay on mel spectrogram */
+.ac-caption-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 8px 12px;
+    background: rgba(0, 0, 0, 0.8);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    text-align: center;
+    font-size: 0.78rem;
+    line-height: 1.5;
+    z-index: 15;
+}
+
+.ac-caption-overlay.visible {
+    opacity: 1;
+}
+
+.ac-overlay-line {
+    padding: 1px 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #fff;
+}
+
+.ac-overlay-type {
+    font-weight: 600;
+    margin-right: 4px;
+}
+
+.ac-overlay-type.music {
+    color: #60a5fa;
+}
+
+.ac-overlay-type.speech {
+    color: #34d399;
+}
+
+.ac-overlay-type.sfx {
+    color: #fbbf24;
+}
+
 .show-more-btn {
     padding: 12px 32px;
     border-radius: var(--radius-md);
@@ -1713,4 +1808,163 @@ body::before {
     .vc-caption-overlay {
         font-size: 0.7rem;
     }
+}
+
+/* Audio Captioning Styles */
+
+.ac-filter-bar {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+
+.ac-filter-btn {
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: var(--text-secondary);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.ac-filter-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--text-primary);
+}
+
+.ac-filter-btn.active {
+    background: var(--accent-primary);
+    color: white;
+    border-color: var(--accent-primary);
+}
+
+.ac-examples-container {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.ac-example-card {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    gap: 24px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+}
+
+.ac-visual-side {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.ac-spec-wrapper {
+    position: relative;
+    width: 100%;
+    height: 140px;
+    background: #0d111c;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+    cursor: crosshair;
+}
+
+.ac-melspec {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.ac-playhead {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 2px;
+    background: #ff4444;
+    z-index: 10;
+    pointer-events: none;
+    box-shadow: 0 0 4px rgba(255, 0, 0, 0.5);
+}
+
+.ac-overlay-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+}
+
+.ac-overlay-box {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.1);
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+    border-right: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.ac-overlay-box.music {
+    background: rgba(59, 130, 246, 0.15);
+    border-color: rgba(59, 130, 246, 0.4);
+}
+
+.ac-overlay-box.speech {
+    background: rgba(16, 185, 129, 0.15);
+    border-color: rgba(16, 185, 129, 0.4);
+}
+
+.ac-overlay-box.sfx {
+    background: rgba(245, 158, 11, 0.15);
+    border-color: rgba(245, 158, 11, 0.4);
+}
+
+.ac-overlay-box.visual {
+    background: rgba(139, 92, 246, 0.15);
+    border-color: rgba(139, 92, 246, 0.4);
+}
+
+.ac-audio {
+    width: 100%;
+    height: 40px;
+    opacity: 0.9;
+}
+
+.ac-events-side {
+    display: flex;
+    flex-direction: column;
+    min-height: 0;
+    max-height: 400px;
+}
+
+@media (max-width: 900px) {
+    .ac-example-card {
+        grid-template-columns: 1fr;
+    }
+}
+
+.ac-caption-overlay {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    pointer-events: none;
+    padding: 6px 10px;
+    background: rgba(0, 0, 0, 0.6);
+    backdrop-filter: blur(2px);
+    opacity: 0;
+    transition: opacity 0.2s;
+    font-size: 0.85rem;
+    z-index: 5;
+}
+
+.ac-caption-overlay.visible {
+    opacity: 1;
 }

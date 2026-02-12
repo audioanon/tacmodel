@@ -1,0 +1,176 @@
+{
+  "events": [
+    {
+      "description": "Distant thunder and rain",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.721
+    },
+    {
+      "description": "Driving rhythm, distorted guitars, intense energy",
+      "start_time": 0.2,
+      "end_time": 15.0,
+      "duration": 14.8,
+      "type": "music",
+      "confidence": 0.943
+    },
+    {
+      "description": "Car engine revving",
+      "start_time": 3.4,
+      "end_time": 7.7,
+      "duration": 4.300000000000001,
+      "type": "sfx",
+      "confidence": 0.675
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 4.8,
+      "end_time": 9.0,
+      "duration": 4.2,
+      "type": "speech",
+      "confidence": 0.811
+    },
+    {
+      "description": "Male voice (determined)",
+      "start_time": 11.7,
+      "end_time": 12.9,
+      "duration": 1.200000000000001,
+      "type": "speech",
+      "confidence": 0.914
+    },
+    {
+      "description": "Male voice (determined)",
+      "start_time": 13.4,
+      "end_time": 15.0,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.916
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 4.874,
+        "end": 8.945,
+        "text": " Off Alaska's southern coast sits one of the most dangerous spots on any map.",
+        "words": [
+          {
+            "word": "Off",
+            "start": 4.874,
+            "end": 5.115,
+            "score": 0.721
+          },
+          {
+            "word": "Alaska's",
+            "start": 5.175,
+            "end": 5.656,
+            "score": 0.927
+          },
+          {
+            "word": "southern",
+            "start": 5.736,
+            "end": 6.037,
+            "score": 0.879
+          },
+          {
+            "word": "coast",
+            "start": 6.097,
+            "end": 6.358,
+            "score": 0.841
+          },
+          {
+            "word": "sits",
+            "start": 6.418,
+            "end": 6.619,
+            "score": 0.808
+          },
+          {
+            "word": "one",
+            "start": 6.699,
+            "end": 6.779,
+            "score": 0.973
+          },
+          {
+            "word": "of",
+            "start": 6.819,
+            "end": 6.859,
+            "score": 1.0
+          },
+          {
+            "word": "the",
+            "start": 6.9,
+            "end": 6.96,
+            "score": 0.994
+          },
+          {
+            "word": "most",
+            "start": 7.0,
+            "end": 7.16,
+            "score": 0.734
+          },
+          {
+            "word": "dangerous",
+            "start": 7.241,
+            "end": 7.642,
+            "score": 0.711
+          },
+          {
+            "word": "spots",
+            "start": 7.702,
+            "end": 8.023,
+            "score": 0.753
+          },
+          {
+            "word": "on",
+            "start": 8.103,
+            "end": 8.163,
+            "score": 0.972
+          },
+          {
+            "word": "any",
+            "start": 8.364,
+            "end": 8.524,
+            "score": 0.909
+          },
+          {
+            "word": "map.",
+            "start": 8.584,
+            "end": 8.945,
+            "score": 0.96
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.773,
+        "end": 15.002,
+        "text": "Kodiak Island.",
+        "words": [
+          {
+            "word": "Kodiak",
+            "start": 11.773,
+            "end": 12.335,
+            "score": 0.881
+          },
+          {
+            "word": "Island.",
+            "start": 12.475,
+            "end": 15.002,
+            "score": 0.724
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

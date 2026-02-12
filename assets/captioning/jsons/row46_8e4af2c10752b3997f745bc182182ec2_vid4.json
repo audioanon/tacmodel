@@ -1,0 +1,264 @@
+{
+  "events": [
+    {
+      "description": "Natural bird sounds in forest",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.964
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 5.6,
+      "end_time": 6.6,
+      "duration": 1.0,
+      "type": "speech",
+      "confidence": 0.525
+    },
+    {
+      "description": "Fast air movement",
+      "start_time": 6.8,
+      "end_time": 7.0,
+      "duration": 0.20000000000000018,
+      "type": "sfx",
+      "confidence": 0.25
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 7.5,
+      "end_time": 8.0,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.701
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 8.6,
+      "end_time": 10.0,
+      "duration": 1.4000000000000004,
+      "type": "speech",
+      "confidence": 0.231
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 10.7,
+      "end_time": 11.4,
+      "duration": 0.7000000000000011,
+      "type": "speech",
+      "confidence": 0.949
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 13.5,
+      "end_time": 14.4,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.832
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 5.633,
+        "end": 6.676,
+        "text": " Are you here for cross country?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 5.633,
+            "end": 5.793,
+            "score": 0.277
+          },
+          {
+            "word": "you",
+            "start": 5.814,
+            "end": 5.894,
+            "score": 0.941
+          },
+          {
+            "word": "here",
+            "start": 5.934,
+            "end": 6.034,
+            "score": 0.818
+          },
+          {
+            "word": "for",
+            "start": 6.054,
+            "end": 6.135,
+            "score": 0.865
+          },
+          {
+            "word": "cross",
+            "start": 6.175,
+            "end": 6.375,
+            "score": 0.935
+          },
+          {
+            "word": "country?",
+            "start": 6.415,
+            "end": 6.676,
+            "score": 0.79
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.499,
+        "end": 7.96,
+        "text": "Yes, sir.",
+        "words": [
+          {
+            "word": "Yes,",
+            "start": 7.499,
+            "end": 7.719,
+            "score": 0.879
+          },
+          {
+            "word": "sir.",
+            "start": 7.76,
+            "end": 7.96,
+            "score": 0.782
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.562,
+        "end": 10.047,
+        "text": "Do you know anybody else coming to try out?",
+        "words": [
+          {
+            "word": "Do",
+            "start": 8.562,
+            "end": 8.662,
+            "score": 0.958
+          },
+          {
+            "word": "you",
+            "start": 8.703,
+            "end": 8.783,
+            "score": 0.983
+          },
+          {
+            "word": "know",
+            "start": 8.823,
+            "end": 8.943,
+            "score": 0.911
+          },
+          {
+            "word": "anybody",
+            "start": 9.003,
+            "end": 9.284,
+            "score": 0.929
+          },
+          {
+            "word": "else",
+            "start": 9.324,
+            "end": 9.445,
+            "score": 0.976
+          },
+          {
+            "word": "coming",
+            "start": 9.465,
+            "end": 9.645,
+            "score": 0.643
+          },
+          {
+            "word": "to",
+            "start": 9.666,
+            "end": 9.706,
+            "score": 0.948
+          },
+          {
+            "word": "try",
+            "start": 9.726,
+            "end": 9.946,
+            "score": 0.564
+          },
+          {
+            "word": "out?",
+            "start": 9.966,
+            "end": 10.047,
+            "score": 0.498
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.789,
+        "end": 11.331,
+        "text": "No, sir.",
+        "words": [
+          {
+            "word": "No,",
+            "start": 10.789,
+            "end": 11.05,
+            "score": 0.716
+          },
+          {
+            "word": "sir.",
+            "start": 11.07,
+            "end": 11.331,
+            "score": 0.773
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.658,
+        "end": 13.778,
+        "text": "Okay.",
+        "words": [
+          {
+            "word": "Okay.",
+            "start": 13.658,
+            "end": 13.778,
+            "score": 0.306
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.019,
+        "end": 15.002,
+        "text": "Tell me your name.",
+        "words": [
+          {
+            "word": "Tell",
+            "start": 14.019,
+            "end": 14.119,
+            "score": 0.972
+          },
+          {
+            "word": "me",
+            "start": 14.139,
+            "end": 14.2,
+            "score": 0.746
+          },
+          {
+            "word": "your",
+            "start": 14.22,
+            "end": 14.3,
+            "score": 0.977
+          },
+          {
+            "word": "name.",
+            "start": 14.32,
+            "end": 15.002,
+            "score": 0.971
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

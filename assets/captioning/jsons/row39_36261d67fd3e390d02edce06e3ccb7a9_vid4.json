@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "description": "Background chatter and movement",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.489
+    },
+    {
+      "description": "Bright, bouncy melody with driving beat",
+      "start_time": 1.4,
+      "end_time": 14.9,
+      "duration": 13.5,
+      "type": "music",
+      "confidence": 0.904
+    },
+    {
+      "description": "Door opens with a squeak",
+      "start_time": 1.4,
+      "end_time": 3.5,
+      "duration": 2.1,
+      "type": "sfx",
+      "confidence": 0.636
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 7.591,
+        "end": 8.961,
+        "text": " Thank you.",
+        "words": [
+          {
+            "word": "Thank",
+            "start": 7.591,
+            "end": 7.857,
+            "score": 0.313
+          },
+          {
+            "word": "you.",
+            "start": 8.88,
+            "end": 8.961,
+            "score": 0.25
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

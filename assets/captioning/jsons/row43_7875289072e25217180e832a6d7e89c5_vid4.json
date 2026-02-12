@@ -1,0 +1,228 @@
+{
+  "events": [
+    {
+      "description": "Soft ambient noise",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.796
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 0.2,
+      "end_time": 3.8,
+      "duration": 3.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.909
+    },
+    {
+      "description": "Crisp paper sound",
+      "start_time": 1.7,
+      "end_time": 3.6,
+      "duration": 1.9000000000000001,
+      "type": "sfx",
+      "confidence": 0.819
+    },
+    {
+      "description": "Male voice (whispering)",
+      "start_time": 3.8,
+      "end_time": 5.1,
+      "duration": 1.2999999999999998,
+      "type": "speech",
+      "confidence": 0.862
+    },
+    {
+      "description": "Male voice (dramatic)",
+      "start_time": 4.3,
+      "end_time": 6.2,
+      "duration": 1.9000000000000004,
+      "type": "speech",
+      "confidence": 0.968
+    },
+    {
+      "description": "Male voice yelling in a battle-like tone",
+      "start_time": 6.4,
+      "end_time": 7.6,
+      "duration": 1.1999999999999993,
+      "type": "speech",
+      "confidence": 0.983
+    },
+    {
+      "description": "Metal door opens and closes",
+      "start_time": 7.6,
+      "end_time": 9.3,
+      "duration": 1.700000000000001,
+      "type": "sfx",
+      "confidence": 0.502
+    },
+    {
+      "description": "Metal door creaks open",
+      "start_time": 8.0,
+      "end_time": 11.1,
+      "duration": 3.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.679
+    },
+    {
+      "description": "Male voice (determined)",
+      "start_time": 11.4,
+      "end_time": 14.4,
+      "duration": 3.0,
+      "type": "music",
+      "confidence": 0.938
+    },
+    {
+      "description": "Male voice (positive)",
+      "start_time": 11.4,
+      "end_time": 14.4,
+      "duration": 3.0,
+      "type": "speech",
+      "confidence": 0.927
+    },
+    {
+      "description": "Squeaky door movement",
+      "start_time": 12.8,
+      "end_time": 15.0,
+      "duration": 2.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.222
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 3.828,
+        "end": 4.289,
+        "text": " Charlie.",
+        "words": [
+          {
+            "word": "Charlie.",
+            "start": 3.828,
+            "end": 4.289,
+            "score": 0.734
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.309,
+        "end": 5.051,
+        "text": "Charlie.",
+        "words": [
+          {
+            "word": "Charlie.",
+            "start": 4.309,
+            "end": 5.051,
+            "score": 0.814
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.131,
+        "end": 6.013,
+        "text": "Charlie Valentine.",
+        "words": [
+          {
+            "word": "Charlie",
+            "start": 5.131,
+            "end": 5.452,
+            "score": 0.792
+          },
+          {
+            "word": "Valentine.",
+            "start": 5.552,
+            "end": 6.013,
+            "score": 0.358
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.397,
+        "end": 7.898,
+        "text": "Charlie!",
+        "words": [
+          {
+            "word": "Charlie!",
+            "start": 7.397,
+            "end": 7.898,
+            "score": 0.35
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.527,
+        "end": 14.614,
+        "text": "He made a career out of ripping off criminals.",
+        "words": [
+          {
+            "word": "He",
+            "start": 11.527,
+            "end": 11.687,
+            "score": 0.863
+          },
+          {
+            "word": "made",
+            "start": 11.767,
+            "end": 11.928,
+            "score": 0.777
+          },
+          {
+            "word": "a",
+            "start": 11.988,
+            "end": 12.008,
+            "score": 0.99
+          },
+          {
+            "word": "career",
+            "start": 12.088,
+            "end": 12.549,
+            "score": 0.809
+          },
+          {
+            "word": "out",
+            "start": 12.589,
+            "end": 12.87,
+            "score": 0.898
+          },
+          {
+            "word": "of",
+            "start": 12.91,
+            "end": 12.95,
+            "score": 0.949
+          },
+          {
+            "word": "ripping",
+            "start": 12.99,
+            "end": 13.371,
+            "score": 0.799
+          },
+          {
+            "word": "off",
+            "start": 13.471,
+            "end": 13.592,
+            "score": 0.945
+          },
+          {
+            "word": "criminals.",
+            "start": 13.732,
+            "end": 14.614,
+            "score": 0.962
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "events": [
+    {
+      "description": "Kitchen sounds with clinking",
+      "start_time": 0.0,
+      "end_time": 13.0,
+      "duration": 13.0,
+      "type": "background",
+      "confidence": 0.999
+    },
+    {
+      "description": "Metal door opens and closes",
+      "start_time": 3.7,
+      "end_time": 4.1,
+      "duration": 0.39999999999999947,
+      "type": "sfx",
+      "confidence": 0.334
+    },
+    {
+      "description": "Metal blade scraping",
+      "start_time": 10.8,
+      "end_time": 12.6,
+      "duration": 1.799999999999999,
+      "type": "sfx",
+      "confidence": 0.909
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "events": [
+    {
+      "description": "Natural bird sounds",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.987
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 0.4,
+      "end_time": 2.9,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.925
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 3.5,
+      "end_time": 7.2,
+      "duration": 3.7,
+      "type": "speech",
+      "confidence": 0.913
+    },
+    {
+      "description": "Fast air movement",
+      "start_time": 7.4,
+      "end_time": 8.6,
+      "duration": 1.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.073
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 7.7,
+      "end_time": 10.2,
+      "duration": 2.499999999999999,
+      "type": "speech",
+      "confidence": 0.922
+    },
+    {
+      "description": "Wild cat growl",
+      "start_time": 8.9,
+      "end_time": 11.1,
+      "duration": 2.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.986
+    },
+    {
+      "description": "Deep bass impact",
+      "start_time": 11.1,
+      "end_time": 15.0,
+      "duration": 3.9000000000000004,
+      "type": "sfx",
+      "confidence": 0.875
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.419,
+        "end": 7.018,
+        "text": " Lacking the ability to make a quick getaway, sloths are at the mercy of Amazon's many predators.",
+        "words": [
+          {
+            "word": "Lacking",
+            "start": 0.419,
+            "end": 0.86,
+            "score": 0.703
+          },
+          {
+            "word": "the",
+            "start": 0.9,
+            "end": 1.061,
+            "score": 0.623
+          },
+          {
+            "word": "ability",
+            "start": 1.141,
+            "end": 1.502,
+            "score": 0.882
+          },
+          {
+            "word": "to",
+            "start": 1.562,
+            "end": 1.623,
+            "score": 0.993
+          },
+          {
+            "word": "make",
+            "start": 1.683,
+            "end": 1.843,
+            "score": 0.996
+          },
+          {
+            "word": "a",
+            "start": 1.883,
+            "end": 1.903,
+            "score": 0.887
+          },
+          {
+            "word": "quick",
+            "start": 1.984,
+            "end": 2.184,
+            "score": 0.957
+          },
+          {
+            "word": "getaway,",
+            "start": 2.305,
+            "end": 2.826,
+            "score": 0.9
+          },
+          {
+            "word": "sloths",
+            "start": 2.846,
+            "end": 3.969,
+            "score": 0.848
+          },
+          {
+            "word": "are",
+            "start": 4.27,
+            "end": 4.391,
+            "score": 0.979
+          },
+          {
+            "word": "at",
+            "start": 4.491,
+            "end": 4.551,
+            "score": 0.764
+          },
+          {
+            "word": "the",
+            "start": 4.571,
+            "end": 4.692,
+            "score": 0.791
+          },
+          {
+            "word": "mercy",
+            "start": 4.772,
+            "end": 5.193,
+            "score": 0.932
+          },
+          {
+            "word": "of",
+            "start": 5.273,
+            "end": 5.313,
+            "score": 1.0
+          },
+          {
+            "word": "Amazon's",
+            "start": 5.333,
+            "end": 6.015,
+            "score": 0.606
+          },
+          {
+            "word": "many",
+            "start": 6.156,
+            "end": 6.397,
+            "score": 0.937
+          },
+          {
+            "word": "predators.",
+            "start": 6.477,
+            "end": 7.018,
+            "score": 0.825
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.761,
+        "end": 10.328,
+        "text": "Predators like the jaguar.",
+        "words": [
+          {
+            "word": "Predators",
+            "start": 7.761,
+            "end": 8.342,
+            "score": 0.811
+          },
+          {
+            "word": "like",
+            "start": 8.382,
+            "end": 8.964,
+            "score": 0.895
+          },
+          {
+            "word": "the",
+            "start": 9.425,
+            "end": 9.526,
+            "score": 0.988
+          },
+          {
+            "word": "jaguar.",
+            "start": 9.586,
+            "end": 10.328,
+            "score": 0.886
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

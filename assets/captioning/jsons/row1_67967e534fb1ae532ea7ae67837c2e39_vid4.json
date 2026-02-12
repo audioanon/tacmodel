@@ -1,0 +1,250 @@
+{
+  "events": [
+    {
+      "description": "Distant helicopter flying overhead",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.999
+    },
+    {
+      "description": "Fast-moving air sweep",
+      "start_time": 0.1,
+      "end_time": 3.2,
+      "duration": 3.1,
+      "type": "sfx",
+      "confidence": 0.916
+    },
+    {
+      "description": "Cinematic build with emotional depth",
+      "start_time": 0.2,
+      "end_time": 15.0,
+      "duration": 14.8,
+      "type": "music",
+      "confidence": 0.973
+    },
+    {
+      "description": "Helicopter flying overhead",
+      "start_time": 0.5,
+      "end_time": 5.3,
+      "duration": 4.8,
+      "type": "sfx",
+      "confidence": 1.0
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 5.2,
+      "end_time": 6.2,
+      "duration": 1.0,
+      "type": "speech",
+      "confidence": 0.814
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 6.6,
+      "end_time": 7.7,
+      "duration": 1.1000000000000005,
+      "type": "speech",
+      "confidence": 0.848
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 7.1,
+      "end_time": 7.7,
+      "duration": 0.6000000000000005,
+      "type": "sfx",
+      "confidence": 0.744
+    },
+    {
+      "description": "Metal door slams shut",
+      "start_time": 7.5,
+      "end_time": 9.4,
+      "duration": 1.9000000000000004,
+      "type": "sfx",
+      "confidence": 0.751
+    },
+    {
+      "description": "Metal door closing",
+      "start_time": 8.6,
+      "end_time": 11.1,
+      "duration": 2.5,
+      "type": "sfx",
+      "confidence": 0.581
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 10.0,
+      "end_time": 11.7,
+      "duration": 1.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.887
+    },
+    {
+      "description": "Male voice (dramatic)",
+      "start_time": 11.7,
+      "end_time": 14.2,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.951
+    },
+    {
+      "description": "Male voice (dramatic)",
+      "start_time": 14.7,
+      "end_time": 15.0,
+      "duration": 0.3000000000000007,
+      "type": "speech",
+      "confidence": 0.914
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 5.212,
+        "end": 6.095,
+        "text": " I heard you got to.",
+        "words": [
+          {
+            "word": "I",
+            "start": 5.212,
+            "end": 5.292,
+            "score": 0.419
+          },
+          {
+            "word": "heard",
+            "start": 5.332,
+            "end": 5.493,
+            "score": 0.638
+          },
+          {
+            "word": "you",
+            "start": 5.533,
+            "end": 5.633,
+            "score": 0.956
+          },
+          {
+            "word": "got",
+            "start": 5.673,
+            "end": 5.854,
+            "score": 0.86
+          },
+          {
+            "word": "to.",
+            "start": 5.894,
+            "end": 6.095,
+            "score": 0.993
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.676,
+        "end": 7.639,
+        "text": "Nice work, Baker.",
+        "words": [
+          {
+            "word": "Nice",
+            "start": 6.676,
+            "end": 6.877,
+            "score": 0.509
+          },
+          {
+            "word": "work,",
+            "start": 6.917,
+            "end": 7.118,
+            "score": 0.695
+          },
+          {
+            "word": "Baker.",
+            "start": 7.138,
+            "end": 7.639,
+            "score": 0.757
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.712,
+        "end": 15.002,
+        "text": "You gotta be a lunatic if you gonna be a vulture.",
+        "words": [
+          {
+            "word": "You",
+            "start": 11.712,
+            "end": 11.772,
+            "score": 0.33
+          },
+          {
+            "word": "gotta",
+            "start": 11.812,
+            "end": 12.013,
+            "score": 0.627
+          },
+          {
+            "word": "be",
+            "start": 12.053,
+            "end": 12.133,
+            "score": 0.656
+          },
+          {
+            "word": "a",
+            "start": 12.193,
+            "end": 12.213,
+            "score": 0.927
+          },
+          {
+            "word": "lunatic",
+            "start": 12.254,
+            "end": 12.855,
+            "score": 0.908
+          },
+          {
+            "word": "if",
+            "start": 12.936,
+            "end": 12.996,
+            "score": 0.996
+          },
+          {
+            "word": "you",
+            "start": 13.036,
+            "end": 13.156,
+            "score": 0.745
+          },
+          {
+            "word": "gonna",
+            "start": 13.197,
+            "end": 13.397,
+            "score": 0.714
+          },
+          {
+            "word": "be",
+            "start": 13.437,
+            "end": 13.538,
+            "score": 0.966
+          },
+          {
+            "word": "a",
+            "start": 13.598,
+            "end": 13.618,
+            "score": 0.907
+          },
+          {
+            "word": "vulture.",
+            "start": 13.658,
+            "end": 15.002,
+            "score": 0.834
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

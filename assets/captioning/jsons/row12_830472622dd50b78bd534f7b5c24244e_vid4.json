@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "description": "Natural jungle sounds",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.676
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 0.0,
+      "end_time": 3.2,
+      "duration": 3.2,
+      "type": "speech",
+      "confidence": 0.919
+    },
+    {
+      "description": "Soft flute over gentle percussion",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.724
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 3.9,
+      "end_time": 6.8,
+      "duration": 2.9,
+      "type": "speech",
+      "confidence": 0.873
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 7.2,
+      "end_time": 8.9,
+      "duration": 1.7000000000000002,
+      "type": "speech",
+      "confidence": 0.894
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 9.3,
+      "end_time": 10.9,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.877
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 11.3,
+      "end_time": 13.6,
+      "duration": 2.299999999999999,
+      "type": "speech",
+      "confidence": 0.942
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 14.3,
+      "end_time": 15.0,
+      "duration": 0.6999999999999993,
+      "type": "speech",
+      "confidence": 0.928
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 15.002,
+        "text": " The hatchlings tend to be female, just four degrees higher, and the hatchlings are predominantly male.",
+        "words": [
+          {
+            "word": "The",
+            "start": 0.031,
+            "end": 0.211,
+            "score": 0.547
+          },
+          {
+            "word": "hatchlings",
+            "start": 0.231,
+            "end": 1.995,
+            "score": 0.47
+          },
+          {
+            "word": "tend",
+            "start": 2.316,
+            "end": 4.5,
+            "score": 0.625
+          },
+          {
+            "word": "to",
+            "start": 4.54,
+            "end": 4.761,
+            "score": 0.793
+          },
+          {
+            "word": "be",
+            "start": 8.228,
+            "end": 8.308,
+            "score": 0.849
+          },
+          {
+            "word": "female,",
+            "start": 8.408,
+            "end": 8.849,
+            "score": 0.875
+          },
+          {
+            "word": "just",
+            "start": 9.37,
+            "end": 9.631,
+            "score": 0.911
+          },
+          {
+            "word": "four",
+            "start": 9.751,
+            "end": 9.972,
+            "score": 0.912
+          },
+          {
+            "word": "degrees",
+            "start": 10.032,
+            "end": 10.413,
+            "score": 0.818
+          },
+          {
+            "word": "higher,",
+            "start": 10.473,
+            "end": 10.833,
+            "score": 0.967
+          },
+          {
+            "word": "and",
+            "start": 11.395,
+            "end": 11.495,
+            "score": 0.683
+          },
+          {
+            "word": "the",
+            "start": 11.535,
+            "end": 11.595,
+            "score": 0.936
+          },
+          {
+            "word": "hatchlings",
+            "start": 11.655,
+            "end": 12.176,
+            "score": 0.872
+          },
+          {
+            "word": "are",
+            "start": 12.196,
+            "end": 12.397,
+            "score": 0.79
+          },
+          {
+            "word": "predominantly",
+            "start": 12.437,
+            "end": 13.158,
+            "score": 0.852
+          },
+          {
+            "word": "male.",
+            "start": 13.238,
+            "end": 15.002,
+            "score": 0.822
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

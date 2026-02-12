@@ -1,0 +1,170 @@
+{
+  "events": [
+    {
+      "description": "Distant sirens and traffic",
+      "start_time": 0.0,
+      "end_time": 13.0,
+      "duration": 13.0,
+      "type": "background",
+      "confidence": 0.895
+    },
+    {
+      "description": "Gunshot from afar",
+      "start_time": 1.5,
+      "end_time": 2.0,
+      "duration": 0.5,
+      "type": "sfx",
+      "confidence": 0.994
+    },
+    {
+      "description": "Metal door opens and closes",
+      "start_time": 2.0,
+      "end_time": 5.0,
+      "duration": 3.0,
+      "type": "sfx",
+      "confidence": 0.397
+    },
+    {
+      "description": "Gunshot from afar",
+      "start_time": 2.4,
+      "end_time": 3.2,
+      "duration": 0.8000000000000003,
+      "type": "sfx",
+      "confidence": 0.983
+    },
+    {
+      "description": "Gunshot from afar",
+      "start_time": 3.6,
+      "end_time": 4.0,
+      "duration": 0.3999999999999999,
+      "type": "sfx",
+      "confidence": 0.981
+    },
+    {
+      "description": "Metallic whoosh with reverb",
+      "start_time": 6.0,
+      "end_time": 7.1,
+      "duration": 1.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.553
+    },
+    {
+      "description": "Metallic whoosh with reverb",
+      "start_time": 7.8,
+      "end_time": 8.6,
+      "duration": 0.7999999999999998,
+      "type": "sfx",
+      "confidence": 0.552
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 9.7,
+      "end_time": 10.3,
+      "duration": 0.6000000000000014,
+      "type": "speech",
+      "confidence": 0.878
+    },
+    {
+      "description": "Car drives past on road",
+      "start_time": 10.2,
+      "end_time": 11.1,
+      "duration": 0.9000000000000004,
+      "type": "sfx",
+      "confidence": 0.277
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 10.7,
+      "end_time": 13.0,
+      "duration": 2.3000000000000007,
+      "type": "speech",
+      "confidence": 0.882
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 9.7,
+        "end": 13.163,
+        "text": " Dear editor, this is the murderer of the two teenagers last...",
+        "words": [
+          {
+            "word": "Dear",
+            "start": 9.7,
+            "end": 9.882,
+            "score": 0.824
+          },
+          {
+            "word": "editor,",
+            "start": 9.923,
+            "end": 10.206,
+            "score": 0.904
+          },
+          {
+            "word": "this",
+            "start": 10.247,
+            "end": 10.854,
+            "score": 0.967
+          },
+          {
+            "word": "is",
+            "start": 10.935,
+            "end": 10.996,
+            "score": 0.917
+          },
+          {
+            "word": "the",
+            "start": 11.037,
+            "end": 11.118,
+            "score": 0.789
+          },
+          {
+            "word": "murderer",
+            "start": 11.158,
+            "end": 11.584,
+            "score": 0.623
+          },
+          {
+            "word": "of",
+            "start": 11.624,
+            "end": 11.968,
+            "score": 0.926
+          },
+          {
+            "word": "the",
+            "start": 12.009,
+            "end": 12.07,
+            "score": 0.974
+          },
+          {
+            "word": "two",
+            "start": 12.09,
+            "end": 12.272,
+            "score": 0.618
+          },
+          {
+            "word": "teenagers",
+            "start": 12.292,
+            "end": 12.758,
+            "score": 0.772
+          },
+          {
+            "word": "last...",
+            "start": 12.819,
+            "end": 13.163,
+            "score": 0.925
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

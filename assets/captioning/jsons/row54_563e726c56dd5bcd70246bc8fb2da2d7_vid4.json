@@ -1,0 +1,314 @@
+{
+  "events": [
+    {
+      "description": "Low hum in dark space",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.981
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 0.2,
+      "end_time": 1.1,
+      "duration": 0.9000000000000001,
+      "type": "speech",
+      "confidence": 0.535
+    },
+    {
+      "description": "Sci-fi vehicle passing",
+      "start_time": 0.8,
+      "end_time": 6.8,
+      "duration": 6.0,
+      "type": "sfx",
+      "confidence": 0.992
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 7.5,
+      "end_time": 8.4,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.894
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 8.6,
+      "end_time": 10.3,
+      "duration": 1.700000000000001,
+      "type": "speech",
+      "confidence": 0.912
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 10.4,
+      "end_time": 11.5,
+      "duration": 1.0999999999999996,
+      "type": "speech",
+      "confidence": 0.923
+    },
+    {
+      "description": "Door opens with squeak",
+      "start_time": 11.4,
+      "end_time": 12.8,
+      "duration": 1.4000000000000004,
+      "type": "sfx",
+      "confidence": 0.709
+    },
+    {
+      "description": "Male voice (negative)",
+      "start_time": 12.5,
+      "end_time": 14.2,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.958
+    },
+    {
+      "description": "Metal door closing",
+      "start_time": 14.2,
+      "end_time": 15.0,
+      "duration": 0.8000000000000007,
+      "type": "sfx",
+      "confidence": 0.271
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.183,
+        "end": 1.186,
+        "text": " is all I've known.",
+        "words": [
+          {
+            "word": "is",
+            "start": 0.183,
+            "end": 0.343,
+            "score": 0.54
+          },
+          {
+            "word": "all",
+            "start": 0.404,
+            "end": 0.524,
+            "score": 0.833
+          },
+          {
+            "word": "I've",
+            "start": 0.624,
+            "end": 0.724,
+            "score": 0.59
+          },
+          {
+            "word": "known.",
+            "start": 0.785,
+            "end": 1.186,
+            "score": 0.667
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.582,
+        "end": 8.384,
+        "text": "So you're going tomorrow?",
+        "words": [
+          {
+            "word": "So",
+            "start": 7.582,
+            "end": 7.662,
+            "score": 0.411
+          },
+          {
+            "word": "you're",
+            "start": 7.682,
+            "end": 7.803,
+            "score": 0.238
+          },
+          {
+            "word": "going",
+            "start": 7.823,
+            "end": 7.943,
+            "score": 0.75
+          },
+          {
+            "word": "tomorrow?",
+            "start": 7.963,
+            "end": 8.384,
+            "score": 0.919
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.685,
+        "end": 10.229,
+        "text": "Yes, I'm going tomorrow with the advance team.",
+        "words": [
+          {
+            "word": "Yes,",
+            "start": 8.685,
+            "end": 8.905,
+            "score": 0.672
+          },
+          {
+            "word": "I'm",
+            "start": 8.925,
+            "end": 9.006,
+            "score": 0.364
+          },
+          {
+            "word": "going",
+            "start": 9.046,
+            "end": 9.286,
+            "score": 0.623
+          },
+          {
+            "word": "tomorrow",
+            "start": 9.306,
+            "end": 9.627,
+            "score": 0.322
+          },
+          {
+            "word": "with",
+            "start": 9.647,
+            "end": 9.808,
+            "score": 0.44
+          },
+          {
+            "word": "the",
+            "start": 9.828,
+            "end": 9.888,
+            "score": 0.325
+          },
+          {
+            "word": "advance",
+            "start": 9.908,
+            "end": 10.048,
+            "score": 0.135
+          },
+          {
+            "word": "team.",
+            "start": 10.109,
+            "end": 10.229,
+            "score": 0.342
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.51,
+        "end": 11.492,
+        "text": "I'd like you to take me with you.",
+        "words": [
+          {
+            "word": "I'd",
+            "start": 10.51,
+            "end": 10.61,
+            "score": 0.514
+          },
+          {
+            "word": "like",
+            "start": 10.63,
+            "end": 10.73,
+            "score": 0.766
+          },
+          {
+            "word": "you",
+            "start": 10.75,
+            "end": 10.81,
+            "score": 0.338
+          },
+          {
+            "word": "to",
+            "start": 10.85,
+            "end": 10.891,
+            "score": 0.982
+          },
+          {
+            "word": "take",
+            "start": 10.931,
+            "end": 11.031,
+            "score": 0.918
+          },
+          {
+            "word": "me",
+            "start": 11.071,
+            "end": 11.151,
+            "score": 0.859
+          },
+          {
+            "word": "with",
+            "start": 11.191,
+            "end": 11.332,
+            "score": 0.81
+          },
+          {
+            "word": "you.",
+            "start": 11.352,
+            "end": 11.492,
+            "score": 0.881
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.575,
+        "end": 14.58,
+        "text": "Are you trying to give me court-marshall?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 12.575,
+            "end": 12.695,
+            "score": 0.245
+          },
+          {
+            "word": "you",
+            "start": 12.715,
+            "end": 12.795,
+            "score": 0.322
+          },
+          {
+            "word": "trying",
+            "start": 12.836,
+            "end": 13.096,
+            "score": 0.723
+          },
+          {
+            "word": "to",
+            "start": 13.136,
+            "end": 13.176,
+            "score": 0.85
+          },
+          {
+            "word": "give",
+            "start": 13.217,
+            "end": 13.297,
+            "score": 0.212
+          },
+          {
+            "word": "me",
+            "start": 13.337,
+            "end": 13.437,
+            "score": 0.738
+          },
+          {
+            "word": "court-marshall?",
+            "start": 13.457,
+            "end": 14.58,
+            "score": 0.671
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

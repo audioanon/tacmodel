@@ -1,0 +1,112 @@
+{
+  "events": [
+    {
+      "description": "Low-frequency ambient tone",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.923
+    },
+    {
+      "description": "Metal door closing",
+      "start_time": 6.2,
+      "end_time": 7.1,
+      "duration": 0.8999999999999995,
+      "type": "sfx",
+      "confidence": 0.304
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 6.7,
+      "end_time": 8.1,
+      "duration": 1.3999999999999995,
+      "type": "speech",
+      "confidence": 0.984
+    },
+    {
+      "description": "Slow, deep, and haunting",
+      "start_time": 8.6,
+      "end_time": 15.0,
+      "duration": 6.4,
+      "type": "music",
+      "confidence": 0.993
+    },
+    {
+      "description": "Engine revving and accelerating",
+      "start_time": 10.8,
+      "end_time": 13.0,
+      "duration": 2.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.338
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 6.663,
+        "end": 8.168,
+        "text": " \u00bfMe vas a contar lo que est\u00e1 pasando?",
+        "words": [
+          {
+            "word": "\u00bfMe",
+            "start": 6.663,
+            "end": 6.826,
+            "score": 0.616
+          },
+          {
+            "word": "vas",
+            "start": 6.866,
+            "end": 6.948,
+            "score": 0.561
+          },
+          {
+            "word": "a",
+            "start": 6.988,
+            "end": 7.009,
+            "score": 0.451
+          },
+          {
+            "word": "contar",
+            "start": 7.07,
+            "end": 7.273,
+            "score": 0.834
+          },
+          {
+            "word": "lo",
+            "start": 7.294,
+            "end": 7.334,
+            "score": 0.755
+          },
+          {
+            "word": "que",
+            "start": 7.375,
+            "end": 7.456,
+            "score": 0.472
+          },
+          {
+            "word": "est\u00e1",
+            "start": 7.477,
+            "end": 7.599,
+            "score": 0.874
+          },
+          {
+            "word": "pasando?",
+            "start": 7.66,
+            "end": 8.168,
+            "score": 0.917
+          }
+        ],
+        "detected_language": "es"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

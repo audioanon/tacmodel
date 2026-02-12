@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 0.0,
+      "end_time": 1.9,
+      "duration": 1.9,
+      "type": "speech",
+      "confidence": 0.909
+    },
+    {
+      "description": "Slow, deep, and haunting",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.993
+    },
+    {
+      "description": "Sharp metallic hit",
+      "start_time": 0.0,
+      "end_time": 0.8,
+      "duration": 0.8,
+      "type": "sfx",
+      "confidence": 0.744
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 2.7,
+      "end_time": 4.8,
+      "duration": 2.0999999999999996,
+      "type": "speech",
+      "confidence": 0.952
+    },
+    {
+      "description": "Deep bass drum hit",
+      "start_time": 6.1,
+      "end_time": 6.6,
+      "duration": 0.5,
+      "type": "sfx",
+      "confidence": 0.49
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 6.7,
+      "end_time": 7.4,
+      "duration": 0.7000000000000002,
+      "type": "speech",
+      "confidence": 0.892
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 8.4,
+      "end_time": 10.4,
+      "duration": 2.0,
+      "type": "speech",
+      "confidence": 0.933
+    },
+    {
+      "description": "Deep bass drum hit",
+      "start_time": 10.5,
+      "end_time": 11.6,
+      "duration": 1.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.694
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 12.2,
+      "end_time": 13.3,
+      "duration": 1.1000000000000014,
+      "type": "speech",
+      "confidence": 0.615
+    },
+    {
+      "description": "Fast air movement",
+      "start_time": 12.2,
+      "end_time": 13.2,
+      "duration": 1.0,
+      "type": "sfx",
+      "confidence": 0.656
+    },
+    {
+      "description": "Metal door closing",
+      "start_time": 12.9,
+      "end_time": 13.6,
+      "duration": 0.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.481
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.048,
+        "end": 4.945,
+        "text": " M\u1eb9 th\u1eadt to g\u00e0ng khi d\u00e1m d\u0103ng m\u00e0y \u0111\u01b0a tao v\u00e0o trong",
+        "words": [
+          {
+            "word": "M\u1eb9",
+            "start": 0.048,
+            "end": 0.149,
+            "score": 0.012
+          },
+          {
+            "word": "th\u1eadt",
+            "start": 0.169,
+            "end": 0.29,
+            "score": 0.01
+          },
+          {
+            "word": "to",
+            "start": 0.572,
+            "end": 0.854,
+            "score": 0.011
+          },
+          {
+            "word": "g\u00e0ng",
+            "start": 0.894,
+            "end": 1.318,
+            "score": 0.01
+          },
+          {
+            "word": "khi",
+            "start": 1.338,
+            "end": 1.519,
+            "score": 0.01
+          },
+          {
+            "word": "d\u00e1m",
+            "start": 1.842,
+            "end": 2.023,
+            "score": 0.011
+          },
+          {
+            "word": "d\u0103ng",
+            "start": 2.043,
+            "end": 2.769,
+            "score": 0.011
+          },
+          {
+            "word": "m\u00e0y",
+            "start": 2.869,
+            "end": 2.93,
+            "score": 0.012
+          },
+          {
+            "word": "\u0111\u01b0a",
+            "start": 2.95,
+            "end": 4.018,
+            "score": 0.011
+          },
+          {
+            "word": "tao",
+            "start": 4.038,
+            "end": 4.502,
+            "score": 0.011
+          },
+          {
+            "word": "v\u00e0o",
+            "start": 4.542,
+            "end": 4.603,
+            "score": 0.011
+          },
+          {
+            "word": "trong",
+            "start": 4.643,
+            "end": 4.945,
+            "score": 0.011
+          }
+        ],
+        "detected_language": "vi"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

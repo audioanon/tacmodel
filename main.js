@@ -131,23 +131,47 @@ async function loadData() {
 }
 
 async function loadCaptioningData() {
-    const container = document.getElementById('captioningExamples');
+    const container = document.getElementById('audioCaptioningExamples');
+    if (!container) return;
     container.innerHTML = createLoadingHTML();
 
     try {
         const response = await fetch('data/captioning_examples.json');
         if (response.ok) {
-            state.captioningData = await response.json();
-            renderCaptioningExamples();
-        } else {
-            // Use sample data if file doesn't exist
-            state.captioningData = getSampleCaptioningData();
-            renderCaptioningExamples();
+            const data = await response.json();
+
+            // Fetch detailed event JSONs for each example
+            const examples = await Promise.all(data.examples.map(async (ex) => {
+                const basename = ex.video_src.split('/').pop().replace('.mp4', '');
+                try {
+                    const res = await fetch(`assets/captioning/jsons/${basename}.json`);
+                    if (res.ok) {
+                        const eventData = await res.json();
+                        // Add metadata to example object
+                        return {
+                            ...ex,
+                            eventData: eventData, // events, transcription, etc.
+                            melspecSrc: `assets/captioning/melspecs/${basename}.png`,
+                            basename: basename
+                        };
+                    }
+                } catch (e) {
+                    console.warn(`Failed to load JSON for ${basename}`, e);
+                }
+                return ex; // Return original if fail, though visualization might be limited
+            }));
+
+            // Initialize AC state
+            acState.clips = examples;
+            acState.visibleCount = 6;
+            acState.activeFilter = 'all';
+
+            renderAudioCaptioningExamples();
+            setupACFilters();
         }
     } catch (error) {
-        console.log('Using sample captioning data');
-        state.captioningData = getSampleCaptioningData();
-        renderCaptioningExamples();
+        console.error('Error loading audio captioning data:', error);
+        container.innerHTML = createEmptyStateHTML('Failed to load examples');
     }
 }
 
@@ -384,29 +408,123 @@ function switchAudioReasoningTab(cardIndex, tabType) {
 // Rendering - Captioning Examples
 // ============================================
 
-function renderCaptioningExamples() {
-    const container = document.getElementById('captioningExamples');
-    const examples = state.captioningData?.examples || [];
-
-    if (examples.length === 0) {
-        container.innerHTML = createEmptyStateHTML('No captioning examples available');
+function renderAudioCaptioningExamples() {
+    const container = document.getElementById('audioCaptioningExamples');
+    if (!acState.clips || acState.clips.length === 0) {
+        container.innerHTML = createEmptyStateHTML('No audio captioning examples available');
         return;
     }
 
-    container.innerHTML = examples.map((example, index) => createCaptioningCardHTML(example, index)).join('');
+    const visibleClips = acState.clips.slice(0, acState.visibleCount);
 
-    // Play/pause videos on hover
-    container.querySelectorAll('.captioning-card').forEach(card => {
-        const video = card.querySelector('video');
-        if (video) {
-            card.addEventListener('mouseenter', () => {
-                video.play().catch(() => { });
-            });
-            card.addEventListener('mouseleave', () => {
-                video.pause();
-            });
-        }
+    // Generate HTML for each clip
+    const itemsHtml = visibleClips.map((clip, idx) => {
+        const rawEvents = clip.eventData?.events || [];
+        const events = mergeTranscriptionAsEvents(rawEvents, clip.eventData?.transcription);
+        const melspec = clip.melspecSrc;
+
+        // Filter events for sidebar list
+        const filteredEvents = events.filter(ev => {
+            if (acState.activeFilter === 'all') return true;
+            return ev.type === acState.activeFilter;
+        });
+
+        // Generate sidebar event cards
+        const eventCards = filteredEvents.map(ev => {
+            const typeClass = ev.type || 'default';
+            // Check if active (logic will be in sync listener)
+            return `
+                <div class="vc-event-card" data-start="${ev.start_time}" data-end="${ev.end_time}" data-type="${ev.type}">
+                    <div class="vc-event-time">
+                        ${formatTime(ev.start_time)} – ${formatTime(ev.end_time)}
+                        <span class="vc-event-badge ${typeClass}">${ev.type.toUpperCase()}</span>
+                    </div>
+                    <div class="vc-event-desc">${ev.description}</div>
+                </div>
+            `;
+        }).join('');
+
+        // Prettified JSON
+        const jsonStr = clip.eventData ? JSON.stringify(clip.eventData, null, 2) : '{}';
+
+        return `
+            <div class="ac-example-card" data-clip-index="${idx}">
+                <!-- Left: Audio + Mel Spectrogram -->
+                <div class="ac-visual-side">
+                    <div class="ac-spec-wrapper" data-clip-index="${idx}">
+                        <img src="${melspec}" class="ac-melspec" draggable="false">
+                        <div class="ac-playhead"></div>
+                        <div class="ac-overlay-container"></div>
+                        <div class="ac-caption-overlay" data-overlay="${idx}"></div>
+                    </div>
+                    <audio class="ac-audio" controls preload="metadata" data-clip-index="${idx}">
+                        <source src="${clip.video_src}" type="video/mp4">
+                    </audio>
+                </div>
+                
+                <!-- Right: Events -->
+                <div class="ac-events-side">
+                    <div class="vc-events-header">
+                        <span class="vc-events-title">Events (${filteredEvents.length})</span>
+                        <button class="vc-json-toggle-btn" onclick="toggleAcJson(${idx})">{ } View JSON</button>
+                    </div>
+                    <div class="vc-events-list" data-clip-list="${idx}">
+                        ${eventCards}
+                    </div>
+                </div>
+            </div>
+            <!-- Full Width JSON View -->
+            <div class="vc-json-view" id="acJsonView${idx}" style="display:none;">
+                <pre class="vc-json-pre">${escapeHtml(jsonStr)}</pre>
+            </div>
+        `;
+    }).join('');
+
+    let loadMoreHtml = '';
+    if (acState.visibleCount < acState.clips.length) {
+        loadMoreHtml = `
+            <div class="vc-load-more-container">
+                <button class="vc-load-more-btn" onclick="loadACMore()">Load More (${acState.clips.length - acState.visibleCount} remaining)</button>
+            </div>
+        `;
+    }
+
+    container.innerHTML = itemsHtml + loadMoreHtml;
+
+    // Attach listeners
+    attachAudioSyncListeners();
+}
+
+function setupACFilters() {
+    const btns = document.querySelectorAll('.ac-filter-btn');
+    btns.forEach(btn => {
+        btn.addEventListener('click', () => {
+            btns.forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            acState.activeFilter = btn.dataset.filter;
+            renderAudioCaptioningExamples();
+        });
     });
+}
+
+function loadACMore() {
+    acState.visibleCount += 6;
+    renderAudioCaptioningExamples();
+}
+
+function toggleAcJson(idx) {
+    const el = document.getElementById(`acJsonView${idx}`);
+    const card = el.previousElementSibling;
+    const btn = card.querySelector('.vc-json-toggle-btn');
+    if (el.style.display === 'none') {
+        el.style.display = 'block';
+        btn.textContent = '{ } Hide JSON';
+        btn.classList.add('active');
+    } else {
+        el.style.display = 'none';
+        btn.textContent = '{ } View JSON';
+        btn.classList.remove('active');
+    }
 }
 
 function formatCaptionText(caption) {
@@ -886,10 +1004,18 @@ function getSampleBenchmarkData() {
 // Video Captioning
 // ============================================
 
+// Video Captioning State
 const vcState = {
     clips: [],
-    activeFilter: 'all',
-    visibleCount: 6
+    visibleCount: 6,
+    activeFilter: 'all'
+};
+
+// Audio Captioning State
+const acState = {
+    clips: [],
+    visibleCount: 6,
+    activeFilter: 'all'
 };
 
 async function loadVideoCaptioningData() {
@@ -906,10 +1032,12 @@ async function loadVideoCaptioningData() {
             try {
                 const eventsRes = await fetch(`${basePath}/events.json`);
                 const eventsData = await eventsRes.json();
+                const rawEvents = eventsData.events || [];
+                const mergedEvents = mergeTranscriptionAsEvents(rawEvents, eventsData.transcription);
                 return {
                     id: dir,
                     videoSrc: `${basePath}/clip.mp4`,
-                    events: eventsData.events || [],
+                    events: mergedEvents,
                     duration: eventsData.duration,
                     selStart: eventsData.sel_start,
                     selEnd: eventsData.sel_end
@@ -947,6 +1075,34 @@ function formatTime(seconds) {
     const m = Math.floor(seconds / 60);
     const s = seconds % 60;
     return `${String(m).padStart(2, '0')}:${s.toFixed(2).padStart(5, '0')}`;
+}
+
+/**
+ * Merge transcription segments into an events array as speech-type events.
+ * Avoids duplicates by checking if a speech event already covers the same time.
+ */
+function mergeTranscriptionAsEvents(events, transcription) {
+    if (!transcription?.segments || transcription.segments.length === 0) return events;
+    const merged = [...events];
+    transcription.segments.forEach(seg => {
+        // Check for existing speech event that overlaps
+        const alreadyExists = merged.some(ev =>
+            ev.type === 'speech' &&
+            Math.abs(ev.start_time - seg.start) < 0.5 &&
+            Math.abs(ev.end_time - seg.end) < 0.5
+        );
+        if (!alreadyExists) {
+            merged.push({
+                type: 'speech',
+                start_time: seg.start,
+                end_time: seg.end,
+                description: `🗣️ "${seg.text.trim()}"`,
+                confidence: null,
+                _isTranscription: true
+            });
+        }
+    });
+    return merged.sort((a, b) => a.start_time - b.start_time);
 }
 
 function getEventTypeColor(type) {
@@ -1043,10 +1199,13 @@ function toggleVcJson(idx) {
 }
 
 function attachVideoSyncListeners() {
-    document.querySelectorAll('.vc-video').forEach(video => {
+    const vcSection = document.getElementById('videocaptioning');
+    if (!vcSection) return;
+    vcSection.querySelectorAll('.vc-video').forEach(video => {
         const clipIdx = video.dataset.clipIndex;
-        const eventList = document.querySelector(`.vc-events-list[data-clip-list="${clipIdx}"]`);
-        const overlay = document.querySelector(`.vc-caption-overlay[data-overlay="${clipIdx}"]`);
+        const card = video.closest('.vc-example-card');
+        const eventList = card?.querySelector(`.vc-events-list[data-clip-list="${clipIdx}"]`);
+        const overlay = card?.querySelector('.vc-caption-overlay');
         if (!eventList) return;
 
         let lastScrolledItem = null;
@@ -1111,3 +1270,119 @@ function vcShowMore() {
     renderVideoCaptioningExamples();
 }
 
+
+function attachAudioSyncListeners() {
+    const container = document.getElementById('audioCaptioningExamples');
+    if (!container) return;
+
+    acState.clips.slice(0, acState.visibleCount).forEach((clip, idx) => {
+        const audio = container.querySelector(`audio[data-clip-index="${idx}"]`);
+        const specWrapper = container.querySelector(`.ac-spec-wrapper[data-clip-index="${idx}"]`);
+        const eventList = container.querySelector(`.vc-events-list[data-clip-list="${idx}"]`);
+        const playhead = specWrapper?.querySelector('.ac-playhead');
+        const overlayContainer = specWrapper?.querySelector('.ac-overlay-container');
+        const captionOverlay = container.querySelector(`.ac-caption-overlay[data-overlay="${idx}"]`);
+
+        if (!audio || !specWrapper || !overlayContainer) return;
+        let lastOverlayHtml = '';
+
+        // Render static overlay boxes if not present
+        if (overlayContainer.children.length === 0 && clip.eventData?.events) {
+            const events = clip.eventData.events;
+            const duration = clip.eventData.duration || 15.0;
+
+            events.forEach(ev => {
+                // Filter by type if needed, but showing all gives context
+                // unless filtered out by UI state.
+                // The render function handles sidebar filtering. 
+                // For spectrogram overlays, let's respect the filter too?
+                if (acState.activeFilter !== 'all' && ev.type !== acState.activeFilter) return;
+
+                const start = ev.start_time;
+                const end = ev.end_time;
+                const left = (start / duration) * 100;
+                const width = ((end - start) / duration) * 100;
+                const typeClass = ev.type || 'default';
+
+                const box = document.createElement('div');
+                box.className = `ac-overlay-box ${typeClass}`;
+                box.style.left = `${left}%`;
+                box.style.width = `${width}%`;
+                box.title = `${ev.type}: ${ev.description}`;
+                overlayContainer.appendChild(box);
+            });
+        }
+
+        // Sync Listener
+        audio.ontimeupdate = () => {
+            const t = audio.currentTime;
+            const d = audio.duration || 15.0;
+            const pct = (t / d) * 100;
+
+            // Move playhead
+            if (playhead) playhead.style.left = `${pct}%`;
+
+            // Highlight events + build caption overlay
+            const activeDescs = [];
+            if (eventList) {
+                const cards = eventList.querySelectorAll('.vc-event-card');
+                let activeCard = null;
+
+                cards.forEach(card => {
+                    const start = parseFloat(card.dataset.start);
+                    const end = parseFloat(card.dataset.end);
+                    if (t >= start && t < end) {
+                        card.classList.add('active');
+                        activeCard = card;
+                        activeDescs.push({
+                            type: card.dataset.type || '',
+                            desc: card.querySelector('.vc-event-desc')?.textContent || ''
+                        });
+                    } else {
+                        card.classList.remove('active');
+                    }
+                });
+
+                // Auto-scroll logic
+                if (activeCard && !eventList.matches(':hover')) {
+                    activeCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+            }
+
+            // Also check all events for the overlay (not just filtered sidebar ones)
+            if (clip.eventData?.events) {
+                clip.eventData.events.forEach(ev => {
+                    if (t >= ev.start_time && t < ev.end_time) {
+                        // Only add if not already in activeDescs from sidebar
+                        const already = activeDescs.some(a => a.desc === ev.description);
+                        if (!already) {
+                            activeDescs.push({ type: ev.type, desc: ev.description });
+                        }
+                    }
+                });
+            }
+
+            // Update caption overlay
+            if (captionOverlay) {
+                const overlayHtml = activeDescs.map(a =>
+                    `<div class="ac-overlay-line"><span class="ac-overlay-type ${a.type}">${a.type}</span> ${a.desc}</div>`
+                ).join('');
+                if (overlayHtml !== lastOverlayHtml) {
+                    lastOverlayHtml = overlayHtml;
+                    captionOverlay.innerHTML = overlayHtml;
+                    captionOverlay.classList.toggle('visible', activeDescs.length > 0);
+                }
+            }
+        };
+
+        // Click on spectrogram to seek
+        specWrapper.onclick = (e) => {
+            const rect = specWrapper.getBoundingClientRect();
+            const x = e.clientX - rect.left;
+            const w = rect.width;
+            const pct = Math.max(0, Math.min(1, x / w));
+            const d = audio.duration || 15.0;
+            audio.currentTime = pct * d;
+        };
+    });
+}

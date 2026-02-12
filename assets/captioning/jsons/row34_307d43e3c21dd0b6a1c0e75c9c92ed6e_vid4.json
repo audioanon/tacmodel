@@ -1,0 +1,194 @@
+{
+  "events": [
+    {
+      "description": "Children playing in a schoolyard",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.995
+    },
+    {
+      "description": "Female voice (angry)",
+      "start_time": 0.0,
+      "end_time": 5.2,
+      "duration": 5.2,
+      "type": "speech",
+      "confidence": 0.825
+    },
+    {
+      "description": "Click [artifact]",
+      "start_time": 2.7,
+      "end_time": 2.9,
+      "duration": 0.19999999999999973,
+      "type": "misc",
+      "confidence": 0.181
+    },
+    {
+      "description": "Pop [artifact]",
+      "start_time": 2.9,
+      "end_time": 2.9,
+      "duration": 0.0,
+      "type": "misc",
+      "confidence": 0.348
+    },
+    {
+      "description": "Sustained string tone",
+      "start_time": 5.6,
+      "end_time": 11.0,
+      "duration": 5.4,
+      "type": "sfx",
+      "confidence": 0.84
+    },
+    {
+      "description": "Door opens and closes",
+      "start_time": 8.0,
+      "end_time": 11.5,
+      "duration": 3.5,
+      "type": "sfx",
+      "confidence": 0.97
+    },
+    {
+      "description": "Female voice (angry)",
+      "start_time": 10.3,
+      "end_time": 11.4,
+      "duration": 1.0999999999999996,
+      "type": "speech",
+      "confidence": 0.647
+    },
+    {
+      "description": "Female voice (angry)",
+      "start_time": 12.4,
+      "end_time": 12.8,
+      "duration": 0.40000000000000036,
+      "type": "speech",
+      "confidence": 0.93
+    },
+    {
+      "description": "Female voice (angry)",
+      "start_time": 13.4,
+      "end_time": 14.3,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.939
+    },
+    {
+      "description": "Female voice (angry)",
+      "start_time": 14.7,
+      "end_time": 15.0,
+      "duration": 0.3000000000000007,
+      "type": "speech",
+      "confidence": 0.94
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.065,
+        "end": 11.313,
+        "text": " I need to talk to you.",
+        "words": [
+          {
+            "word": "I",
+            "start": 0.065,
+            "end": 0.546,
+            "score": 0.774
+          },
+          {
+            "word": "need",
+            "start": 0.566,
+            "end": 2.331,
+            "score": 0.844
+          },
+          {
+            "word": "to",
+            "start": 4.396,
+            "end": 4.436,
+            "score": 0.302
+          },
+          {
+            "word": "talk",
+            "start": 10.752,
+            "end": 10.992,
+            "score": 0.948
+          },
+          {
+            "word": "to",
+            "start": 11.052,
+            "end": 11.132,
+            "score": 0.89
+          },
+          {
+            "word": "you.",
+            "start": 11.173,
+            "end": 11.313,
+            "score": 0.887
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.436,
+        "end": 12.777,
+        "text": "What?",
+        "words": [
+          {
+            "word": "What?",
+            "start": 12.436,
+            "end": 12.777,
+            "score": 0.878
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.458,
+        "end": 14.18,
+        "text": "What's that noise?",
+        "words": [
+          {
+            "word": "What's",
+            "start": 13.458,
+            "end": 13.619,
+            "score": 0.91
+          },
+          {
+            "word": "that",
+            "start": 13.659,
+            "end": 13.779,
+            "score": 0.979
+          },
+          {
+            "word": "noise?",
+            "start": 13.839,
+            "end": 14.18,
+            "score": 0.919
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.24,
+        "end": 15.002,
+        "text": "Rescue.",
+        "words": [
+          {
+            "word": "Rescue.",
+            "start": 14.24,
+            "end": 15.002,
+            "score": 0.498
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

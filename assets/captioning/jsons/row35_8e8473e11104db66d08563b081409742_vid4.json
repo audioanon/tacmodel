@@ -1,0 +1,332 @@
+{
+  "events": [
+    {
+      "description": "Driving beat, bright melody, festive energy",
+      "start_time": 0.0,
+      "end_time": 4.0,
+      "duration": 4.0,
+      "type": "music",
+      "confidence": 0.922
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 4.4,
+      "end_time": 9.6,
+      "duration": 5.199999999999999,
+      "type": "speech",
+      "confidence": 0.899
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 8.7,
+      "end_time": 9.1,
+      "duration": 0.40000000000000036,
+      "type": "speech",
+      "confidence": 0.555
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 9.9,
+      "end_time": 12.2,
+      "duration": 2.299999999999999,
+      "type": "speech",
+      "confidence": 0.887
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 4.503,
+        "end": 5.728,
+        "text": " Well, it's one of the best times of the year.",
+        "words": [
+          {
+            "word": "Well,",
+            "start": 4.503,
+            "end": 4.603,
+            "score": 0.035
+          },
+          {
+            "word": "it's",
+            "start": 4.623,
+            "end": 4.704,
+            "score": 0.14
+          },
+          {
+            "word": "one",
+            "start": 4.724,
+            "end": 4.784,
+            "score": 0.99
+          },
+          {
+            "word": "of",
+            "start": 4.804,
+            "end": 4.844,
+            "score": 0.934
+          },
+          {
+            "word": "the",
+            "start": 4.864,
+            "end": 4.965,
+            "score": 0.771
+          },
+          {
+            "word": "best",
+            "start": 4.985,
+            "end": 5.125,
+            "score": 0.947
+          },
+          {
+            "word": "times",
+            "start": 5.165,
+            "end": 5.346,
+            "score": 0.937
+          },
+          {
+            "word": "of",
+            "start": 5.386,
+            "end": 5.426,
+            "score": 0.989
+          },
+          {
+            "word": "the",
+            "start": 5.467,
+            "end": 5.527,
+            "score": 0.923
+          },
+          {
+            "word": "year.",
+            "start": 5.567,
+            "end": 5.728,
+            "score": 0.934
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.848,
+        "end": 8.919,
+        "text": "It's Thanksgiving week, so we're gonna theme our watch list this week.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 5.848,
+            "end": 5.948,
+            "score": 0.657
+          },
+          {
+            "word": "Thanksgiving",
+            "start": 6.049,
+            "end": 6.651,
+            "score": 0.914
+          },
+          {
+            "word": "week,",
+            "start": 6.671,
+            "end": 7.052,
+            "score": 0.858
+          },
+          {
+            "word": "so",
+            "start": 7.073,
+            "end": 7.253,
+            "score": 0.813
+          },
+          {
+            "word": "we're",
+            "start": 7.273,
+            "end": 7.374,
+            "score": 0.433
+          },
+          {
+            "word": "gonna",
+            "start": 7.394,
+            "end": 7.494,
+            "score": 0.203
+          },
+          {
+            "word": "theme",
+            "start": 7.514,
+            "end": 7.876,
+            "score": 0.51
+          },
+          {
+            "word": "our",
+            "start": 7.896,
+            "end": 7.956,
+            "score": 0.333
+          },
+          {
+            "word": "watch",
+            "start": 7.996,
+            "end": 8.217,
+            "score": 0.862
+          },
+          {
+            "word": "list",
+            "start": 8.237,
+            "end": 8.377,
+            "score": 0.814
+          },
+          {
+            "word": "this",
+            "start": 8.397,
+            "end": 8.538,
+            "score": 0.482
+          },
+          {
+            "word": "week.",
+            "start": 8.598,
+            "end": 8.919,
+            "score": 0.566
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.12,
+        "end": 12.272,
+        "text": "I gotta ask you, what movies or TV shows are you thankful for?",
+        "words": [
+          {
+            "word": "I",
+            "start": 9.12,
+            "end": 9.14,
+            "score": 0.006
+          },
+          {
+            "word": "gotta",
+            "start": 9.16,
+            "end": 9.261,
+            "score": 0.001
+          },
+          {
+            "word": "ask",
+            "start": 9.281,
+            "end": 9.461,
+            "score": 0.627
+          },
+          {
+            "word": "you,",
+            "start": 9.482,
+            "end": 9.622,
+            "score": 0.899
+          },
+          {
+            "word": "what",
+            "start": 9.963,
+            "end": 10.084,
+            "score": 0.838
+          },
+          {
+            "word": "movies",
+            "start": 10.144,
+            "end": 10.425,
+            "score": 0.813
+          },
+          {
+            "word": "or",
+            "start": 10.485,
+            "end": 10.586,
+            "score": 0.302
+          },
+          {
+            "word": "TV",
+            "start": 10.606,
+            "end": 10.847,
+            "score": 0.718
+          },
+          {
+            "word": "shows",
+            "start": 10.887,
+            "end": 11.128,
+            "score": 0.874
+          },
+          {
+            "word": "are",
+            "start": 11.168,
+            "end": 11.469,
+            "score": 0.534
+          },
+          {
+            "word": "you",
+            "start": 11.509,
+            "end": 11.67,
+            "score": 0.992
+          },
+          {
+            "word": "thankful",
+            "start": 11.71,
+            "end": 12.071,
+            "score": 0.922
+          },
+          {
+            "word": "for?",
+            "start": 12.111,
+            "end": 12.272,
+            "score": 0.988
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.633,
+        "end": 15.002,
+        "text": "There is a movie called The Homecoming.",
+        "words": [
+          {
+            "word": "There",
+            "start": 12.633,
+            "end": 12.794,
+            "score": 0.769
+          },
+          {
+            "word": "is",
+            "start": 12.874,
+            "end": 12.954,
+            "score": 0.818
+          },
+          {
+            "word": "a",
+            "start": 12.975,
+            "end": 12.995,
+            "score": 0.999
+          },
+          {
+            "word": "movie",
+            "start": 13.456,
+            "end": 13.737,
+            "score": 0.695
+          },
+          {
+            "word": "called",
+            "start": 13.778,
+            "end": 13.978,
+            "score": 0.812
+          },
+          {
+            "word": "The",
+            "start": 13.998,
+            "end": 14.059,
+            "score": 0.901
+          },
+          {
+            "word": "Homecoming.",
+            "start": 14.119,
+            "end": 15.002,
+            "score": 0.923
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

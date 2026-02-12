@@ -1,0 +1,302 @@
+{
+  "events": [
+    {
+      "description": "Natural water movement",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.133
+    },
+    {
+      "description": "Calm, introspective, minor key",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.981
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 0.5,
+      "end_time": 1.3,
+      "duration": 0.8,
+      "type": "speech",
+      "confidence": 0.893
+    },
+    {
+      "description": "Female voice (positive)",
+      "start_time": 0.5,
+      "end_time": 1.3,
+      "duration": 0.8,
+      "type": "speech",
+      "confidence": 0.879
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 0.8,
+      "end_time": 2.1,
+      "duration": 1.3,
+      "type": "sfx",
+      "confidence": 0.516
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 1.4,
+      "end_time": 3.8,
+      "duration": 2.4,
+      "type": "speech",
+      "confidence": 0.842
+    },
+    {
+      "description": "Female voice (positive)",
+      "start_time": 1.4,
+      "end_time": 3.8,
+      "duration": 2.4,
+      "type": "speech",
+      "confidence": 0.893
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 4.1,
+      "end_time": 4.9,
+      "duration": 0.8000000000000007,
+      "type": "speech",
+      "confidence": 0.907
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 8.3,
+      "end_time": 9.3,
+      "duration": 1.0,
+      "type": "sfx",
+      "confidence": 0.488
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 8.5,
+      "end_time": 9.2,
+      "duration": 0.6999999999999993,
+      "type": "speech",
+      "confidence": 0.782
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 9.2,
+      "end_time": 11.2,
+      "duration": 2.0,
+      "type": "speech",
+      "confidence": 0.953
+    },
+    {
+      "description": "Cinematic stinger sound",
+      "start_time": 11.0,
+      "end_time": 15.0,
+      "duration": 4.0,
+      "type": "sfx",
+      "confidence": 0.883
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 13.7,
+      "end_time": 15.0,
+      "duration": 1.3000000000000007,
+      "type": "speech",
+      "confidence": 0.988
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.571,
+        "end": 1.132,
+        "text": " Is she yours?",
+        "words": [
+          {
+            "word": "Is",
+            "start": 0.571,
+            "end": 0.691,
+            "score": 0.44
+          },
+          {
+            "word": "she",
+            "start": 0.711,
+            "end": 0.812,
+            "score": 0.99
+          },
+          {
+            "word": "yours?",
+            "start": 0.852,
+            "end": 1.132,
+            "score": 0.952
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 1.493,
+        "end": 2.555,
+        "text": "She's really cute.",
+        "words": [
+          {
+            "word": "She's",
+            "start": 1.493,
+            "end": 1.673,
+            "score": 0.838
+          },
+          {
+            "word": "really",
+            "start": 1.834,
+            "end": 2.154,
+            "score": 0.882
+          },
+          {
+            "word": "cute.",
+            "start": 2.215,
+            "end": 2.555,
+            "score": 0.846
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 2.736,
+        "end": 3.798,
+        "text": "I'm Angela Morgan.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 2.736,
+            "end": 2.836,
+            "score": 0.832
+          },
+          {
+            "word": "Angela",
+            "start": 2.936,
+            "end": 3.377,
+            "score": 0.863
+          },
+          {
+            "word": "Morgan.",
+            "start": 3.437,
+            "end": 3.798,
+            "score": 0.878
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.159,
+        "end": 4.74,
+        "text": "Katie Wells.",
+        "words": [
+          {
+            "word": "Katie",
+            "start": 4.159,
+            "end": 4.439,
+            "score": 0.585
+          },
+          {
+            "word": "Wells.",
+            "start": 4.459,
+            "end": 4.74,
+            "score": 0.738
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.528,
+        "end": 9.129,
+        "text": "Who's that?",
+        "words": [
+          {
+            "word": "Who's",
+            "start": 8.528,
+            "end": 8.749,
+            "score": 0.467
+          },
+          {
+            "word": "that?",
+            "start": 8.789,
+            "end": 9.129,
+            "score": 0.621
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.23,
+        "end": 11.074,
+        "text": "That's Katie, my play date.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 9.23,
+            "end": 9.49,
+            "score": 0.823
+          },
+          {
+            "word": "Katie,",
+            "start": 9.61,
+            "end": 10.071,
+            "score": 0.838
+          },
+          {
+            "word": "my",
+            "start": 10.112,
+            "end": 10.312,
+            "score": 0.67
+          },
+          {
+            "word": "play",
+            "start": 10.392,
+            "end": 10.673,
+            "score": 0.909
+          },
+          {
+            "word": "date.",
+            "start": 10.693,
+            "end": 11.074,
+            "score": 0.601
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.174,
+        "end": 15.002,
+        "text": "Here it is.",
+        "words": [
+          {
+            "word": "Here",
+            "start": 11.174,
+            "end": 13.98,
+            "score": 0.764
+          },
+          {
+            "word": "it",
+            "start": 14.04,
+            "end": 14.1,
+            "score": 0.984
+          },
+          {
+            "word": "is.",
+            "start": 14.461,
+            "end": 15.002,
+            "score": 0.83
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

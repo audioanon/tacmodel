@@ -1,0 +1,71 @@
+{
+  "events": [
+    {
+      "description": "Car skidding on pavement",
+      "start_time": 0.0,
+      "end_time": 10.1,
+      "duration": 10.1,
+      "type": "sfx",
+      "confidence": 0.998
+    },
+    {
+      "description": "Fast car passing by",
+      "start_time": 0.0,
+      "end_time": 2.0,
+      "duration": 2.0,
+      "type": "sfx",
+      "confidence": 0.875
+    },
+    {
+      "description": "Fast car passing by",
+      "start_time": 2.6,
+      "end_time": 4.8,
+      "duration": 2.1999999999999997,
+      "type": "sfx",
+      "confidence": 0.921
+    },
+    {
+      "description": "Fast car passing by",
+      "start_time": 5.4,
+      "end_time": 10.1,
+      "duration": 4.699999999999999,
+      "type": "sfx",
+      "confidence": 0.937
+    },
+    {
+      "description": "Fast car passing by",
+      "start_time": 10.4,
+      "end_time": 13.5,
+      "duration": 3.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.925
+    },
+    {
+      "description": "Car skidding on pavement",
+      "start_time": 11.3,
+      "end_time": 14.0,
+      "duration": 2.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.994
+    },
+    {
+      "description": "Loud explosion sound",
+      "start_time": 11.3,
+      "end_time": 14.0,
+      "duration": 2.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.865
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

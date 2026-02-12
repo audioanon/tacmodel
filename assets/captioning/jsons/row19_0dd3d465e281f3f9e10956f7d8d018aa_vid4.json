@@ -1,0 +1,400 @@
+{
+  "events": [
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 0.0,
+      "end_time": 2.2,
+      "duration": 2.2,
+      "type": "speech",
+      "confidence": 0.95
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 1.0,
+      "end_time": 1.6,
+      "duration": 0.6000000000000001,
+      "type": "sfx",
+      "confidence": 0.998
+    },
+    {
+      "description": "Sharp metallic click",
+      "start_time": 1.0,
+      "end_time": 1.1,
+      "duration": 0.10000000000000009,
+      "type": "sfx",
+      "confidence": 0.26
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 2.0,
+      "end_time": 2.6,
+      "duration": 0.6000000000000001,
+      "type": "sfx",
+      "confidence": 0.998
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 2.6,
+      "end_time": 5.0,
+      "duration": 2.4,
+      "type": "speech",
+      "confidence": 0.925
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 3.1,
+      "end_time": 3.6,
+      "duration": 0.5,
+      "type": "sfx",
+      "confidence": 0.997
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 4.1,
+      "end_time": 4.6,
+      "duration": 0.5,
+      "type": "sfx",
+      "confidence": 0.998
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 5.0,
+      "end_time": 5.6,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.998
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 5.5,
+      "end_time": 8.9,
+      "duration": 3.4000000000000004,
+      "type": "speech",
+      "confidence": 0.948
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 6.0,
+      "end_time": 6.5,
+      "duration": 0.5,
+      "type": "sfx",
+      "confidence": 0.997
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 7.0,
+      "end_time": 7.6,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.997
+    },
+    {
+      "description": "Electronic alarm beeping",
+      "start_time": 8.0,
+      "end_time": 8.6,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.997
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 9.2,
+      "end_time": 10.2,
+      "duration": 1.0,
+      "type": "speech",
+      "confidence": 0.97
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 10.9,
+      "end_time": 11.6,
+      "duration": 0.6999999999999993,
+      "type": "speech",
+      "confidence": 0.969
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 2.601,
+        "text": " Le plat c'est un steak avec une cr\u00eape et du bacon.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 0.031,
+            "end": 0.192,
+            "score": 0.513
+          },
+          {
+            "word": "plat",
+            "start": 0.232,
+            "end": 0.412,
+            "score": 0.658
+          },
+          {
+            "word": "c'est",
+            "start": 0.433,
+            "end": 0.553,
+            "score": 0.525
+          },
+          {
+            "word": "un",
+            "start": 0.593,
+            "end": 0.653,
+            "score": 0.655
+          },
+          {
+            "word": "steak",
+            "start": 0.673,
+            "end": 0.995,
+            "score": 0.663
+          },
+          {
+            "word": "avec",
+            "start": 1.035,
+            "end": 1.215,
+            "score": 0.883
+          },
+          {
+            "word": "une",
+            "start": 1.276,
+            "end": 1.356,
+            "score": 0.834
+          },
+          {
+            "word": "cr\u00eape",
+            "start": 1.396,
+            "end": 1.617,
+            "score": 0.64
+          },
+          {
+            "word": "et",
+            "start": 1.657,
+            "end": 1.717,
+            "score": 0.69
+          },
+          {
+            "word": "du",
+            "start": 1.737,
+            "end": 1.838,
+            "score": 0.562
+          },
+          {
+            "word": "bacon.",
+            "start": 1.858,
+            "end": 2.601,
+            "score": 0.7
+          }
+        ],
+        "detected_language": "fr"
+      },
+      {
+        "start": 2.621,
+        "end": 5.532,
+        "text": "Le steak est parfaitement croustillant dehors et tendre dedans.",
+        "words": [
+          {
+            "word": "Le",
+            "start": 2.621,
+            "end": 2.681,
+            "score": 0.93
+          },
+          {
+            "word": "steak",
+            "start": 2.701,
+            "end": 2.942,
+            "score": 0.659
+          },
+          {
+            "word": "est",
+            "start": 2.982,
+            "end": 3.103,
+            "score": 0.893
+          },
+          {
+            "word": "parfaitement",
+            "start": 3.143,
+            "end": 3.564,
+            "score": 0.876
+          },
+          {
+            "word": "croustillant",
+            "start": 3.605,
+            "end": 4.086,
+            "score": 0.697
+          },
+          {
+            "word": "dehors",
+            "start": 4.126,
+            "end": 4.367,
+            "score": 0.724
+          },
+          {
+            "word": "et",
+            "start": 4.428,
+            "end": 4.488,
+            "score": 0.443
+          },
+          {
+            "word": "tendre",
+            "start": 4.548,
+            "end": 4.809,
+            "score": 0.931
+          },
+          {
+            "word": "dedans.",
+            "start": 4.829,
+            "end": 5.532,
+            "score": 0.853
+          }
+        ],
+        "detected_language": "fr"
+      },
+      {
+        "start": 5.552,
+        "end": 10.209,
+        "text": "Les tomates cerises apportent une touche de fra\u00eecheur et la sauce, tr\u00e8s riche, donne une saveur intense.",
+        "words": [
+          {
+            "word": "Les",
+            "start": 5.552,
+            "end": 5.632,
+            "score": 0.993
+          },
+          {
+            "word": "tomates",
+            "start": 5.692,
+            "end": 5.994,
+            "score": 0.736
+          },
+          {
+            "word": "cerises",
+            "start": 6.034,
+            "end": 6.355,
+            "score": 0.866
+          },
+          {
+            "word": "apportent",
+            "start": 6.415,
+            "end": 6.696,
+            "score": 0.693
+          },
+          {
+            "word": "une",
+            "start": 6.736,
+            "end": 6.837,
+            "score": 0.666
+          },
+          {
+            "word": "touche",
+            "start": 6.877,
+            "end": 7.058,
+            "score": 0.763
+          },
+          {
+            "word": "de",
+            "start": 7.098,
+            "end": 7.158,
+            "score": 0.978
+          },
+          {
+            "word": "fra\u00eecheur",
+            "start": 7.198,
+            "end": 7.519,
+            "score": 0.689
+          },
+          {
+            "word": "et",
+            "start": 7.559,
+            "end": 7.62,
+            "score": 0.7
+          },
+          {
+            "word": "la",
+            "start": 7.64,
+            "end": 7.76,
+            "score": 0.163
+          },
+          {
+            "word": "sauce,",
+            "start": 7.8,
+            "end": 8.423,
+            "score": 0.893
+          },
+          {
+            "word": "tr\u00e8s",
+            "start": 8.443,
+            "end": 8.583,
+            "score": 0.903
+          },
+          {
+            "word": "riche,",
+            "start": 8.644,
+            "end": 9.206,
+            "score": 0.891
+          },
+          {
+            "word": "donne",
+            "start": 9.246,
+            "end": 9.427,
+            "score": 0.873
+          },
+          {
+            "word": "une",
+            "start": 9.467,
+            "end": 9.527,
+            "score": 0.996
+          },
+          {
+            "word": "saveur",
+            "start": 9.567,
+            "end": 9.828,
+            "score": 0.909
+          },
+          {
+            "word": "intense.",
+            "start": 9.888,
+            "end": 10.209,
+            "score": 0.872
+          }
+        ],
+        "detected_language": "fr"
+      },
+      {
+        "start": 10.932,
+        "end": 11.695,
+        "text": "Pour aller avec",
+        "words": [
+          {
+            "word": "Pour",
+            "start": 10.932,
+            "end": 11.053,
+            "score": 0.731
+          },
+          {
+            "word": "aller",
+            "start": 11.093,
+            "end": 11.294,
+            "score": 0.856
+          },
+          {
+            "word": "avec",
+            "start": 11.354,
+            "end": 11.695,
+            "score": 0.992
+          }
+        ],
+        "detected_language": "fr"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}
