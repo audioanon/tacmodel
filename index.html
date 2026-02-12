@@ -19,6 +19,7 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
@@ -44,9 +45,10 @@
     <main class="main-content">
         <!-- Home Tab -->
         <section id="home" class="tab-content active">
-            <div class="hero">
+            <!-- Hero -->
+            <div class="hero hero-compact">
                 <h1 class="hero-title">Timestamped Audio Captioning</h1>
-                <p class="hero-subtitle">A model for temporally grounded audio descriptions at varying degrees of detail
+                <!-- <p class="hero-subtitle">A model for temporally grounded audio descriptions at varying degrees of detail
                     and resolution, with low hallucination rates and accurate temporal grounding</p>
                 <div class="hero-stats">
                     <div class="stat-card">
@@ -63,35 +65,64 @@
                         <span class="stat-number">9</span>
                         <span class="stat-label">Benchmarks</span>
                     </div>
-                </div>
+                </div> -->
             </div>
 
-            <div class="features-section">
-                <h2 class="section-title">Key Capabilities</h2>
-                <div class="features-grid">
-                    <div class="feature-card">
-                        <div class="feature-icon">🎵</div>
-                        <h3>Timestamped Captioning</h3>
+            <!-- Capabilities Carousel -->
+            <div class="home-section">
+                <h2 class="home-section-title">TAC produces timestamped captions for any audio or audiovisual source —
+                    across general sound, music, and speech.</h2>
+                <div class="home-capabilities">
+                    <div class="home-cap-card" onclick="switchToSection('captioning')">
+                        <div class="home-cap-thumb">
+                            <div class="home-cap-icon">🎵</div>
+                        </div>
+                        <h3>Timestamped Audio Captioning</h3>
                         <p>Structured, timestamped descriptions of overlapping sound events with type tags ([music],
                             [sfx], [speech]) and precise temporal boundaries.</p>
                     </div>
-                    <div class="feature-card">
-                        <div class="feature-icon">🎬</div>
-                        <h3>TAC-V: Audio-Visual Pipeline</h3>
+                    <div class="home-cap-card" onclick="switchToSection('videocaptioning')">
+                        <div class="home-cap-thumb">
+                            <div class="home-cap-icon">🎬</div>
+                        </div>
+                        <h3>Timestamped Audio-Visual Captioning</h3>
                         <p>Fuses TAC outputs with visual language models for temporally dense audio-visual captions with
                             hallucination correction and visual grounding.</p>
                     </div>
-                    <div class="feature-card">
-                        <div class="feature-icon">📝</div>
-                        <h3>Dense Captioning</h3>
-                        <p>Captions at varying levels of detail (KEYWORDS, BRIEF, DETAILED) with configurable resolution
-                            (δres) and merge thresholds (δmerge).</p>
-                    </div>
-                    <div class="feature-card">
-                        <div class="feature-icon">🧠</div>
+                    <div class="home-cap-card" onclick="switchToSection('benchmarks')">
+                        <div class="home-cap-thumb">
+                            <div class="home-cap-icon">🧠</div>
+                        </div>
                         <h3>TAC→LLM Cascade</h3>
                         <p>TAC serves as a "semantic bridge" for text-only reasoners, achieving SOTA on MMAU-Pro, MMSU,
                             MMAR, Daily-Omni, and VideoHolmes.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- All Three Showcases in One Row -->
+            <div class="home-section">
+                <div id="homeShowcaseRow" class="home-showcase-row">
+                    <!-- Populated by JS: audio col | video col | reasoning col -->
+                </div>
+            </div>
+            </div>
+
+            <!-- Benchmark Charts -->
+            <div class="home-section">
+                <!-- <h2 class="home-section-title" style="margin-top: 40px; margin-bottom: 20px;">Benchmark Performance</h2> -->
+                <div class="home-charts-row">
+                    <div class="home-chart-card">
+                        <h3>Audio-Visual Reasoning Benchmarks</h3>
+                        <div class="chart-wrapper">
+                            <canvas id="avChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="home-chart-card">
+                        <h3>Audio-Only Reasoning Benchmarks</h3>
+                        <div class="chart-wrapper">
+                            <canvas id="audioChart"></canvas>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -829,7 +860,7 @@
                     </div>
                 </div>
 
-                <div class="links-section">
+                <!-- <div class="links-section">
                     <h3>Resources</h3>
                     <div class="resource-links">
                         <a href="#" class="resource-btn">
@@ -849,7 +880,7 @@
                             Model
                         </a>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="citation-section">
                     <h3>Citation</h3>

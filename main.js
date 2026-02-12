@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     initNavigation();
     initBenchmarkTabs();
     initAudioBenchmarkTabs();
+    initHomeCharts();
     loadData();
 });
 
@@ -65,6 +66,17 @@ function initNavigation() {
     });
 
     sections.forEach(section => observer.observe(section));
+}
+
+// Switch to a section programmatically (used by capability cards)
+function switchToSection(sectionId) {
+    const section = document.getElementById(sectionId);
+    if (section) {
+        section.scrollIntoView({ behavior: 'smooth' });
+        document.querySelectorAll('.nav-btn').forEach(l => l.classList.remove('active'));
+        const link = document.querySelector(`.nav-btn[data-section="${sectionId}"]`);
+        if (link) link.classList.add('active');
+    }
 }
 
 // ============================================
@@ -128,6 +140,293 @@ async function loadData() {
         loadAudioBenchmarkData(),
         loadVideoCaptioningData()
     ]);
+    renderHomePage();
+}
+
+// ============================================
+// Home Page Showcase
+// ============================================
+
+async function renderHomePage() {
+    const rowEl = document.getElementById('homeShowcaseRow');
+    if (!rowEl) return;
+
+    // ---- Column 1: Audio Captioning ----
+    let audioHtml = '<div class="home-showcase-empty">Loading…</div>';
+    const audioClip = acState.clips?.[0];
+    if (audioClip && audioClip.eventData) {
+        const rawEvents = audioClip.eventData.events || [];
+        const events = mergeTranscriptionAsEvents(rawEvents, audioClip.eventData.transcription);
+        const eventCards = events.slice(0, 12).map(ev => {
+            const c = getEventTypeColor(ev.type);
+            return `
+                <div class="home-event-chip" style="border-left:3px solid ${c.border};background:${c.bg}">
+                    <div class="home-event-chip-row">
+                        <span class="home-event-badge" style="background:${c.border}">${ev.type.toUpperCase()}</span>
+                        <span class="home-event-time">${formatTime(ev.start_time)}–${formatTime(ev.end_time)}</span>
+                    </div>
+                    <span class="home-event-desc">${ev.description}</span>
+                </div>
+            `;
+        }).join('');
+        audioHtml = `
+            <div class="home-showcase-header">🎵 Audio Captioning</div>
+            <div class="home-showcase-media">
+                <div class="ac-spec-wrapper home-spec" data-home-audio="0">
+                    <img src="${audioClip.melspecSrc}" class="ac-melspec" draggable="false">
+                    <div class="ac-playhead"></div>
+                    <div class="ac-overlay-container"></div>
+                    <div class="ac-caption-overlay" data-home-overlay="audio"></div>
+                </div>
+                <audio class="home-audio" controls preload="metadata" data-home-audio="0">
+                    <source src="${audioClip.video_src}" type="video/mp4">
+                </audio>
+            </div>
+            <button class="home-reasoning-toggle" style="margin-top:12px;" onclick="toggleHomeEventList(this)">▶ Show Event List</button>
+            <div class="home-event-list" style="display:none; margin-top:12px;">${eventCards}</div>
+        `;
+    }
+
+    // ---- Column 2: AV Captioning ----
+    let videoHtml = '<div class="home-showcase-empty">Loading…</div>';
+    const videoClip = vcState.clips?.[0];
+    if (videoClip) {
+        const filteredEvents = videoClip.events
+            .filter(e => e.start_time >= videoClip.selStart && e.start_time < videoClip.selEnd)
+            .sort((a, b) => a.start_time - b.start_time);
+        const eventCards = filteredEvents.slice(0, 12).map(ev => {
+            const c = getEventTypeColor(ev.type);
+            return `
+                <div class="home-event-chip" style="border-left:3px solid ${c.border};background:${c.bg}">
+                    <div class="home-event-chip-row">
+                        <span class="home-event-badge" style="background:${c.border}">${ev.type.toUpperCase()}</span>
+                        <span class="home-event-time">${formatTime(ev.start_time)}–${formatTime(ev.end_time)}</span>
+                    </div>
+                    <span class="home-event-desc">${ev.description}</span>
+                </div>
+            `;
+        }).join('');
+        videoHtml = `
+            <div class="home-showcase-header">🎬 AV Captioning</div>
+            <div class="home-showcase-media">
+                <div class="vc-video-wrapper home-video-wrap">
+                    <video class="home-video" controls preload="metadata">
+                        <source src="${videoClip.videoSrc}" type="video/mp4">
+                    </video>
+                    <div class="vc-caption-overlay home-vc-overlay" data-home-overlay="video"></div>
+                </div>
+            </div>
+            <button class="home-reasoning-toggle" style="margin-top:12px;" onclick="toggleHomeEventList(this)">▶ Show Event List</button>
+            <div class="home-event-list" style="display:none; margin-top:12px;">${eventCards}</div>
+        `;
+    }
+
+    // ---- Column 3: Reasoning ----
+    const example = {
+        type: 'Event Sequence',
+        benchmark: 'Daily-Omni',
+        video_src: 'assets/Ec_lQgZ9wlg.mp4',
+        question: "What visual elements were displayed immediately after Dr. Rajani's 'BOTOX WITHOUT THE BOTOX' video concluded?",
+        choices: [
+            "Still product bottle → Price text overlay",
+            "Facial treatment demonstration → Presenter holding product while explaining",
+            "Presenter's torso shot → Secondary screen activation",
+            "Bookshelf backdrop → Close-up of string lights"
+        ],
+        answer: 'B',
+        model_answer: 'B',
+        shot_list: [
+            { type: 'visual', start_time: '0.0s', end_time: '5.1s', content: 'Woman with long brown hair speaks directly to camera, smiling, in front of plant and bookshelf <speech lang=en>"Hi, and welcome to The Honest Channel."</speech>' },
+            { type: 'speech', start_time: '0.1s', end_time: '7.4s', content: 'Woman in dark blouse speaks clearly, eyes focused, slight head movements, consistent expression (0.98) <speech lang=en>"I\'m Claire Johnston, a journalist with an interest in all things anti-aging and aging well."</speech>' },
+            { type: 'visual', start_time: '5.1s', end_time: '7.4s', content: 'Woman continues speaking, hands slightly raised, maintaining eye contact, calm demeanor' },
+            { type: 'visual', start_time: '7.4s', end_time: '8.9s', content: 'Inset video appears in top left: man in dark shirt speaks in front of brick wall with text "BOTOX WITHOUT THE BOTOX"' },
+            { type: 'speech', start_time: '7.5s', end_time: '20.0s', content: 'Woman speaks while holding black pen-like device, gestures with hands, inset video shows facial treatment (0.96) <speech lang=en>"And so I was watching one of my YouTube favorites, Dr. Anil Rajani, recently..."</speech>' },
+            { type: 'visual', start_time: '9.5s', end_time: '12.1s', content: 'Inset video shows man speaking then woman receiving forehead treatment with black device, main speaker holds similar device' },
+            { type: 'visual', start_time: '12.1s', end_time: '15.4s', content: 'Inset video shows treatment application on forehead, main speaker holds device up, turns it to show tip' },
+            { type: 'visual', start_time: '15.4s', end_time: '17.7s', content: 'Inset video continues showing treatment, main speaker lowers device, gestures with hands while speaking' },
+            { type: 'visual', start_time: '17.7s', end_time: '19.2s', content: 'Inset video disappears, woman continues speaking, hands gesturing, steady eye contact with camera <speech lang=en>"The product he was talking about is this Revox Line Relaxer..."</speech>' },
+            { type: 'visual', start_time: '19.8s', end_time: '20.0s', content: 'Woman continues speaking, expression neutral, hands slightly lowered, camera focused on her face' },
+            { type: 'speech', start_time: '20.0s', end_time: '30.0s', content: 'Woman with long brown hair speaks formally to camera, holding a black skincare pen, lips moving in sync with voice (0.91)' },
+            { type: 'visual', start_time: '20.0s', end_time: '30.0s', content: 'Split-screen view: product image of Revox Line Relaxer on left, woman holding same item on right, bookshelf with fairy lights in background <speech lang=en>"That price in itself"</speech>' }
+        ],
+        model_reasoning: `Based on the provided caption, here is the step-by-step reasoning:
+
+1.  **Identify the end of Dr. Rajani's video:** The caption describes an inset video (Dr. Rajani's clip with the text "BOTOX WITHOUT THE BOTOX" and treatment demonstration) appearing at 7.4s. This inset video continues through shots 6, 7, and 8.
+2.  **Pinpoint the moment the video concludes:** Shot 9 (17.7s - 19.2s) explicitly states: "Inset video disappears, woman continues speaking..." This marks the end of Dr. Rajani's video.
+3.  **Analyze the visual elements immediately following:**
+    *   In Shot 9 (17.7s - 19.2s) and Shot 10 (19.8s - 20.0s), the woman (the presenter) is seen speaking, gesturing, and holding the device. This is a shot of her torso/upper body.
+    *   However, immediately *after* this brief return to the full shot of the presenter (or simultaneously with the next major visual change), we look at Shot 12 (20.0s - 30.0s). The description is: "Split-screen view: product image of Revox Line Relaxer on left, woman holding same item on right..."
+4.  **Evaluate the options:**
+    *   **A. Still product bottle → Price text overlay:** While a product is shown in Shot 12, there is no mention of a standalone still bottle followed by text overlay immediately after the video ends.
+    *   **B. Facial treatment demonstration → Presenter holding product while explaining:** The facial treatment was *part* of Dr. Rajani's video. Once that ends (Shot 9), the visual is the presenter holding the product and explaining. This matches the transition from the inset video (treatment) to the presenter holding the device.
+    *   **C. Presenter's torso shot → Secondary screen activation:** The "secondary screen" (the inset video) *deactivates* or disappears; it doesn't activate.
+    *   **D. Bookshelf backdrop → Close-up of string lights:** These are background elements present throughout, not the primary visual change.
+
+**Refined Reasoning:**
+The question asks what was displayed *immediately after* the video concluded.
+- At 17.7s (Shot 9), the inset video disappears.
+- The visual description for Shot 9 says: "woman continues speaking...". She is holding the device (mentioned in previous shots).
+- The most accurate description of the visual state immediately following the clip's conclusion is the presenter holding the product while explaining (Shot 9/10), which serves as a bridge before the split-screen in Shot 12. Option B describes this transition perfectly: The "Facial treatment demonstration" (the content of the concluding video) transitions to the "Presenter holding product while explaining."
+
+Therefore, the visual sequence is the end of the treatment demo (Dr. Rajani's video) leading into the presenter holding the product.
+
+{"answer": "B"}`
+    };
+
+    const choicesHtml = example.choices.map((c, i) => {
+        const letter = String.fromCharCode(65 + i);
+        const isCorrect = letter === example.answer;
+        return `<div class="home-choice ${isCorrect ? 'correct' : ''}">
+            <span class="home-choice-letter">${letter}</span>
+            <span>${c}</span>
+            ${isCorrect ? '<span class="home-choice-tag correct-tag">✓ Correct</span>' : ''}
+        </div>`;
+    }).join('');
+
+    const shotColors = { visual: '#10b981', audio: '#a78bfa', speech: '#f59e0b' };
+    const shotsHtml = example.shot_list.map(s => `
+        <div class="home-shot" style="border-left:3px solid ${shotColors[s.type] || '#888'}">
+            <span class="home-shot-type" style="color:${shotColors[s.type] || '#888'}">[${s.type}]</span>
+            <span class="home-shot-time">${s.start_time}–${s.end_time}</span>
+            <span>${s.content}</span>
+        </div>
+    `).join('');
+
+    const reasoningHtml = `
+        <div class="home-showcase-header">🧠 TAC→LLM Reasoning</div>
+        <div class="home-showcase-media">
+            <div class="vc-video-wrapper home-video-wrap">
+                <video class="home-reasoning-video" controls preload="metadata">
+                    <source src="${example.video_src}" type="video/mp4">
+                </video>
+                <div class="vc-caption-overlay home-reasoning-overlay"></div>
+            </div>
+        </div>
+        <div class="home-reasoning-meta">
+            <span class="home-reasoning-badge">${example.benchmark}</span>
+            <span class="home-reasoning-type">${example.type}</span>
+        </div>
+        <div class="home-reasoning-question">${example.question}</div>
+        <div class="home-choices">${choicesHtml}</div>
+        <button class="home-reasoning-toggle" onclick="toggleHomeReasoning(this)">
+            ▶ Show Reasoning & Shot List
+        </button>
+        <div class="home-reasoning-body" style="display:none;">
+            <div class="home-reasoning-section">
+                <h4>TAC Shot List</h4>
+                <div class="home-shots">${shotsHtml}</div>
+            </div>
+            <div class="home-reasoning-section">
+                <h4>Model Reasoning</h4>
+                <p class="home-reasoning-text">${example.model_reasoning}</p>
+            </div>
+        </div>
+    `;
+
+    // Render all 3 columns
+    rowEl.innerHTML = `
+        <div class="home-showcase-col">${audioHtml}</div>
+        <div class="home-showcase-col">${videoHtml}</div>
+        <div class="home-showcase-col">${reasoningHtml}</div>
+    `;
+
+    // Wire up home audio playhead sync
+    const homeAudio = rowEl.querySelector('.home-audio');
+    const homeSpec = rowEl.querySelector('.home-spec');
+    if (homeAudio && homeSpec) {
+        const playhead = homeSpec.querySelector('.ac-playhead');
+        const overlayDiv = homeSpec.querySelector('.ac-caption-overlay');
+        const duration = 15;
+        homeAudio.addEventListener('timeupdate', () => {
+            const t = homeAudio.currentTime;
+            const pct = (t / duration) * 100;
+            if (playhead) playhead.style.left = pct + '%';
+            if (overlayDiv && audioClip?.eventData) {
+                const rawEvts = audioClip.eventData.events || [];
+                const allEvts = mergeTranscriptionAsEvents(rawEvts, audioClip.eventData.transcription);
+                const active = allEvts.filter(ev => t >= ev.start_time && t <= ev.end_time);
+                overlayDiv.innerHTML = active.map(ev => {
+                    return `<div class="ac-overlay-line"><span class="ac-overlay-type">${ev.type}</span> ${ev.description}</div>`;
+                }).join('');
+                overlayDiv.classList.toggle('visible', active.length > 0);
+            }
+        });
+        homeSpec.addEventListener('click', (e) => {
+            const rect = homeSpec.getBoundingClientRect();
+            const pct = (e.clientX - rect.left) / rect.width;
+            homeAudio.currentTime = pct * duration;
+        });
+    }
+
+    // Wire up AV video caption overlay
+    const homeVideo = rowEl.querySelector('.home-video');
+    const homeVcOverlay = rowEl.querySelector('.home-vc-overlay');
+    if (homeVideo && homeVcOverlay && videoClip) {
+        homeVideo.addEventListener('timeupdate', () => {
+            const t = homeVideo.currentTime;
+            const activeEvts = videoClip.events.filter(ev => t >= ev.start_time && t <= ev.end_time);
+            if (activeEvts.length > 0) {
+                homeVcOverlay.innerHTML = activeEvts.map(ev => {
+                    return `<div class="ac-overlay-line"><span class="ac-overlay-type">${ev.type}</span> ${ev.description}</div>`;
+                }).join('');
+                homeVcOverlay.classList.add('visible');
+            } else {
+                homeVcOverlay.innerHTML = '';
+                homeVcOverlay.classList.remove('visible');
+            }
+        });
+    }
+
+    // Wire up reasoning video caption overlay
+    const reasoningVideo = rowEl.querySelector('.home-reasoning-video');
+    const reasoningOverlay = rowEl.querySelector('.home-reasoning-overlay');
+    if (reasoningVideo && reasoningOverlay) {
+        // Parse shot_list times to numbers for matching
+        const shots = example.shot_list.map(s => ({
+            ...s,
+            startNum: parseFloat(s.start_time),
+            endNum: parseFloat(s.end_time)
+        }));
+        reasoningVideo.addEventListener('timeupdate', () => {
+            const t = reasoningVideo.currentTime;
+            const active = shots.filter(s => t >= s.startNum && t <= s.endNum);
+            if (active.length > 0) {
+                reasoningOverlay.innerHTML = active.map(s => {
+                    return `<div class="ac-overlay-line"><span class="ac-overlay-type">${s.type}</span> ${s.content}</div>`;
+                }).join('');
+                reasoningOverlay.classList.add('visible');
+            } else {
+                reasoningOverlay.innerHTML = '';
+                reasoningOverlay.classList.remove('visible');
+            }
+        });
+    }
+}
+
+function toggleHomeReasoning(btn) {
+    const body = btn.nextElementSibling;
+    if (body.style.display === 'none') {
+        body.style.display = 'block';
+        btn.textContent = '▼ Hide Reasoning & Shot List';
+        btn.classList.add('active');
+    } else {
+        body.style.display = 'none';
+        btn.textContent = '▶ Show Reasoning & Shot List';
+        btn.classList.remove('active');
+    }
+}
+
+function toggleHomeEventList(btn) {
+    const list = btn.nextElementSibling;
+    if (list.style.display === 'none') {
+        list.style.display = 'flex';
+        btn.textContent = '▼ Hide Event List';
+        btn.classList.add('active');
+    } else {
+        list.style.display = 'none';
+        btn.textContent = '▶ Show Event List';
+        btn.classList.remove('active');
+    }
 }
 
 async function loadCaptioningData() {
@@ -1385,4 +1684,116 @@ function attachAudioSyncListeners() {
             audio.currentTime = pct * d;
         };
     });
+}
+
+// ============================================
+// Charts
+// ============================================
+
+function initHomeCharts() {
+    const ctxAV = document.getElementById('avChart');
+    const ctxAudio = document.getElementById('audioChart');
+    const commonOptions = getChartOptions();
+
+    if (ctxAV) {
+        new Chart(ctxAV, {
+            type: 'bar',
+            data: {
+                labels: ['Daily-Omni', 'World-Sense', 'Video-Holmes', 'AVHBench'],
+                datasets: [
+                    {
+                        label: ' Native MLLM',
+                        data: [76.2, 65.1, 57.3, 58.5],
+                        backgroundColor: 'rgba(160, 160, 176, 0.5)',
+                        borderColor: 'rgba(160, 160, 176, 1)',
+                        borderWidth: 1,
+                        borderRadius: 4,
+                        maxBarThickness: 40
+                    },
+                    {
+                        label: ' TAC-V + Gemini 3',
+                        data: [77.9, 58.6, 59.2, 81.7],
+                        backgroundColor: 'rgba(99, 102, 241, 0.8)',
+                        borderColor: 'rgba(99, 102, 241, 1)',
+                        borderWidth: 1,
+                        borderRadius: 4,
+                        maxBarThickness: 40
+                    }
+                ]
+            },
+            options: commonOptions
+        });
+    }
+
+    if (ctxAudio) {
+        new Chart(ctxAudio, {
+            type: 'bar',
+            data: {
+                labels: ['MMAU', 'MMAR', 'MMSU', 'MMAU-Pro'],
+                datasets: [
+                    {
+                        label: 'Native LALM (SOTA)',
+                        data: [75.9, 60.1, 62.3, 59.2],
+                        backgroundColor: 'rgba(160, 160, 176, 0.5)',
+                        borderColor: 'rgba(160, 160, 176, 1)',
+                        borderWidth: 1,
+                        borderRadius: 4,
+                        maxBarThickness: 40
+                    },
+                    {
+                        label: 'TAC + Gemini 3',
+                        data: [72.2, 71.9, 72.4, 62.9],
+                        backgroundColor: 'rgba(99, 102, 241, 0.8)',
+                        borderColor: 'rgba(99, 102, 241, 1)',
+                        borderWidth: 1,
+                        borderRadius: 4,
+                        maxBarThickness: 40
+                    }
+                ]
+            },
+            options: commonOptions
+        });
+    }
+}
+
+function getChartOptions() {
+    return {
+        responsive: true,
+        maintainAspectRatio: false,
+        plugins: {
+            legend: {
+                position: 'bottom',
+                labels: { color: '#a0a0b0', padding: 20, font: { family: 'Inter', size: 11 }, usePointStyle: true, boxWidth: 6 }
+            },
+            tooltip: {
+                backgroundColor: 'rgba(20, 20, 30, 0.9)',
+                titleColor: '#fff',
+                bodyColor: '#ccc',
+                borderColor: 'rgba(255,255,255,0.1)',
+                borderWidth: 1,
+                padding: 10,
+                displayColors: false,
+                callbacks: {
+                    label: function (context) {
+                        return context.dataset.label + ': ' + context.parsed.y;
+                    }
+                }
+            }
+        },
+        scales: {
+            y: {
+                beginAtZero: false,
+                min: 30,
+                grid: { color: 'rgba(255, 255, 255, 0.05)' },
+                ticks: { color: '#6a6a7a', font: { family: 'JetBrains Mono', size: 10 } },
+                border: { display: false }
+            },
+            x: {
+                grid: { display: false },
+                ticks: { color: '#a0a0b0', font: { family: 'Inter', size: 11 } },
+                border: { display: false }
+            }
+        },
+        animation: { duration: 1500, easing: 'easeOutQuart' }
+    };
 }

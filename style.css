@@ -206,6 +206,10 @@ body::before {
     padding: 80px 0;
 }
 
+.hero.hero-compact {
+    padding: 40px 0 20px;
+}
+
 .hero-title {
     font-size: clamp(2.5rem, 5vw, 4rem);
     font-weight: 700;
@@ -328,6 +332,394 @@ body::before {
     color: var(--text-secondary);
     font-size: 0.9375rem;
     line-height: 1.6;
+}
+
+/* ============================================
+   Home Page Components
+   ============================================ */
+
+.home-section {
+    max-width: 1200px;
+    margin: 0 auto 60px;
+    padding: 0 20px;
+}
+
+.home-section-title {
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    text-align: center;
+    line-height: 1.4;
+}
+
+.home-section-desc {
+    color: var(--text-secondary);
+    text-align: center;
+    margin-bottom: 32px;
+    font-size: 1rem;
+}
+
+/* Capabilities Carousel */
+.home-capabilities {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+    margin-top: 32px;
+}
+
+.home-cap-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 28px 24px;
+    cursor: pointer;
+    transition: all var(--transition-normal);
+    text-align: center;
+}
+
+.home-cap-card:hover {
+    transform: translateY(-6px);
+    background: var(--bg-card-hover);
+    border-color: var(--border-glow);
+    box-shadow: var(--shadow-glow);
+}
+
+.home-cap-thumb {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 20px;
+    background: linear-gradient(135deg, rgba(99, 102, 241, 0.15), rgba(139, 92, 246, 0.15));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(99, 102, 241, 0.25);
+}
+
+.home-cap-icon {
+    font-size: 2.2rem;
+}
+
+.home-cap-card h3 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: var(--text-primary);
+}
+
+.home-cap-card p {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+    line-height: 1.6;
+}
+
+/* Three-column Showcase Row */
+.home-showcase-row {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.home-showcase-col {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 16px;
+    overflow: hidden;
+}
+
+.home-showcase-header {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.home-showcase-media {
+    margin-bottom: 16px;
+}
+
+.home-spec {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.home-video-wrap {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.home-video-wrap video {
+    width: 100%;
+    display: block;
+    border-radius: 8px;
+}
+
+.home-audio {
+    width: 100%;
+    margin-top: 8px;
+    height: 36px;
+}
+
+.home-vc-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.home-showcase-empty {
+    padding: 60px 20px;
+    text-align: center;
+    color: var(--text-muted);
+}
+
+/* Event Chips (used in showcase) */
+.home-event-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    overflow-y: auto;
+}
+
+.home-event-chip {
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.home-event-chip-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.home-event-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    color: #fff;
+    padding: 2px 6px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    flex-shrink: 0;
+}
+
+.home-event-time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    flex-shrink: 0;
+}
+
+.home-event-desc {
+    color: var(--text-secondary);
+    flex: 1;
+    min-width: 0;
+}
+
+/* Reasoning Showcase */
+.home-reasoning-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 20px;
+}
+
+.home-reasoning-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+}
+
+.home-reasoning-badge {
+    background: var(--accent-primary);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.home-reasoning-type {
+    color: var(--text-muted);
+    font-size: 0.85rem;
+}
+
+.home-reasoning-question {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: 14px;
+    line-height: 1.5;
+}
+
+/* Answer Choices */
+.home-choices {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.home-choice {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 10px 14px;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.03);
+    border: 1px solid var(--border-color);
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    transition: all 0.2s;
+}
+
+.home-choice.correct {
+    background: rgba(16, 185, 129, 0.1);
+    border-color: rgba(16, 185, 129, 0.4);
+    color: #10b981;
+}
+
+.home-choice-letter {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.06);
+    font-weight: 600;
+    font-size: 0.8rem;
+    flex-shrink: 0;
+}
+
+.home-choice.correct .home-choice-letter {
+    background: rgba(16, 185, 129, 0.2);
+    color: #10b981;
+}
+
+.home-choice-tag {
+    margin-left: auto;
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 10px;
+}
+
+.correct-tag {
+    background: rgba(16, 185, 129, 0.2);
+    color: #10b981;
+}
+
+.model-tag {
+    background: rgba(99, 102, 241, 0.2);
+    color: var(--accent-primary);
+}
+
+/* Reasoning Toggle Button */
+.home-reasoning-toggle {
+    background: rgba(99, 102, 241, 0.1);
+    border: 1px solid rgba(99, 102, 241, 0.25);
+    color: var(--accent-primary);
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 0.875rem;
+    font-weight: 500;
+    width: 100%;
+    text-align: left;
+    transition: all 0.2s;
+}
+
+.home-reasoning-toggle:hover {
+    background: rgba(99, 102, 241, 0.15);
+    border-color: rgba(99, 102, 241, 0.4);
+}
+
+.home-reasoning-toggle.active {
+    background: rgba(99, 102, 241, 0.15);
+    border-color: var(--accent-primary);
+}
+
+/* Reasoning Body */
+.home-reasoning-body {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border-color);
+}
+
+.home-reasoning-section {
+    margin-bottom: 20px;
+}
+
+.home-reasoning-section:last-child {
+    margin-bottom: 0;
+}
+
+.home-reasoning-section h4 {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--text-primary);
+}
+
+.home-reasoning-text {
+    color: var(--text-secondary);
+    line-height: 1.7;
+    font-size: 0.9rem;
+}
+
+/* Shot List */
+.home-shots {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.home-shot {
+    padding: 8px 12px;
+    background: rgba(255, 255, 255, 0.03);
+    border-radius: 6px;
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    display: flex;
+    gap: 10px;
+    align-items: baseline;
+}
+
+.home-shot-type {
+    font-weight: 600;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    flex-shrink: 0;
+    font-family: 'JetBrains Mono', monospace;
+}
+
+.home-shot-time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    flex-shrink: 0;
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .home-showcase-row {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .home-capabilities {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* ============================================
@@ -965,7 +1357,7 @@ body::before {
    ============================================ */
 
 .about-content {
-    max-width: 800px;
+    max-width: 100%;
     margin: 0 auto;
 }
 
@@ -1967,4 +2359,49 @@ body::before {
 
 .ac-caption-overlay.visible {
     opacity: 1;
+}
+
+/* ============================================
+   Home Charts Section
+   ============================================ */
+
+.home-charts-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 24px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.home-chart-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-lg);
+    padding: 24px;
+    height: 360px;
+    display: flex;
+    flex-direction: column;
+}
+
+.home-chart-card h3 {
+    text-align: center;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.chart-wrapper {
+    flex: 1;
+    position: relative;
+    width: 100%;
+    min-height: 0;
+}
+
+@media (max-width: 900px) {
+    .home-charts-row {
+        grid-template-columns: 1fr;
+    }
 }
