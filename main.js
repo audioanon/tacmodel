@@ -1709,23 +1709,24 @@ function initHomeCharts() {
                     {
                         label: ' Native MLLM',
                         data: [76.2, 65.1, 57.3, 58.5],
-                        modelNames: ['Qwen3-Omni', 'Gemini 2.5 Pro', 'Qwen3-Omni', 'PandaGPT'],
+                        modelNames: ['Qwen3 Omni', 'Gemini 2.5 Pro', 'Qwen3 Omni', 'Panda GPT'],
                         backgroundColor: 'rgba(160, 160, 176, 0.5)',
                         borderColor: 'rgba(160, 160, 176, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40,
+                        maxBarThickness: 50,
                         datalabels: {
                             display: true,
-                            align: 'end',
+                            align: 'start',
                             anchor: 'end',
-                            offset: -20,
+                            offset: 8,
                             color: '#e0e0e0',
                             font: { size: 9, family: 'Inter', weight: 500 },
                             formatter: function (value, context) {
-                                return context.dataset.modelNames[context.dataIndex];
+                                const name = context.dataset.modelNames[context.dataIndex];
+                                return name.split(' ');
                             },
-                            rotation: -90
+                            rotation: 0
                         }
                     },
                     {
@@ -1735,7 +1736,7 @@ function initHomeCharts() {
                         borderColor: 'rgba(99, 102, 241, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40,
+                        maxBarThickness: 50,
                         datalabels: { display: false }
                     }
                 ]
@@ -1758,18 +1759,19 @@ function initHomeCharts() {
                         borderColor: 'rgba(160, 160, 176, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40,
+                        maxBarThickness: 50,
                         datalabels: {
                             display: true,
-                            align: 'end',
+                            align: 'start',
                             anchor: 'end',
-                            offset: -20,
+                            offset: 8,
                             color: '#e0e0e0',
                             font: { size: 9, family: 'Inter', weight: 500 },
                             formatter: function (value, context) {
-                                return context.dataset.modelNames[context.dataIndex];
+                                const name = context.dataset.modelNames[context.dataIndex];
+                                return name.split(' ');
                             },
-                            rotation: -90
+                            rotation: 0
                         }
                     },
                     {
@@ -1779,7 +1781,7 @@ function initHomeCharts() {
                         borderColor: 'rgba(99, 102, 241, 1)',
                         borderWidth: 1,
                         borderRadius: 4,
-                        maxBarThickness: 40,
+                        maxBarThickness: 50,
                         datalabels: { display: false }
                     }
                 ]
