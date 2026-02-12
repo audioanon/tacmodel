@@ -291,10 +291,21 @@ function createAudioBenchmarkCardHTML(example, index) {
             </div>
             <div class="benchmark-card-body">
                 <div class="benchmark-video-section">
-                    <div class="audio-placeholder">
-                        <div class="audio-icon">🎵</div>
-                        <p>Audio Sample</p>
-                    </div>
+                    ${example.audio_path ? `
+                        <div class="audio-player-wrapper">
+                            <div class="audio-icon">🎵</div>
+                            <audio controls preload="metadata" style="width: 100%;">
+                                <source src="${example.audio_path}" type="audio/wav">
+                                <source src="${example.audio_path.replace('.wav', '.mp3')}" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </div>
+                    ` : `
+                        <div class="audio-placeholder">
+                            <div class="audio-icon">🎵</div>
+                            <p>Audio Sample</p>
+                        </div>
+                    `}
                 </div>
                 <div class="benchmark-question-section">
                     <p class="question-text">${escapeHTML(example.question || '')}</p>

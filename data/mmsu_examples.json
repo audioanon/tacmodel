@@ -3,6 +3,7 @@
     {
       "id": "mmsu_1",
       "benchmark": "mmsu",
+      "audio_path": "../assets/volume_comparison_6b58eff0-f0ff-4558-89e9-52ca0ed489bf.wav",
       "type": "Volume Comparison",
       "category": "Perception",
       "modality": "speech",
@@ -48,6 +49,7 @@
     {
       "id": "mmsu_2",
       "benchmark": "mmsu",
+      "audio_path": "../assets/speech_stress_perception_513102af-2f4e-4bd2-b9bf-66b0b8d62a40.wav",
       "type": "Speech Stress Perception",
       "category": "Perception",
       "modality": "speech",
@@ -77,6 +79,7 @@
     {
       "id": "mmsu_3",
       "benchmark": "mmsu",
+      "audio_path": "../assets/emotion_recognition_cd580b72-1b11-4f1c-8b59-8239ea4b1d77.wav",
       "type": "Emotion Recognition",
       "category": "Perception",
       "modality": "speech",
@@ -106,6 +109,7 @@
     {
       "id": "mmsu_4",
       "benchmark": "mmsu",
+      "audio_path": "../assets/speaker_identity_recognition_a21c3c30-be34-47c4-99b7-db08a8d26a3e.wav",
       "type": "Speaker Identity Recognition",
       "category": "Perception",
       "modality": "speech",
@@ -199,6 +203,7 @@
     {
       "id": "mmsu_5",
       "benchmark": "mmsu",
+      "audio_path": "../assets/intonation_perception_45d79db4-a78c-405c-84f0-f6a09ac53b60.wav",
       "type": "Intonation Perception",
       "category": "Perception",
       "modality": "speech",
@@ -228,6 +233,7 @@
     {
       "id": "mmsu_6",
       "benchmark": "mmsu",
+      "audio_path": "../assets/plosive_sound_identification_9c26bba1-e749-47fb-bb30-06171e48afda.wav",
       "type": "Plosive Sound Identification",
       "category": "Perception",
       "modality": "speech",
@@ -257,6 +263,7 @@
     {
       "id": "mmsu_7",
       "benchmark": "mmsu",
+      "audio_path": "../assets/content_grounding_4219bf14-d4e2-4cab-a046-da9f5bb1523e.wav",
       "type": "Content Grounding",
       "category": "Perception",
       "modality": "speech",
@@ -294,6 +301,7 @@
     {
       "id": "mmsu_8",
       "benchmark": "mmsu",
+      "audio_path": "../assets/vocal_range_comparison_11f74fec-f6a5-41db-b5b4-1ebc6a97b1c8.wav",
       "type": "Vocal Range Comparison",
       "category": "Perception",
       "modality": "speech",
@@ -327,6 +335,7 @@
     {
       "id": "mmsu_9",
       "benchmark": "mmsu",
+      "audio_path": "../assets/gender_prediction_78df103a-15fa-40a0-b916-ccb4e1def3b4.wav",
       "type": "Gender Prediction",
       "category": "Perception",
       "modality": "speech",
@@ -356,21 +365,35 @@
     {
       "id": "mmsu_10",
       "benchmark": "mmsu",
+      "audio_path": "../assets/speech_duration_estimation_7ebf7d9b-3da3-410a-b564-777be40ecf3e.wav",
       "type": "Speech Duration Estimation",
       "category": "Perception",
       "modality": "speech",
       "question": "What is the total speaking time in the audio?",
       "choices": [
-        "A. 5.72",
-        "B. 8.72",
-        "C. 11.72",
-        "D. 13.85"
+        "A: 9.7",
+        "B: 12.7",
+        "C: 12.68",
+        "D: 6.7"
       ],
-      "answer": "B",
-      "model_answer": "B",
-      "raw_caption": "",
-      "shot_list": [],
-      "model_reasoning": ""
+      "answer": "A",
+      "model_answer": "A",
+      "raw_caption": "```\n1. [  1.6s -  11.0s] [speech] Male voice (playful) (0.95)\n   <speech lang=en>\"Accordingly, she would lace herself until she was the shape of a bass viol and put on her tailor-made and the hat that made her face seem longer.\"</speech>\n2. [  9.8s -  10.0s] [sfx] Low-frequency drum hit (0.15)\n```",
+      "shot_list": [
+        {
+          "type": "audio",
+          "content": "1. [  1.6s -  11.0s] [speech] Male voice (playful) (0.95)"
+        },
+        {
+          "type": "audio",
+          "content": "<speech lang=en>\"Accordingly, she would lace herself until she was the shape of a bass viol and put on her tailor-made and the hat that made her face seem longer.\"</speech>"
+        },
+        {
+          "type": "audio",
+          "content": "2. [  9.8s -  10.0s] [sfx] Low-frequency drum hit (0.15)"
+        }
+      ],
+      "model_reasoning": "To determine the total speaking time, I need to calculate the duration of the speech segment provided in the caption.\n\n1.  **Identify the speech event:**\n    *   Event 1 is labeled as `[speech]` and contains the transcription.\n    *   The timestamp for this event is `[ 1.6s - 11.0s]`.\n\n2.  **Calculate the duration:**\n    *   Start time: 1.6 seconds\n    *   End time: 11.0 seconds\n    *   Duration = End time - Start time\n    *   Duration = 11.0 - 1.6 = 9.4 seconds.\n\n3.  **Evaluate the options:**\n    *   A. 9.7\n    *   B. 12.7\n    *   C. 12.68\n    *   D. 6.7\n\n    My calculation (9.4s) is closest to option A (9.7s). Often, \"total speaking time\" calculations in these datasets might include slight buffers or be based on the exact audio file length if the speech covers most of it. Given the options, 9.7 is the only plausible match for an event lasting from 1.6s to 11.0s. The difference is minor (0.3s). None of the other options are close.\n\n{\"answer\": \"A\"}"
     }
   ]
 }
