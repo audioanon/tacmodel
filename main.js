@@ -1594,6 +1594,7 @@ function attachAudioSyncListeners() {
 
         if (!audio || !specWrapper || !overlayContainer) return;
         let lastOverlayHtml = '';
+        let lastScrolledCard = null;
 
         // Render static overlay boxes if not present
         if (overlayContainer.children.length === 0 && clip.eventData?.events) {
@@ -1652,9 +1653,14 @@ function attachAudioSyncListeners() {
                     }
                 });
 
-                // Auto-scroll logic
-                if (activeCard && !eventList.matches(':hover')) {
-                    activeCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                // Auto-scroll logic (only when active card changes)
+                if (activeCard && activeCard !== lastScrolledCard && !eventList.matches(':hover')) {
+                    lastScrolledCard = activeCard;
+                    const listRect = eventList.getBoundingClientRect();
+                    const itemRect = activeCard.getBoundingClientRect();
+                    const relativeTop = itemRect.top - listRect.top + eventList.scrollTop;
+                    const targetScroll = relativeTop - eventList.clientHeight / 3;
+                    eventList.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
                 }
             }
 
