@@ -1,0 +1,304 @@
+{
+  "events": [
+    {
+      "description": "Male voice (formal)",
+      "start_time": 0.0,
+      "end_time": 0.5,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.889
+    },
+    {
+      "description": "Driving beat, dark tone, urgent pace",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.763
+    },
+    {
+      "description": "Metallic ring from a bell",
+      "start_time": 0.0,
+      "end_time": 3.2,
+      "duration": 3.2,
+      "type": "sfx",
+      "confidence": 0.547
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 1.0,
+      "end_time": 1.7,
+      "duration": 0.7,
+      "type": "speech",
+      "confidence": 0.894
+    },
+    {
+      "description": "Sharp metallic whoosh",
+      "start_time": 1.7,
+      "end_time": 3.2,
+      "duration": 1.5000000000000002,
+      "type": "sfx",
+      "confidence": 0.159
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 2.9,
+      "end_time": 3.5,
+      "duration": 0.6000000000000001,
+      "type": "sfx",
+      "confidence": 0.682
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 3.4,
+      "end_time": 10.0,
+      "duration": 6.6,
+      "type": "speech",
+      "confidence": 0.871
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 10.3,
+      "end_time": 12.0,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.883
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 12.2,
+      "end_time": 15.0,
+      "duration": 2.8000000000000007,
+      "type": "speech",
+      "confidence": 0.882
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 1.634,
+        "text": " Jarvis, drop my needle.",
+        "words": [
+          {
+            "word": "Jarvis,",
+            "start": 0.031,
+            "end": 1.033,
+            "score": 0.823
+          },
+          {
+            "word": "drop",
+            "start": 1.053,
+            "end": 1.274,
+            "score": 0.84
+          },
+          {
+            "word": "my",
+            "start": 1.294,
+            "end": 1.374,
+            "score": 0.952
+          },
+          {
+            "word": "needle.",
+            "start": 1.414,
+            "end": 1.634,
+            "score": 0.984
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 3.518,
+        "end": 11.876,
+        "text": "Over 10 years, 20 movies, and 45 hours, Marvel has taken us on a wild intergalactic hunt for the Infinity Stones.",
+        "words": [
+          {
+            "word": "Over",
+            "start": 3.518,
+            "end": 3.719,
+            "score": 0.909
+          },
+          {
+            "word": "10",
+            "start": 3.739,
+            "end": 4.059,
+            "score": 0.838
+          },
+          {
+            "word": "years,",
+            "start": 4.14,
+            "end": 4.5,
+            "score": 0.8
+          },
+          {
+            "word": "20",
+            "start": 4.621,
+            "end": 4.901,
+            "score": 0.754
+          },
+          {
+            "word": "movies,",
+            "start": 4.961,
+            "end": 5.302,
+            "score": 0.978
+          },
+          {
+            "word": "and",
+            "start": 5.442,
+            "end": 5.522,
+            "score": 0.94
+          },
+          {
+            "word": "45",
+            "start": 5.542,
+            "end": 5.943,
+            "score": 0.81
+          },
+          {
+            "word": "hours,",
+            "start": 6.424,
+            "end": 6.785,
+            "score": 0.956
+          },
+          {
+            "word": "Marvel",
+            "start": 6.985,
+            "end": 7.366,
+            "score": 0.869
+          },
+          {
+            "word": "has",
+            "start": 7.406,
+            "end": 7.527,
+            "score": 0.933
+          },
+          {
+            "word": "taken",
+            "start": 7.607,
+            "end": 7.887,
+            "score": 0.888
+          },
+          {
+            "word": "us",
+            "start": 7.967,
+            "end": 8.028,
+            "score": 0.758
+          },
+          {
+            "word": "on",
+            "start": 8.128,
+            "end": 8.188,
+            "score": 1.0
+          },
+          {
+            "word": "a",
+            "start": 8.228,
+            "end": 8.248,
+            "score": 0.689
+          },
+          {
+            "word": "wild",
+            "start": 8.388,
+            "end": 8.789,
+            "score": 0.904
+          },
+          {
+            "word": "intergalactic",
+            "start": 8.949,
+            "end": 9.691,
+            "score": 0.935
+          },
+          {
+            "word": "hunt",
+            "start": 9.751,
+            "end": 9.992,
+            "score": 0.672
+          },
+          {
+            "word": "for",
+            "start": 10.332,
+            "end": 10.533,
+            "score": 0.802
+          },
+          {
+            "word": "the",
+            "start": 10.613,
+            "end": 10.733,
+            "score": 0.883
+          },
+          {
+            "word": "Infinity",
+            "start": 10.813,
+            "end": 11.375,
+            "score": 0.945
+          },
+          {
+            "word": "Stones.",
+            "start": 11.435,
+            "end": 11.876,
+            "score": 0.89
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.316,
+        "end": 15.002,
+        "text": "And unless you've memorized every post-credits scene,",
+        "words": [
+          {
+            "word": "And",
+            "start": 12.316,
+            "end": 12.397,
+            "score": 0.949
+          },
+          {
+            "word": "unless",
+            "start": 12.457,
+            "end": 12.677,
+            "score": 0.879
+          },
+          {
+            "word": "you've",
+            "start": 12.697,
+            "end": 12.838,
+            "score": 0.85
+          },
+          {
+            "word": "memorized",
+            "start": 12.858,
+            "end": 13.258,
+            "score": 0.917
+          },
+          {
+            "word": "every",
+            "start": 13.439,
+            "end": 13.639,
+            "score": 0.892
+          },
+          {
+            "word": "post-credits",
+            "start": 13.699,
+            "end": 14.281,
+            "score": 0.848
+          },
+          {
+            "word": "scene,",
+            "start": 14.321,
+            "end": 15.002,
+            "score": 0.932
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

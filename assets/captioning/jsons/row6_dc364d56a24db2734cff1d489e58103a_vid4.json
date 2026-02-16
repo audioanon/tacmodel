@@ -1,0 +1,336 @@
+{
+  "events": [
+    {
+      "description": "Pulsing bass, sharp snare, dark tone",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.944
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 1.1,
+      "end_time": 6.4,
+      "duration": 5.300000000000001,
+      "type": "speech",
+      "confidence": 0.814
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 1.4,
+      "end_time": 2.0,
+      "duration": 0.6000000000000001,
+      "type": "sfx",
+      "confidence": 0.304
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 6.8,
+      "end_time": 8.7,
+      "duration": 1.8999999999999995,
+      "type": "speech",
+      "confidence": 0.363
+    },
+    {
+      "description": "Female voice (uncertain)",
+      "start_time": 10.4,
+      "end_time": 12.1,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.72
+    },
+    {
+      "description": "Male voice (bored)",
+      "start_time": 12.2,
+      "end_time": 15.0,
+      "duration": 2.8000000000000007,
+      "type": "speech",
+      "confidence": 0.834
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.246,
+        "end": 6.359,
+        "text": " El mejor sexo es el que no tiene condiciones, solo te desestresas y listo.",
+        "words": [
+          {
+            "word": "El",
+            "start": 1.246,
+            "end": 1.607,
+            "score": 0.451
+          },
+          {
+            "word": "mejor",
+            "start": 1.627,
+            "end": 1.868,
+            "score": 0.97
+          },
+          {
+            "word": "sexo",
+            "start": 1.948,
+            "end": 2.249,
+            "score": 0.967
+          },
+          {
+            "word": "es",
+            "start": 2.75,
+            "end": 2.83,
+            "score": 0.874
+          },
+          {
+            "word": "el",
+            "start": 2.89,
+            "end": 2.95,
+            "score": 0.522
+          },
+          {
+            "word": "que",
+            "start": 2.991,
+            "end": 3.091,
+            "score": 0.895
+          },
+          {
+            "word": "no",
+            "start": 3.151,
+            "end": 3.211,
+            "score": 0.934
+          },
+          {
+            "word": "tiene",
+            "start": 3.271,
+            "end": 3.452,
+            "score": 0.779
+          },
+          {
+            "word": "condiciones,",
+            "start": 3.492,
+            "end": 4.033,
+            "score": 0.902
+          },
+          {
+            "word": "solo",
+            "start": 4.073,
+            "end": 4.695,
+            "score": 0.206
+          },
+          {
+            "word": "te",
+            "start": 4.815,
+            "end": 4.896,
+            "score": 0.794
+          },
+          {
+            "word": "desestresas",
+            "start": 4.916,
+            "end": 5.577,
+            "score": 0.767
+          },
+          {
+            "word": "y",
+            "start": 5.597,
+            "end": 5.617,
+            "score": 0.955
+          },
+          {
+            "word": "listo.",
+            "start": 5.998,
+            "end": 6.359,
+            "score": 0.912
+          }
+        ],
+        "detected_language": "es"
+      },
+      {
+        "start": 6.841,
+        "end": 8.726,
+        "text": "Y para eso es el juego de las llaves.",
+        "words": [
+          {
+            "word": "Y",
+            "start": 6.841,
+            "end": 6.901,
+            "score": 0.939
+          },
+          {
+            "word": "para",
+            "start": 7.021,
+            "end": 7.222,
+            "score": 0.993
+          },
+          {
+            "word": "eso",
+            "start": 7.342,
+            "end": 7.502,
+            "score": 0.99
+          },
+          {
+            "word": "es",
+            "start": 7.543,
+            "end": 7.623,
+            "score": 0.869
+          },
+          {
+            "word": "el",
+            "start": 7.683,
+            "end": 7.743,
+            "score": 0.76
+          },
+          {
+            "word": "juego",
+            "start": 7.803,
+            "end": 8.024,
+            "score": 0.955
+          },
+          {
+            "word": "de",
+            "start": 8.084,
+            "end": 8.144,
+            "score": 0.83
+          },
+          {
+            "word": "las",
+            "start": 8.204,
+            "end": 8.304,
+            "score": 0.805
+          },
+          {
+            "word": "llaves.",
+            "start": 8.385,
+            "end": 8.726,
+            "score": 0.559
+          }
+        ],
+        "detected_language": "es"
+      },
+      {
+        "start": 8.746,
+        "end": 12.054,
+        "text": "\u00bfT\u00fa, Valent\u00edn, jugar\u00edas a eso?",
+        "words": [
+          {
+            "word": "\u00bfT\u00fa,",
+            "start": 8.746,
+            "end": 10.731,
+            "score": 0.46
+          },
+          {
+            "word": "Valent\u00edn,",
+            "start": 10.751,
+            "end": 11.272,
+            "score": 0.751
+          },
+          {
+            "word": "jugar\u00edas",
+            "start": 11.292,
+            "end": 11.693,
+            "score": 0.864
+          },
+          {
+            "word": "a",
+            "start": 11.733,
+            "end": 11.774,
+            "score": 0.825
+          },
+          {
+            "word": "eso?",
+            "start": 11.854,
+            "end": 12.054,
+            "score": 0.855
+          }
+        ],
+        "detected_language": "es"
+      },
+      {
+        "start": 12.074,
+        "end": 15.002,
+        "text": "\u00bfEst\u00e1s segura de que no te pondr\u00edas celosa con una de tus",
+        "words": [
+          {
+            "word": "\u00bfEst\u00e1s",
+            "start": 12.074,
+            "end": 12.536,
+            "score": 0.588
+          },
+          {
+            "word": "segura",
+            "start": 12.596,
+            "end": 12.816,
+            "score": 0.77
+          },
+          {
+            "word": "de",
+            "start": 12.836,
+            "end": 12.897,
+            "score": 0.61
+          },
+          {
+            "word": "que",
+            "start": 12.917,
+            "end": 12.977,
+            "score": 0.89
+          },
+          {
+            "word": "no",
+            "start": 13.037,
+            "end": 13.097,
+            "score": 0.734
+          },
+          {
+            "word": "te",
+            "start": 13.117,
+            "end": 13.237,
+            "score": 0.514
+          },
+          {
+            "word": "pondr\u00edas",
+            "start": 13.257,
+            "end": 13.779,
+            "score": 0.658
+          },
+          {
+            "word": "celosa",
+            "start": 13.799,
+            "end": 14.601,
+            "score": 0.476
+          },
+          {
+            "word": "con",
+            "start": 14.621,
+            "end": 14.781,
+            "score": 0.442
+          },
+          {
+            "word": "una",
+            "start": 14.802,
+            "end": 14.862,
+            "score": 0.013
+          },
+          {
+            "word": "de",
+            "start": 14.882,
+            "end": 14.922,
+            "score": 0.028
+          },
+          {
+            "word": "tus",
+            "start": 14.942,
+            "end": 15.002,
+            "score": 0.328
+          }
+        ],
+        "detected_language": "es"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

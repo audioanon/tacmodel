@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "description": "Soft breaths in and out",
+      "start_time": 0.0,
+      "end_time": 14.9,
+      "duration": 14.9,
+      "type": "background",
+      "confidence": 0.999
+    },
+    {
+      "description": "Epic orchestral swell with choir",
+      "start_time": 0.0,
+      "end_time": 10.4,
+      "duration": 10.4,
+      "type": "music",
+      "confidence": 0.994
+    },
+    {
+      "description": "Fire crackling and burning",
+      "start_time": 0.8,
+      "end_time": 10.2,
+      "duration": 9.399999999999999,
+      "type": "sfx",
+      "confidence": 0.993
+    },
+    {
+      "description": "Engine revving up",
+      "start_time": 6.2,
+      "end_time": 10.2,
+      "duration": 3.999999999999999,
+      "type": "sfx",
+      "confidence": 0.856
+    },
+    {
+      "description": "Fast air movement",
+      "start_time": 6.2,
+      "end_time": 7.7,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.583
+    },
+    {
+      "description": "Soft cloth movement",
+      "start_time": 9.0,
+      "end_time": 11.4,
+      "duration": 2.4000000000000004,
+      "type": "sfx",
+      "confidence": 0.798
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

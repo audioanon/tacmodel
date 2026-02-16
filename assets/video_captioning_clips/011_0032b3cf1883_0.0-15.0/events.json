@@ -1,0 +1,1064 @@
+{
+  "cid": "0032b3cf1883a41edb35b1e36a251be6",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 78.01904761904763,
+  "events": [
+    {
+      "description": "Footsteps on carpet as woman walks from kitchen counter to dining table",
+      "start_time": 0.0,
+      "end_time": 20.0,
+      "duration": 20.0,
+      "type": "background",
+      "confidence": 0.778,
+      "audio_description": "Footsteps on carpet"
+    },
+    {
+      "start_time": 0.0,
+      "end_time": 1.5432083333333333,
+      "type": "visual",
+      "description": "Young man in white t-shirt stands by kitchen counter, smiling slightly",
+      "audio_description": null
+    },
+    {
+      "description": "Male voice speaks softly, lips moving as he looks toward the woman",
+      "start_time": 0.8,
+      "end_time": 1.6,
+      "duration": 0.8,
+      "type": "speech",
+      "confidence": 0.746,
+      "audio_description": "Male voice (fearful)"
+    },
+    {
+      "start_time": 1.5432083333333333,
+      "end_time": 5.380375,
+      "type": "visual",
+      "description": "Woman in light top walks to dining table, picks up envelope, turns to face man",
+      "audio_description": null
+    },
+    {
+      "start_time": 5.380375,
+      "end_time": 6.881874999999999,
+      "type": "visual",
+      "description": "Close-up of woman\u2019s hand lifting envelope from table, fingers gripping edge",
+      "audio_description": null
+    },
+    {
+      "description": "Pages turn inside envelope as woman opens it, revealing document with <text>University of California</text>",
+      "start_time": 5.5,
+      "end_time": 10.4,
+      "duration": 4.9,
+      "type": "sfx",
+      "confidence": 0.999,
+      "audio_description": "Paper pages turning"
+    },
+    {
+      "start_time": 6.881874999999999,
+      "end_time": 8.299958333333333,
+      "type": "visual",
+      "description": "Young man watches woman, head tilted, slight smile fading to neutral",
+      "audio_description": null
+    },
+    {
+      "start_time": 8.299958333333333,
+      "end_time": 10.218541666666665,
+      "type": "visual",
+      "description": "Woman turns away, holding document, back to camera, reading with focused expression",
+      "audio_description": null
+    },
+    {
+      "description": "Sustained synth pad with reverb as camera holds on woman\u2019s emotional reaction",
+      "start_time": 9.9,
+      "end_time": 19.2,
+      "duration": 9.299999999999999,
+      "type": "music",
+      "confidence": 0.289,
+      "audio_description": "Sustained synth pad with reverb"
+    },
+    {
+      "start_time": 10.218541666666665,
+      "end_time": 14.973291666666666,
+      "type": "visual",
+      "description": "Woman\u2019s eyes widen, hand covers mouth, then touches chest, brows furrowed",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice speaks with fear, eyes downcast, hand still near mouth",
+      "start_time": 12.1,
+      "end_time": 12.3,
+      "duration": 0.20000000000000107,
+      "type": "speech",
+      "confidence": 0.968,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Female voice continues, voice trembling, gaze fixed on document",
+      "start_time": 13.4,
+      "end_time": 15.5,
+      "duration": 2.0999999999999996,
+      "type": "speech",
+      "confidence": 0.986,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "start_time": 14.973291666666666,
+      "end_time": 18.852166666666665,
+      "type": "visual",
+      "description": "Young man looks at woman, expression calm, lips slightly parted",
+      "audio_description": null
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.773,
+        "end": 1.494,
+        "text": " Look what came in the mail.",
+        "words": [
+          {
+            "word": "Look",
+            "start": 0.773,
+            "end": 0.853,
+            "score": 0.007
+          },
+          {
+            "word": "what",
+            "start": 0.873,
+            "end": 0.953,
+            "score": 0.008
+          },
+          {
+            "word": "came",
+            "start": 0.973,
+            "end": 1.093,
+            "score": 0.97
+          },
+          {
+            "word": "in",
+            "start": 1.133,
+            "end": 1.173,
+            "score": 0.99
+          },
+          {
+            "word": "the",
+            "start": 1.213,
+            "end": 1.274,
+            "score": 0.991
+          },
+          {
+            "word": "mail.",
+            "start": 1.314,
+            "end": 1.494,
+            "score": 0.929
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.366,
+        "end": 14.807,
+        "text": "Your college diploma.",
+        "words": [
+          {
+            "word": "Your",
+            "start": 13.366,
+            "end": 13.526,
+            "score": 0.854
+          },
+          {
+            "word": "college",
+            "start": 13.566,
+            "end": 14.047,
+            "score": 0.554
+          },
+          {
+            "word": "diploma.",
+            "start": 14.147,
+            "end": 14.807,
+            "score": 0.694
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.029,
+        "end": 17.31,
+        "text": "Your college diploma.",
+        "words": [
+          {
+            "word": "Your",
+            "start": 16.029,
+            "end": 16.189,
+            "score": 0.878
+          },
+          {
+            "word": "college",
+            "start": 16.229,
+            "end": 16.669,
+            "score": 0.628
+          },
+          {
+            "word": "diploma.",
+            "start": 16.709,
+            "end": 17.31,
+            "score": 0.696
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.33,
+        "end": 18.291,
+        "text": "Oh my god, Rusty.",
+        "words": [
+          {
+            "word": "Oh",
+            "start": 17.33,
+            "end": 17.41,
+            "score": 0.621
+          },
+          {
+            "word": "my",
+            "start": 17.45,
+            "end": 17.55,
+            "score": 0.538
+          },
+          {
+            "word": "god,",
+            "start": 17.59,
+            "end": 17.81,
+            "score": 0.595
+          },
+          {
+            "word": "Rusty.",
+            "start": 17.851,
+            "end": 18.291,
+            "score": 0.941
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 18.912,
+        "end": 20.553,
+        "text": "You did this in three years.",
+        "words": [
+          {
+            "word": "You",
+            "start": 18.912,
+            "end": 19.072,
+            "score": 0.971
+          },
+          {
+            "word": "did",
+            "start": 19.112,
+            "end": 19.272,
+            "score": 0.97
+          },
+          {
+            "word": "this",
+            "start": 19.312,
+            "end": 19.512,
+            "score": 0.827
+          },
+          {
+            "word": "in",
+            "start": 19.592,
+            "end": 19.712,
+            "score": 0.798
+          },
+          {
+            "word": "three",
+            "start": 19.833,
+            "end": 20.133,
+            "score": 0.891
+          },
+          {
+            "word": "years.",
+            "start": 20.173,
+            "end": 20.553,
+            "score": 0.833
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 22.796,
+        "end": 25.498,
+        "text": "I am so proud of you.",
+        "words": [
+          {
+            "word": "I",
+            "start": 22.796,
+            "end": 22.876,
+            "score": 0.929
+          },
+          {
+            "word": "am",
+            "start": 22.956,
+            "end": 23.056,
+            "score": 0.8
+          },
+          {
+            "word": "so",
+            "start": 24.017,
+            "end": 24.217,
+            "score": 0.96
+          },
+          {
+            "word": "proud",
+            "start": 24.337,
+            "end": 24.838,
+            "score": 0.801
+          },
+          {
+            "word": "of",
+            "start": 24.938,
+            "end": 25.078,
+            "score": 0.679
+          },
+          {
+            "word": "you.",
+            "start": 25.158,
+            "end": 25.498,
+            "score": 0.776
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.879,
+        "end": 27.721,
+        "text": "I never could have done it without you, Mom.",
+        "words": [
+          {
+            "word": "I",
+            "start": 25.879,
+            "end": 25.939,
+            "score": 0.814
+          },
+          {
+            "word": "never",
+            "start": 25.979,
+            "end": 26.379,
+            "score": 0.726
+          },
+          {
+            "word": "could",
+            "start": 26.459,
+            "end": 26.559,
+            "score": 0.247
+          },
+          {
+            "word": "have",
+            "start": 26.579,
+            "end": 26.66,
+            "score": 0.377
+          },
+          {
+            "word": "done",
+            "start": 26.68,
+            "end": 26.78,
+            "score": 0.576
+          },
+          {
+            "word": "it",
+            "start": 26.82,
+            "end": 26.86,
+            "score": 0.6
+          },
+          {
+            "word": "without",
+            "start": 26.9,
+            "end": 27.18,
+            "score": 0.879
+          },
+          {
+            "word": "you,",
+            "start": 27.24,
+            "end": 27.38,
+            "score": 0.989
+          },
+          {
+            "word": "Mom.",
+            "start": 27.42,
+            "end": 27.721,
+            "score": 0.68
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.161,
+        "end": 29.042,
+        "text": "Hey, what's going on?",
+        "words": [
+          {
+            "word": "Hey,",
+            "start": 28.161,
+            "end": 28.301,
+            "score": 0.58
+          },
+          {
+            "word": "what's",
+            "start": 28.321,
+            "end": 28.501,
+            "score": 0.838
+          },
+          {
+            "word": "going",
+            "start": 28.542,
+            "end": 28.742,
+            "score": 0.829
+          },
+          {
+            "word": "on?",
+            "start": 28.842,
+            "end": 29.042,
+            "score": 0.782
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.342,
+        "end": 38.385,
+        "text": " Congratulations, kid.",
+        "words": [
+          {
+            "word": "Congratulations,",
+            "start": 37.342,
+            "end": 38.144,
+            "score": 0.607
+          },
+          {
+            "word": "kid.",
+            "start": 38.185,
+            "end": 38.385,
+            "score": 0.764
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 38.606,
+        "end": 39.649,
+        "text": "Thanks, Andy.",
+        "words": [
+          {
+            "word": "Thanks,",
+            "start": 38.606,
+            "end": 38.847,
+            "score": 0.446
+          },
+          {
+            "word": "Andy.",
+            "start": 39.368,
+            "end": 39.649,
+            "score": 0.824
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 42.377,
+        "end": 42.919,
+        "text": "Hey, Mom.",
+        "words": [
+          {
+            "word": "Hey,",
+            "start": 42.377,
+            "end": 42.518,
+            "score": 0.279
+          },
+          {
+            "word": "Mom.",
+            "start": 42.538,
+            "end": 42.919,
+            "score": 0.65
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 42.939,
+        "end": 43.621,
+        "text": "Yeah.",
+        "words": [
+          {
+            "word": "Yeah.",
+            "start": 42.939,
+            "end": 43.621,
+            "score": 0.681
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.641,
+        "end": 44.323,
+        "text": "Are you okay?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 43.641,
+            "end": 43.762,
+            "score": 0.22
+          },
+          {
+            "word": "you",
+            "start": 43.782,
+            "end": 43.882,
+            "score": 0.649
+          },
+          {
+            "word": "okay?",
+            "start": 43.902,
+            "end": 44.323,
+            "score": 0.519
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.344,
+        "end": 45.989,
+        "text": "Yes, I'm incredibly okay.",
+        "words": [
+          {
+            "word": "Yes,",
+            "start": 44.344,
+            "end": 44.564,
+            "score": 0.962
+          },
+          {
+            "word": "I'm",
+            "start": 44.604,
+            "end": 44.765,
+            "score": 0.893
+          },
+          {
+            "word": "incredibly",
+            "start": 44.825,
+            "end": 45.507,
+            "score": 0.94
+          },
+          {
+            "word": "okay.",
+            "start": 45.648,
+            "end": 45.989,
+            "score": 0.663
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 46.631,
+        "end": 47.453,
+        "text": "I'm, uh...",
+        "words": [
+          {
+            "word": "I'm,",
+            "start": 46.631,
+            "end": 47.092,
+            "score": 0.806
+          },
+          {
+            "word": "uh...",
+            "start": 47.112,
+            "end": 47.453,
+            "score": 0.656
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 48.631,
+        "end": 50.374,
+        "text": " I'm so happy.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 48.631,
+            "end": 48.891,
+            "score": 0.761
+          },
+          {
+            "word": "so",
+            "start": 48.951,
+            "end": 49.152,
+            "score": 0.957
+          },
+          {
+            "word": "happy.",
+            "start": 49.733,
+            "end": 50.374,
+            "score": 0.273
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.394,
+        "end": 52.737,
+        "text": "This is everything that I wanted for you.",
+        "words": [
+          {
+            "word": "This",
+            "start": 50.394,
+            "end": 50.574,
+            "score": 0.905
+          },
+          {
+            "word": "is",
+            "start": 50.674,
+            "end": 50.774,
+            "score": 0.895
+          },
+          {
+            "word": "everything",
+            "start": 50.894,
+            "end": 51.375,
+            "score": 0.984
+          },
+          {
+            "word": "that",
+            "start": 51.435,
+            "end": 51.595,
+            "score": 0.927
+          },
+          {
+            "word": "I",
+            "start": 51.675,
+            "end": 51.756,
+            "score": 0.873
+          },
+          {
+            "word": "wanted",
+            "start": 51.816,
+            "end": 52.136,
+            "score": 0.967
+          },
+          {
+            "word": "for",
+            "start": 52.176,
+            "end": 52.497,
+            "score": 0.852
+          },
+          {
+            "word": "you.",
+            "start": 52.537,
+            "end": 52.737,
+            "score": 0.924
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 52.817,
+        "end": 54.279,
+        "text": "It's everything I dreamed about.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 52.817,
+            "end": 52.917,
+            "score": 0.519
+          },
+          {
+            "word": "everything",
+            "start": 52.997,
+            "end": 53.398,
+            "score": 0.963
+          },
+          {
+            "word": "I",
+            "start": 53.478,
+            "end": 53.578,
+            "score": 0.968
+          },
+          {
+            "word": "dreamed",
+            "start": 53.638,
+            "end": 53.959,
+            "score": 0.84
+          },
+          {
+            "word": "about.",
+            "start": 54.019,
+            "end": 54.279,
+            "score": 0.987
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 54.299,
+        "end": 55.461,
+        "text": "I'm so sorry.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 54.299,
+            "end": 54.5,
+            "score": 0.807
+          },
+          {
+            "word": "so",
+            "start": 54.62,
+            "end": 54.88,
+            "score": 0.994
+          },
+          {
+            "word": "sorry.",
+            "start": 55.04,
+            "end": 55.461,
+            "score": 0.925
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 55.541,
+        "end": 56.042,
+        "text": "I'm sorry.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 55.541,
+            "end": 55.601,
+            "score": 0.22
+          },
+          {
+            "word": "sorry.",
+            "start": 55.861,
+            "end": 56.042,
+            "score": 0.656
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 56.102,
+        "end": 57.364,
+        "text": "Don't apologize, Mom.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 56.102,
+            "end": 56.222,
+            "score": 0.362
+          },
+          {
+            "word": "apologize,",
+            "start": 56.242,
+            "end": 56.943,
+            "score": 0.897
+          },
+          {
+            "word": "Mom.",
+            "start": 57.003,
+            "end": 57.364,
+            "score": 0.821
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 58.405,
+        "end": 59.907,
+        "text": "I almost cried myself there, so.",
+        "words": [
+          {
+            "word": "I",
+            "start": 58.405,
+            "end": 58.445,
+            "score": 0.826
+          },
+          {
+            "word": "almost",
+            "start": 58.465,
+            "end": 58.605,
+            "score": 0.36
+          },
+          {
+            "word": "cried",
+            "start": 58.646,
+            "end": 58.826,
+            "score": 0.57
+          },
+          {
+            "word": "myself",
+            "start": 58.846,
+            "end": 59.206,
+            "score": 0.856
+          },
+          {
+            "word": "there,",
+            "start": 59.266,
+            "end": 59.447,
+            "score": 0.912
+          },
+          {
+            "word": "so.",
+            "start": 59.507,
+            "end": 59.907,
+            "score": 0.729
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 59.927,
+        "end": 61.87,
+        "text": "Hey, there's a lot going on.",
+        "words": [
+          {
+            "word": "Hey,",
+            "start": 59.927,
+            "end": 60.108,
+            "score": 0.638
+          },
+          {
+            "word": "there's",
+            "start": 60.789,
+            "end": 60.989,
+            "score": 0.392
+          },
+          {
+            "word": "a",
+            "start": 61.009,
+            "end": 61.069,
+            "score": 0.541
+          },
+          {
+            "word": "lot",
+            "start": 61.089,
+            "end": 61.289,
+            "score": 0.699
+          },
+          {
+            "word": "going",
+            "start": 61.309,
+            "end": 61.61,
+            "score": 0.663
+          },
+          {
+            "word": "on.",
+            "start": 61.67,
+            "end": 61.87,
+            "score": 0.586
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 63.432,
+        "end": 64.995,
+        "text": "I hope we could just keep you safe.",
+        "words": [
+          {
+            "word": "I",
+            "start": 63.432,
+            "end": 63.452,
+            "score": 0.005
+          },
+          {
+            "word": "hope",
+            "start": 63.473,
+            "end": 63.573,
+            "score": 0.442
+          },
+          {
+            "word": "we",
+            "start": 63.613,
+            "end": 63.733,
+            "score": 0.582
+          },
+          {
+            "word": "could",
+            "start": 63.753,
+            "end": 63.873,
+            "score": 0.284
+          },
+          {
+            "word": "just",
+            "start": 63.893,
+            "end": 64.033,
+            "score": 0.66
+          },
+          {
+            "word": "keep",
+            "start": 64.073,
+            "end": 64.234,
+            "score": 0.836
+          },
+          {
+            "word": "you",
+            "start": 64.274,
+            "end": 64.374,
+            "score": 0.923
+          },
+          {
+            "word": "safe.",
+            "start": 64.634,
+            "end": 64.995,
+            "score": 0.978
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 65.596,
+        "end": 66.036,
+        "text": "He'll keep him safe.",
+        "words": [
+          {
+            "word": "He'll",
+            "start": 65.596,
+            "end": 65.736,
+            "score": 0.134
+          },
+          {
+            "word": "keep",
+            "start": 65.756,
+            "end": 65.836,
+            "score": 0.0
+          },
+          {
+            "word": "him",
+            "start": 65.856,
+            "end": 65.916,
+            "score": 0.003
+          },
+          {
+            "word": "safe.",
+            "start": 65.936,
+            "end": 66.036,
+            "score": 0.325
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 66.877,
+        "end": 68.82,
+        "text": "As safe as a future attorney can be.",
+        "words": [
+          {
+            "word": "As",
+            "start": 66.877,
+            "end": 66.918,
+            "score": 0.436
+          },
+          {
+            "word": "safe",
+            "start": 66.938,
+            "end": 67.178,
+            "score": 0.924
+          },
+          {
+            "word": "as",
+            "start": 67.238,
+            "end": 67.318,
+            "score": 0.776
+          },
+          {
+            "word": "a",
+            "start": 67.398,
+            "end": 67.418,
+            "score": 0.97
+          },
+          {
+            "word": "future",
+            "start": 67.458,
+            "end": 67.739,
+            "score": 0.857
+          },
+          {
+            "word": "attorney",
+            "start": 67.819,
+            "end": 68.199,
+            "score": 0.565
+          },
+          {
+            "word": "can",
+            "start": 68.219,
+            "end": 68.46,
+            "score": 0.742
+          },
+          {
+            "word": "be.",
+            "start": 68.48,
+            "end": 68.82,
+            "score": 0.624
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 69.321,
+        "end": 70.723,
+        "text": "Oh, my son, the lawyer.",
+        "words": [
+          {
+            "word": "Oh,",
+            "start": 69.321,
+            "end": 69.461,
+            "score": 0.501
+          },
+          {
+            "word": "my",
+            "start": 69.481,
+            "end": 69.601,
+            "score": 0.98
+          },
+          {
+            "word": "son,",
+            "start": 69.742,
+            "end": 70.002,
+            "score": 0.926
+          },
+          {
+            "word": "the",
+            "start": 70.082,
+            "end": 70.142,
+            "score": 0.256
+          },
+          {
+            "word": "lawyer.",
+            "start": 70.182,
+            "end": 70.723,
+            "score": 0.373
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a dimly lit kitchen and dining area in a home. A young man in a white t-shirt stands by the kitchen counter. A woman with glasses and dark hair, wearing a light-colored top, stands nearby. The setting includes wooden cabinets, a tiled backsplash, and a dining table with chairs. The woman picks up an envelope from the table, opens it, and reacts emotionally while reading its contents. The young man watches her, his expression shifting from neutral to surprised and then to a calm, knowing look. The audio includes footsteps, paper turning, and emotional female speech, with a sustained synth pad music cue. The woman\u2019s voice is fearful and emotional, and she refers to a \"college diploma\" in the transcript, suggesting the envelope contains an important academic document. The young man\u2019s reaction implies he knew about the contents in advance.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is a dimly lit, modern home interior, likely a kitchen or dining area with warm lighting. The main characters are a woman with glasses, a young man, and an older man in a suit. The emotional tone is intimate and celebratory, centered around an achievement. The audio labels need careful checking: \"footsteps on carpet\" is likely accurate given the indoor setting and movement between rooms; \"sustained electronic tone\" is probably a mislabel for soft background music or ambient sound; \"metal scraping\" is likely a mislabel for a subtle hand gesture or clothing movement; \"speech\" labels should be adjusted to match visible speakers and their expressions.\n\nEvent 1 (0.0-0.8s): Woman speaks emotionally, face close-up, eyes glistening, mouth open mid-sentence.\nEvent 2 (0.0-1.4s): Woman speaking, then young man turns toward her, beginning to embrace.\nEvent 3 (0.8-20.0s): Footsteps are plausible as characters move through the space, especially during transitions.\nEvent 4 (1.4-3.2s): Woman and young man hug tightly, both showing emotional expressions.\nEvent 5 (2.6-5.6s): Woman speaks emotionally during hug, eyes watering, voice likely soft and tearful.\nEvent 6 (3.2-5.5s): Hug continues, woman\u2019s face shows deep emotion, young man holds her closely.\nEvent 7 (5.5-7.6s): Young man speaks softly during hug, eyes closed, then opens them, looking relieved.\nEvent 8 (5.8-9.0s): Young man speaking, then older man enters, adjusting tie, looking surprised.\nEvent 9 (7.6-9.2s): Older man speaks, hand on tie, expression shifting from surprise to warmth.\nEvent 10 (9.2-10.4s): Young man turns to older man, smiling, as they begin to interact.\nEvent 11 (9.9-19.7s): Soft piano music plays as scene transitions, emotional and reflective.\nEvent 12 (9.9-14.9s): Sustained electronic tone is likely mislabeled; soft music continues with emotional tone.\nEvent 13 (10.4-12.7s): Woman hands envelope to older man, who takes it, they stand near table.\nEvent 14 (12.7-14.1s): Woman covers mouth in surprise, older man looks down at envelope.\nEvent 15 (14.9-16.0s): Male voice speaks, likely older man, as woman turns away, emotional.\nEvent 16 (15.3-16.4s): Woman turns toward kitchen counter, back to camera, hair flowing.\nEvent 17 (16.4-17.7s): Older man looks at envelope, expression contemplative, then smiles.\nEvent 18 (16.6-17.1s): Metal scraping is likely mislabeled; no metal scraping visible, perhaps a subtle hand movement.\nEvent 19 (17.3-18.4s): Older man speaks warmly, extending hand for fist bump.\nEvent 20 (17.7-20.0s): Young man smiles, fist bumps older man, then turns away, satisfied.\nEvent 21 (18.5-19.0s): Young man speaks, thanking older man, face showing gratitude.\nEvent 22 (19.3-19.8s): Young man speaks again, voice warm, expression content as he looks away.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a warm, dimly lit kitchen transitioning into a living area, suggesting a family home at evening. Three people are present: a young man in a white t-shirt, a woman in a light blouse with glasses, and an older man in a suit. The woman appears emotional, wiping her eyes with a tissue, while the young man looks on with a soft, concerned expression. The older man observes quietly, occasionally offering a tissue. The setting includes kitchen appliances, wooden cabinets, and decorative elements like a framed picture and a lamp. Audio suggests emotional dialogue, with the woman expressing happiness and the young man responding gently. The music is intimate jazz, adding to the tender atmosphere. Confidence scores for speech are high, but some labels may need adjustment based on visual context (e.g., \"negative\" tone may be misclassified for emotional, heartfelt speech).\n\nEvent 1: Soft breathing and movement throughout, likely from characters shifting in place or subtle actions like wiping eyes or adjusting posture.\n\nEvent 2: Young man in white t-shirt standing by refrigerator, looking toward kitchen counter.\n\nEvent 3: Woman in light blouse turns from counter, holding a tissue, wiping her eye; kitchen appliances visible.\n\nEvent 4: Older man in suit, looking down, then turns head slightly\u2014visual matches \"Hey, Mom\" spoken by him.\n\nEvent 5: Woman turns toward young man, still holding tissue, mouth slightly open\u2014visual matches her response.\n\nEvent 6: Woman continues speaking, eyes glistening, hand on chest\u2014visual matches emotional tone.\n\nEvent 7: Young man turns toward woman, mouth open\u2014visual matches his concerned question.\n\nEvent 8: Woman speaks with emotion, hand on chest, then accepts tissue from older man.\n\nEvent 9: Intimate jazz music begins, camera focuses on woman wiping tears, young man smiling gently.\n\nEvent 10: Woman speaks emotionally, holding tissue, then covers face\u2014visual matches her words.\n\nEvent 11: Young man listens, mouth slightly open, eyes soft\u2014visual matches her speech.\n\nEvent 12: Woman continues speaking, hand on chest, eyes glistening\u2014visual matches her emotional statement.\n\nEvent 13: Older man reaches out, offers tissue to woman\u2014visual matches her apology.\n\nEvent 14: Woman accepts tissue, wipes face, eyes closed\u2014visual matches her repeated apology.\n\nEvent 15: Young man speaks softly, smiling gently\u2014visual matches his reassurance.\n\nEvent 16: Young man continues speaking, nodding slightly, eyes crinkling\u2014visual matches his comment.\n\nEvent 17: Older man speaks, hand resting on woman\u2019s shoulder\u2014visual matches his closing line.",
+    "[Chunk 4: 60.0s - 78.0s]\nThe overall scene begins in a dimly lit indoor setting, likely a home or office, with three people present \u2014 a woman wiping her eyes with a tissue, a man in a suit, and a younger man in a white shirt. The emotional tone is somber and intimate, with the woman appearing distressed. The man in the suit speaks calmly, while the younger man listens with a gentle smile. Around 10.6 seconds, the scene abruptly cuts to a dark outdoor crime scene at night, with police cars, flashing blue lights, and yellow tape. This is followed by the show's title card for \"Major Crimes\" with text indicating \"The Final Season\" and broadcast time. The final frames show the TNT logo and hashtag.\n\nEvent 1: Background noise is consistent with an indoor setting \u2014 likely soft ambient sounds of conversation or quiet movement.\nEvent 2: Male voice (negative) \u2014 the man in the suit speaks with concern, visible on screen.\nEvent 3: Visual \u2014 woman wipes her face, then looks at the younger man; man in suit speaks.\nEvent 4: Visual \u2014 woman turns to speak to younger man, holding tissue, emotional.\nEvent 5: Female voice (negative) \u2014 woman speaks with concern, visible.\nEvent 6: Male voice (calm) \u2014 man in suit speaks reassuringly.\nEvent 7: Visual \u2014 man in suit continues speaking, woman listens.\nEvent 8: Female voice (negative) \u2014 woman responds with a worried expression.\nEvent 9: Male voice (calm) \u2014 man in suit speaks, younger man smiles.\nEvent 10: Visual \u2014 younger man smiles gently, looking at the woman.\nEvent 11: Visual \u2014 woman places a hand on the younger man\u2019s shoulder, speaking emotionally.\nEvent 12: Female voice (negative) \u2014 woman speaks with a mix of pride and concern.\nEvent 13: Music \u2014 sustained string sound begins as scene transitions to crime scene.\nEvent 14: SFX \u2014 deep growl, likely a sound design effect for dramatic tension.\nEvent 15: SFX \u2014 fast air movement, possibly a whoosh or transition sound.\nEvent 16: SFX \u2014 fast whooshing sound, matching the visual transition.\nEvent 17: Visual \u2014 TNT logo appears over blurred crime scene background.\n\nAudio labels are mostly accurate, but some may be misattributed. For instance, the \"deep monster growl\" at 14.0s is likely a dramatic sound design element, not a literal growl. The \"fast air movement\" and \"whooshing\" are consistent with transition effects. No need to correct major labels since they are contextual to the scene."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      78.01904761904763
+    ]
+  ]
+}

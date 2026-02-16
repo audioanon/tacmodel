@@ -1,0 +1,384 @@
+{
+  "events": [
+    {
+      "description": "Natural water sounds",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.735
+    },
+    {
+      "description": "Cinematic minor key with deep bass",
+      "start_time": 0.0,
+      "end_time": 5.8,
+      "duration": 5.8,
+      "type": "music",
+      "confidence": 0.783
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 0.2,
+      "end_time": 5.3,
+      "duration": 5.1,
+      "type": "speech",
+      "confidence": 0.893
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 5.9,
+      "end_time": 7.6,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.918
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 7.8,
+      "end_time": 11.8,
+      "duration": 4.000000000000001,
+      "type": "speech",
+      "confidence": 0.898
+    },
+    {
+      "description": "Door opens with a creak",
+      "start_time": 8.0,
+      "end_time": 9.5,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.134
+    },
+    {
+      "description": "Metal door slams shut",
+      "start_time": 11.9,
+      "end_time": 15.0,
+      "duration": 3.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.038
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 5.422,
+        "text": " Every now and then, a show comes along that defines the voice of a generation.",
+        "words": [
+          {
+            "word": "Every",
+            "start": 0.031,
+            "end": 0.612,
+            "score": 0.717
+          },
+          {
+            "word": "now",
+            "start": 0.692,
+            "end": 0.853,
+            "score": 0.804
+          },
+          {
+            "word": "and",
+            "start": 0.913,
+            "end": 1.013,
+            "score": 0.647
+          },
+          {
+            "word": "then,",
+            "start": 1.073,
+            "end": 1.274,
+            "score": 0.95
+          },
+          {
+            "word": "a",
+            "start": 1.294,
+            "end": 1.314,
+            "score": 0.999
+          },
+          {
+            "word": "show",
+            "start": 1.815,
+            "end": 2.035,
+            "score": 0.931
+          },
+          {
+            "word": "comes",
+            "start": 2.155,
+            "end": 2.376,
+            "score": 0.773
+          },
+          {
+            "word": "along",
+            "start": 2.456,
+            "end": 2.817,
+            "score": 0.791
+          },
+          {
+            "word": "that",
+            "start": 2.857,
+            "end": 3.198,
+            "score": 0.928
+          },
+          {
+            "word": "defines",
+            "start": 3.258,
+            "end": 3.859,
+            "score": 0.869
+          },
+          {
+            "word": "the",
+            "start": 3.899,
+            "end": 4.019,
+            "score": 0.82
+          },
+          {
+            "word": "voice",
+            "start": 4.119,
+            "end": 4.46,
+            "score": 0.85
+          },
+          {
+            "word": "of",
+            "start": 4.48,
+            "end": 4.641,
+            "score": 0.861
+          },
+          {
+            "word": "a",
+            "start": 4.681,
+            "end": 4.721,
+            "score": 0.498
+          },
+          {
+            "word": "generation.",
+            "start": 4.801,
+            "end": 5.422,
+            "score": 0.886
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.043,
+        "end": 7.466,
+        "text": "Is that a rhinestone fish?",
+        "words": [
+          {
+            "word": "Is",
+            "start": 6.043,
+            "end": 6.084,
+            "score": 0.02
+          },
+          {
+            "word": "that",
+            "start": 6.104,
+            "end": 6.244,
+            "score": 0.875
+          },
+          {
+            "word": "a",
+            "start": 6.304,
+            "end": 6.324,
+            "score": 0.662
+          },
+          {
+            "word": "rhinestone",
+            "start": 6.404,
+            "end": 7.005,
+            "score": 0.861
+          },
+          {
+            "word": "fish?",
+            "start": 7.146,
+            "end": 7.466,
+            "score": 0.937
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.867,
+        "end": 8.889,
+        "text": "Who would wear that?",
+        "words": [
+          {
+            "word": "Who",
+            "start": 7.867,
+            "end": 7.967,
+            "score": 0.351
+          },
+          {
+            "word": "would",
+            "start": 8.008,
+            "end": 8.148,
+            "score": 0.784
+          },
+          {
+            "word": "wear",
+            "start": 8.188,
+            "end": 8.468,
+            "score": 0.961
+          },
+          {
+            "word": "that?",
+            "start": 8.549,
+            "end": 8.889,
+            "score": 0.919
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.929,
+        "end": 10.292,
+        "text": "It's you, man!",
+        "words": [
+          {
+            "word": "It's",
+            "start": 8.929,
+            "end": 9.471,
+            "score": 0.771
+          },
+          {
+            "word": "you,",
+            "start": 9.651,
+            "end": 9.911,
+            "score": 0.614
+          },
+          {
+            "word": "man!",
+            "start": 9.932,
+            "end": 10.292,
+            "score": 0.926
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.673,
+        "end": 11.775,
+        "text": "You would wear that!",
+        "words": [
+          {
+            "word": "You",
+            "start": 10.673,
+            "end": 10.833,
+            "score": 0.647
+          },
+          {
+            "word": "would",
+            "start": 10.914,
+            "end": 11.094,
+            "score": 0.707
+          },
+          {
+            "word": "wear",
+            "start": 11.134,
+            "end": 11.375,
+            "score": 0.909
+          },
+          {
+            "word": "that!",
+            "start": 11.455,
+            "end": 11.775,
+            "score": 0.969
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.815,
+        "end": 15.002,
+        "text": "Then there's a show that defines the voice of a bunch of good-looking,",
+        "words": [
+          {
+            "word": "Then",
+            "start": 11.815,
+            "end": 12.176,
+            "score": 0.215
+          },
+          {
+            "word": "there's",
+            "start": 12.196,
+            "end": 12.497,
+            "score": 0.584
+          },
+          {
+            "word": "a",
+            "start": 12.577,
+            "end": 12.597,
+            "score": 0.545
+          },
+          {
+            "word": "show",
+            "start": 12.637,
+            "end": 12.797,
+            "score": 0.879
+          },
+          {
+            "word": "that",
+            "start": 12.818,
+            "end": 12.898,
+            "score": 0.912
+          },
+          {
+            "word": "defines",
+            "start": 12.938,
+            "end": 13.278,
+            "score": 0.929
+          },
+          {
+            "word": "the",
+            "start": 13.299,
+            "end": 13.379,
+            "score": 0.506
+          },
+          {
+            "word": "voice",
+            "start": 13.439,
+            "end": 13.639,
+            "score": 0.885
+          },
+          {
+            "word": "of",
+            "start": 13.679,
+            "end": 13.719,
+            "score": 0.99
+          },
+          {
+            "word": "a",
+            "start": 13.78,
+            "end": 13.8,
+            "score": 0.733
+          },
+          {
+            "word": "bunch",
+            "start": 13.84,
+            "end": 14.08,
+            "score": 0.923
+          },
+          {
+            "word": "of",
+            "start": 14.14,
+            "end": 14.24,
+            "score": 0.858
+          },
+          {
+            "word": "good-looking,",
+            "start": 14.401,
+            "end": 15.002,
+            "score": 0.889
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

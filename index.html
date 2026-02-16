@@ -1,0 +1,938 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAC - Timestamped Audio Captioning</title>
+    <meta name="description"
+        content="TAC: Timestamped Audio Captioning - A model for temporally grounded audio descriptions with low hallucination rates. State-of-the-art on 9 benchmarks.">
+    <meta name="keywords"
+        content="audio captioning, video understanding, AI, LALMs, multimodal, temporal grounding, audio-visual">
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2"></script>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-text">TAC</span>
+                <span class="logo-subtitle">Timestamped Audio Captioning</span>
+            </div>
+            <nav class="nav" id="mainNav">
+                <a class="nav-btn active" href="#home" data-section="home">Home</a>
+                <a class="nav-btn" href="#captioning" data-section="captioning">Audio Captioning</a>
+                <a class="nav-btn" href="#videocaptioning" data-section="videocaptioning">Video Captioning</a>
+                <a class="nav-btn" href="#benchmarks" data-section="benchmarks">AV Benchmarks</a>
+                <a class="nav-btn" href="#audiobenchmarks" data-section="audiobenchmarks">Audio Benchmarks</a>
+                <a class="nav-btn" href="#about" data-section="about">About</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <!-- Home Tab -->
+        <section id="home" class="tab-content active">
+            <!-- Hero -->
+            <div class="hero hero-compact">
+                <h1 class="hero-title">Timestamped Audio Captioning</h1>
+                <!-- <p class="hero-subtitle">A model for temporally grounded audio descriptions at varying degrees of detail
+                    and resolution, with low hallucination rates and accurate temporal grounding</p>
+                <div class="hero-stats">
+                    <div class="stat-card">
+                        <span class="stat-number">0.50</span>
+                        <span class="stat-label">Event F1 Score</span>
+                        <span class="stat-comparison">vs. Gemini 3 Pro: 0.42 | Qwen 3 Omni: 0.36</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number">4.9%</span>
+                        <span class="stat-label">Hallucination Rate</span>
+                        <span class="stat-comparison">vs. Gemini 3 Pro: 6.1% | AF3: 11.6%</span>
+                    </div>
+                    <div class="stat-card">
+                        <span class="stat-number">9</span>
+                        <span class="stat-label">Benchmarks</span>
+                    </div>
+                </div> -->
+            </div>
+
+            <!-- Capabilities Carousel -->
+            <div class="home-section">
+                <h2 class="home-section-title">TAC produces timestamped captions for any audio or audiovisual source —
+                    across general sound, music, and speech.</h2>
+                <div class="home-capabilities">
+                    <div class="home-cap-card" onclick="switchToSection('captioning')">
+                        <div class="home-cap-thumb">
+                            <div class="home-cap-icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 24 24"
+                                    fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                                    stroke-linejoin="round">
+                                    <path d="M2 10v3" />
+                                    <path d="M6 6v11" />
+                                    <path d="M10 3v18" />
+                                    <path d="M14 7v9" />
+                                    <path d="M18 5v13" />
+                                    <path d="M22 9v5" />
+                                </svg>
+                            </div>
+                        </div>
+                        <h3>TAC: Timestamped Audio Captioning</h3>
+                        <p>Structured, timestamped descriptions of overlapping sound events with type tags ([music],
+                            [sfx], [speech]) and precise temporal boundaries.</p>
+                    </div>
+                    <div class="home-cap-card" onclick="switchToSection('videocaptioning')">
+                        <div class="home-cap-thumb">
+                            <div class="home-cap-icon">🎬</div>
+                        </div>
+                        <h3>TAC-V: Timestamped Audio-Visual Captioning</h3>
+                        <p>Fuses TAC outputs with visual language models for temporally dense audio-visual captions with
+                            hallucination correction and visual grounding.</p>
+                    </div>
+                    <div class="home-cap-card" onclick="switchToSection('benchmarks')">
+                        <div class="home-cap-thumb">
+                            <div class="home-cap-icon">🧠</div>
+                        </div>
+                        <h3>TAC→LLM Cascade</h3>
+                        <p>TAC serves as a "semantic bridge" for text-only reasoners, achieving SOTA on MMAU-Pro, MMSU,
+                            MMAR, Daily-Omni, and VideoHolmes.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- All Three Showcases in One Row -->
+            <div class="home-section">
+                <div id="homeShowcaseRow" class="home-showcase-row">
+                    <!-- Populated by JS: audio col | video col | reasoning col -->
+                </div>
+            </div>
+            </div>
+
+            <!-- Benchmark Charts -->
+            <div class="home-section">
+                <div class="section-header" style="margin-top: 40px; margin-bottom: 30px;">
+                    <h2 class="home-section-title">Benchmark Performance</h2>
+                    <p class="section-desc">Comparison with previous state-of-the-art models across audio and
+                        audio-visual reasoning tasks</p>
+                </div>
+                <div class="home-charts-row">
+                    <div class="home-chart-card">
+                        <h3>Audio-Visual Reasoning Benchmarks</h3>
+                        <div class="chart-wrapper">
+                            <canvas id="avChart"></canvas>
+                        </div>
+                    </div>
+                    <div class="home-chart-card">
+                        <h3>Audio-Only Reasoning Benchmarks</h3>
+                        <div class="chart-wrapper">
+                            <canvas id="audioChart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Captioning Examples Tab -->
+        <section id="captioning" class="tab-content">
+            <div class="section-header">
+                <h2 class="section-title">Captioning Examples</h2>
+                <p class="section-desc">Explore our model's audio captioning capabilities across diverse content types
+                </p>
+            </div>
+            <div class="ac-filter-bar">
+                <button class="ac-filter-btn active" data-filter="all">All</button>
+                <button class="ac-filter-btn" data-filter="music">Music</button>
+                <button class="ac-filter-btn" data-filter="speech">Speech</button>
+                <button class="ac-filter-btn" data-filter="sfx">SFX</button>
+            </div>
+            <div id="audioCaptioningExamples" class="ac-examples-container">
+                <!-- Dynamically loaded -->
+            </div>
+        </section>
+
+        <!-- Video Captioning Section -->
+        <section id="videocaptioning" class="tab-content">
+            <div class="section-header">
+                <h2 class="section-title">Video Captioning Examples</h2>
+                <p class="section-desc">Dense audio-visual captions with timestamped events — video with embedded
+                    captions on the left, event timeline on the right</p>
+            </div>
+            <div class="vc-filter-bar">
+                <button class="vc-filter-btn active" data-filter="all">All</button>
+                <button class="vc-filter-btn" data-filter="visual">Visual</button>
+                <button class="vc-filter-btn" data-filter="music">Music</button>
+                <button class="vc-filter-btn" data-filter="speech">Speech</button>
+                <button class="vc-filter-btn" data-filter="sfx">SFX</button>
+            </div>
+            <div id="videoCaptioningExamples" class="vc-examples-container">
+                <!-- Dynamically loaded -->
+            </div>
+        </section>
+
+        <!-- AV Benchmarks Tab -->
+        <section id="benchmarks" class="tab-content">
+            <div class="section-header">
+                <h2 class="section-title">Audio-Visual Benchmark Results</h2>
+                <p class="section-desc">Performance on challenging AV understanding benchmarks with reasoning traces</p>
+            </div>
+
+            <div class="benchmark-tabs">
+                <button class="benchmark-tab active" data-benchmark="dailyomni">Daily-Omni</button>
+                <button class="benchmark-tab" data-benchmark="avhbench">AVH-Bench</button>
+                <button class="benchmark-tab" data-benchmark="videoholmes">Video-Holmes</button>
+                <button class="benchmark-tab" data-benchmark="worldsense">World-Sense</button>
+            </div>
+
+            <div id="benchmarkExamples" class="benchmark-examples">
+                <!-- Dynamically loaded -->
+            </div>
+        </section>
+
+        <!-- Audio Benchmarks Tab -->
+        <section id="audiobenchmarks" class="tab-content">
+            <div class="section-header">
+                <h2 class="section-title">Audio-Only Benchmark Results</h2>
+                <p class="section-desc">Performance on challenging audio understanding benchmarks with reasoning traces
+                </p>
+            </div>
+
+            <div class="benchmark-tabs" id="audio-benchmark-tabs">
+                <button class="benchmark-tab active" data-audio-benchmark="mmar">MMAR</button>
+                <button class="benchmark-tab" data-audio-benchmark="mmsu">MMSU</button>
+            </div>
+
+            <div id="audioBenchmarkExamples" class="benchmark-examples">
+                <!-- Dynamically loaded -->
+            </div>
+        </section>
+
+        <!-- About Tab -->
+        <section id="about" class="tab-content">
+            <div class="about-content">
+                <h2 class="section-title">About TAC</h2>
+
+                <div class="paper-card">
+                    <h3>Paper Abstract</h3>
+                    <p class="abstract">
+                        Large Audio Language Models struggle to disentangle overlapping events in complex acoustic
+                        scenes, yielding temporally inconsistent captions and frequent hallucinations. We introduce
+                        Timestamped Audio Captioner (TAC), a model that produces temporally grounded audio descriptions
+                        at varying degrees of detail and resolution. TAC is trained with a synthetic data pipeline
+                        that constructs challenging and dynamic mixtures from real-world audio sources, enabling
+                        robust learning under realistic polyphonic conditions. Across event detection and dense
+                        captioning, TAC outperforms all competing methods, with a low hallucination rate and accurate
+                        temporal grounding. We also introduce TAC-V, an audio-visual pipeline to generate semantically
+                        rich audio-visual descriptions. We then show that TAC and TAC-V serves as a "semantic bridge"
+                        for a text-only reasoner: a simple TAC→LLM and TAC-V→LLM cascade achieves state-of-the-art
+                        scores on benchmarks for both audio (MMAU-Pro, MMSU, MMAR) and audio-visual (Daily-Omni,
+                        VideoHolmes) understanding and reasoning respectively.
+                    </p>
+                </div>
+
+                <!-- Results Tables -->
+                <div class="results-section">
+                    <h3>Results</h3>
+
+                    <!-- Table 1a: Training Ablations & Baselines -->
+                    <div class="results-table-container">
+                        <h4>Table 1a: Training Ablations & Baselines</h4>
+                        <p class="table-caption">Training ablations showing the impact of data sources and
+                            hyperparameters, plus baseline comparisons. ✓ = enabled, ✗ = disabled.</p>
+
+                        <div class="table-wrapper">
+                            <table class="results-table">
+                                <thead>
+                                    <tr>
+                                        <th>Configuration</th>
+                                        <th class="metric config">Multitask</th>
+                                        <th class="metric config">Pretrained</th>
+                                        <th class="metric config">Templates</th>
+                                        <th class="metric config">Acoustic Sim</th>
+                                        <th class="metric config">TACOS</th>
+                                        <th class="metric config">Iters</th>
+                                        <th class="metric config">LoRA</th>
+                                        <th class="metric config">TS Wt</th>
+                                        <th class="metric best">EvtF1 ↑</th>
+                                        <th class="metric">SegF1</th>
+                                        <th class="metric best">Hal% ↓</th>
+                                        <th class="metric">Conf</th>
+                                        <th class="metric">Spec</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="highlight-row">
+                                        <td><strong>TAC (Ours)</strong></td>
+                                        <td class="metric config">✓</td>
+                                        <td class="metric config">✓</td>
+                                        <td class="metric config">✓</td>
+                                        <td class="metric config">✓</td>
+                                        <td class="metric config">✓</td>
+                                        <td class="metric config">5k</td>
+                                        <td class="metric config">128</td>
+                                        <td class="metric config">5.0</td>
+                                        <td class="metric best"><strong>.50</strong></td>
+                                        <td class="metric"><strong>.71</strong></td>
+                                        <td class="metric best"><strong>4.9</strong></td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.74</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="14">Ablations</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">✗ Multitask</td>
+                                        <td class="metric config dim">✗</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.45</td>
+                                        <td class="metric">.72</td>
+                                        <td class="metric">7.0</td>
+                                        <td class="metric">0.87</td>
+                                        <td class="metric">0.70</td>
+                                    </tr>
+                                    <tr class="sub-row">
+                                        <td class="indent" style="padding-left: 40px;"><em>(merge=0.1)</em></td>
+                                        <td class="metric config dim">✗</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.41</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">13.8</td>
+                                        <td class="metric">0.80</td>
+                                        <td class="metric">0.70</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">✗ Pretrained</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✗</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.49</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">8.8</td>
+                                        <td class="metric">0.85</td>
+                                        <td class="metric">0.70</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">✗ Templates</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✗</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.47</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">2.2</td>
+                                        <td class="metric">0.93</td>
+                                        <td class="metric">0.78</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">✗ Acoustic Sim</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✗</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.49</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">5.3</td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.75</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">✗ TACOS</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✗</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.42</td>
+                                        <td class="metric">.68</td>
+                                        <td class="metric">7.6</td>
+                                        <td class="metric">0.85</td>
+                                        <td class="metric">0.70</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="14">LoRA Rank</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Rank 256</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config">256</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.48</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">3.5</td>
+                                        <td class="metric">0.90</td>
+                                        <td class="metric">0.75</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Rank 64</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config">64</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.49</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">4.8</td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.74</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Rank 8</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config">8</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.19</td>
+                                        <td class="metric">.66</td>
+                                        <td class="metric">36.0</td>
+                                        <td class="metric">0.58</td>
+                                        <td class="metric">0.54</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="14">Timestamp Weight</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Weight 1.0</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config">1.0</td>
+                                        <td class="metric">.48</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">4.2</td>
+                                        <td class="metric">0.91</td>
+                                        <td class="metric">0.76</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Weight 10.0</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config">10.0</td>
+                                        <td class="metric">.48</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">5.8</td>
+                                        <td class="metric">0.88</td>
+                                        <td class="metric">0.73</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="14">Iterations</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">10k iterations</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config">10k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.47</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">5.2</td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.75</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">2.5k iterations</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config dim">✓</td>
+                                        <td class="metric config">2.5k</td>
+                                        <td class="metric config dim">128</td>
+                                        <td class="metric config dim">5.0</td>
+                                        <td class="metric">.46</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">8.0</td>
+                                        <td class="metric">0.85</td>
+                                        <td class="metric">0.72</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="14">Baselines</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Gemini 3 Pro</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric">.42</td>
+                                        <td class="metric">.64</td>
+                                        <td class="metric">6.1</td>
+                                        <td class="metric">0.84</td>
+                                        <td class="metric">0.66</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Qwen3-Omni</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric">.37</td>
+                                        <td class="metric">.66</td>
+                                        <td class="metric">7.3</td>
+                                        <td class="metric">0.84</td>
+                                        <td class="metric">0.62</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="indent">Audio Flamingo 3</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric config dim">—</td>
+                                        <td class="metric">.27</td>
+                                        <td class="metric">.55</td>
+                                        <td class="metric">11.6</td>
+                                        <td class="metric">0.73</td>
+                                        <td class="metric">0.59</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Table 1b: Inference Parameter Sweeps -->
+                    <div class="results-table-container">
+                        <h4>Table 1b: Inference Parameter Sweeps</h4>
+                        <p class="table-caption">Inference parameter sweeps on the TAC checkpoint. Best configuration
+                            shown in bold.</p>
+
+                        <div class="table-wrapper">
+                            <table class="results-table">
+                                <thead>
+                                    <tr>
+                                        <th class="metric config">Style</th>
+                                        <th class="metric config">Merge (δ<sub>merge</sub>)</th>
+                                        <th class="metric config">Activity</th>
+                                        <th class="metric config">Resolution (δ<sub>res</sub>)</th>
+                                        <th class="metric best">EvtF1 ↑</th>
+                                        <th class="metric">SegF1</th>
+                                        <th class="metric best">Hal% ↓</th>
+                                        <th class="metric">Conf</th>
+                                        <th class="metric">Spec</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr class="highlight-row">
+                                        <td class="metric config"><strong>brief</strong></td>
+                                        <td class="metric config"><strong>0.25</strong></td>
+                                        <td class="metric config"><strong>0.05</strong></td>
+                                        <td class="metric config"><strong>0.10</strong></td>
+                                        <td class="metric best"><strong>.50</strong></td>
+                                        <td class="metric"><strong>.71</strong></td>
+                                        <td class="metric best"><strong>4.5</strong></td>
+                                        <td class="metric"><strong>0.89</strong></td>
+                                        <td class="metric"><strong>0.77</strong></td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="9">Style Variations</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config">detailed</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.49</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">8.0</td>
+                                        <td class="metric">0.86</td>
+                                        <td class="metric">0.72</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config">keywords</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.47</td>
+                                        <td class="metric">.66</td>
+                                        <td class="metric">1.3</td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.78</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="9">Merge Threshold (δ<sub>merge</sub>)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config">0.10</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.31</td>
+                                        <td class="metric">.66</td>
+                                        <td class="metric">20.2</td>
+                                        <td class="metric">0.73</td>
+                                        <td class="metric">0.67</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config">0.50</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.48</td>
+                                        <td class="metric">.72</td>
+                                        <td class="metric">4.0</td>
+                                        <td class="metric">0.90</td>
+                                        <td class="metric">0.74</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config">1.00</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.42</td>
+                                        <td class="metric">.72</td>
+                                        <td class="metric">4.7</td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.69</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="9">Activity Threshold</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config">0.01</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.49</td>
+                                        <td class="metric">.72</td>
+                                        <td class="metric">4.7</td>
+                                        <td class="metric">0.89</td>
+                                        <td class="metric">0.74</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config">0.10</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.49</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">5.5</td>
+                                        <td class="metric">0.88</td>
+                                        <td class="metric">0.76</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config">0.20</td>
+                                        <td class="metric config dim">0.10</td>
+                                        <td class="metric">.45</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">4.5</td>
+                                        <td class="metric">0.90</td>
+                                        <td class="metric">0.76</td>
+                                    </tr>
+                                    <tr class="section-header">
+                                        <td colspan="9">Resolution Threshold (δ<sub>res</sub>)</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config">0.01</td>
+                                        <td class="metric">.43</td>
+                                        <td class="metric">.71</td>
+                                        <td class="metric">11.8</td>
+                                        <td class="metric">0.83</td>
+                                        <td class="metric">0.73</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="metric config dim">brief</td>
+                                        <td class="metric config dim">0.25</td>
+                                        <td class="metric config dim">0.05</td>
+                                        <td class="metric config">0.50</td>
+                                        <td class="metric">.48</td>
+                                        <td class="metric">.70</td>
+                                        <td class="metric">5.4</td>
+                                        <td class="metric">0.88</td>
+                                        <td class="metric">0.77</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Table 2: Downstream Reasoning Benchmarks -->
+                    <div class="results-table-container">
+                        <h4>Table 2: Downstream Reasoning Benchmarks</h4>
+                        <p class="table-caption">Comparison of native multimodal LLMs against our cascade approach:
+                            TAC/TAC-V captions fed to a text-only reasoner.</p>
+
+                        <div class="table-grid">
+                            <!-- Audio Understanding -->
+                            <div class="table-wrapper">
+                                <h5>Audio Understanding & Reasoning</h5>
+                                <table class="results-table compact">
+                                    <thead>
+                                        <tr>
+                                            <th>Benchmark</th>
+                                            <th>Native LALM</th>
+                                            <th>Score</th>
+                                            <th>TAC + Qwen3</th>
+                                            <th>TAC + Gemini3</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>MMAU</td>
+                                            <td class="model-name">Audio Thinker</td>
+                                            <td class="metric"><strong>75.9</strong></td>
+                                            <td class="metric">73.9</td>
+                                            <td class="metric">72.2</td>
+                                        </tr>
+                                        <tr class="sub-row">
+                                            <td class="indent">Sound</td>
+                                            <td></td>
+                                            <td class="metric">78.8</td>
+                                            <td class="metric best"><strong>79.7</strong></td>
+                                            <td class="metric">79.6</td>
+                                        </tr>
+                                        <tr class="sub-row">
+                                            <td class="indent">Music</td>
+                                            <td></td>
+                                            <td class="metric"><strong>73.8</strong></td>
+                                            <td class="metric">62.6</td>
+                                            <td class="metric">63.4</td>
+                                        </tr>
+                                        <tr class="sub-row">
+                                            <td class="indent">Speech</td>
+                                            <td></td>
+                                            <td class="metric">75.2</td>
+                                            <td class="metric best"><strong>79.3</strong></td>
+                                            <td class="metric">73.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>MMAR</td>
+                                            <td class="model-name">Audio Flamingo 3</td>
+                                            <td class="metric">60.1</td>
+                                            <td class="metric">60.1</td>
+                                            <td class="metric best"><strong>71.9</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>MMSU</td>
+                                            <td class="model-name">Audio Flamingo 3</td>
+                                            <td class="metric">62.3</td>
+                                            <td class="metric">65.0</td>
+                                            <td class="metric best"><strong>72.4</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>MMAU-Pro</td>
+                                            <td class="model-name">Gemini 2.5 Flash</td>
+                                            <td class="metric">59.2</td>
+                                            <td class="metric">62.5</td>
+                                            <td class="metric best"><strong>62.9</strong></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!-- Audio-Visual Understanding -->
+                            <div class="table-wrapper">
+                                <h5>Audio-Visual Understanding & Reasoning</h5>
+                                <table class="results-table compact">
+                                    <thead>
+                                        <tr>
+                                            <th>Benchmark</th>
+                                            <th>Native MLLM</th>
+                                            <th>Score</th>
+                                            <th>VLM + Qwen3</th>
+                                            <th>TAC-V + Qwen3</th>
+                                            <th>TAC-V + Gemini3</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Daily-Omni</td>
+                                            <td class="model-name">Qwen3-Omni</td>
+                                            <td class="metric">76.2</td>
+                                            <td class="metric">51.5</td>
+                                            <td class="metric">72.9</td>
+                                            <td class="metric best"><strong>77.9</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>World-Sense</td>
+                                            <td class="model-name">Gemini 2.5 Pro</td>
+                                            <td class="metric"><strong>65.1</strong></td>
+                                            <td class="metric">37.4</td>
+                                            <td class="metric">45.7</td>
+                                            <td class="metric">58.6</td>
+                                        </tr>
+                                        <tr>
+                                            <td>Video-Holmes</td>
+                                            <td class="model-name">Qwen3-Omni</td>
+                                            <td class="metric">57.3</td>
+                                            <td class="metric">45.6</td>
+                                            <td class="metric">47.7</td>
+                                            <td class="metric best"><strong>59.2</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>AVHBench (AVH)</td>
+                                            <td class="model-name">PandaGPT</td>
+                                            <td class="metric">58.5</td>
+                                            <td class="metric">70.8</td>
+                                            <td class="metric">79.8</td>
+                                            <td class="metric best"><strong>81.7</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>AVHBench (VAH)</td>
+                                            <td class="model-name">PandaGPT</td>
+                                            <td class="metric">61.3</td>
+                                            <td class="metric">51.8</td>
+                                            <td class="metric">76.1</td>
+                                            <td class="metric best"><strong>76.6</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>AVHBench (AVM)</td>
+                                            <td class="model-name">OneLLM</td>
+                                            <td class="metric">60.1</td>
+                                            <td class="metric">50.5</td>
+                                            <td class="metric">56.7</td>
+                                            <td class="metric best"><strong>61.6</strong></td>
+                                        </tr>
+                                        <tr>
+                                            <td>AVHBench (AVC)</td>
+                                            <td class="model-name">Video-LLaMa</td>
+                                            <td class="metric">14.0</td>
+                                            <td class="metric">12.9</td>
+                                            <td class="metric best"><strong>22.6</strong></td>
+                                            <td class="metric">20.6</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- <div class="links-section">
+                    <h3>Resources</h3>
+                    <div class="resource-links">
+                        <a href="#" class="resource-btn">
+                            <span class="resource-icon">📄</span>
+                            Paper (PDF)
+                        </a>
+                        <a href="#" class="resource-btn">
+                            <span class="resource-icon">💻</span>
+                            Code
+                        </a>
+                        <a href="#" class="resource-btn">
+                            <span class="resource-icon">📊</span>
+                            Dataset
+                        </a>
+                        <a href="#" class="resource-btn">
+                            <span class="resource-icon">🤗</span>
+                            Model
+                        </a>
+                    </div>
+                </div> -->
+
+                <div class="citation-section">
+                    <h3>Citation</h3>
+                    <pre class="citation-block"><code>@article{tac2026,
+  title={TAC: Timestamped Audio Captioning},
+  author={Anonymous},
+  journal={Under Review},
+  year={2026}
+}</code></pre>
+                    <button class="copy-btn" onclick="copyBibtex()">Copy BibTeX</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Video Modal -->
+    <div id="videoModal" class="modal">
+        <div class="modal-content video-modal-content">
+            <button class="modal-close" onclick="closeModal('videoModal')">&times;</button>
+            <video id="modalVideo" controls>
+                <source id="modalVideoSource" src="" type="video/mp4">
+            </video>
+            <div id="modalCaption" class="modal-caption"></div>
+        </div>
+    </div>
+
+    <!-- Reasoning Modal -->
+    <div id="reasoningModal" class="modal">
+        <div class="modal-content reasoning-modal-content">
+            <button class="modal-close" onclick="closeModal('reasoningModal')">&times;</button>
+            <div id="reasoningContent"></div>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="main.js"></script>
+</body>
+
+</html>

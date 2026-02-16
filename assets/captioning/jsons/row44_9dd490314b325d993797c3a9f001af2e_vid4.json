@@ -1,0 +1,116 @@
+{
+  "events": [
+    {
+      "description": "Distant traffic and birds",
+      "start_time": 0.2,
+      "end_time": 15.0,
+      "duration": 14.8,
+      "type": "background",
+      "confidence": 0.88
+    },
+    {
+      "description": "Female voice (sad)",
+      "start_time": 1.5,
+      "end_time": 3.1,
+      "duration": 1.6,
+      "type": "speech",
+      "confidence": 0.947
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 12.6,
+      "end_time": 13.6,
+      "duration": 1.0,
+      "type": "speech",
+      "confidence": 0.987
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.55,
+        "end": 2.974,
+        "text": " Uh, this is me here on the left.",
+        "words": [
+          {
+            "word": "Uh,",
+            "start": 1.55,
+            "end": 1.751,
+            "score": 0.728
+          },
+          {
+            "word": "this",
+            "start": 1.931,
+            "end": 2.091,
+            "score": 0.602
+          },
+          {
+            "word": "is",
+            "start": 2.132,
+            "end": 2.232,
+            "score": 0.885
+          },
+          {
+            "word": "me",
+            "start": 2.252,
+            "end": 2.352,
+            "score": 0.957
+          },
+          {
+            "word": "here",
+            "start": 2.392,
+            "end": 2.533,
+            "score": 0.65
+          },
+          {
+            "word": "on",
+            "start": 2.573,
+            "end": 2.613,
+            "score": 0.99
+          },
+          {
+            "word": "the",
+            "start": 2.653,
+            "end": 2.713,
+            "score": 0.993
+          },
+          {
+            "word": "left.",
+            "start": 2.733,
+            "end": 2.974,
+            "score": 0.781
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.781,
+        "end": 13.483,
+        "text": "So, uh...",
+        "words": [
+          {
+            "word": "So,",
+            "start": 12.781,
+            "end": 13.303,
+            "score": 0.85
+          },
+          {
+            "word": "uh...",
+            "start": 13.323,
+            "end": 13.483,
+            "score": 0.741
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

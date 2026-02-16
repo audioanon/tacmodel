@@ -1,0 +1,194 @@
+{
+  "events": [
+    {
+      "description": "Low-frequency hum",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.894
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 0.9,
+      "end_time": 2.1,
+      "duration": 1.2000000000000002,
+      "type": "sfx",
+      "confidence": 0.646
+    },
+    {
+      "description": "Male voice (determined)",
+      "start_time": 1.9,
+      "end_time": 3.8,
+      "duration": 1.9,
+      "type": "speech",
+      "confidence": 0.884
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 3.2,
+      "end_time": 4.1,
+      "duration": 0.8999999999999995,
+      "type": "sfx",
+      "confidence": 0.892
+    },
+    {
+      "description": "Male voice (determined)",
+      "start_time": 4.6,
+      "end_time": 6.8,
+      "duration": 2.2,
+      "type": "speech",
+      "confidence": 0.891
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 4.7,
+      "end_time": 6.2,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.788
+    },
+    {
+      "description": "Male voice (determined)",
+      "start_time": 7.4,
+      "end_time": 9.3,
+      "duration": 1.9000000000000004,
+      "type": "speech",
+      "confidence": 0.9
+    },
+    {
+      "description": "Sci-fi weapon blast",
+      "start_time": 8.3,
+      "end_time": 11.0,
+      "duration": 2.6999999999999993,
+      "type": "sfx",
+      "confidence": 0.907
+    },
+    {
+      "description": "Female voice (whispering)",
+      "start_time": 11.6,
+      "end_time": 14.4,
+      "duration": 2.8000000000000007,
+      "type": "sfx",
+      "confidence": 0.926
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.972,
+        "end": 9.309,
+        "text": " A new hero is rising, resilient, fierce, and female.",
+        "words": [
+          {
+            "word": "A",
+            "start": 1.972,
+            "end": 2.112,
+            "score": 0.572
+          },
+          {
+            "word": "new",
+            "start": 2.152,
+            "end": 2.393,
+            "score": 0.677
+          },
+          {
+            "word": "hero",
+            "start": 2.493,
+            "end": 2.874,
+            "score": 0.928
+          },
+          {
+            "word": "is",
+            "start": 2.914,
+            "end": 3.135,
+            "score": 0.79
+          },
+          {
+            "word": "rising,",
+            "start": 3.235,
+            "end": 3.816,
+            "score": 0.854
+          },
+          {
+            "word": "resilient,",
+            "start": 4.678,
+            "end": 5.56,
+            "score": 0.903
+          },
+          {
+            "word": "fierce,",
+            "start": 6.202,
+            "end": 6.663,
+            "score": 0.75
+          },
+          {
+            "word": "and",
+            "start": 7.805,
+            "end": 8.006,
+            "score": 0.844
+          },
+          {
+            "word": "female.",
+            "start": 8.046,
+            "end": 9.309,
+            "score": 0.783
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.855,
+        "end": 15.002,
+        "text": "Bite my tongue, bite my tongue.",
+        "words": [
+          {
+            "word": "Bite",
+            "start": 11.855,
+            "end": 11.935,
+            "score": 0.0
+          },
+          {
+            "word": "my",
+            "start": 11.955,
+            "end": 12.256,
+            "score": 0.872
+          },
+          {
+            "word": "tongue,",
+            "start": 12.296,
+            "end": 12.737,
+            "score": 0.364
+          },
+          {
+            "word": "bite",
+            "start": 12.757,
+            "end": 13.058,
+            "score": 0.532
+          },
+          {
+            "word": "my",
+            "start": 13.158,
+            "end": 13.438,
+            "score": 0.9
+          },
+          {
+            "word": "tongue.",
+            "start": 13.499,
+            "end": 15.002,
+            "score": 0.531
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

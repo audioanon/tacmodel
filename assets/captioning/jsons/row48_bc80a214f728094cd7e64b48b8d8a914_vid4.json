@@ -1,0 +1,98 @@
+{
+  "events": [
+    {
+      "description": "Water dripping in a cave",
+      "start_time": 0.2,
+      "end_time": 11.7,
+      "duration": 11.5,
+      "type": "background",
+      "confidence": 0.996
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 3.6,
+      "end_time": 4.3,
+      "duration": 0.6999999999999997,
+      "type": "speech",
+      "confidence": 0.981
+    },
+    {
+      "description": "Dog barks once",
+      "start_time": 5.0,
+      "end_time": 5.4,
+      "duration": 0.40000000000000036,
+      "type": "sfx",
+      "confidence": 0.997
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 6.7,
+      "end_time": 7.8,
+      "duration": 1.0999999999999996,
+      "type": "speech",
+      "confidence": 0.964
+    },
+    {
+      "description": "Female voice (urgent)",
+      "start_time": 9.9,
+      "end_time": 11.0,
+      "duration": 1.0999999999999996,
+      "type": "speech",
+      "confidence": 0.981
+    },
+    {
+      "description": "Low-frequency electronic pulse",
+      "start_time": 12.8,
+      "end_time": 15.0,
+      "duration": 2.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.657
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 6.781,
+        "end": 7.832,
+        "text": " Eh, manda!",
+        "words": [
+          {
+            "word": "Eh,",
+            "start": 6.781,
+            "end": 7.124,
+            "score": 0.734
+          },
+          {
+            "word": "manda!",
+            "start": 7.145,
+            "end": 7.832,
+            "score": 0.883
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.236,
+        "end": 11.003,
+        "text": "Archie!",
+        "words": [
+          {
+            "word": "Archie!",
+            "start": 10.236,
+            "end": 11.003,
+            "score": 0.254
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

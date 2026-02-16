@@ -1,0 +1,248 @@
+{
+  "events": [
+    {
+      "description": "Stormy weather with thunder",
+      "start_time": 0.0,
+      "end_time": 2.0,
+      "duration": 2.0,
+      "type": "background",
+      "confidence": 0.96
+    },
+    {
+      "description": "Driving rhythm, minor key, intense energy",
+      "start_time": 0.1,
+      "end_time": 14.9,
+      "duration": 14.8,
+      "type": "music",
+      "confidence": 0.659
+    },
+    {
+      "description": "A child speaks the phrase 'are we there yet?' in a clear, youthful voice",
+      "start_time": 2.7,
+      "end_time": 4.0,
+      "duration": 1.2999999999999998,
+      "type": "speech",
+      "confidence": 0.954
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 4.1,
+      "end_time": 5.7,
+      "duration": 1.6000000000000005,
+      "type": "speech",
+      "confidence": 0.945
+    },
+    {
+      "description": "Stormy weather with thunder",
+      "start_time": 5.9,
+      "end_time": 14.9,
+      "duration": 9.0,
+      "type": "background",
+      "confidence": 0.968
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 6.2,
+      "end_time": 9.5,
+      "duration": 3.3,
+      "type": "sfx",
+      "confidence": 0.82
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 6.8,
+      "end_time": 12.8,
+      "duration": 6.000000000000001,
+      "type": "sfx",
+      "confidence": 0.82
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 8.3,
+      "end_time": 10.8,
+      "duration": 2.5,
+      "type": "sfx",
+      "confidence": 0.581
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 8.4,
+      "end_time": 12.8,
+      "duration": 4.4,
+      "type": "speech",
+      "confidence": 0.916
+    },
+    {
+      "description": "Low-frequency impact",
+      "start_time": 13.7,
+      "end_time": 14.6,
+      "duration": 0.9000000000000004,
+      "type": "sfx",
+      "confidence": 0.47
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 2.765,
+        "end": 3.829,
+        "text": " Are we there yet?",
+        "words": [
+          {
+            "word": "Are",
+            "start": 2.765,
+            "end": 2.885,
+            "score": 0.666
+          },
+          {
+            "word": "we",
+            "start": 2.946,
+            "end": 3.106,
+            "score": 0.874
+          },
+          {
+            "word": "there",
+            "start": 3.186,
+            "end": 3.487,
+            "score": 0.915
+          },
+          {
+            "word": "yet?",
+            "start": 3.528,
+            "end": 3.829,
+            "score": 0.865
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.13,
+        "end": 5.655,
+        "text": "We get there when we get there.",
+        "words": [
+          {
+            "word": "We",
+            "start": 4.13,
+            "end": 4.31,
+            "score": 0.972
+          },
+          {
+            "word": "get",
+            "start": 4.33,
+            "end": 4.491,
+            "score": 0.895
+          },
+          {
+            "word": "there",
+            "start": 4.511,
+            "end": 4.692,
+            "score": 0.739
+          },
+          {
+            "word": "when",
+            "start": 4.812,
+            "end": 4.952,
+            "score": 0.831
+          },
+          {
+            "word": "we",
+            "start": 5.013,
+            "end": 5.133,
+            "score": 0.997
+          },
+          {
+            "word": "get",
+            "start": 5.173,
+            "end": 5.354,
+            "score": 0.802
+          },
+          {
+            "word": "there.",
+            "start": 5.414,
+            "end": 5.655,
+            "score": 0.822
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.387,
+        "end": 12.578,
+        "text": "How are you doing, honey?",
+        "words": [
+          {
+            "word": "How",
+            "start": 9.387,
+            "end": 9.648,
+            "score": 0.479
+          },
+          {
+            "word": "are",
+            "start": 9.949,
+            "end": 10.25,
+            "score": 0.277
+          },
+          {
+            "word": "you",
+            "start": 10.27,
+            "end": 10.331,
+            "score": 0.208
+          },
+          {
+            "word": "doing,",
+            "start": 10.692,
+            "end": 12.438,
+            "score": 0.456
+          },
+          {
+            "word": "honey?",
+            "start": 12.458,
+            "end": 12.578,
+            "score": 0.0
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.598,
+        "end": 12.859,
+        "text": "Do I have to?",
+        "words": [
+          {
+            "word": "Do",
+            "start": 12.598,
+            "end": 12.638,
+            "score": 0.0
+          },
+          {
+            "word": "I",
+            "start": 12.658,
+            "end": 12.678,
+            "score": 0.0
+          },
+          {
+            "word": "have",
+            "start": 12.699,
+            "end": 12.779,
+            "score": 0.0
+          },
+          {
+            "word": "to?",
+            "start": 12.799,
+            "end": 12.859,
+            "score": 0.333
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

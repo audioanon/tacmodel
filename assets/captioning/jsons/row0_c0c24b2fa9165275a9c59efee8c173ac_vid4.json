@@ -1,0 +1,198 @@
+{
+  "events": [
+    {
+      "description": "Fingerpicked melody, gentle and reflective",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.985
+    },
+    {
+      "description": "Deep impact sound",
+      "start_time": 5.6,
+      "end_time": 7.8,
+      "duration": 2.2,
+      "type": "sfx",
+      "confidence": 0.979
+    },
+    {
+      "description": "Deep impact sound",
+      "start_time": 8.3,
+      "end_time": 11.1,
+      "duration": 2.799999999999999,
+      "type": "sfx",
+      "confidence": 0.974
+    },
+    {
+      "description": "Sustained electronic tone",
+      "start_time": 9.0,
+      "end_time": 12.5,
+      "duration": 3.5,
+      "type": "sfx",
+      "confidence": 0.882
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 12.5,
+      "end_time": 15.0,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.886
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.803,
+        "end": 4.371,
+        "text": " We're still about eight hours outside Houston.",
+        "words": [
+          {
+            "word": "We're",
+            "start": 1.803,
+            "end": 1.963,
+            "score": 0.323
+          },
+          {
+            "word": "still",
+            "start": 2.004,
+            "end": 2.204,
+            "score": 0.883
+          },
+          {
+            "word": "about",
+            "start": 2.224,
+            "end": 2.405,
+            "score": 0.983
+          },
+          {
+            "word": "eight",
+            "start": 2.445,
+            "end": 2.686,
+            "score": 0.717
+          },
+          {
+            "word": "hours",
+            "start": 2.726,
+            "end": 3.167,
+            "score": 0.814
+          },
+          {
+            "word": "outside",
+            "start": 3.448,
+            "end": 3.809,
+            "score": 0.928
+          },
+          {
+            "word": "Houston.",
+            "start": 3.949,
+            "end": 4.371,
+            "score": 0.61
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.475,
+        "end": 15.002,
+        "text": "When I sell my script, we're gonna have all the money we ever need.",
+        "words": [
+          {
+            "word": "When",
+            "start": 12.475,
+            "end": 12.595,
+            "score": 0.364
+          },
+          {
+            "word": "I",
+            "start": 12.615,
+            "end": 12.635,
+            "score": 0.131
+          },
+          {
+            "word": "sell",
+            "start": 12.675,
+            "end": 12.775,
+            "score": 0.435
+          },
+          {
+            "word": "my",
+            "start": 12.796,
+            "end": 12.956,
+            "score": 0.704
+          },
+          {
+            "word": "script,",
+            "start": 12.996,
+            "end": 13.257,
+            "score": 0.414
+          },
+          {
+            "word": "we're",
+            "start": 13.277,
+            "end": 13.377,
+            "score": 0.112
+          },
+          {
+            "word": "gonna",
+            "start": 13.397,
+            "end": 13.518,
+            "score": 0.465
+          },
+          {
+            "word": "have",
+            "start": 13.538,
+            "end": 13.678,
+            "score": 0.933
+          },
+          {
+            "word": "all",
+            "start": 13.778,
+            "end": 13.919,
+            "score": 0.867
+          },
+          {
+            "word": "the",
+            "start": 13.979,
+            "end": 14.14,
+            "score": 0.887
+          },
+          {
+            "word": "money",
+            "start": 14.481,
+            "end": 14.681,
+            "score": 0.923
+          },
+          {
+            "word": "we",
+            "start": 14.741,
+            "end": 14.781,
+            "score": 0.003
+          },
+          {
+            "word": "ever",
+            "start": 14.801,
+            "end": 14.882,
+            "score": 0.001
+          },
+          {
+            "word": "need.",
+            "start": 14.902,
+            "end": 15.002,
+            "score": 0.119
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

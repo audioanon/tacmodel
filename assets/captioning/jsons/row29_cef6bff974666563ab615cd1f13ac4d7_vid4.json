@@ -1,0 +1,218 @@
+{
+  "events": [
+    {
+      "description": "Crowd noise in a stadium",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.936
+    },
+    {
+      "description": "Deep bass hit",
+      "start_time": 0.0,
+      "end_time": 2.0,
+      "duration": 2.0,
+      "type": "sfx",
+      "confidence": 0.921
+    },
+    {
+      "description": "Female voice (fearful)",
+      "start_time": 0.5,
+      "end_time": 4.6,
+      "duration": 4.1,
+      "type": "speech",
+      "confidence": 0.952
+    },
+    {
+      "description": "Aggressive metal riff",
+      "start_time": 0.8,
+      "end_time": 6.5,
+      "duration": 5.7,
+      "type": "music",
+      "confidence": 0.985
+    },
+    {
+      "description": "Male voice (whispering)",
+      "start_time": 2.2,
+      "end_time": 4.5,
+      "duration": 2.3,
+      "type": "speech",
+      "confidence": 0.464
+    },
+    {
+      "description": "Deep bass hit",
+      "start_time": 4.4,
+      "end_time": 6.5,
+      "duration": 2.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.912
+    },
+    {
+      "description": "Sharp metallic hit",
+      "start_time": 5.8,
+      "end_time": 6.5,
+      "duration": 0.7000000000000002,
+      "type": "sfx",
+      "confidence": 0.594
+    },
+    {
+      "description": "Male voice screaming in fear",
+      "start_time": 6.2,
+      "end_time": 8.6,
+      "duration": 2.3999999999999995,
+      "type": "sfx",
+      "confidence": 0.935
+    },
+    {
+      "description": "Deep bass hit",
+      "start_time": 8.9,
+      "end_time": 10.8,
+      "duration": 1.9000000000000004,
+      "type": "sfx",
+      "confidence": 0.921
+    },
+    {
+      "description": "Male voice yelling in a crowd",
+      "start_time": 9.2,
+      "end_time": 12.2,
+      "duration": 3.0,
+      "type": "sfx",
+      "confidence": 0.979
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 13.4,
+      "end_time": 14.0,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.525
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 14.2,
+      "end_time": 14.8,
+      "duration": 0.6000000000000014,
+      "type": "sfx",
+      "confidence": 0.437
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.537,
+        "end": 4.325,
+        "text": " Just one thing I have to do.",
+        "words": [
+          {
+            "word": "Just",
+            "start": 0.537,
+            "end": 1.078,
+            "score": 0.7
+          },
+          {
+            "word": "one",
+            "start": 1.218,
+            "end": 1.479,
+            "score": 0.692
+          },
+          {
+            "word": "thing",
+            "start": 1.499,
+            "end": 1.659,
+            "score": 0.314
+          },
+          {
+            "word": "I",
+            "start": 1.679,
+            "end": 1.78,
+            "score": 0.877
+          },
+          {
+            "word": "have",
+            "start": 2.481,
+            "end": 3.022,
+            "score": 0.836
+          },
+          {
+            "word": "to",
+            "start": 3.363,
+            "end": 4.084,
+            "score": 0.326
+          },
+          {
+            "word": "do.",
+            "start": 4.104,
+            "end": 4.325,
+            "score": 0.593
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.345,
+        "end": 14.867,
+        "text": "What I have to say is the law.",
+        "words": [
+          {
+            "word": "What",
+            "start": 4.345,
+            "end": 4.425,
+            "score": 0.001
+          },
+          {
+            "word": "I",
+            "start": 4.445,
+            "end": 4.465,
+            "score": 0.988
+          },
+          {
+            "word": "have",
+            "start": 12.161,
+            "end": 12.522,
+            "score": 0.533
+          },
+          {
+            "word": "to",
+            "start": 12.642,
+            "end": 12.903,
+            "score": 0.595
+          },
+          {
+            "word": "say",
+            "start": 14.426,
+            "end": 14.546,
+            "score": 0.521
+          },
+          {
+            "word": "is",
+            "start": 14.566,
+            "end": 14.606,
+            "score": 0.0
+          },
+          {
+            "word": "the",
+            "start": 14.627,
+            "end": 14.687,
+            "score": 0.0
+          },
+          {
+            "word": "law.",
+            "start": 14.707,
+            "end": 14.867,
+            "score": 0.45
+          }
+        ],
+        "detected_language": "es"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

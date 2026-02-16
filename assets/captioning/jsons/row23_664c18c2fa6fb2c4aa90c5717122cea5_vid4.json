@@ -1,0 +1,422 @@
+{
+  "events": [
+    {
+      "description": "Male voice (formal)",
+      "start_time": 0.0,
+      "end_time": 3.5,
+      "duration": 3.5,
+      "type": "speech",
+      "confidence": 0.914
+    },
+    {
+      "description": "Male voice (playful)",
+      "start_time": 3.6,
+      "end_time": 5.7,
+      "duration": 2.1,
+      "type": "speech",
+      "confidence": 0.777
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 5.9,
+      "end_time": 8.3,
+      "duration": 2.4000000000000004,
+      "type": "speech",
+      "confidence": 0.903
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 8.7,
+      "end_time": 12.9,
+      "duration": 4.200000000000001,
+      "type": "speech",
+      "confidence": 0.956
+    },
+    {
+      "description": "Engine revving loudly",
+      "start_time": 12.8,
+      "end_time": 15.0,
+      "duration": 2.1999999999999993,
+      "type": "sfx",
+      "confidence": 0.366
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 13.1,
+      "end_time": 15.0,
+      "duration": 1.9000000000000004,
+      "type": "speech",
+      "confidence": 0.921
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 3.478,
+        "text": " MASH was not a successful show that first year in terms of ratings.",
+        "words": [
+          {
+            "word": "MASH",
+            "start": 0.031,
+            "end": 0.412,
+            "score": 0.804
+          },
+          {
+            "word": "was",
+            "start": 0.452,
+            "end": 0.572,
+            "score": 0.835
+          },
+          {
+            "word": "not",
+            "start": 0.692,
+            "end": 0.873,
+            "score": 0.835
+          },
+          {
+            "word": "a",
+            "start": 0.913,
+            "end": 0.973,
+            "score": 0.37
+          },
+          {
+            "word": "successful",
+            "start": 1.033,
+            "end": 1.594,
+            "score": 0.916
+          },
+          {
+            "word": "show",
+            "start": 1.674,
+            "end": 1.855,
+            "score": 0.936
+          },
+          {
+            "word": "that",
+            "start": 1.895,
+            "end": 2.055,
+            "score": 0.802
+          },
+          {
+            "word": "first",
+            "start": 2.115,
+            "end": 2.336,
+            "score": 0.708
+          },
+          {
+            "word": "year",
+            "start": 2.376,
+            "end": 2.516,
+            "score": 0.746
+          },
+          {
+            "word": "in",
+            "start": 2.556,
+            "end": 2.616,
+            "score": 0.998
+          },
+          {
+            "word": "terms",
+            "start": 2.656,
+            "end": 2.897,
+            "score": 0.923
+          },
+          {
+            "word": "of",
+            "start": 2.957,
+            "end": 2.997,
+            "score": 0.968
+          },
+          {
+            "word": "ratings.",
+            "start": 3.037,
+            "end": 3.478,
+            "score": 0.881
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 3.618,
+        "end": 4.58,
+        "text": "Well, that's impossible.",
+        "words": [
+          {
+            "word": "Well,",
+            "start": 3.618,
+            "end": 3.759,
+            "score": 0.58
+          },
+          {
+            "word": "that's",
+            "start": 3.779,
+            "end": 3.939,
+            "score": 0.903
+          },
+          {
+            "word": "impossible.",
+            "start": 4.019,
+            "end": 4.58,
+            "score": 0.969
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.6,
+        "end": 5.683,
+        "text": "There must be some mistake.",
+        "words": [
+          {
+            "word": "There",
+            "start": 4.6,
+            "end": 4.701,
+            "score": 0.936
+          },
+          {
+            "word": "must",
+            "start": 4.741,
+            "end": 4.881,
+            "score": 0.826
+          },
+          {
+            "word": "be",
+            "start": 4.921,
+            "end": 5.001,
+            "score": 0.992
+          },
+          {
+            "word": "some",
+            "start": 5.041,
+            "end": 5.202,
+            "score": 0.836
+          },
+          {
+            "word": "mistake.",
+            "start": 5.262,
+            "end": 5.683,
+            "score": 0.931
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.903,
+        "end": 12.838,
+        "text": "We were, I believe, number 56 opposite The Wonderful World of Disney, and they were just creaming us in the ratings.",
+        "words": [
+          {
+            "word": "We",
+            "start": 5.903,
+            "end": 6.023,
+            "score": 0.886
+          },
+          {
+            "word": "were,",
+            "start": 6.064,
+            "end": 6.224,
+            "score": 0.835
+          },
+          {
+            "word": "I",
+            "start": 6.384,
+            "end": 6.444,
+            "score": 0.84
+          },
+          {
+            "word": "believe,",
+            "start": 6.484,
+            "end": 6.765,
+            "score": 0.941
+          },
+          {
+            "word": "number",
+            "start": 6.805,
+            "end": 7.026,
+            "score": 0.965
+          },
+          {
+            "word": "56",
+            "start": 7.046,
+            "end": 7.426,
+            "score": 0.828
+          },
+          {
+            "word": "opposite",
+            "start": 7.887,
+            "end": 8.288,
+            "score": 0.827
+          },
+          {
+            "word": "The",
+            "start": 8.729,
+            "end": 8.829,
+            "score": 0.971
+          },
+          {
+            "word": "Wonderful",
+            "start": 8.869,
+            "end": 9.29,
+            "score": 0.886
+          },
+          {
+            "word": "World",
+            "start": 9.35,
+            "end": 9.631,
+            "score": 0.869
+          },
+          {
+            "word": "of",
+            "start": 9.711,
+            "end": 9.751,
+            "score": 0.999
+          },
+          {
+            "word": "Disney,",
+            "start": 9.811,
+            "end": 10.312,
+            "score": 0.88
+          },
+          {
+            "word": "and",
+            "start": 10.873,
+            "end": 10.974,
+            "score": 0.934
+          },
+          {
+            "word": "they",
+            "start": 11.014,
+            "end": 11.114,
+            "score": 0.869
+          },
+          {
+            "word": "were",
+            "start": 11.154,
+            "end": 11.254,
+            "score": 0.842
+          },
+          {
+            "word": "just",
+            "start": 11.294,
+            "end": 11.455,
+            "score": 0.683
+          },
+          {
+            "word": "creaming",
+            "start": 11.575,
+            "end": 11.956,
+            "score": 0.928
+          },
+          {
+            "word": "us",
+            "start": 12.056,
+            "end": 12.136,
+            "score": 0.735
+          },
+          {
+            "word": "in",
+            "start": 12.216,
+            "end": 12.276,
+            "score": 0.996
+          },
+          {
+            "word": "the",
+            "start": 12.316,
+            "end": 12.397,
+            "score": 0.844
+          },
+          {
+            "word": "ratings.",
+            "start": 12.457,
+            "end": 12.838,
+            "score": 0.907
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.118,
+        "end": 15.002,
+        "text": "The critics panned it, too, but we're trying to judge it",
+        "words": [
+          {
+            "word": "The",
+            "start": 13.118,
+            "end": 13.218,
+            "score": 0.347
+          },
+          {
+            "word": "critics",
+            "start": 13.278,
+            "end": 13.599,
+            "score": 0.949
+          },
+          {
+            "word": "panned",
+            "start": 13.759,
+            "end": 14.02,
+            "score": 0.61
+          },
+          {
+            "word": "it,",
+            "start": 14.04,
+            "end": 14.1,
+            "score": 0.047
+          },
+          {
+            "word": "too,",
+            "start": 14.12,
+            "end": 14.22,
+            "score": 0.428
+          },
+          {
+            "word": "but",
+            "start": 14.24,
+            "end": 14.301,
+            "score": 0.323
+          },
+          {
+            "word": "we're",
+            "start": 14.341,
+            "end": 14.461,
+            "score": 0.297
+          },
+          {
+            "word": "trying",
+            "start": 14.501,
+            "end": 14.621,
+            "score": 0.191
+          },
+          {
+            "word": "to",
+            "start": 14.641,
+            "end": 14.701,
+            "score": 0.882
+          },
+          {
+            "word": "judge",
+            "start": 14.742,
+            "end": 14.922,
+            "score": 0.872
+          },
+          {
+            "word": "it",
+            "start": 14.962,
+            "end": 15.002,
+            "score": 0.11
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

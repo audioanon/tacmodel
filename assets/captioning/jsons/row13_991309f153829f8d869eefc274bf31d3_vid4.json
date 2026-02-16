@@ -1,0 +1,268 @@
+{
+  "events": [
+    {
+      "description": "Natural bird sounds",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.983
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 0.1,
+      "end_time": 2.0,
+      "duration": 1.9,
+      "type": "speech",
+      "confidence": 0.94
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 2.3,
+      "end_time": 4.7,
+      "duration": 2.4000000000000004,
+      "type": "speech",
+      "confidence": 0.908
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 2.3,
+      "end_time": 6.0,
+      "duration": 3.7,
+      "type": "sfx",
+      "confidence": 0.874
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 6.0,
+      "end_time": 7.9,
+      "duration": 1.9000000000000004,
+      "type": "speech",
+      "confidence": 0.925
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 8.4,
+      "end_time": 10.9,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.896
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 11.3,
+      "end_time": 15.0,
+      "duration": 3.6999999999999993,
+      "type": "speech",
+      "confidence": 0.912
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 4.721,
+        "text": " Beetles, cockroaches, and a specialized form of algae.",
+        "words": [
+          {
+            "word": "Beetles,",
+            "start": 0.031,
+            "end": 0.632,
+            "score": 0.831
+          },
+          {
+            "word": "cockroaches,",
+            "start": 1.193,
+            "end": 1.935,
+            "score": 0.873
+          },
+          {
+            "word": "and",
+            "start": 2.336,
+            "end": 2.416,
+            "score": 0.834
+          },
+          {
+            "word": "a",
+            "start": 2.476,
+            "end": 2.496,
+            "score": 0.973
+          },
+          {
+            "word": "specialized",
+            "start": 2.576,
+            "end": 3.278,
+            "score": 0.854
+          },
+          {
+            "word": "form",
+            "start": 3.358,
+            "end": 3.719,
+            "score": 0.879
+          },
+          {
+            "word": "of",
+            "start": 3.759,
+            "end": 4.099,
+            "score": 0.89
+          },
+          {
+            "word": "algae.",
+            "start": 4.119,
+            "end": 4.721,
+            "score": 0.763
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.104,
+        "end": 15.002,
+        "text": "Found nowhere else in the world, this host-specific microorganism has evolved with the sloth and is passed on to infants as they",
+        "words": [
+          {
+            "word": "Found",
+            "start": 6.104,
+            "end": 6.364,
+            "score": 0.849
+          },
+          {
+            "word": "nowhere",
+            "start": 6.504,
+            "end": 6.905,
+            "score": 0.709
+          },
+          {
+            "word": "else",
+            "start": 6.985,
+            "end": 7.166,
+            "score": 0.908
+          },
+          {
+            "word": "in",
+            "start": 7.246,
+            "end": 7.286,
+            "score": 0.96
+          },
+          {
+            "word": "the",
+            "start": 7.346,
+            "end": 7.426,
+            "score": 0.998
+          },
+          {
+            "word": "world,",
+            "start": 7.466,
+            "end": 7.847,
+            "score": 0.738
+          },
+          {
+            "word": "this",
+            "start": 8.428,
+            "end": 8.609,
+            "score": 0.842
+          },
+          {
+            "word": "host-specific",
+            "start": 8.829,
+            "end": 9.731,
+            "score": 0.843
+          },
+          {
+            "word": "microorganism",
+            "start": 9.831,
+            "end": 10.833,
+            "score": 0.883
+          },
+          {
+            "word": "has",
+            "start": 11.334,
+            "end": 11.495,
+            "score": 0.916
+          },
+          {
+            "word": "evolved",
+            "start": 11.575,
+            "end": 12.016,
+            "score": 0.867
+          },
+          {
+            "word": "with",
+            "start": 12.056,
+            "end": 12.176,
+            "score": 0.941
+          },
+          {
+            "word": "the",
+            "start": 12.216,
+            "end": 12.276,
+            "score": 0.892
+          },
+          {
+            "word": "sloth",
+            "start": 12.337,
+            "end": 12.677,
+            "score": 0.929
+          },
+          {
+            "word": "and",
+            "start": 12.838,
+            "end": 12.938,
+            "score": 0.778
+          },
+          {
+            "word": "is",
+            "start": 12.998,
+            "end": 13.078,
+            "score": 0.968
+          },
+          {
+            "word": "passed",
+            "start": 13.158,
+            "end": 13.499,
+            "score": 0.916
+          },
+          {
+            "word": "on",
+            "start": 13.619,
+            "end": 13.699,
+            "score": 0.832
+          },
+          {
+            "word": "to",
+            "start": 13.78,
+            "end": 13.88,
+            "score": 0.896
+          },
+          {
+            "word": "infants",
+            "start": 14.04,
+            "end": 14.481,
+            "score": 0.954
+          },
+          {
+            "word": "as",
+            "start": 14.762,
+            "end": 14.842,
+            "score": 0.802
+          },
+          {
+            "word": "they",
+            "start": 14.902,
+            "end": 15.002,
+            "score": 0.903
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "events": [
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 0.0,
+      "end_time": 7.5,
+      "duration": 7.5,
+      "type": "speech",
+      "confidence": 0.922
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 8.0,
+      "end_time": 15.0,
+      "duration": 7.0,
+      "type": "speech",
+      "confidence": 0.951
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 3.659,
+        "text": " My role is I play the zookeeper and I'm a great zookeeper.",
+        "words": [
+          {
+            "word": "My",
+            "start": 0.031,
+            "end": 0.271,
+            "score": 0.756
+          },
+          {
+            "word": "role",
+            "start": 0.312,
+            "end": 0.512,
+            "score": 0.857
+          },
+          {
+            "word": "is",
+            "start": 0.552,
+            "end": 0.592,
+            "score": 0.55
+          },
+          {
+            "word": "I",
+            "start": 0.672,
+            "end": 0.732,
+            "score": 0.994
+          },
+          {
+            "word": "play",
+            "start": 0.773,
+            "end": 0.913,
+            "score": 0.566
+          },
+          {
+            "word": "the",
+            "start": 0.933,
+            "end": 0.993,
+            "score": 0.32
+          },
+          {
+            "word": "zookeeper",
+            "start": 1.053,
+            "end": 1.454,
+            "score": 0.81
+          },
+          {
+            "word": "and",
+            "start": 1.895,
+            "end": 2.516,
+            "score": 0.779
+          },
+          {
+            "word": "I'm",
+            "start": 2.837,
+            "end": 2.937,
+            "score": 0.73
+          },
+          {
+            "word": "a",
+            "start": 2.997,
+            "end": 3.017,
+            "score": 0.998
+          },
+          {
+            "word": "great",
+            "start": 3.057,
+            "end": 3.238,
+            "score": 0.732
+          },
+          {
+            "word": "zookeeper.",
+            "start": 3.298,
+            "end": 3.659,
+            "score": 0.881
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 3.679,
+        "end": 6.685,
+        "text": "I love the animals and they love me and I provide for them.",
+        "words": [
+          {
+            "word": "I",
+            "start": 3.679,
+            "end": 3.699,
+            "score": 0.955
+          },
+          {
+            "word": "love",
+            "start": 3.739,
+            "end": 3.879,
+            "score": 0.801
+          },
+          {
+            "word": "the",
+            "start": 3.919,
+            "end": 3.999,
+            "score": 0.829
+          },
+          {
+            "word": "animals",
+            "start": 4.099,
+            "end": 4.46,
+            "score": 0.773
+          },
+          {
+            "word": "and",
+            "start": 4.721,
+            "end": 4.881,
+            "score": 0.877
+          },
+          {
+            "word": "they",
+            "start": 5.402,
+            "end": 5.522,
+            "score": 0.986
+          },
+          {
+            "word": "love",
+            "start": 5.542,
+            "end": 5.703,
+            "score": 0.652
+          },
+          {
+            "word": "me",
+            "start": 5.763,
+            "end": 5.843,
+            "score": 0.925
+          },
+          {
+            "word": "and",
+            "start": 5.883,
+            "end": 5.943,
+            "score": 0.973
+          },
+          {
+            "word": "I",
+            "start": 5.983,
+            "end": 6.003,
+            "score": 0.988
+          },
+          {
+            "word": "provide",
+            "start": 6.064,
+            "end": 6.364,
+            "score": 0.899
+          },
+          {
+            "word": "for",
+            "start": 6.404,
+            "end": 6.484,
+            "score": 0.985
+          },
+          {
+            "word": "them.",
+            "start": 6.504,
+            "end": 6.685,
+            "score": 0.887
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.725,
+        "end": 8.328,
+        "text": "I help them out a lot.",
+        "words": [
+          {
+            "word": "I",
+            "start": 6.725,
+            "end": 6.745,
+            "score": 0.628
+          },
+          {
+            "word": "help",
+            "start": 6.825,
+            "end": 6.945,
+            "score": 0.838
+          },
+          {
+            "word": "them",
+            "start": 6.985,
+            "end": 7.086,
+            "score": 0.855
+          },
+          {
+            "word": "out",
+            "start": 7.146,
+            "end": 7.246,
+            "score": 0.945
+          },
+          {
+            "word": "a",
+            "start": 7.286,
+            "end": 7.306,
+            "score": 0.941
+          },
+          {
+            "word": "lot.",
+            "start": 7.346,
+            "end": 8.328,
+            "score": 0.967
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.348,
+        "end": 15.002,
+        "text": "And the woman I love, I try to make my own and",
+        "words": [
+          {
+            "word": "And",
+            "start": 8.348,
+            "end": 8.569,
+            "score": 0.685
+          },
+          {
+            "word": "the",
+            "start": 9.19,
+            "end": 9.27,
+            "score": 0.96
+          },
+          {
+            "word": "woman",
+            "start": 9.31,
+            "end": 9.551,
+            "score": 0.844
+          },
+          {
+            "word": "I",
+            "start": 9.651,
+            "end": 9.711,
+            "score": 0.993
+          },
+          {
+            "word": "love,",
+            "start": 9.791,
+            "end": 10.112,
+            "score": 0.99
+          },
+          {
+            "word": "I",
+            "start": 10.132,
+            "end": 10.152,
+            "score": 1.0
+          },
+          {
+            "word": "try",
+            "start": 11.555,
+            "end": 11.755,
+            "score": 0.866
+          },
+          {
+            "word": "to",
+            "start": 11.795,
+            "end": 11.896,
+            "score": 0.823
+          },
+          {
+            "word": "make",
+            "start": 13.719,
+            "end": 13.9,
+            "score": 0.969
+          },
+          {
+            "word": "my",
+            "start": 14.0,
+            "end": 14.14,
+            "score": 0.853
+          },
+          {
+            "word": "own",
+            "start": 14.24,
+            "end": 14.421,
+            "score": 0.629
+          },
+          {
+            "word": "and",
+            "start": 14.481,
+            "end": 15.002,
+            "score": 0.625
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

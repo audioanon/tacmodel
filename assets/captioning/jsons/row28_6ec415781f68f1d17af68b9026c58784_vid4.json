@@ -1,0 +1,136 @@
+{
+  "events": [
+    {
+      "description": "Distant traffic and voices",
+      "start_time": 0.0,
+      "end_time": 10.0,
+      "duration": 10.0,
+      "type": "background",
+      "confidence": 0.956
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 0.0,
+      "end_time": 2.6,
+      "duration": 2.6,
+      "type": "speech",
+      "confidence": 0.914
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 0.8,
+      "end_time": 6.8,
+      "duration": 6.0,
+      "type": "sfx",
+      "confidence": 0.706
+    },
+    {
+      "description": "Metal blade scraping",
+      "start_time": 3.7,
+      "end_time": 5.3,
+      "duration": 1.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.9
+    },
+    {
+      "description": "Fast-moving object sound",
+      "start_time": 3.9,
+      "end_time": 5.9,
+      "duration": 2.0000000000000004,
+      "type": "sfx",
+      "confidence": 0.706
+    },
+    {
+      "description": "Sharp metallic rattle",
+      "start_time": 5.8,
+      "end_time": 10.0,
+      "duration": 4.2,
+      "type": "sfx",
+      "confidence": 0.248
+    },
+    {
+      "description": "Sharp gunfire burst",
+      "start_time": 5.9,
+      "end_time": 10.0,
+      "duration": 4.1,
+      "type": "sfx",
+      "confidence": 0.845
+    },
+    {
+      "description": "Metal door opens with squeak",
+      "start_time": 8.7,
+      "end_time": 10.0,
+      "duration": 1.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.136
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 2.717,
+        "text": " You know your predecessors had much more respect.",
+        "words": [
+          {
+            "word": "You",
+            "start": 0.031,
+            "end": 0.758,
+            "score": 0.987
+          },
+          {
+            "word": "know",
+            "start": 0.798,
+            "end": 0.92,
+            "score": 0.858
+          },
+          {
+            "word": "your",
+            "start": 0.96,
+            "end": 1.081,
+            "score": 0.912
+          },
+          {
+            "word": "predecessors",
+            "start": 1.142,
+            "end": 1.647,
+            "score": 0.865
+          },
+          {
+            "word": "had",
+            "start": 1.667,
+            "end": 1.768,
+            "score": 0.521
+          },
+          {
+            "word": "much",
+            "start": 1.808,
+            "end": 1.95,
+            "score": 0.866
+          },
+          {
+            "word": "more",
+            "start": 1.99,
+            "end": 2.111,
+            "score": 0.81
+          },
+          {
+            "word": "respect.",
+            "start": 2.152,
+            "end": 2.717,
+            "score": 0.914
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

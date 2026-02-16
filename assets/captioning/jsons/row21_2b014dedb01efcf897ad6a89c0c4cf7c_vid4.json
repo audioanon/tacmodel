@@ -1,0 +1,55 @@
+{
+  "events": [
+    {
+      "description": "Soft piano, slow, reflective, deep",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.984
+    },
+    {
+      "description": "Plucked string sound",
+      "start_time": 4.8,
+      "end_time": 6.0,
+      "duration": 1.2000000000000002,
+      "type": "sfx",
+      "confidence": 0.958
+    },
+    {
+      "description": "Plucked string sound",
+      "start_time": 6.4,
+      "end_time": 7.7,
+      "duration": 1.2999999999999998,
+      "type": "sfx",
+      "confidence": 0.937
+    },
+    {
+      "description": "Plucked string sound",
+      "start_time": 8.0,
+      "end_time": 9.3,
+      "duration": 1.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.778
+    },
+    {
+      "description": "Plucked string sound",
+      "start_time": 9.6,
+      "end_time": 11.7,
+      "duration": 2.0999999999999996,
+      "type": "sfx",
+      "confidence": 0.831
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

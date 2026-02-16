@@ -1,0 +1,63 @@
+{
+  "events": [
+    {
+      "description": "Natural bird sounds in forest",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.985
+    },
+    {
+      "description": "Car door opens and closes",
+      "start_time": 0.3,
+      "end_time": 5.9,
+      "duration": 5.6000000000000005,
+      "type": "sfx",
+      "confidence": 0.556
+    },
+    {
+      "description": "Baby coos softly",
+      "start_time": 4.0,
+      "end_time": 4.4,
+      "duration": 0.40000000000000036,
+      "type": "sfx",
+      "confidence": 0.539
+    },
+    {
+      "description": "Baby coos softly",
+      "start_time": 4.7,
+      "end_time": 6.5,
+      "duration": 1.7999999999999998,
+      "type": "sfx",
+      "confidence": 0.783
+    },
+    {
+      "description": "Cloth flaps in wind",
+      "start_time": 7.1,
+      "end_time": 12.6,
+      "duration": 5.5,
+      "type": "sfx",
+      "confidence": 0.798
+    },
+    {
+      "description": "Metal door slams shut",
+      "start_time": 10.4,
+      "end_time": 11.7,
+      "duration": 1.299999999999999,
+      "type": "sfx",
+      "confidence": 0.992
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

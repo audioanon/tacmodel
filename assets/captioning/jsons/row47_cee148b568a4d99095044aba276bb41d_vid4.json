@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "description": "Metal scraping sound",
+      "start_time": 0.0,
+      "end_time": 0.5,
+      "duration": 0.5,
+      "type": "sfx",
+      "confidence": 0.976
+    },
+    {
+      "description": "Syncopated rhythm, bright brass, danceable groove",
+      "start_time": 0.1,
+      "end_time": 14.8,
+      "duration": 14.700000000000001,
+      "type": "music",
+      "confidence": 0.998
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

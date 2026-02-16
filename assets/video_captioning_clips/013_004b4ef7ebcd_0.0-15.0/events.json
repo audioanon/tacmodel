@@ -1,0 +1,1461 @@
+{
+  "cid": "004b4ef7ebcd1c7c08da1f517fe51fc4",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 55.33315192743764,
+  "events": [
+    {
+      "start_time": 0.76,
+      "end_time": 2.64,
+      "type": "visual",
+      "description": "Wide shot of brick apartment building on city street, cars parked along curb, trees lining sidewalk",
+      "audio_description": null
+    },
+    {
+      "description": "Woman in dark blazer and sunglasses speaks to woman in car, gesturing with hand, voice conversational",
+      "start_time": 0.9,
+      "end_time": 20.0,
+      "duration": 19.1,
+      "type": "background",
+      "confidence": 0.996,
+      "audio_description": "Birds chirping in a park"
+    },
+    {
+      "description": "Woman outside speaks, head slightly tilted, lips moving, hand resting on car hood",
+      "start_time": 2.0,
+      "end_time": 3.1,
+      "duration": 1.1,
+      "type": "speech",
+      "confidence": 0.159,
+      "audio_description": "Female voice (uncertain)"
+    },
+    {
+      "start_time": 2.64,
+      "end_time": 4.52,
+      "type": "visual",
+      "description": "Woman inside car, dark curly hair, wearing denim vest, holding gun, eyes wide, mouth open",
+      "audio_description": null
+    },
+    {
+      "description": "Woman inside car speaks, head tilted up, expression shifting, gun still in hand",
+      "start_time": 3.7,
+      "end_time": 4.4,
+      "duration": 0.7000000000000002,
+      "type": "speech",
+      "confidence": 0.289,
+      "audio_description": "Female voice (uncertain)"
+    },
+    {
+      "start_time": 4.52,
+      "end_time": 6.64,
+      "type": "visual",
+      "description": "Woman outside car speaks, hand raised slightly, gesturing, sunglasses reflecting light",
+      "audio_description": null
+    },
+    {
+      "description": "Woman inside car responds, mouth open, eyes focused on speaker, hand gripping gun",
+      "start_time": 5.0,
+      "end_time": 5.8,
+      "duration": 0.7999999999999998,
+      "type": "speech",
+      "confidence": 0.703,
+      "audio_description": "Female voice (conversational)"
+    },
+    {
+      "description": "Woman outside speaks, head turned sideways, hand gesturing, expression earnest",
+      "start_time": 5.8,
+      "end_time": 7.3,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.148,
+      "audio_description": "Female voice (uncertain)"
+    },
+    {
+      "start_time": 6.64,
+      "end_time": 12.44,
+      "type": "visual",
+      "description": "Woman outside continues speaking, hand moving expressively, body leaning on car",
+      "audio_description": null
+    },
+    {
+      "description": "Woman outside speaks with slight uncertainty, hand raised, eyes steady",
+      "start_time": 7.9,
+      "end_time": 11.3,
+      "duration": 3.4000000000000004,
+      "type": "speech",
+      "confidence": 0.468,
+      "audio_description": "Female voice (uncertain)"
+    },
+    {
+      "description": "Woman inside car speaks, eyes looking up, slight smile forming, gun visible",
+      "start_time": 11.7,
+      "end_time": 14.1,
+      "duration": 2.4000000000000004,
+      "type": "speech",
+      "confidence": 0.544,
+      "audio_description": "Female voice (uncertain)"
+    },
+    {
+      "start_time": 12.44,
+      "end_time": 14.36,
+      "type": "visual",
+      "description": "Woman inside car speaks, hand on door frame, gun resting in lap, head tilted",
+      "audio_description": null
+    },
+    {
+      "description": "Woman inside car speaks, mouth moving, eyes focused on speaker, expression engaged",
+      "start_time": 12.5,
+      "end_time": 13.4,
+      "duration": 0.9000000000000004,
+      "type": "speech",
+      "confidence": 0.787,
+      "audio_description": "Female voice (conversational)"
+    },
+    {
+      "start_time": 14.36,
+      "end_time": 16.12,
+      "type": "visual",
+      "description": "Woman outside speaks, hand raised, head turned, sunglasses catching light",
+      "audio_description": null
+    },
+    {
+      "description": "Woman outside speaks, slight pause, eyes directed at car, hand still raised",
+      "start_time": 14.6,
+      "end_time": 15.8,
+      "duration": 1.200000000000001,
+      "type": "speech",
+      "confidence": 0.67,
+      "audio_description": "Female voice (uncertain)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.955,
+        "end": 4.439,
+        "text": " You know, I think you and I got off on the wrong foot.",
+        "words": [
+          {
+            "word": "You",
+            "start": 1.955,
+            "end": 2.035,
+            "score": 0.83
+          },
+          {
+            "word": "know,",
+            "start": 2.055,
+            "end": 2.195,
+            "score": 0.835
+          },
+          {
+            "word": "I",
+            "start": 2.436,
+            "end": 2.496,
+            "score": 0.988
+          },
+          {
+            "word": "think",
+            "start": 2.536,
+            "end": 2.676,
+            "score": 0.895
+          },
+          {
+            "word": "you",
+            "start": 2.696,
+            "end": 2.796,
+            "score": 0.826
+          },
+          {
+            "word": "and",
+            "start": 2.836,
+            "end": 2.896,
+            "score": 0.903
+          },
+          {
+            "word": "I",
+            "start": 2.936,
+            "end": 2.977,
+            "score": 0.495
+          },
+          {
+            "word": "got",
+            "start": 3.738,
+            "end": 3.838,
+            "score": 0.971
+          },
+          {
+            "word": "off",
+            "start": 3.858,
+            "end": 3.938,
+            "score": 0.804
+          },
+          {
+            "word": "on",
+            "start": 3.978,
+            "end": 4.018,
+            "score": 0.868
+          },
+          {
+            "word": "the",
+            "start": 4.038,
+            "end": 4.098,
+            "score": 0.677
+          },
+          {
+            "word": "wrong",
+            "start": 4.118,
+            "end": 4.238,
+            "score": 0.535
+          },
+          {
+            "word": "foot.",
+            "start": 4.259,
+            "end": 4.439,
+            "score": 0.889
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.581,
+        "end": 5.701,
+        "text": "Oh.",
+        "words": [
+          {
+            "word": "Oh.",
+            "start": 5.581,
+            "end": 5.701,
+            "score": 0.831
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.901,
+        "end": 12.351,
+        "text": "I don't know, Boston, and you obviously have a lot of resources and a lot of knowledge about the area that could be, you know, could be useful.",
+        "words": [
+          {
+            "word": "I",
+            "start": 5.901,
+            "end": 5.921,
+            "score": 0.968
+          },
+          {
+            "word": "don't",
+            "start": 5.961,
+            "end": 6.081,
+            "score": 0.9
+          },
+          {
+            "word": "know,",
+            "start": 6.101,
+            "end": 6.201,
+            "score": 0.893
+          },
+          {
+            "word": "Boston,",
+            "start": 6.262,
+            "end": 6.582,
+            "score": 0.812
+          },
+          {
+            "word": "and",
+            "start": 6.602,
+            "end": 6.662,
+            "score": 0.619
+          },
+          {
+            "word": "you",
+            "start": 6.682,
+            "end": 6.782,
+            "score": 0.911
+          },
+          {
+            "word": "obviously",
+            "start": 6.822,
+            "end": 7.083,
+            "score": 0.185
+          },
+          {
+            "word": "have",
+            "start": 7.103,
+            "end": 7.323,
+            "score": 0.55
+          },
+          {
+            "word": "a",
+            "start": 7.343,
+            "end": 7.363,
+            "score": 0.996
+          },
+          {
+            "word": "lot",
+            "start": 8.024,
+            "end": 8.164,
+            "score": 0.976
+          },
+          {
+            "word": "of",
+            "start": 8.205,
+            "end": 8.245,
+            "score": 0.998
+          },
+          {
+            "word": "resources",
+            "start": 8.265,
+            "end": 8.805,
+            "score": 0.775
+          },
+          {
+            "word": "and",
+            "start": 8.846,
+            "end": 8.906,
+            "score": 0.816
+          },
+          {
+            "word": "a",
+            "start": 8.926,
+            "end": 8.946,
+            "score": 0.097
+          },
+          {
+            "word": "lot",
+            "start": 8.986,
+            "end": 9.126,
+            "score": 0.86
+          },
+          {
+            "word": "of",
+            "start": 9.146,
+            "end": 9.186,
+            "score": 0.997
+          },
+          {
+            "word": "knowledge",
+            "start": 9.226,
+            "end": 9.507,
+            "score": 0.83
+          },
+          {
+            "word": "about",
+            "start": 9.547,
+            "end": 9.727,
+            "score": 0.898
+          },
+          {
+            "word": "the",
+            "start": 9.747,
+            "end": 9.847,
+            "score": 0.792
+          },
+          {
+            "word": "area",
+            "start": 9.907,
+            "end": 10.087,
+            "score": 0.935
+          },
+          {
+            "word": "that",
+            "start": 10.127,
+            "end": 10.248,
+            "score": 0.984
+          },
+          {
+            "word": "could",
+            "start": 10.488,
+            "end": 10.608,
+            "score": 0.805
+          },
+          {
+            "word": "be,",
+            "start": 10.628,
+            "end": 10.788,
+            "score": 0.908
+          },
+          {
+            "word": "you",
+            "start": 11.029,
+            "end": 11.129,
+            "score": 0.833
+          },
+          {
+            "word": "know,",
+            "start": 11.149,
+            "end": 11.73,
+            "score": 0.817
+          },
+          {
+            "word": "could",
+            "start": 11.75,
+            "end": 11.89,
+            "score": 0.848
+          },
+          {
+            "word": "be",
+            "start": 11.93,
+            "end": 11.99,
+            "score": 0.901
+          },
+          {
+            "word": "useful.",
+            "start": 12.07,
+            "end": 12.351,
+            "score": 0.971
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.511,
+        "end": 13.372,
+        "text": "Probably, very.",
+        "words": [
+          {
+            "word": "Probably,",
+            "start": 12.511,
+            "end": 12.992,
+            "score": 0.907
+          },
+          {
+            "word": "very.",
+            "start": 13.072,
+            "end": 13.372,
+            "score": 0.939
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.533,
+        "end": 15.736,
+        "text": "So, uh, maybe we can work together on this.",
+        "words": [
+          {
+            "word": "So,",
+            "start": 13.533,
+            "end": 13.873,
+            "score": 0.935
+          },
+          {
+            "word": "uh,",
+            "start": 13.893,
+            "end": 14.013,
+            "score": 0.756
+          },
+          {
+            "word": "maybe",
+            "start": 14.634,
+            "end": 14.795,
+            "score": 0.901
+          },
+          {
+            "word": "we",
+            "start": 14.835,
+            "end": 14.895,
+            "score": 0.76
+          },
+          {
+            "word": "can",
+            "start": 14.935,
+            "end": 15.075,
+            "score": 0.85
+          },
+          {
+            "word": "work",
+            "start": 15.115,
+            "end": 15.215,
+            "score": 0.95
+          },
+          {
+            "word": "together",
+            "start": 15.255,
+            "end": 15.476,
+            "score": 0.845
+          },
+          {
+            "word": "on",
+            "start": 15.536,
+            "end": 15.576,
+            "score": 0.988
+          },
+          {
+            "word": "this.",
+            "start": 15.596,
+            "end": 15.736,
+            "score": 0.81
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.097,
+        "end": 18.36,
+        "text": "I don't need your help to take down Larkin.",
+        "words": [
+          {
+            "word": "I",
+            "start": 16.097,
+            "end": 16.137,
+            "score": 0.992
+          },
+          {
+            "word": "don't",
+            "start": 16.177,
+            "end": 16.337,
+            "score": 0.686
+          },
+          {
+            "word": "need",
+            "start": 16.417,
+            "end": 16.617,
+            "score": 0.875
+          },
+          {
+            "word": "your",
+            "start": 16.657,
+            "end": 16.818,
+            "score": 0.902
+          },
+          {
+            "word": "help",
+            "start": 16.878,
+            "end": 17.078,
+            "score": 0.914
+          },
+          {
+            "word": "to",
+            "start": 17.379,
+            "end": 17.459,
+            "score": 0.788
+          },
+          {
+            "word": "take",
+            "start": 17.519,
+            "end": 17.679,
+            "score": 0.904
+          },
+          {
+            "word": "down",
+            "start": 17.719,
+            "end": 17.879,
+            "score": 0.925
+          },
+          {
+            "word": "Larkin.",
+            "start": 17.939,
+            "end": 18.36,
+            "score": 0.814
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 18.34,
+        "end": 23.065,
+        "text": " You know, you wouldn't even have known about Larkin if it wasn't for me, so obviously the FBI can get information that you can't.",
+        "words": [
+          {
+            "word": "You",
+            "start": 18.34,
+            "end": 18.46,
+            "score": 0.74
+          },
+          {
+            "word": "know,",
+            "start": 18.48,
+            "end": 18.6,
+            "score": 0.993
+          },
+          {
+            "word": "you",
+            "start": 18.62,
+            "end": 18.72,
+            "score": 0.858
+          },
+          {
+            "word": "wouldn't",
+            "start": 18.76,
+            "end": 18.961,
+            "score": 0.871
+          },
+          {
+            "word": "even",
+            "start": 19.001,
+            "end": 19.161,
+            "score": 0.741
+          },
+          {
+            "word": "have",
+            "start": 19.201,
+            "end": 19.321,
+            "score": 0.935
+          },
+          {
+            "word": "known",
+            "start": 19.381,
+            "end": 19.601,
+            "score": 0.739
+          },
+          {
+            "word": "about",
+            "start": 19.641,
+            "end": 19.821,
+            "score": 0.862
+          },
+          {
+            "word": "Larkin",
+            "start": 19.862,
+            "end": 20.122,
+            "score": 0.916
+          },
+          {
+            "word": "if",
+            "start": 20.142,
+            "end": 20.202,
+            "score": 0.748
+          },
+          {
+            "word": "it",
+            "start": 20.262,
+            "end": 20.302,
+            "score": 0.997
+          },
+          {
+            "word": "wasn't",
+            "start": 20.342,
+            "end": 20.562,
+            "score": 0.778
+          },
+          {
+            "word": "for",
+            "start": 20.622,
+            "end": 20.722,
+            "score": 0.989
+          },
+          {
+            "word": "me,",
+            "start": 20.762,
+            "end": 20.863,
+            "score": 0.951
+          },
+          {
+            "word": "so",
+            "start": 20.903,
+            "end": 21.023,
+            "score": 0.988
+          },
+          {
+            "word": "obviously",
+            "start": 21.123,
+            "end": 21.423,
+            "score": 0.877
+          },
+          {
+            "word": "the",
+            "start": 21.463,
+            "end": 21.523,
+            "score": 0.843
+          },
+          {
+            "word": "FBI",
+            "start": 21.603,
+            "end": 21.864,
+            "score": 0.738
+          },
+          {
+            "word": "can",
+            "start": 21.884,
+            "end": 21.984,
+            "score": 0.941
+          },
+          {
+            "word": "get",
+            "start": 22.004,
+            "end": 22.084,
+            "score": 0.801
+          },
+          {
+            "word": "information",
+            "start": 22.144,
+            "end": 22.544,
+            "score": 0.954
+          },
+          {
+            "word": "that",
+            "start": 22.564,
+            "end": 22.664,
+            "score": 0.926
+          },
+          {
+            "word": "you",
+            "start": 22.684,
+            "end": 22.784,
+            "score": 0.845
+          },
+          {
+            "word": "can't.",
+            "start": 22.825,
+            "end": 23.065,
+            "score": 0.901
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 23.185,
+        "end": 25.707,
+        "text": "Maybe I just need to hear a little, I need your help Mullins.",
+        "words": [
+          {
+            "word": "Maybe",
+            "start": 23.185,
+            "end": 23.385,
+            "score": 0.595
+          },
+          {
+            "word": "I",
+            "start": 23.425,
+            "end": 23.505,
+            "score": 0.646
+          },
+          {
+            "word": "just",
+            "start": 23.525,
+            "end": 23.745,
+            "score": 0.725
+          },
+          {
+            "word": "need",
+            "start": 23.765,
+            "end": 23.846,
+            "score": 0.349
+          },
+          {
+            "word": "to",
+            "start": 23.866,
+            "end": 23.906,
+            "score": 0.992
+          },
+          {
+            "word": "hear",
+            "start": 23.946,
+            "end": 24.086,
+            "score": 0.834
+          },
+          {
+            "word": "a",
+            "start": 24.126,
+            "end": 24.146,
+            "score": 0.875
+          },
+          {
+            "word": "little,",
+            "start": 24.186,
+            "end": 24.446,
+            "score": 0.851
+          },
+          {
+            "word": "I",
+            "start": 24.566,
+            "end": 24.626,
+            "score": 0.89
+          },
+          {
+            "word": "need",
+            "start": 24.666,
+            "end": 24.847,
+            "score": 0.736
+          },
+          {
+            "word": "your",
+            "start": 24.867,
+            "end": 25.007,
+            "score": 0.921
+          },
+          {
+            "word": "help",
+            "start": 25.047,
+            "end": 25.227,
+            "score": 0.939
+          },
+          {
+            "word": "Mullins.",
+            "start": 25.267,
+            "end": 25.707,
+            "score": 0.921
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.768,
+        "end": 28.01,
+        "text": "This is ridiculous, okay, FBI agent.",
+        "words": [
+          {
+            "word": "This",
+            "start": 25.768,
+            "end": 25.908,
+            "score": 0.804
+          },
+          {
+            "word": "is",
+            "start": 25.968,
+            "end": 26.008,
+            "score": 0.988
+          },
+          {
+            "word": "ridiculous,",
+            "start": 26.068,
+            "end": 26.548,
+            "score": 0.924
+          },
+          {
+            "word": "okay,",
+            "start": 27.349,
+            "end": 27.569,
+            "score": 0.326
+          },
+          {
+            "word": "FBI",
+            "start": 27.589,
+            "end": 27.649,
+            "score": 0.207
+          },
+          {
+            "word": "agent.",
+            "start": 27.73,
+            "end": 28.01,
+            "score": 0.844
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.15,
+        "end": 29.391,
+        "text": "I need your help Mullins.",
+        "words": [
+          {
+            "word": "I",
+            "start": 28.15,
+            "end": 28.21,
+            "score": 0.983
+          },
+          {
+            "word": "need",
+            "start": 28.25,
+            "end": 28.47,
+            "score": 0.848
+          },
+          {
+            "word": "your",
+            "start": 28.49,
+            "end": 28.65,
+            "score": 0.818
+          },
+          {
+            "word": "help",
+            "start": 28.69,
+            "end": 28.911,
+            "score": 0.821
+          },
+          {
+            "word": "Mullins.",
+            "start": 28.951,
+            "end": 29.391,
+            "score": 0.863
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 30.072,
+        "end": 30.953,
+        "text": "I need your help Mullins.",
+        "words": [
+          {
+            "word": "I",
+            "start": 30.072,
+            "end": 30.132,
+            "score": 0.979
+          },
+          {
+            "word": "need",
+            "start": 30.152,
+            "end": 30.272,
+            "score": 0.891
+          },
+          {
+            "word": "your",
+            "start": 30.312,
+            "end": 30.392,
+            "score": 0.768
+          },
+          {
+            "word": "help",
+            "start": 30.412,
+            "end": 30.552,
+            "score": 0.837
+          },
+          {
+            "word": "Mullins.",
+            "start": 30.592,
+            "end": 30.953,
+            "score": 0.864
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 30.973,
+        "end": 32.014,
+        "text": "Is this a whisper party?",
+        "words": [
+          {
+            "word": "Is",
+            "start": 30.973,
+            "end": 31.053,
+            "score": 0.794
+          },
+          {
+            "word": "this",
+            "start": 31.073,
+            "end": 31.193,
+            "score": 0.642
+          },
+          {
+            "word": "a",
+            "start": 31.233,
+            "end": 31.253,
+            "score": 0.973
+          },
+          {
+            "word": "whisper",
+            "start": 31.313,
+            "end": 31.613,
+            "score": 0.873
+          },
+          {
+            "word": "party?",
+            "start": 31.653,
+            "end": 32.014,
+            "score": 0.922
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 32.154,
+        "end": 33.455,
+        "text": "I want that third floor to hear it.",
+        "words": [
+          {
+            "word": "I",
+            "start": 32.154,
+            "end": 32.194,
+            "score": 0.986
+          },
+          {
+            "word": "want",
+            "start": 32.214,
+            "end": 32.334,
+            "score": 0.684
+          },
+          {
+            "word": "that",
+            "start": 32.354,
+            "end": 32.474,
+            "score": 0.808
+          },
+          {
+            "word": "third",
+            "start": 32.514,
+            "end": 32.715,
+            "score": 0.882
+          },
+          {
+            "word": "floor",
+            "start": 32.735,
+            "end": 32.915,
+            "score": 0.81
+          },
+          {
+            "word": "to",
+            "start": 32.955,
+            "end": 33.015,
+            "score": 0.746
+          },
+          {
+            "word": "hear",
+            "start": 33.035,
+            "end": 33.155,
+            "score": 0.796
+          },
+          {
+            "word": "it.",
+            "start": 33.195,
+            "end": 33.455,
+            "score": 0.944
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 33.475,
+        "end": 34.837,
+        "text": "I need your help Mullins.",
+        "words": [
+          {
+            "word": "I",
+            "start": 33.475,
+            "end": 33.555,
+            "score": 0.965
+          },
+          {
+            "word": "need",
+            "start": 33.595,
+            "end": 33.756,
+            "score": 0.94
+          },
+          {
+            "word": "your",
+            "start": 33.796,
+            "end": 33.916,
+            "score": 0.783
+          },
+          {
+            "word": "help",
+            "start": 33.976,
+            "end": 34.196,
+            "score": 0.833
+          },
+          {
+            "word": "Mullins.",
+            "start": 34.236,
+            "end": 34.837,
+            "score": 0.885
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 35.037,
+        "end": 37.019,
+        "text": "And then maybe give me a little echo on that Mullins.",
+        "words": [
+          {
+            "word": "And",
+            "start": 35.037,
+            "end": 35.117,
+            "score": 0.302
+          },
+          {
+            "word": "then",
+            "start": 35.137,
+            "end": 35.237,
+            "score": 0.681
+          },
+          {
+            "word": "maybe",
+            "start": 35.277,
+            "end": 35.517,
+            "score": 0.54
+          },
+          {
+            "word": "give",
+            "start": 35.557,
+            "end": 35.678,
+            "score": 0.786
+          },
+          {
+            "word": "me",
+            "start": 35.718,
+            "end": 35.778,
+            "score": 0.363
+          },
+          {
+            "word": "a",
+            "start": 35.818,
+            "end": 35.838,
+            "score": 0.92
+          },
+          {
+            "word": "little",
+            "start": 35.858,
+            "end": 36.058,
+            "score": 0.833
+          },
+          {
+            "word": "echo",
+            "start": 36.118,
+            "end": 36.358,
+            "score": 0.99
+          },
+          {
+            "word": "on",
+            "start": 36.438,
+            "end": 36.498,
+            "score": 0.992
+          },
+          {
+            "word": "that",
+            "start": 36.538,
+            "end": 36.639,
+            "score": 0.98
+          },
+          {
+            "word": "Mullins.",
+            "start": 36.699,
+            "end": 37.019,
+            "score": 0.912
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 40.583,
+        "end": 43.485,
+        "text": "I need your help Mullins, Mullins, Mullins.",
+        "words": [
+          {
+            "word": "I",
+            "start": 40.583,
+            "end": 40.683,
+            "score": 0.705
+          },
+          {
+            "word": "need",
+            "start": 40.743,
+            "end": 41.003,
+            "score": 0.945
+          },
+          {
+            "word": "your",
+            "start": 41.043,
+            "end": 41.243,
+            "score": 0.833
+          },
+          {
+            "word": "help",
+            "start": 41.303,
+            "end": 41.644,
+            "score": 0.788
+          },
+          {
+            "word": "Mullins,",
+            "start": 41.744,
+            "end": 42.404,
+            "score": 0.899
+          },
+          {
+            "word": "Mullins,",
+            "start": 42.484,
+            "end": 42.985,
+            "score": 0.892
+          },
+          {
+            "word": "Mullins.",
+            "start": 43.145,
+            "end": 43.485,
+            "score": 0.338
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.566,
+        "end": 44.526,
+        "text": "Move, move, move.",
+        "words": [
+          {
+            "word": "Move,",
+            "start": 43.566,
+            "end": 43.806,
+            "score": 0.868
+          },
+          {
+            "word": "move,",
+            "start": 43.826,
+            "end": 44.146,
+            "score": 0.875
+          },
+          {
+            "word": "move.",
+            "start": 44.186,
+            "end": 44.526,
+            "score": 0.761
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 45.047,
+        "end": 48.01,
+        "text": "Even if that's your annoying, I will work with you.",
+        "words": [
+          {
+            "word": "Even",
+            "start": 45.047,
+            "end": 45.167,
+            "score": 0.756
+          },
+          {
+            "word": "if",
+            "start": 45.227,
+            "end": 45.287,
+            "score": 0.016
+          },
+          {
+            "word": "that's",
+            "start": 45.307,
+            "end": 45.548,
+            "score": 0.474
+          },
+          {
+            "word": "your",
+            "start": 45.568,
+            "end": 45.688,
+            "score": 0.732
+          },
+          {
+            "word": "annoying,",
+            "start": 45.728,
+            "end": 46.128,
+            "score": 0.891
+          },
+          {
+            "word": "I",
+            "start": 46.468,
+            "end": 46.549,
+            "score": 0.964
+          },
+          {
+            "word": "will",
+            "start": 46.589,
+            "end": 46.769,
+            "score": 0.928
+          },
+          {
+            "word": "work",
+            "start": 46.809,
+            "end": 47.009,
+            "score": 0.925
+          },
+          {
+            "word": "with",
+            "start": 47.029,
+            "end": 47.169,
+            "score": 0.79
+          },
+          {
+            "word": "you.",
+            "start": 47.209,
+            "end": 48.01,
+            "score": 0.896
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 48.226,
+        "end": 50.477,
+        "text": " As long as we're clear that this is my case.",
+        "words": [
+          {
+            "word": "As",
+            "start": 48.226,
+            "end": 48.326,
+            "score": 0.353
+          },
+          {
+            "word": "long",
+            "start": 48.367,
+            "end": 48.527,
+            "score": 0.776
+          },
+          {
+            "word": "as",
+            "start": 48.568,
+            "end": 48.628,
+            "score": 0.744
+          },
+          {
+            "word": "we're",
+            "start": 48.708,
+            "end": 48.929,
+            "score": 0.863
+          },
+          {
+            "word": "clear",
+            "start": 48.99,
+            "end": 49.231,
+            "score": 0.683
+          },
+          {
+            "word": "that",
+            "start": 49.331,
+            "end": 49.673,
+            "score": 0.768
+          },
+          {
+            "word": "this",
+            "start": 49.713,
+            "end": 49.854,
+            "score": 0.865
+          },
+          {
+            "word": "is",
+            "start": 49.914,
+            "end": 49.974,
+            "score": 0.974
+          },
+          {
+            "word": "my",
+            "start": 50.035,
+            "end": 50.155,
+            "score": 0.968
+          },
+          {
+            "word": "case.",
+            "start": 50.216,
+            "end": 50.477,
+            "score": 0.91
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.557,
+        "end": 52.245,
+        "text": "That's actually not correct.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 50.557,
+            "end": 50.778,
+            "score": 0.848
+          },
+          {
+            "word": "actually",
+            "start": 50.919,
+            "end": 51.18,
+            "score": 0.669
+          },
+          {
+            "word": "not",
+            "start": 51.22,
+            "end": 51.401,
+            "score": 0.872
+          },
+          {
+            "word": "correct.",
+            "start": 51.843,
+            "end": 52.245,
+            "score": 0.984
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 52.667,
+        "end": 53.13,
+        "text": "This isn't.",
+        "words": [
+          {
+            "word": "This",
+            "start": 52.667,
+            "end": 52.768,
+            "score": 0.654
+          },
+          {
+            "word": "isn't.",
+            "start": 52.848,
+            "end": 53.13,
+            "score": 0.277
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.15,
+        "end": 53.371,
+        "text": "Awesome.",
+        "words": [
+          {
+            "word": "Awesome.",
+            "start": 53.15,
+            "end": 53.371,
+            "score": 0.367
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.391,
+        "end": 54.456,
+        "text": "Glad you see it my way.",
+        "words": [
+          {
+            "word": "Glad",
+            "start": 53.391,
+            "end": 53.532,
+            "score": 0.932
+          },
+          {
+            "word": "you",
+            "start": 53.552,
+            "end": 53.612,
+            "score": 0.676
+          },
+          {
+            "word": "see",
+            "start": 53.652,
+            "end": 53.753,
+            "score": 0.968
+          },
+          {
+            "word": "it",
+            "start": 53.793,
+            "end": 53.833,
+            "score": 0.81
+          },
+          {
+            "word": "my",
+            "start": 53.873,
+            "end": 54.034,
+            "score": 0.976
+          },
+          {
+            "word": "way.",
+            "start": 54.074,
+            "end": 54.456,
+            "score": 0.92
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is an urban street with a woman in a dark blazer and sunglasses standing outside a car, speaking to a woman inside. The woman in the car has dark curly hair, wears a black top with a denim vest, and holds a gun. The setting includes brick apartment buildings, parked cars, trees, and a chain-link fence. Audio labels are mostly correct for female speech, though some confidence scores are low. The sounds are clearly conversational, not birds or other environmental noises. The visuals consistently show the two women interacting, with the woman outside gesturing as she speaks and the woman inside listening and responding with subtle facial expressions. The gun is visible in the passenger\u2019s hand throughout. No environmental sounds like birds are present \u2014 the \"birds chirping\" label is incorrect and should be removed or replaced with ambient city sounds if needed. The visual descriptions must reflect the ongoing dialogue and body language.\n\nEvent 1 (0.8-2.6s): Visual of brick apartment building and street, cars parked, trees. No audio or speech yet.\nEvent 2 (0.9-20.0s): Speech begins \u2014 woman outside speaks, woman inside listens. Audio label \"birds chirping\" is incorrect; replace with conversational speech.\nEvent 3 (2.0-3.1s): Woman outside speaks, head slightly tilted, lips moving.\nEvent 4 (2.6-4.5s): Woman inside the car, looking up, mouth open, holding gun.\nEvent 5 (3.7-4.4s): Woman inside continues speaking, eyes wide, reacting.\nEvent 6 (4.5-6.6s): Woman outside continues speaking, hand raised slightly, gesturing.\nEvent 7 (5.0-5.8s): Woman inside replies, mouth open, looking at the speaker.\nEvent 8 (5.8-7.3s): Woman outside speaking, head turned, hand gesturing.\nEvent 9 (6.6-12.4s): Woman outside continues speaking, head moving, hand gesturing.\nEvent 10 (7.9-11.3s): Woman outside speaking, slight head tilt, expressive hand motion.\nEvent 11 (11.7-14.1s): Woman inside speaking, eyes looking up, slight smile.\nEvent 12 (12.4-14.4s): Woman inside continues speaking, hand on door frame, gun visible.\nEvent 13 (12.5-13.4s): Woman inside speaking, mouth moving, looking toward speaker.\nEvent 14 (14.4-16.1s): Woman outside speaking, hand raised, head turned.\nEvent 15 (14.6-15.8s): Woman outside speaking, slight pause, eyes focused.\nEvent 16 (16.0-20.0s): Woman outside speaking, hand gesture, confident expression.\nEvent 17 (16.1-18.2s): Woman outside speaking, head tilted, hand resting on car.\nEvent 18 (18.2-20.0s): Woman outside speaking, hand gesture, looking directly at car.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is an outdoor urban setting, likely a street corner or sidewalk, with two women interacting \u2014 one standing outside a car, the other seated inside. The woman outside wears sunglasses and a blazer, while the woman inside wears gloves and leans out of the car window. They appear to be having a tense conversation. The audio model labels multiple segments as \"female voice (conversational)\" or \"positive\", but the visual cues suggest emotional intensity \u2014 the woman in the car gestures emphatically, points, and shows expressions of frustration or urgency. The woman outside remains mostly composed but engaged. The audio confidence scores are moderate to low, suggesting potential mislabeling. For example, when the woman in the car speaks with force and gestures, the audio label should reflect her tone as \"urgent\" or \"frustrated\" rather than \"positive\" or \"conversational\". Also, the setting includes background elements like a stop sign, chain-link fence, and residential buildings, indicating a neighborhood street. The interaction seems confrontational or insistent, with the woman in the car repeatedly saying \"I need your help Mullins\", indicating a repeated plea.\n\nEvent 1 (0.0-3.2s): Woman outside speaks, wearing sunglasses, looking down then up \u2014 audio labeled conversational.\nEvent 2 (0.0-3.0s): Visual matches \u2014 woman outside, calm, standing by car.\nEvent 3 (3.0-5.9s): Woman inside car leans out, starts speaking, gestures slightly \u2014 audio labeled conversational but visual suggests rising intensity.\nEvent 4 (3.2-6.0s): Woman inside speaks, expression shifts to frustration \u2014 audio labeled conversational but should reflect urgency.\nEvent 5 (3.2-3.8s): Audio labeled \"positive\" but visual shows no smile or warmth \u2014 should be \"urgent\" or \"frustrated\".\nEvent 6 (4.4-5.9s): Woman in car speaks with more force, mouth open, eyes wide \u2014 audio labeled \"positive\" but visual contradicts \u2014 should be \"frustrated\".\nEvent 7 (5.9-8.0s): Woman outside listens, head turns slightly \u2014 audio not labeled, visual shows attentive posture.\nEvent 8 (6.5-6.9s): Woman outside speaks, mouth open \u2014 audio labeled conversational \u2014 matches.\nEvent 9 (7.3-8.3s): Woman outside continues speaking \u2014 audio labeled conversational \u2014 matches.\nEvent 10 (8.0-9.5s): Woman in car points emphatically, mouth open, eyes wide \u2014 audio labeled \"positive\" but visual shows anger \u2014 should be \"urgent\".\nEvent 11 (8.0-9.5s): Woman in car speaks with force \u2014 audio labeled \"positive\" but should be \"frustrated\".\nEvent 12 (9.5-10.9s): Woman outside speaks, head turns \u2014 audio labeled conversational \u2014 matches.\nEvent 13 (10.0-10.8s): Woman outside speaks again \u2014 audio labeled conversational \u2014 matches.\nEvent 14 (10.9-13.2s): Woman in car speaks, subtle smile \u2014 audio labeled conversational \u2014 visual shows smirk, not positive.\nEvent 15 (10.9-12.0s): Woman in car says \"Is this a whisper party?\" \u2014 audio labeled \"positive\" but tone is sarcastic \u2014 should be \"sarcastic\".\nEvent 16 (10.9-12.0s): Visual shows woman in car smirking \u2014 audio labeled \"positive\" but should reflect sarcasm.\nEvent 17 (12.0-13.2s): Woman in car continues, gesturing \u2014 audio labeled conversational \u2014 matches.\nEvent 18 (13.2-17.4s): Woman in car speaks again, pointing, expression intense \u2014 audio labeled conversational \u2014 should be \"urgent\".\nEvent 19 (13.4-17.0s): Woman in car repeats plea \u2014 audio labeled \"conversational\" \u2014 should be \"urgent\".\nEvent 20 (17.4-20.0s): Woman outside speaks, looking up \u2014 audio not labeled \u2014 visual shows attentive expression.",
+    "[Chunk 3: 40.0s - 55.3s]\nScene is an urban street setting with two women interacting. The first woman (in blazer and sunglasses) appears to be a detective or authority figure, while the second (in car, then standing) seems to be a civilian or subordinate. The audio suggests urgency and tension in their exchange. The background includes parked cars, brick buildings, trees, and a stop sign \u2014 typical of a city neighborhood.\n\nEvent 1 (0.0-14.2s): Urban street sounds \u2014 consistent with traffic, distant vehicles, and city ambiance \u2014 match the visual setting of parked cars and buildings.  \nEvent 2 (0.0-3.3s): Woman in blazer and sunglasses speaks urgently, mouth open, looking upward \u2014 visual confirms speech.  \nEvent 3 (0.3-2.9s): Female voice (urgent) \u2014 matches visual of woman speaking with animated expression.  \nEvent 4 (2.6-5.6s): Door opens and closes \u2014 visual shows car door opening at 3.3s, woman exiting.  \nEvent 5 (3.3-4.9s): Woman exiting car, mouth open, face tense \u2014 visual confirms urgent speech.  \nEvent 6 (4.9-6.2s): Woman in blazer faces the other woman, who has exited the car \u2014 visual confirms interaction.  \nEvent 7 (5.0-6.0s): Female voice (urgent) \u2014 visual shows woman with furrowed brow, speaking intensely.  \nEvent 8 (6.2-10.7s): Both women standing, facing each other \u2014 visual shows continued conversation, gestures.  \nEvent 9 (6.3-7.4s): Female voice (urgent) \u2014 visual shows woman gesturing, speaking with conviction.  \nEvent 10 (8.2-10.5s): Female voice (urgent) \u2014 visual shows woman continuing to speak, pointing, expression firm.  \nEvent 11 (10.5-14.1s): Female voice (urgent) \u2014 visual shows woman walking away, then turning to speak back.  \nEvent 12 (10.5-14.1s): Female voice (negative) \u2014 visual shows woman with stern expression, turning away.  \nEvent 13 (10.7-13.8s): Visual shows woman walking down street, back to camera, then turning \u2014 audio matches ongoing speech.  \nEvent 14 (14.3-15.3s): Visual is black screen \u2014 no audio or visual content.\n\nAll audio labels are consistent with visuals. No corrections needed."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      55.33315192743764
+    ]
+  ]
+}

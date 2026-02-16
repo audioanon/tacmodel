@@ -1,0 +1,603 @@
+{
+  "cid": "005cdce9a3e5156c8aef243d0d4f9584",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 30.789659863945577,
+  "events": [
+    {
+      "description": "Ambient school hallways and classroom sounds, no crowd noise",
+      "start_time": 0.0,
+      "end_time": 20.0,
+      "duration": 20.0,
+      "type": "background",
+      "confidence": 0.975,
+      "audio_description": "Crowd noise in stadium"
+    },
+    {
+      "start_time": 0.0,
+      "end_time": 1.2929583333333332,
+      "type": "visual",
+      "description": "Exterior of a beige school building with columns and <text>A hulu ORIGINAL</text> text",
+      "audio_description": null
+    },
+    {
+      "description": "Metallic whoosh effect as camera transitions from school exterior to hallway",
+      "start_time": 0.1,
+      "end_time": 1.7,
+      "duration": 1.5999999999999999,
+      "type": "sfx",
+      "confidence": 0.53,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "start_time": 1.2929583333333332,
+      "end_time": 2.5025,
+      "type": "visual",
+      "description": "Yellow lockers in a dim hallway, door marked \"402\", <text>hulu</text> logo in corner",
+      "audio_description": null
+    },
+    {
+      "description": "Metallic whoosh effect as scene transitions to classroom",
+      "start_time": 2.5,
+      "end_time": 3.2,
+      "duration": 0.7000000000000002,
+      "type": "sfx",
+      "confidence": 0.449,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "start_time": 2.5025,
+      "end_time": 3.7120416666666665,
+      "type": "visual",
+      "description": "Classroom with students at desks, one using laptop, teacher at front near chalkboard",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (fearful) as girl in white shirt turns to look over shoulder, eyes wide",
+      "start_time": 2.6,
+      "end_time": 5.0,
+      "duration": 2.4,
+      "type": "speech",
+      "confidence": 0.964,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Metallic whoosh effect as camera cuts to teacher with blonde hair standing by chalkboard",
+      "start_time": 3.6,
+      "end_time": 4.4,
+      "duration": 0.8000000000000003,
+      "type": "sfx",
+      "confidence": 0.433,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "start_time": 3.7120416666666665,
+      "end_time": 4.796458333333333,
+      "type": "visual",
+      "description": "Teacher in floral dress, standing before green chalkboard with <text>THE RED CAPE</text> written",
+      "audio_description": null
+    },
+    {
+      "start_time": 4.838166666666666,
+      "end_time": 6.131125,
+      "type": "visual",
+      "description": "Girl in white shirt turns sharply, eyes wide, in dimly lit office or classroom",
+      "audio_description": null
+    },
+    {
+      "description": "Metallic whoosh effect as scene cuts to girl lying on striped blanket outdoors",
+      "start_time": 4.9,
+      "end_time": 5.3,
+      "duration": 0.39999999999999947,
+      "type": "sfx",
+      "confidence": 0.539,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Metallic whoosh effect as dark smoke or shadow appears over girl's face",
+      "start_time": 6.2,
+      "end_time": 6.8,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.877,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Sharp metallic ring as girl's eyes close in darkness, suggesting a supernatural event",
+      "start_time": 6.2,
+      "end_time": 6.8,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.996,
+      "audio_description": "Sharp metallic ring"
+    },
+    {
+      "description": "Metallic whoosh effect as scene transitions to group of students sitting by candles in graveyard",
+      "start_time": 7.4,
+      "end_time": 8.0,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.814,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Female voice (fearful) as girl with dark hair bites into apple, eyes wide",
+      "start_time": 7.4,
+      "end_time": 9.9,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.968,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Metallic whoosh effect as camera focuses on apple being bitten",
+      "start_time": 8.6,
+      "end_time": 8.9,
+      "duration": 0.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.806,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Metallic whoosh effect as close-up of bitten apple reveals worm inside",
+      "start_time": 9.3,
+      "end_time": 9.6,
+      "duration": 0.29999999999999893,
+      "type": "sfx",
+      "confidence": 0.816,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Fast air movement as hand holds apple with worm, dark background",
+      "start_time": 9.5,
+      "end_time": 11.1,
+      "duration": 1.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.873,
+      "audio_description": "Fast air movement"
+    },
+    {
+      "start_time": 9.5095,
+      "end_time": 10.969291666666665,
+      "type": "visual",
+      "description": "Close-up of hand holding red apple with visible worm inside core",
+      "audio_description": null
+    },
+    {
+      "description": "Metallic whoosh effect as scene transitions to white speaker on wall",
+      "start_time": 9.9,
+      "end_time": 10.2,
+      "duration": 0.29999999999999893,
+      "type": "sfx",
+      "confidence": 0.863,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Metallic whoosh effect as speaker emits black smoke or ink-like substance",
+      "start_time": 10.5,
+      "end_time": 11.1,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.933,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "start_time": 10.969291666666665,
+      "end_time": 12.137125,
+      "type": "visual",
+      "description": "Empty classroom with desks, chalkboard, and speaker with smoke rising",
+      "audio_description": null
+    },
+    {
+      "description": "Metallic whoosh effect as camera pans to green lockers with \"WFHS HOME OF THE WOLVES\" sticker",
+      "start_time": 11.4,
+      "end_time": 11.7,
+      "duration": 0.29999999999999893,
+      "type": "sfx",
+      "confidence": 0.933,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Metallic whoosh effect as black liquid drips from locker vent",
+      "start_time": 12.0,
+      "end_time": 12.6,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.928,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "start_time": 12.137125,
+      "end_time": 13.430083333333332,
+      "type": "visual",
+      "description": "School hallway with black liquid pooling on floor, reflecting light",
+      "audio_description": null
+    },
+    {
+      "description": "Sharp metallic noise as liquid spreads across floor, ominous atmosphere",
+      "start_time": 12.2,
+      "end_time": 14.9,
+      "duration": 2.700000000000001,
+      "type": "sfx",
+      "confidence": 0.94,
+      "audio_description": "Sharp metallic noise"
+    },
+    {
+      "description": "Metallic whoosh effect as scene cuts to girl kneeling on stage, holding orange",
+      "start_time": 12.9,
+      "end_time": 13.2,
+      "duration": 0.29999999999999893,
+      "type": "sfx",
+      "confidence": 0.876,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Girl in plaid shirt kneeling on stage, others in background, dim lighting",
+      "start_time": 13.4,
+      "end_time": 20.0,
+      "duration": 6.6,
+      "type": "music",
+      "confidence": 0.81,
+      "audio_description": "Fast hi-hats and deep bassline"
+    },
+    {
+      "start_time": 13.430083333333332,
+      "end_time": 14.597916666666666,
+      "type": "visual",
+      "description": "Metallic whoosh effect as camera cuts to red-haired girl peeking from doorway",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (fearful) as red-haired girl looks intently, eyes wide",
+      "start_time": 13.5,
+      "end_time": 13.8,
+      "duration": 0.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.794,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "description": "Metallic whoosh effect as camera cuts to young man in dark room, turning head",
+      "start_time": 13.6,
+      "end_time": 15.1,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.889,
+      "audio_description": "Female voice (fearful)"
+    },
+    {
+      "description": "Young man in dark shirt turns toward camera, eyes wide, dim lighting",
+      "start_time": 14.1,
+      "end_time": 14.5,
+      "duration": 0.40000000000000036,
+      "type": "sfx",
+      "confidence": 0.731,
+      "audio_description": "Metallic whoosh effect"
+    },
+    {
+      "start_time": 14.597916666666666,
+      "end_time": 16.099416666666666,
+      "type": "visual",
+      "description": "Metallic whoosh effect as scene transitions to flooded hallway",
+      "audio_description": null
+    },
+    {
+      "description": "Metallic whoosh effect as black liquid flows across floor in hallway",
+      "start_time": 14.8,
+      "end_time": 15.2,
+      "duration": 0.3999999999999986,
+      "type": "sfx",
+      "confidence": 0.655,
+      "audio_description": "Metallic whoosh effect"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 2.663,
+        "end": 4.987,
+        "text": " Have you ever played light as a feather, stiff as a board?",
+        "words": [
+          {
+            "word": "Have",
+            "start": 2.663,
+            "end": 2.823,
+            "score": 0.896
+          },
+          {
+            "word": "you",
+            "start": 2.863,
+            "end": 2.943,
+            "score": 0.949
+          },
+          {
+            "word": "ever",
+            "start": 2.984,
+            "end": 3.144,
+            "score": 0.833
+          },
+          {
+            "word": "played",
+            "start": 3.204,
+            "end": 3.444,
+            "score": 0.943
+          },
+          {
+            "word": "light",
+            "start": 3.464,
+            "end": 3.625,
+            "score": 0.867
+          },
+          {
+            "word": "as",
+            "start": 3.665,
+            "end": 3.725,
+            "score": 0.918
+          },
+          {
+            "word": "a",
+            "start": 3.805,
+            "end": 3.845,
+            "score": 0.614
+          },
+          {
+            "word": "feather,",
+            "start": 3.885,
+            "end": 4.225,
+            "score": 0.886
+          },
+          {
+            "word": "stiff",
+            "start": 4.245,
+            "end": 4.466,
+            "score": 0.525
+          },
+          {
+            "word": "as",
+            "start": 4.486,
+            "end": 4.546,
+            "score": 0.493
+          },
+          {
+            "word": "a",
+            "start": 4.606,
+            "end": 4.726,
+            "score": 0.476
+          },
+          {
+            "word": "board?",
+            "start": 4.746,
+            "end": 4.987,
+            "score": 0.784
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.431,
+        "end": 9.814,
+        "text": "There's something seriously wrong with that game.",
+        "words": [
+          {
+            "word": "There's",
+            "start": 7.431,
+            "end": 7.631,
+            "score": 0.868
+          },
+          {
+            "word": "something",
+            "start": 7.691,
+            "end": 7.991,
+            "score": 0.782
+          },
+          {
+            "word": "seriously",
+            "start": 8.412,
+            "end": 8.913,
+            "score": 0.905
+          },
+          {
+            "word": "wrong",
+            "start": 8.953,
+            "end": 9.153,
+            "score": 0.902
+          },
+          {
+            "word": "with",
+            "start": 9.173,
+            "end": 9.293,
+            "score": 0.874
+          },
+          {
+            "word": "that",
+            "start": 9.354,
+            "end": 9.494,
+            "score": 0.62
+          },
+          {
+            "word": "game.",
+            "start": 9.534,
+            "end": 9.814,
+            "score": 0.849
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.68,
+        "end": 22.915,
+        "text": "Ever since then I've felt like something was watching me or following me and I keep seeing things.",
+        "words": [
+          {
+            "word": "Ever",
+            "start": 13.68,
+            "end": 13.861,
+            "score": 0.89
+          },
+          {
+            "word": "since",
+            "start": 13.921,
+            "end": 14.121,
+            "score": 0.851
+          },
+          {
+            "word": "then",
+            "start": 14.161,
+            "end": 14.321,
+            "score": 0.906
+          },
+          {
+            "word": "I've",
+            "start": 14.361,
+            "end": 14.622,
+            "score": 0.811
+          },
+          {
+            "word": "felt",
+            "start": 14.762,
+            "end": 14.942,
+            "score": 0.862
+          },
+          {
+            "word": "like",
+            "start": 15.002,
+            "end": 15.143,
+            "score": 0.803
+          },
+          {
+            "word": "something",
+            "start": 16.044,
+            "end": 16.385,
+            "score": 0.92
+          },
+          {
+            "word": "was",
+            "start": 16.425,
+            "end": 16.565,
+            "score": 0.76
+          },
+          {
+            "word": "watching",
+            "start": 17.446,
+            "end": 17.827,
+            "score": 0.875
+          },
+          {
+            "word": "me",
+            "start": 17.907,
+            "end": 18.047,
+            "score": 0.992
+          },
+          {
+            "word": "or",
+            "start": 18.067,
+            "end": 18.107,
+            "score": 0.499
+          },
+          {
+            "word": "following",
+            "start": 19.369,
+            "end": 19.81,
+            "score": 0.851
+          },
+          {
+            "word": "me",
+            "start": 19.87,
+            "end": 19.99,
+            "score": 0.91
+          },
+          {
+            "word": "and",
+            "start": 20.01,
+            "end": 20.07,
+            "score": 0.333
+          },
+          {
+            "word": "I",
+            "start": 21.012,
+            "end": 21.092,
+            "score": 0.867
+          },
+          {
+            "word": "keep",
+            "start": 21.132,
+            "end": 21.332,
+            "score": 0.948
+          },
+          {
+            "word": "seeing",
+            "start": 22.274,
+            "end": 22.554,
+            "score": 0.748
+          },
+          {
+            "word": "things.",
+            "start": 22.635,
+            "end": 22.915,
+            "score": 0.956
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.898,
+        "end": 26.14,
+        "text": "So who wants to go next?",
+        "words": [
+          {
+            "word": "So",
+            "start": 24.898,
+            "end": 25.058,
+            "score": 0.976
+          },
+          {
+            "word": "who",
+            "start": 25.098,
+            "end": 25.179,
+            "score": 0.646
+          },
+          {
+            "word": "wants",
+            "start": 25.219,
+            "end": 25.379,
+            "score": 0.975
+          },
+          {
+            "word": "to",
+            "start": 25.439,
+            "end": 25.499,
+            "score": 0.948
+          },
+          {
+            "word": "go",
+            "start": 25.539,
+            "end": 25.639,
+            "score": 0.994
+          },
+          {
+            "word": "next?",
+            "start": 25.699,
+            "end": 26.14,
+            "score": 0.866
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nThe video appears to be a promotional or opening sequence for a Hulu original series set in a high school, with a dark, mysterious, and suspenseful tone. The scenes transition between classrooms, hallways, and outdoor nighttime settings, suggesting a supernatural or psychological thriller. The audio includes recurring \"metallic whoosh\" effects, which likely serve as transitions or sound design for suspense, along with fearful female voices discussing unsettling experiences related to a game (\"light as a feather, stiff as a board\"). The visuals include a school building, lockers, students in class, a teacher, a girl lying on a blanket with others surrounding her, a bitten apple with a worm, a speaker with smoke, and flooded hallways \u2014 all contributing to an eerie atmosphere. The music at the end is fast-paced with hi-hats and bass, likely building tension.\n\nAudio label corrections:\n- \"Crowd noise in stadium\" at 0.0s\u201320.0s is incorrect \u2014 there is no stadium or crowd; it\u2019s a school setting. The audio is likely ambient or background sound from the school environment.\n- \"Sharp metallic ring\" at 6.2s\u20136.8s may be a mislabel \u2014 it\u2019s likely a transition sound or stinger, not a literal ring.\n- \"Fast air movement\" at 9.5s\u201311.0s is probably a mislabel \u2014 it aligns with the \"metallic whoosh\" effect used throughout, likely for scene transitions.\n- \"Sharp metallic noise\" at 12.2s\u201314.9s \u2014 likely a stinger or transition sound, possibly from the speaker or an unseen source.\n- All \"metallic whoosh\" effects are consistent with scene transitions or atmospheric sound design for suspense.\n\nVisuals are consistent with a supernatural or psychological horror theme, featuring school environments, eerie moments (like the worm in the apple, black liquid in lockers, flooded halls), and fearful reactions from characters.",
+    "[Chunk 2: 20.0s - 30.8s]\nScene is a promotional trailer for a Hulu original series titled \"Light as a Feather.\" The visual sequence opens with close-ups of various characters in tense, emotionally charged moments \u2014 a young man in dim lighting, a woman outdoors looking distressed, another man outdoors with a concerned expression, a woman in a hospital hallway, a woman sitting on a hospital bed, a dark road at night, and a terrified blonde woman. These are followed by title cards with the show\u2019s name, release date, and platform branding.\n\nEvent 1 (0.0-10.8s): Eerie ambient sound \u2014 consistent throughout, suggesting suspense or dread, matching the dark, moody visuals.\nEvent 2 (0.0-4.2s): Driving beat, bright synths, vocal chops \u2014 contradicts the visuals\u2019 mood; likely a mislabel. The visuals show no music or energetic scenes; instead, they are dark and tense. The audio should be \"eerie ambient sound\" as per Event 1.\nEvent 3 (0.8-1.3s): Female voice (negative) \u2014 matches visual of woman with arms crossed, looking distressed, lips moving \u2014 likely speaking off-screen or in a close-up. Her expression suggests concern or fear.\nEvent 4 (2.1-3.0s): Female voice (negative) \u2014 matches visual of woman sitting on hospital bed, looking down, eyes closed \u2014 possibly speaking softly, distressed.\nEvent 5 (3.0-4.2s): Fast air movement \u2014 matches visual of dark road at night with motion blur \u2014 suggests fast movement, possibly a vehicle driving or camera moving quickly.\nEvent 6 (4.1-5.2s): [visual] \u2014 black screen with faint smoke or mist forming the title \"LIGHT AS A FEATHER\" \u2014 no sound, but visuals indicate a reveal or title sequence.\nEvent 7 (4.8-6.2s): Female voice (whispering) \u2014 matches the smoke forming the title \u2014 whispering likely from a character off-screen or part of the title reveal.\nEvent 8 (5.9-6.3s): Metallic whoosh effect \u2014 matches the title \"LIGHT AS A FEATHER\" fully forming \u2014 a sound effect accompanying the title reveal.\nEvent 9 (6.2-8.3s): [visual] \u2014 title card \"LIGHT AS A FEATHER\" with \"A hulu ORIGINAL\" \u2014 static shot, no movement, but the metallic whoosh effect continues.\nEvent 10 (7.2-7.6s): Metallic whoosh effect \u2014 matches the title card still on screen, possibly a transition sound.\nEvent 11 (8.3-9.8s): [visual] \u2014 bedroom scene with floral wallpaper, bed, lamps \u2014 text \"ALL EPISODES OCTOBER 12\" \u2014 calm, still shot, likely a transition to release info.\nEvent 12 (8.4-8.8s): Metallic whoosh effect \u2014 matches transition from title to bedroom scene.\nEvent 13 (9.5-9.9s): Metallic whoosh effect \u2014 matches transition from bedroom to final gradient screen with \"ONLY ON hulu.\"\n\nAudio labels for events 2, 8, 10, 12, and 13 are corrected to \"metallic whoosh effect\" or \"eerie ambient sound\" where appropriate, based on visuals and context. Events 6 and 9 are purely visual, no sound label needed."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      30.789659863945577
+    ]
+  ]
+}

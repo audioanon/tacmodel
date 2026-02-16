@@ -1,0 +1,494 @@
+{
+  "events": [
+    {
+      "description": "Crowd noise in a bar",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.953
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 0.1,
+      "end_time": 0.5,
+      "duration": 0.4,
+      "type": "speech",
+      "confidence": 0.875
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 0.8,
+      "end_time": 1.7,
+      "duration": 0.8999999999999999,
+      "type": "speech",
+      "confidence": 0.834
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 0.8,
+      "end_time": 5.1,
+      "duration": 4.3,
+      "type": "speech",
+      "confidence": 0.921
+    },
+    {
+      "description": "Sharp metallic hit",
+      "start_time": 0.8,
+      "end_time": 1.4,
+      "duration": 0.5999999999999999,
+      "type": "sfx",
+      "confidence": 0.148
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 1.7,
+      "end_time": 2.9,
+      "duration": 1.2,
+      "type": "sfx",
+      "confidence": 0.841
+    },
+    {
+      "description": "Male voice (bored)",
+      "start_time": 2.1,
+      "end_time": 4.1,
+      "duration": 1.9999999999999996,
+      "type": "speech",
+      "confidence": 0.914
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 4.8,
+      "end_time": 6.0,
+      "duration": 1.2000000000000002,
+      "type": "speech",
+      "confidence": 0.869
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 6.2,
+      "end_time": 6.5,
+      "duration": 0.2999999999999998,
+      "type": "speech",
+      "confidence": 0.478
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 7.0,
+      "end_time": 7.4,
+      "duration": 0.40000000000000036,
+      "type": "speech",
+      "confidence": 0.817
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 7.1,
+      "end_time": 8.4,
+      "duration": 1.3000000000000007,
+      "type": "speech",
+      "confidence": 0.69
+    },
+    {
+      "description": "Wet mouth sound",
+      "start_time": 8.0,
+      "end_time": 13.4,
+      "duration": 5.4,
+      "type": "sfx",
+      "confidence": 0.283
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 9.3,
+      "end_time": 11.8,
+      "duration": 2.5,
+      "type": "speech",
+      "confidence": 0.831
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 10.1,
+      "end_time": 14.6,
+      "duration": 4.5,
+      "type": "sfx",
+      "confidence": 0.891
+    },
+    {
+      "description": "Mechanical door opening",
+      "start_time": 13.7,
+      "end_time": 15.0,
+      "duration": 1.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.67
+    },
+    {
+      "description": "Female voice (playful)",
+      "start_time": 13.8,
+      "end_time": 14.6,
+      "duration": 0.7999999999999989,
+      "type": "speech",
+      "confidence": 0.568
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.115,
+        "end": 0.978,
+        "text": " Yeah.",
+        "words": [
+          {
+            "word": "Yeah.",
+            "start": 0.115,
+            "end": 0.978,
+            "score": 0.521
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 0.998,
+        "end": 1.76,
+        "text": "See, I've never done it.",
+        "words": [
+          {
+            "word": "See,",
+            "start": 0.998,
+            "end": 1.098,
+            "score": 0.342
+          },
+          {
+            "word": "I've",
+            "start": 1.118,
+            "end": 1.219,
+            "score": 0.884
+          },
+          {
+            "word": "never",
+            "start": 1.259,
+            "end": 1.419,
+            "score": 0.961
+          },
+          {
+            "word": "done",
+            "start": 1.479,
+            "end": 1.64,
+            "score": 0.938
+          },
+          {
+            "word": "it.",
+            "start": 1.7,
+            "end": 1.76,
+            "score": 0.987
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 2.302,
+        "end": 4.088,
+        "text": "Um, I mean, I could probably figure it out.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 2.302,
+            "end": 2.462,
+            "score": 0.703
+          },
+          {
+            "word": "I",
+            "start": 2.523,
+            "end": 2.583,
+            "score": 0.945
+          },
+          {
+            "word": "mean,",
+            "start": 2.623,
+            "end": 2.763,
+            "score": 0.489
+          },
+          {
+            "word": "I",
+            "start": 2.804,
+            "end": 2.864,
+            "score": 0.454
+          },
+          {
+            "word": "could",
+            "start": 2.904,
+            "end": 3.004,
+            "score": 0.257
+          },
+          {
+            "word": "probably",
+            "start": 3.064,
+            "end": 3.405,
+            "score": 0.459
+          },
+          {
+            "word": "figure",
+            "start": 3.486,
+            "end": 3.767,
+            "score": 0.927
+          },
+          {
+            "word": "it",
+            "start": 3.867,
+            "end": 3.907,
+            "score": 0.002
+          },
+          {
+            "word": "out.",
+            "start": 3.927,
+            "end": 4.088,
+            "score": 0.661
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 4.93,
+        "end": 5.954,
+        "text": "Is Patty good at running this place?",
+        "words": [
+          {
+            "word": "Is",
+            "start": 4.93,
+            "end": 4.97,
+            "score": 0.44
+          },
+          {
+            "word": "Patty",
+            "start": 4.991,
+            "end": 5.111,
+            "score": 0.282
+          },
+          {
+            "word": "good",
+            "start": 5.131,
+            "end": 5.211,
+            "score": 0.26
+          },
+          {
+            "word": "at",
+            "start": 5.251,
+            "end": 5.312,
+            "score": 0.798
+          },
+          {
+            "word": "running",
+            "start": 5.332,
+            "end": 5.532,
+            "score": 0.849
+          },
+          {
+            "word": "this",
+            "start": 5.552,
+            "end": 5.673,
+            "score": 0.662
+          },
+          {
+            "word": "place?",
+            "start": 5.693,
+            "end": 5.954,
+            "score": 0.889
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.255,
+        "end": 6.455,
+        "text": "No.",
+        "words": [
+          {
+            "word": "No.",
+            "start": 6.255,
+            "end": 6.455,
+            "score": 0.859
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.077,
+        "end": 7.418,
+        "text": "How come?",
+        "words": [
+          {
+            "word": "How",
+            "start": 7.077,
+            "end": 7.218,
+            "score": 0.497
+          },
+          {
+            "word": "come?",
+            "start": 7.238,
+            "end": 7.418,
+            "score": 0.908
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.324,
+        "end": 9.966,
+        "text": "For a number of things.",
+        "words": [
+          {
+            "word": "For",
+            "start": 9.324,
+            "end": 9.425,
+            "score": 0.908
+          },
+          {
+            "word": "a",
+            "start": 9.445,
+            "end": 9.465,
+            "score": 0.049
+          },
+          {
+            "word": "number",
+            "start": 9.485,
+            "end": 9.645,
+            "score": 0.905
+          },
+          {
+            "word": "of",
+            "start": 9.686,
+            "end": 9.726,
+            "score": 0.918
+          },
+          {
+            "word": "things.",
+            "start": 9.746,
+            "end": 9.966,
+            "score": 0.91
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.308,
+        "end": 11.732,
+        "text": "One, she doesn't know anything about a bar.",
+        "words": [
+          {
+            "word": "One,",
+            "start": 10.308,
+            "end": 10.408,
+            "score": 0.721
+          },
+          {
+            "word": "she",
+            "start": 10.428,
+            "end": 10.508,
+            "score": 0.965
+          },
+          {
+            "word": "doesn't",
+            "start": 10.548,
+            "end": 10.729,
+            "score": 0.749
+          },
+          {
+            "word": "know",
+            "start": 10.929,
+            "end": 11.03,
+            "score": 0.978
+          },
+          {
+            "word": "anything",
+            "start": 11.11,
+            "end": 11.351,
+            "score": 0.925
+          },
+          {
+            "word": "about",
+            "start": 11.391,
+            "end": 11.531,
+            "score": 0.765
+          },
+          {
+            "word": "a",
+            "start": 11.592,
+            "end": 11.612,
+            "score": 0.017
+          },
+          {
+            "word": "bar.",
+            "start": 11.632,
+            "end": 11.732,
+            "score": 0.542
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.792,
+        "end": 13.217,
+        "text": "Does she drink in there?",
+        "words": [
+          {
+            "word": "Does",
+            "start": 11.792,
+            "end": 11.893,
+            "score": 0.387
+          },
+          {
+            "word": "she",
+            "start": 11.913,
+            "end": 12.013,
+            "score": 0.57
+          },
+          {
+            "word": "drink",
+            "start": 12.053,
+            "end": 12.234,
+            "score": 0.807
+          },
+          {
+            "word": "in",
+            "start": 12.294,
+            "end": 12.374,
+            "score": 0.774
+          },
+          {
+            "word": "there?",
+            "start": 12.996,
+            "end": 13.217,
+            "score": 0.356
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.237,
+        "end": 13.618,
+        "text": "Oh, yeah.",
+        "words": [
+          {
+            "word": "Oh,",
+            "start": 13.237,
+            "end": 13.297,
+            "score": 0.025
+          },
+          {
+            "word": "yeah.",
+            "start": 13.317,
+            "end": 13.618,
+            "score": 0.356
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

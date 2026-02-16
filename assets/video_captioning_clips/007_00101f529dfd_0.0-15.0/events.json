@@ -1,0 +1,1855 @@
+{
+  "cid": "00101f529dfdf2a1461c7ba41fa51874",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 121.97442176870749,
+  "events": [
+    {
+      "description": "Guitar feedback with reverb as close-up shows red electric guitar being played",
+      "start_time": 0.1,
+      "end_time": 3.2,
+      "duration": 3.1,
+      "type": "sfx",
+      "confidence": 0.992,
+      "audio_description": "Guitar feedback with reverb"
+    },
+    {
+      "start_time": 2.5833333333333335,
+      "end_time": 5.833333333333333,
+      "type": "visual",
+      "description": "Woman in plaid shirt plays red guitar and sings into microphone, bandmates visible",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (calm) as woman speaks into microphone, eyes focused forward",
+      "start_time": 4.4,
+      "end_time": 5.6,
+      "duration": 1.1999999999999993,
+      "type": "speech",
+      "confidence": 0.876,
+      "audio_description": "Female voice (calm)"
+    },
+    {
+      "start_time": 5.833333333333333,
+      "end_time": 8.25,
+      "type": "visual",
+      "description": "Close-up of woman\u2019s face as she sings, British flag visible behind her",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (calm) as woman speaks directly to camera, expression neutral",
+      "start_time": 6.1,
+      "end_time": 7.8,
+      "duration": 1.7000000000000002,
+      "type": "speech",
+      "confidence": 0.843,
+      "audio_description": "Female voice (calm)"
+    },
+    {
+      "description": "Metal latch clicking as scene transitions, woman still speaking into mic",
+      "start_time": 6.8,
+      "end_time": 8.2,
+      "duration": 1.3999999999999995,
+      "type": "sfx",
+      "confidence": 0.811,
+      "audio_description": "Metal latch clicking"
+    },
+    {
+      "start_time": 8.25,
+      "end_time": 10.375,
+      "type": "visual",
+      "description": "Red textured background with white text <text>A peacock Original</text>",
+      "audio_description": null
+    },
+    {
+      "description": "Fast, loud, aggressive rock with heavy riffs as band performs in dimly lit basement",
+      "start_time": 8.4,
+      "end_time": 20.0,
+      "duration": 11.6,
+      "type": "music",
+      "confidence": 0.995,
+      "audio_description": "Fast, loud, aggressive rock with heavy riffs"
+    },
+    {
+      "start_time": 11.166666666666666,
+      "end_time": 12.291666666666666,
+      "type": "visual",
+      "description": "Woman in pink hijab looks up at brick building, then walks on campus path",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (positive) as woman walks, wearing white polka-dot blouse and hijab",
+      "start_time": 11.5,
+      "end_time": 12.2,
+      "duration": 0.6999999999999993,
+      "type": "speech",
+      "confidence": 0.948,
+      "audio_description": "Female voice (positive)"
+    },
+    {
+      "description": "Female voice (positive) as woman walks on campus, backpack visible",
+      "start_time": 12.6,
+      "end_time": 13.2,
+      "duration": 0.5999999999999996,
+      "type": "speech",
+      "confidence": 0.914,
+      "audio_description": "Female voice (positive)"
+    },
+    {
+      "start_time": 13.125,
+      "end_time": 14.333333333333334,
+      "type": "visual",
+      "description": "Woman in lab coat and goggles holds test tube, then slumps onto lab table",
+      "audio_description": null
+    },
+    {
+      "description": "Female voice (positive) as woman rests head on lab table, looks at petri dishes",
+      "start_time": 13.6,
+      "end_time": 16.2,
+      "duration": 2.5999999999999996,
+      "type": "speech",
+      "confidence": 0.918,
+      "audio_description": "Female voice (positive)"
+    },
+    {
+      "start_time": 14.333333333333334,
+      "end_time": 16.416666666666668,
+      "type": "visual",
+      "description": "Woman in lab looks at petri dishes, expression tired but focused",
+      "audio_description": null
+    },
+    {
+      "description": "Metal door slams shut as scene cuts from lab to band performing",
+      "start_time": 14.4,
+      "end_time": 16.9,
+      "duration": 2.4999999999999982,
+      "type": "sfx",
+      "confidence": 0.803,
+      "audio_description": "Metal door slams shut"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 4.469,
+        "end": 5.51,
+        "text": " We are Lady Parts.",
+        "words": [
+          {
+            "word": "We",
+            "start": 4.469,
+            "end": 4.649,
+            "score": 0.787
+          },
+          {
+            "word": "are",
+            "start": 4.709,
+            "end": 4.789,
+            "score": 0.69
+          },
+          {
+            "word": "Lady",
+            "start": 4.85,
+            "end": 5.09,
+            "score": 0.881
+          },
+          {
+            "word": "Parts.",
+            "start": 5.15,
+            "end": 5.51,
+            "score": 0.902
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.111,
+        "end": 7.854,
+        "text": "Here's a little something we thought you might like.",
+        "words": [
+          {
+            "word": "Here's",
+            "start": 6.111,
+            "end": 6.271,
+            "score": 0.56
+          },
+          {
+            "word": "a",
+            "start": 6.291,
+            "end": 6.311,
+            "score": 0.974
+          },
+          {
+            "word": "little",
+            "start": 6.332,
+            "end": 6.512,
+            "score": 0.732
+          },
+          {
+            "word": "something",
+            "start": 6.552,
+            "end": 6.792,
+            "score": 0.969
+          },
+          {
+            "word": "we",
+            "start": 6.852,
+            "end": 6.952,
+            "score": 0.74
+          },
+          {
+            "word": "thought",
+            "start": 6.972,
+            "end": 7.113,
+            "score": 0.284
+          },
+          {
+            "word": "you",
+            "start": 7.133,
+            "end": 7.233,
+            "score": 0.9
+          },
+          {
+            "word": "might",
+            "start": 7.253,
+            "end": 7.433,
+            "score": 0.785
+          },
+          {
+            "word": "like.",
+            "start": 7.533,
+            "end": 7.854,
+            "score": 0.979
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.498,
+        "end": 16.245,
+        "text": "That is me, 26, Capricorn, finishing a PhD in microbiology.",
+        "words": [
+          {
+            "word": "That",
+            "start": 11.498,
+            "end": 11.699,
+            "score": 0.976
+          },
+          {
+            "word": "is",
+            "start": 11.879,
+            "end": 11.979,
+            "score": 0.93
+          },
+          {
+            "word": "me,",
+            "start": 12.039,
+            "end": 12.9,
+            "score": 0.831
+          },
+          {
+            "word": "26,",
+            "start": 12.94,
+            "end": 13.141,
+            "score": 0.867
+          },
+          {
+            "word": "Capricorn,",
+            "start": 13.621,
+            "end": 14.422,
+            "score": 0.887
+          },
+          {
+            "word": "finishing",
+            "start": 14.442,
+            "end": 14.763,
+            "score": 0.94
+          },
+          {
+            "word": "a",
+            "start": 14.823,
+            "end": 14.843,
+            "score": 0.986
+          },
+          {
+            "word": "PhD",
+            "start": 14.883,
+            "end": 15.384,
+            "score": 0.695
+          },
+          {
+            "word": "in",
+            "start": 15.424,
+            "end": 15.484,
+            "score": 0.815
+          },
+          {
+            "word": "microbiology.",
+            "start": 15.524,
+            "end": 16.245,
+            "score": 0.95
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.746,
+        "end": 18.388,
+        "text": "And this is Lady Parts.",
+        "words": [
+          {
+            "word": "And",
+            "start": 16.746,
+            "end": 16.826,
+            "score": 0.758
+          },
+          {
+            "word": "this",
+            "start": 16.906,
+            "end": 17.146,
+            "score": 0.778
+          },
+          {
+            "word": "is",
+            "start": 17.567,
+            "end": 17.667,
+            "score": 0.807
+          },
+          {
+            "word": "Lady",
+            "start": 17.767,
+            "end": 18.007,
+            "score": 0.817
+          },
+          {
+            "word": "Parts.",
+            "start": 18.047,
+            "end": 18.388,
+            "score": 0.965
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 19.009,
+        "end": 22.473,
+        "text": "A confused mix of hash anthems and sour girl power.",
+        "words": [
+          {
+            "word": "A",
+            "start": 19.009,
+            "end": 19.049,
+            "score": 0.959
+          },
+          {
+            "word": "confused",
+            "start": 19.109,
+            "end": 19.73,
+            "score": 0.897
+          },
+          {
+            "word": "mix",
+            "start": 19.85,
+            "end": 20.13,
+            "score": 0.846
+          },
+          {
+            "word": "of",
+            "start": 20.19,
+            "end": 20.23,
+            "score": 0.818
+          },
+          {
+            "word": "hash",
+            "start": 20.27,
+            "end": 20.671,
+            "score": 0.721
+          },
+          {
+            "word": "anthems",
+            "start": 20.751,
+            "end": 21.111,
+            "score": 0.805
+          },
+          {
+            "word": "and",
+            "start": 21.172,
+            "end": 21.272,
+            "score": 0.807
+          },
+          {
+            "word": "sour",
+            "start": 21.452,
+            "end": 21.832,
+            "score": 0.908
+          },
+          {
+            "word": "girl",
+            "start": 21.872,
+            "end": 22.133,
+            "score": 0.906
+          },
+          {
+            "word": "power.",
+            "start": 22.173,
+            "end": 22.473,
+            "score": 0.893
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 22.834,
+        "end": 23.715,
+        "text": "Our sound is thin.",
+        "words": [
+          {
+            "word": "Our",
+            "start": 22.834,
+            "end": 22.914,
+            "score": 0.656
+          },
+          {
+            "word": "sound",
+            "start": 22.974,
+            "end": 23.214,
+            "score": 0.613
+          },
+          {
+            "word": "is",
+            "start": 23.314,
+            "end": 23.395,
+            "score": 0.799
+          },
+          {
+            "word": "thin.",
+            "start": 23.495,
+            "end": 23.715,
+            "score": 0.991
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 23.935,
+        "end": 24.816,
+        "text": "We need something more.",
+        "words": [
+          {
+            "word": "We",
+            "start": 23.935,
+            "end": 24.015,
+            "score": 0.966
+          },
+          {
+            "word": "need",
+            "start": 24.055,
+            "end": 24.196,
+            "score": 0.97
+          },
+          {
+            "word": "something",
+            "start": 24.236,
+            "end": 24.516,
+            "score": 0.878
+          },
+          {
+            "word": "more.",
+            "start": 24.556,
+            "end": 24.816,
+            "score": 0.765
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.077,
+        "end": 26.198,
+        "text": "We need lead guitarists.",
+        "words": [
+          {
+            "word": "We",
+            "start": 25.077,
+            "end": 25.197,
+            "score": 0.972
+          },
+          {
+            "word": "need",
+            "start": 25.237,
+            "end": 25.417,
+            "score": 0.896
+          },
+          {
+            "word": "lead",
+            "start": 25.457,
+            "end": 25.597,
+            "score": 0.651
+          },
+          {
+            "word": "guitarists.",
+            "start": 25.638,
+            "end": 26.198,
+            "score": 0.685
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 26.639,
+        "end": 31.185,
+        "text": "We don't need a wanky, self-indulgent guitar soloist jizzing all over our songs.",
+        "words": [
+          {
+            "word": "We",
+            "start": 26.639,
+            "end": 26.739,
+            "score": 0.781
+          },
+          {
+            "word": "don't",
+            "start": 26.759,
+            "end": 26.859,
+            "score": 0.853
+          },
+          {
+            "word": "need",
+            "start": 26.879,
+            "end": 26.979,
+            "score": 0.696
+          },
+          {
+            "word": "a",
+            "start": 27.019,
+            "end": 27.059,
+            "score": 0.791
+          },
+          {
+            "word": "wanky,",
+            "start": 27.2,
+            "end": 27.82,
+            "score": 0.628
+          },
+          {
+            "word": "self-indulgent",
+            "start": 27.901,
+            "end": 28.561,
+            "score": 0.466
+          },
+          {
+            "word": "guitar",
+            "start": 28.582,
+            "end": 28.862,
+            "score": 0.384
+          },
+          {
+            "word": "soloist",
+            "start": 28.882,
+            "end": 29.242,
+            "score": 0.556
+          },
+          {
+            "word": "jizzing",
+            "start": 29.483,
+            "end": 29.743,
+            "score": 0.515
+          },
+          {
+            "word": "all",
+            "start": 29.883,
+            "end": 29.983,
+            "score": 0.278
+          },
+          {
+            "word": "over",
+            "start": 30.003,
+            "end": 30.124,
+            "score": 0.351
+          },
+          {
+            "word": "our",
+            "start": 30.144,
+            "end": 30.584,
+            "score": 0.543
+          },
+          {
+            "word": "songs.",
+            "start": 31.065,
+            "end": 31.185,
+            "score": 0.167
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 31.891,
+        "end": 32.572,
+        "text": " This decided.",
+        "words": [
+          {
+            "word": "This",
+            "start": 31.891,
+            "end": 32.051,
+            "score": 0.519
+          },
+          {
+            "word": "decided.",
+            "start": 32.071,
+            "end": 32.572,
+            "score": 0.913
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 34.054,
+        "end": 36.358,
+        "text": "Who'd have thought that our orbits were soon to collide?",
+        "words": [
+          {
+            "word": "Who'd",
+            "start": 34.054,
+            "end": 34.295,
+            "score": 0.641
+          },
+          {
+            "word": "have",
+            "start": 34.315,
+            "end": 34.415,
+            "score": 0.873
+          },
+          {
+            "word": "thought",
+            "start": 34.455,
+            "end": 34.655,
+            "score": 0.854
+          },
+          {
+            "word": "that",
+            "start": 34.675,
+            "end": 34.795,
+            "score": 0.838
+          },
+          {
+            "word": "our",
+            "start": 34.856,
+            "end": 34.936,
+            "score": 0.934
+          },
+          {
+            "word": "orbits",
+            "start": 35.056,
+            "end": 35.356,
+            "score": 0.832
+          },
+          {
+            "word": "were",
+            "start": 35.396,
+            "end": 35.517,
+            "score": 0.944
+          },
+          {
+            "word": "soon",
+            "start": 35.557,
+            "end": 35.757,
+            "score": 0.665
+          },
+          {
+            "word": "to",
+            "start": 35.817,
+            "end": 35.897,
+            "score": 0.775
+          },
+          {
+            "word": "collide?",
+            "start": 35.937,
+            "end": 36.358,
+            "score": 0.843
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 36.478,
+        "end": 39.122,
+        "text": "You, you went to St Abigail's primary school.",
+        "words": [
+          {
+            "word": "You,",
+            "start": 36.478,
+            "end": 36.799,
+            "score": 0.906
+          },
+          {
+            "word": "you",
+            "start": 37.66,
+            "end": 37.76,
+            "score": 0.974
+          },
+          {
+            "word": "went",
+            "start": 37.8,
+            "end": 37.92,
+            "score": 0.897
+          },
+          {
+            "word": "to",
+            "start": 37.94,
+            "end": 38.02,
+            "score": 0.791
+          },
+          {
+            "word": "St",
+            "start": 38.06,
+            "end": 38.181,
+            "score": 0.644
+          },
+          {
+            "word": "Abigail's",
+            "start": 38.221,
+            "end": 38.541,
+            "score": 0.444
+          },
+          {
+            "word": "primary",
+            "start": 38.581,
+            "end": 38.842,
+            "score": 0.73
+          },
+          {
+            "word": "school.",
+            "start": 38.882,
+            "end": 39.122,
+            "score": 0.935
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 39.222,
+        "end": 40.464,
+        "text": "You played guitar on the talent show.",
+        "words": [
+          {
+            "word": "You",
+            "start": 39.222,
+            "end": 39.322,
+            "score": 0.919
+          },
+          {
+            "word": "played",
+            "start": 39.362,
+            "end": 39.523,
+            "score": 0.493
+          },
+          {
+            "word": "guitar",
+            "start": 39.543,
+            "end": 39.763,
+            "score": 0.355
+          },
+          {
+            "word": "on",
+            "start": 39.783,
+            "end": 39.823,
+            "score": 0.935
+          },
+          {
+            "word": "the",
+            "start": 39.843,
+            "end": 39.923,
+            "score": 0.905
+          },
+          {
+            "word": "talent",
+            "start": 39.943,
+            "end": 40.204,
+            "score": 0.841
+          },
+          {
+            "word": "show.",
+            "start": 40.224,
+            "end": 40.464,
+            "score": 0.926
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.168,
+        "end": 44.791,
+        "text": "You got expelled for selling school furniture.",
+        "words": [
+          {
+            "word": "You",
+            "start": 43.168,
+            "end": 43.288,
+            "score": 0.848
+          },
+          {
+            "word": "got",
+            "start": 43.329,
+            "end": 43.449,
+            "score": 0.48
+          },
+          {
+            "word": "expelled",
+            "start": 43.469,
+            "end": 43.809,
+            "score": 0.504
+          },
+          {
+            "word": "for",
+            "start": 43.829,
+            "end": 43.889,
+            "score": 0.299
+          },
+          {
+            "word": "selling",
+            "start": 43.909,
+            "end": 44.11,
+            "score": 0.952
+          },
+          {
+            "word": "school",
+            "start": 44.13,
+            "end": 44.31,
+            "score": 0.758
+          },
+          {
+            "word": "furniture.",
+            "start": 44.35,
+            "end": 44.791,
+            "score": 0.941
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 45.131,
+        "end": 48.657,
+        "text": "Very elite is I. Play something.",
+        "words": [
+          {
+            "word": "Very",
+            "start": 45.131,
+            "end": 45.352,
+            "score": 0.557
+          },
+          {
+            "word": "elite",
+            "start": 45.372,
+            "end": 45.592,
+            "score": 0.58
+          },
+          {
+            "word": "is",
+            "start": 45.612,
+            "end": 45.692,
+            "score": 0.812
+          },
+          {
+            "word": "I.",
+            "start": 45.913,
+            "end": 46.053,
+            "score": 0.72
+          },
+          {
+            "word": "Play",
+            "start": 48.056,
+            "end": 48.276,
+            "score": 0.92
+          },
+          {
+            "word": "something.",
+            "start": 48.316,
+            "end": 48.657,
+            "score": 0.807
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 48.737,
+        "end": 49.558,
+        "text": "Play something.",
+        "words": [
+          {
+            "word": "Play",
+            "start": 48.737,
+            "end": 48.977,
+            "score": 0.789
+          },
+          {
+            "word": "something.",
+            "start": 49.057,
+            "end": 49.558,
+            "score": 0.582
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.54,
+        "end": 50.84,
+        "text": "Play something.",
+        "words": [
+          {
+            "word": "Play",
+            "start": 50.54,
+            "end": 50.62,
+            "score": 0.0
+          },
+          {
+            "word": "something.",
+            "start": 50.64,
+            "end": 50.84,
+            "score": 0.172
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 50.86,
+        "end": 51.501,
+        "text": "I don't perform.",
+        "words": [
+          {
+            "word": "I",
+            "start": 50.86,
+            "end": 50.88,
+            "score": 0.0
+          },
+          {
+            "word": "don't",
+            "start": 50.9,
+            "end": 51.1,
+            "score": 0.393
+          },
+          {
+            "word": "perform.",
+            "start": 51.161,
+            "end": 51.501,
+            "score": 0.813
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 51.701,
+        "end": 54.225,
+        "text": "My nervy disposition induced diarrhea and vomiting.",
+        "words": [
+          {
+            "word": "My",
+            "start": 51.701,
+            "end": 51.902,
+            "score": 0.995
+          },
+          {
+            "word": "nervy",
+            "start": 52.002,
+            "end": 52.362,
+            "score": 0.737
+          },
+          {
+            "word": "disposition",
+            "start": 52.382,
+            "end": 52.903,
+            "score": 0.917
+          },
+          {
+            "word": "induced",
+            "start": 52.943,
+            "end": 53.304,
+            "score": 0.44
+          },
+          {
+            "word": "diarrhea",
+            "start": 53.324,
+            "end": 53.644,
+            "score": 0.598
+          },
+          {
+            "word": "and",
+            "start": 53.684,
+            "end": 53.765,
+            "score": 0.853
+          },
+          {
+            "word": "vomiting.",
+            "start": 53.865,
+            "end": 54.225,
+            "score": 0.903
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 55.187,
+        "end": 55.367,
+        "text": "Ew.",
+        "words": [
+          {
+            "word": "Ew.",
+            "start": 55.187,
+            "end": 55.367,
+            "score": 0.814
+          }
+        ],
+        "detected_language": "pt"
+      },
+      {
+        "start": 57.473,
+        "end": 61.698,
+        "text": " I vowed I would never perform again, but Lady Parts had other plans.",
+        "words": [
+          {
+            "word": "I",
+            "start": 57.473,
+            "end": 57.773,
+            "score": 0.734
+          },
+          {
+            "word": "vowed",
+            "start": 57.793,
+            "end": 58.074,
+            "score": 0.98
+          },
+          {
+            "word": "I",
+            "start": 58.194,
+            "end": 58.234,
+            "score": 0.995
+          },
+          {
+            "word": "would",
+            "start": 58.274,
+            "end": 58.414,
+            "score": 0.913
+          },
+          {
+            "word": "never",
+            "start": 58.574,
+            "end": 58.775,
+            "score": 0.809
+          },
+          {
+            "word": "perform",
+            "start": 58.835,
+            "end": 59.155,
+            "score": 0.981
+          },
+          {
+            "word": "again,",
+            "start": 59.195,
+            "end": 59.375,
+            "score": 0.908
+          },
+          {
+            "word": "but",
+            "start": 59.756,
+            "end": 59.856,
+            "score": 0.998
+          },
+          {
+            "word": "Lady",
+            "start": 59.996,
+            "end": 60.277,
+            "score": 0.956
+          },
+          {
+            "word": "Parts",
+            "start": 60.317,
+            "end": 60.657,
+            "score": 0.987
+          },
+          {
+            "word": "had",
+            "start": 60.937,
+            "end": 61.098,
+            "score": 0.865
+          },
+          {
+            "word": "other",
+            "start": 61.138,
+            "end": 61.338,
+            "score": 0.866
+          },
+          {
+            "word": "plans.",
+            "start": 61.378,
+            "end": 61.698,
+            "score": 0.898
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.819,
+        "end": 66.284,
+        "text": "She's our guitarist.",
+        "words": [
+          {
+            "word": "She's",
+            "start": 61.819,
+            "end": 61.979,
+            "score": 0.78
+          },
+          {
+            "word": "our",
+            "start": 62.059,
+            "end": 62.139,
+            "score": 0.272
+          },
+          {
+            "word": "guitarist.",
+            "start": 62.199,
+            "end": 66.284,
+            "score": 0.729
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 68.387,
+        "end": 74.975,
+        "text": "It was kind of like therapy, but with a lot of screaming.",
+        "words": [
+          {
+            "word": "It",
+            "start": 68.387,
+            "end": 71.651,
+            "score": 0.852
+          },
+          {
+            "word": "was",
+            "start": 71.711,
+            "end": 71.831,
+            "score": 0.756
+          },
+          {
+            "word": "kind",
+            "start": 72.072,
+            "end": 72.312,
+            "score": 0.934
+          },
+          {
+            "word": "of",
+            "start": 72.352,
+            "end": 72.412,
+            "score": 0.723
+          },
+          {
+            "word": "like",
+            "start": 72.452,
+            "end": 72.592,
+            "score": 0.962
+          },
+          {
+            "word": "therapy,",
+            "start": 72.652,
+            "end": 73.694,
+            "score": 0.668
+          },
+          {
+            "word": "but",
+            "start": 73.914,
+            "end": 74.014,
+            "score": 0.942
+          },
+          {
+            "word": "with",
+            "start": 74.034,
+            "end": 74.154,
+            "score": 0.816
+          },
+          {
+            "word": "a",
+            "start": 74.214,
+            "end": 74.234,
+            "score": 0.999
+          },
+          {
+            "word": "lot",
+            "start": 74.275,
+            "end": 74.435,
+            "score": 0.822
+          },
+          {
+            "word": "of",
+            "start": 74.455,
+            "end": 74.495,
+            "score": 0.999
+          },
+          {
+            "word": "screaming.",
+            "start": 74.515,
+            "end": 74.975,
+            "score": 0.853
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 75.897,
+        "end": 76.097,
+        "text": "Sorry.",
+        "words": [
+          {
+            "word": "Sorry.",
+            "start": 75.897,
+            "end": 76.097,
+            "score": 0.425
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 76.818,
+        "end": 78.079,
+        "text": "You've got a problem with my lyrics?",
+        "words": [
+          {
+            "word": "You've",
+            "start": 76.818,
+            "end": 76.978,
+            "score": 0.261
+          },
+          {
+            "word": "got",
+            "start": 76.998,
+            "end": 77.058,
+            "score": 0.326
+          },
+          {
+            "word": "a",
+            "start": 77.078,
+            "end": 77.098,
+            "score": 0.971
+          },
+          {
+            "word": "problem",
+            "start": 77.118,
+            "end": 77.459,
+            "score": 0.89
+          },
+          {
+            "word": "with",
+            "start": 77.479,
+            "end": 77.559,
+            "score": 0.229
+          },
+          {
+            "word": "my",
+            "start": 77.579,
+            "end": 77.699,
+            "score": 0.582
+          },
+          {
+            "word": "lyrics?",
+            "start": 77.719,
+            "end": 78.079,
+            "score": 0.638
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 78.36,
+        "end": 81.804,
+        "text": "You could do less, more.",
+        "words": [
+          {
+            "word": "You",
+            "start": 78.36,
+            "end": 78.5,
+            "score": 0.995
+          },
+          {
+            "word": "could",
+            "start": 78.58,
+            "end": 78.82,
+            "score": 0.817
+          },
+          {
+            "word": "do",
+            "start": 78.9,
+            "end": 79.201,
+            "score": 0.902
+          },
+          {
+            "word": "less,",
+            "start": 79.441,
+            "end": 80.182,
+            "score": 0.814
+          },
+          {
+            "word": "more.",
+            "start": 80.202,
+            "end": 81.804,
+            "score": 0.79
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 82.405,
+        "end": 82.485,
+        "text": "Yay!",
+        "words": [
+          {
+            "word": "Yay!",
+            "start": 82.405,
+            "end": 82.485,
+            "score": 0.252
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 84.794,
+        "end": 86.737,
+        "text": " To our newest band member.",
+        "words": [
+          {
+            "word": "To",
+            "start": 84.794,
+            "end": 85.195,
+            "score": 0.748
+          },
+          {
+            "word": "our",
+            "start": 85.435,
+            "end": 85.575,
+            "score": 0.653
+          },
+          {
+            "word": "newest",
+            "start": 85.775,
+            "end": 86.116,
+            "score": 0.824
+          },
+          {
+            "word": "band",
+            "start": 86.196,
+            "end": 86.396,
+            "score": 0.652
+          },
+          {
+            "word": "member.",
+            "start": 86.416,
+            "end": 86.737,
+            "score": 0.868
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 86.837,
+        "end": 88.479,
+        "text": "A delightful freak show.",
+        "words": [
+          {
+            "word": "A",
+            "start": 86.837,
+            "end": 86.877,
+            "score": 0.767
+          },
+          {
+            "word": "delightful",
+            "start": 86.937,
+            "end": 87.378,
+            "score": 0.851
+          },
+          {
+            "word": "freak",
+            "start": 87.438,
+            "end": 87.638,
+            "score": 0.706
+          },
+          {
+            "word": "show.",
+            "start": 87.658,
+            "end": 88.479,
+            "score": 0.525
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 88.499,
+        "end": 89.26,
+        "text": "And our great new friend.",
+        "words": [
+          {
+            "word": "And",
+            "start": 88.499,
+            "end": 88.579,
+            "score": 0.904
+          },
+          {
+            "word": "our",
+            "start": 88.619,
+            "end": 88.719,
+            "score": 0.867
+          },
+          {
+            "word": "great",
+            "start": 88.739,
+            "end": 88.88,
+            "score": 0.783
+          },
+          {
+            "word": "new",
+            "start": 88.92,
+            "end": 89.0,
+            "score": 0.752
+          },
+          {
+            "word": "friend.",
+            "start": 89.04,
+            "end": 89.26,
+            "score": 0.812
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 89.28,
+        "end": 90.001,
+        "text": "Wait!",
+        "words": [
+          {
+            "word": "Wait!",
+            "start": 89.28,
+            "end": 90.001,
+            "score": 0.684
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 90.021,
+        "end": 90.822,
+        "text": "Am I really that bad?",
+        "words": [
+          {
+            "word": "Am",
+            "start": 90.021,
+            "end": 90.101,
+            "score": 0.789
+          },
+          {
+            "word": "I",
+            "start": 90.141,
+            "end": 90.181,
+            "score": 0.835
+          },
+          {
+            "word": "really",
+            "start": 90.221,
+            "end": 90.402,
+            "score": 0.295
+          },
+          {
+            "word": "that",
+            "start": 90.442,
+            "end": 90.562,
+            "score": 0.52
+          },
+          {
+            "word": "bad?",
+            "start": 90.682,
+            "end": 90.822,
+            "score": 0.9
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 91.523,
+        "end": 92.384,
+        "text": "You're that good.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 91.523,
+            "end": 91.683,
+            "score": 0.927
+          },
+          {
+            "word": "that",
+            "start": 91.704,
+            "end": 91.904,
+            "score": 0.943
+          },
+          {
+            "word": "good.",
+            "start": 92.124,
+            "end": 92.384,
+            "score": 0.975
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 95.549,
+        "end": 96.029,
+        "text": "We're sisters.",
+        "words": [
+          {
+            "word": "We're",
+            "start": 95.549,
+            "end": 95.669,
+            "score": 0.43
+          },
+          {
+            "word": "sisters.",
+            "start": 95.689,
+            "end": 96.029,
+            "score": 0.853
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 96.69,
+        "end": 98.092,
+        "text": "Our music is about representation.",
+        "words": [
+          {
+            "word": "Our",
+            "start": 96.69,
+            "end": 96.77,
+            "score": 0.836
+          },
+          {
+            "word": "music",
+            "start": 96.811,
+            "end": 97.011,
+            "score": 0.968
+          },
+          {
+            "word": "is",
+            "start": 97.051,
+            "end": 97.111,
+            "score": 0.564
+          },
+          {
+            "word": "about",
+            "start": 97.131,
+            "end": 97.271,
+            "score": 0.864
+          },
+          {
+            "word": "representation.",
+            "start": 97.311,
+            "end": 98.092,
+            "score": 0.849
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 98.593,
+        "end": 99.394,
+        "text": "It's about being heard.",
+        "words": [
+          {
+            "word": "It's",
+            "start": 98.593,
+            "end": 98.713,
+            "score": 0.554
+          },
+          {
+            "word": "about",
+            "start": 98.733,
+            "end": 98.873,
+            "score": 0.367
+          },
+          {
+            "word": "being",
+            "start": 98.913,
+            "end": 99.054,
+            "score": 0.758
+          },
+          {
+            "word": "heard.",
+            "start": 99.094,
+            "end": 99.394,
+            "score": 0.769
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 100.836,
+        "end": 105.723,
+        "text": "You are the children.",
+        "words": [
+          {
+            "word": "You",
+            "start": 100.836,
+            "end": 101.197,
+            "score": 0.818
+          },
+          {
+            "word": "are",
+            "start": 101.857,
+            "end": 102.338,
+            "score": 0.742
+          },
+          {
+            "word": "the",
+            "start": 102.358,
+            "end": 103.46,
+            "score": 0.297
+          },
+          {
+            "word": "children.",
+            "start": 103.48,
+            "end": 105.723,
+            "score": 0.213
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 105.743,
+        "end": 106.744,
+        "text": "You're in a punk band?",
+        "words": [
+          {
+            "word": "You're",
+            "start": 105.743,
+            "end": 105.963,
+            "score": 0.936
+          },
+          {
+            "word": "in",
+            "start": 106.023,
+            "end": 106.063,
+            "score": 0.95
+          },
+          {
+            "word": "a",
+            "start": 106.103,
+            "end": 106.143,
+            "score": 0.484
+          },
+          {
+            "word": "punk",
+            "start": 106.203,
+            "end": 106.444,
+            "score": 0.848
+          },
+          {
+            "word": "band?",
+            "start": 106.464,
+            "end": 106.744,
+            "score": 0.85
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 106.784,
+        "end": 107.445,
+        "text": "Yes, ma.",
+        "words": [
+          {
+            "word": "Yes,",
+            "start": 106.784,
+            "end": 107.025,
+            "score": 0.888
+          },
+          {
+            "word": "ma.",
+            "start": 107.125,
+            "end": 107.445,
+            "score": 0.944
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 107.746,
+        "end": 110.229,
+        "text": "And you haven't been... Mm-mm.",
+        "words": [
+          {
+            "word": "And",
+            "start": 107.746,
+            "end": 107.926,
+            "score": 0.858
+          },
+          {
+            "word": "you",
+            "start": 108.126,
+            "end": 108.246,
+            "score": 0.815
+          },
+          {
+            "word": "haven't",
+            "start": 108.286,
+            "end": 108.487,
+            "score": 0.922
+          },
+          {
+            "word": "been...",
+            "start": 108.547,
+            "end": 109.428,
+            "score": 0.926
+          },
+          {
+            "word": "Mm-mm.",
+            "start": 109.448,
+            "end": 110.229,
+            "score": 0.459
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 110.249,
+        "end": 110.97,
+        "text": "Or...",
+        "words": [
+          {
+            "word": "Or...",
+            "start": 110.249,
+            "end": 110.97,
+            "score": 0.932
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 113.735,
+        "end": 114.523,
+        "text": " This is us.",
+        "words": [
+          {
+            "word": "This",
+            "start": 113.735,
+            "end": 113.876,
+            "score": 0.714
+          },
+          {
+            "word": "is",
+            "start": 113.957,
+            "end": 114.018,
+            "score": 0.798
+          },
+          {
+            "word": "us.",
+            "start": 114.362,
+            "end": 114.523,
+            "score": 0.649
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 114.746,
+        "end": 115.291,
+        "text": "By us.",
+        "words": [
+          {
+            "word": "By",
+            "start": 114.746,
+            "end": 115.109,
+            "score": 0.856
+          },
+          {
+            "word": "us.",
+            "start": 115.13,
+            "end": 115.291,
+            "score": 0.932
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 115.494,
+        "end": 115.958,
+        "text": "For us.",
+        "words": [
+          {
+            "word": "For",
+            "start": 115.494,
+            "end": 115.756,
+            "score": 0.903
+          },
+          {
+            "word": "us.",
+            "start": 115.857,
+            "end": 115.958,
+            "score": 0.965
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 116.949,
+        "end": 117.737,
+        "text": "Oh yeah.",
+        "words": [
+          {
+            "word": "Oh",
+            "start": 116.949,
+            "end": 117.474,
+            "score": 0.831
+          },
+          {
+            "word": "yeah.",
+            "start": 117.636,
+            "end": 117.737,
+            "score": 0.2
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nThe video is a promotional trailer for a Peacock Original series featuring a female rock band called Lady Parts. The scenes alternate between band performances, individual character moments, and title cards. The audio includes rock music, speech from female characters, and sound effects like metal latching or slamming.\n\nEvent 1 (0.1-3.2s): Starts with colorful dots, then cuts to a close-up of a red electric guitar being played. The sfx is guitar feedback with reverb, matching the visual of the guitar and the performance setting.\n\nEvent 2 (2.6-5.8s): Visual shows a woman singing into a microphone while playing guitar, with bandmates around her. The setting is a dimly lit room with British flags and stained glass windows. She wears a plaid shirt and has short dark hair.\n\nEvent 3 (4.4-5.6s): The same woman speaks into the microphone, her face visible in close-up. The speech is calm and confident, matching the voice description.\n\nEvent 4 (5.8-8.2s): Close-up of the singer\u2019s face as she continues speaking. The background shows the British flag and windows. The speech continues with a calm tone.\n\nEvent 5 (6.1-7.8s): The singer speaks directly to the camera, her expression neutral. The same background remains.\n\nEvent 6 (6.8-8.2s): A metal latch clicking is heard as the scene transitions. The visual is still the singer speaking.\n\nEvent 7 (8.2-10.4s): The screen shows a red textured background with the text \u201cA peacock Original\u201d in white.\n\nEvent 8 (8.4-20.0s): Rock music plays throughout the rest of the video. The visuals show various members of the band: a woman in a hijab walking outside, then in a lab; another woman playing drums in a basement; the singer playing guitar; and a final split-screen showing all four band members.\n\nEvent 9 (11.2-12.3s): A woman in a pink hijab looks up at a building, then walks outside. The speech is positive and describes her as finishing a PhD in microbiology.\n\nEvent 10 (11.5-12.2s): The same woman speaks positively, likely narrating her own story. She is shown walking on a campus.\n\nEvent 11 (12.6-13.2s): The woman continues speaking positively as she walks, now in a white polka-dot blouse with a hijab.\n\nEvent 12 (13.1-14.3s): The woman is in a lab wearing a white lab coat, safety goggles, and gloves. She holds up a test tube, then slumps onto the table.\n\nEvent 13 (13.6-16.2s): The woman in the lab speaks positively, describing her academic work. She is shown resting her head on the lab table, then looking up at petri dishes.\n\nEvent 14 (14.3-16.4s): The woman in the lab continues speaking, now looking at petri dishes on the table. Her expression is tired but determined.\n\nEvent 15 (14.4-16.9s): A metal door slams shut as the scene transitions from the lab to the band performing.\n\nEvent 16 (16.4-18.1s): The singer plays guitar in a dimly lit room with a drummer behind her. The music continues with heavy riffs.\n\nEvent 17 (16.7-20.0s): The singer speaks positively, introducing the band. She is shown playing guitar, then the camera pans to the drummer.\n\nEvent 18 (18.1-19.5s): The drummer plays intensely, her hair flying. The music is loud and aggressive. The camera shows a wider shot of the band in a basement setting.\n\nEvent 19 (19.5-20.0s): A split-screen shows all four band members: the singer, a bassist in a balaclava, the drummer, and a guitarist in a colorful vest. The music continues as the screen fades.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe video opens with a split-screen introducing four women, each labeled with their role in a band: Saira (singer), Momtaz (manager), Ayesha (drummer), and Bisma (bassist). The scene transitions to a dimly lit, cluttered room filled with posters, musical equipment, and a band playing. Saira sings into a microphone while the others play instruments. The camera focuses on Saira\u2019s expressive face and then cuts to Ayesha at the drums. The band\u2019s performance is interrupted by a close-up of a flyer taped to a tiled wall: \u201cGUITARIST AUDITIONS\u201d with a drawing of a guitarist. This is followed by shots of Bisma and Ayesha reacting with surprise, then a man playing guitar in a green-lit shop with a \u201cHALAL FOOD\u201d sign. The camera zooms in on his guitar cable plugged into his jeans. Back in the shop, the women react with shock as the man plays. Saira is later seen lounging in an armchair, holding a snack. The flyer is then shown taped to a glass door, with a woman in a hijab peering in. Inside the shop, several women are gathered, including one in a niqab holding a guitar. The scene shifts to a confrontation between Saira and the woman in the hijab, with other women watching in the background. The audio throughout includes aggressive rock music, negative and urgent female voices, and sfx like metal doors slamming and shifting. The confidence scores are mostly high, but some sfx labels may need correction based on visuals (e.g., \u201cmetal door slams\u201d is correct when a door is seen closing forcefully). The visual descriptions must integrate the sounds with what is shown, using precise sound labels and avoiding dialogue content.",
+    "[Chunk 3: 40.0s - 60.0s]\nThe video appears to be a montage of scenes from a film or series centered around a group of diverse women, likely in a cultural or community setting. The scenes alternate between intimate conversations, musical performances, and public events, suggesting themes of identity, community, and personal expression.\n\nEvent 1 (0.0-4.8s): A woman with short dark hair speaks to another woman wearing a beige hijab in what looks like a small shop or market. The setting includes shelves with goods and other women in headscarves in the background. The audio suggests a whispering female voice, which matches the close, private tone of the interaction.\n\nEvent 2 (0.0-0.4s): The visual shows the same scene \u2014 the woman in the hijab turning to face the other woman, who appears to be speaking. The audio includes a line about playing guitar on a talent show, which is later visually confirmed in subsequent frames.\n\nEvent 3 (0.4-3.0s): The scene shifts to a dimly lit stage where a woman in a pink hijab plays a decorated electric guitar with intense focus. The background shows band members and posters, suggesting a live rock performance. The audio is a fast, loud, aggressive guitar-driven rock, which perfectly matches the visual \u2014 the music is not mislabeled.\n\nEvent 4 (0.5-4.1s): The music continues as the camera cuts back to the conversation between the two women. The woman in the hijab listens intently, her expression serious. This segment is dominated by the rock music, which persists through the cutbacks.\n\nEvent 5 (0.5-0.8s): The sharp metallic hit coincides with a visual of the guitarist striking a chord or perhaps a microphone stand being hit \u2014 likely a percussive moment in the performance.\n\nEvent 6 (3.0-4.9s): Back to the conversation, the woman in the hijab responds to the other woman, who is now speaking about being expelled for selling school furniture. The audio is a whispering female voice, matching the intimate tone.\n\nEvent 7 (4.9-6.2s): The scene shifts to an outdoor street with a woman in a black niqab and headphones exhaling vapor \u2014 likely vaping \u2014 while standing among a crowd. The audio continues the whispering female voice, possibly off-screen narration.\n\nEvent 8 (5.1-6.0s): The whispering continues, now matching the woman in the niqab\u2019s presence \u2014 perhaps her voice or someone else\u2019s echoing her.\n\nEvent 9 (6.2-15.0s): The rock music returns, now accompanying a montage of scenes: the guitarist playing, the woman in the hijab holding her guitar in a kitchen, and the group of women talking in the shop. The music is consistent and aggressive, fitting the rebellious, energetic tone.\n\nEvent 10 (7.8-10.2s): The scene returns to the shop, where the group of women, including the one in the hijab, are gathered. The woman in the hijab holds her guitar, and others look at her with a mix of concern and curiosity. The audio includes a negative female voice saying \u201cPlay something,\u201d which matches the visual tension.\n\nEvent 11 (8.0-9.6s): The negative female voice continues, adding to the pressure on the woman with the guitar. The visual shows her looking down, avoiding eye contact, suggesting discomfort.\n\nEvent 12 (9.2-15.3s): The whispering female voice returns, possibly from one of the women in the group, continuing the dialogue.\n\nEvent 13 (9.2-10.8s): A playful female voice enters, possibly the woman in the hijab responding to the pressure with humor or defiance.\n\nEvent 14 (10.2-11.2s): The visual shows the woman in the hijab holding her guitar, looking overwhelmed, while others urge her to play. The whispering female voice says \u201cPlay something,\u201d and she replies, \u201cI don\u2019t perform,\u201d which is reflected in her body language \u2014 she looks away, hand on her guitar.\n\nEvent 15 (11.2-13.0s): The woman in the hijab is shown holding her guitar in a dimly lit room, looking down with a pained expression \u2014 the audio includes her explaining her \u201cnervy disposition induced diarrhea and vomiting,\u201d which visually matches her discomfort and hesitation.\n\nEvent 16 (13.0-14.1s): The group of women in the shop watches her, some with concern, others with skepticism. The audio continues the whispering, likely from one of them.\n\nEvent 17 (14.1-15.5s): The scene shows the group again, with one woman in a red hijab looking down, while others look at the woman with the guitar. The audio includes a Portuguese \u201cEw,\u201d which may be a reaction to her explanation.\n\nEvent 18 (15.5-17.3s): The setting shifts to a community hall with a stage. A band performs, and the woman in the pink hijab, now on stage, walks forward with a guitar and a bucket \u2014 likely collecting donations. The scene is part of a fundraiser for Syrian children, as seen on the banner.\n\nEvent 19 (15.6-18.2s): The door creaks open \u2014 visually, someone enters the hall, possibly the woman in the hijab returning to the stage.\n\nEvent 20 (17.3-18.7s): The woman in the pink hijab is now on stage with a bucket, and the audio includes a voice saying she vowed never to perform again but \u201cLady Parts\u201d had other plans \u2014 this matches the visual of her stepping forward despite her earlier hesitation.\n\nEvent 21 (17.5-20.0s): The whispering female voice continues, likely narrating or commenting on her return to performance.\n\nEvent 22 (18.7-20.0s): The final visual shows the woman in the pink hijab on stage with the bucket, the band playing behind her, and the audience watching \u2014 the music continues, building to a climax as she steps into her role.",
+    "[Chunk 4: 60.0s - 80.0s]\nScene is a music-focused narrative, alternating between a charity event and a band rehearsal. The audio includes dialogue, music, and sound effects, with visuals showing a diverse group of women forming a band called \"Lady Parts.\" The setting shifts from a bright, community-oriented event to a gritty, underground rehearsal space. The audio model correctly identifies speech and music but mislabels some SFX (e.g., \"metal door closing\" when it's a stage door or equipment movement). The \"loud, aggressive scream\" is likely a male voice from off-screen, possibly during a rehearsal argument or performance. The \"pop\" artifact at 3.5s is likely a background sound, perhaps a camera or equipment click, not a musical pop.\n\nEvent 1: Female voice speaks during charity event scene \u2014 likely a narrator or off-screen voice.\nEvent 2: Visual of charity event with band playing on stage, people donating, and a woman holding a bucket.\nEvent 3: Music begins \u2014 aggressive guitar and drums \u2014 visual shows band performing in rehearsal space.\nEvent 4: Visual of woman in pink headscarf bending over a bucket, surrounded by people at tables.\nEvent 5: Visual of band members playing in rehearsal space \u2014 guitars, drums, microphone.\nEvent 6: Close-up of female lead singer with short dark hair, singing into microphone.\nEvent 7: Close-up of drummer with long hair, hitting cymbal.\nEvent 8: Close-up of woman in black niqab exhaling smoke \u2014 likely a vape or cigarette.\nEvent 9: Close-up of woman in colorful headwrap singing passionately into microphone.\nEvent 10: Close-up of woman in pink hijab looking surprised or concerned.\nEvent 11: Close-up of drummer again, hair flying.\nEvent 12: Woman in niqab holding cigarette, gesturing with hand.\nEvent 13: Female guitarist playing red electric guitar.\nEvent 14: Female lead singer with intense expression, mouth open.\nEvent 15: Woman in pink hijab again, looking alarmed.\nEvent 16: Woman in green hijab with dark makeup, looking serious.\nEvent 17: Woman in white hijab reading lyrics on yellow paper.\nEvent 18: Two band members \u2014 guitarist and bassist \u2014 playing together.\nEvent 19: Woman in white hijab looking up, gesturing while holding lyrics.\nEvent 20: Woman in green hijab speaking, possibly confronting someone.\nEvent 21: Woman in white hijab reading lyrics, then looking up.\nEvent 22: Loud scream \u2014 likely male voice off-screen \u2014 as woman in white hijab looks shocked.",
+    "[Chunk 5: 80.0s - 100.0s]\nThe video is a montage of diverse scenes featuring a group of women, many wearing hijabs or head coverings, engaged in various activities including music, cooking, science, and outdoor adventures. The tone is energetic, playful, and celebratory, with a strong focus on representation and sisterhood.\n\nEvent 1 (0.0-0.9s): A woman in a white hijab plays guitar in a dimly lit room, holding sheet music, while another woman in colorful attire faces her. The audio is a playful female voice.\n\nEvent 2 (0.0-0.8s): Visual matches the speech at 0.0s, showing the same scene with the woman playing guitar. The audio is a playful female voice saying \"You could do less, more.\"\n\nEvent 3 (1.2-2.4s): Three women are in a room with musical instruments; one in a green hijab gestures while speaking with an angry tone. The audio is a playful female voice, but visuals suggest anger.\n\nEvent 4 (1.2-2.4s): Same scene as Event 3, but the audio is now labeled as angry female voice, which better matches the visual.\n\nEvent 5 (1.2-2.9s): A door opens and closes in a hallway, then the scene cuts to a woman in a lab coat smiling. The sfx is a door opening and closing.\n\nEvent 6 (2.3-3.2s): A woman in an apron cuts meat in a butcher shop, then the scene cuts to a person in a black cloak in a field. The sfx is a fast whooshing sound, which may be from a transition or movement.\n\nEvent 7 (2.3-11.3s): Rock music plays as scenes transition: women in a car, dancing in a field, around a campfire at night, and in a lab. The music is energetic with melodic bass and drums.\n\nEvent 8 (4.7-9.3s): At a campfire, a woman in a plaid shirt speaks playfully while holding a red cup. The audio is a playful female voice saying \"To our newest band member.\"\n\nEvent 9 (5.5-6.8s): Four women are in a car, driving and singing with exaggerated expressions. The audio is a playful female voice saying \"A delightful freak show.\"\n\nEvent 10 (7.9-9.8s): At the campfire, a woman in a hijab speaks with a negative tone, then another woman says \"Wait!\" The audio is a female voice with negative tone.\n\nEvent 11 (10.0-10.9s): A woman in a plaid shirt at the campfire speaks playfully, asking \"Am I really that bad?\"\n\nEvent 12 (11.5-12.5s): Same woman at the campfire responds playfully, \"You're that good.\"\n\nEvent 13 (12.3-13.8s): A fast whooshing sound accompanies a scene transition from a lab to a group entering a room.\n\nEvent 14 (12.5-20.0s): Energetic rock music plays as scenes show women in a band performing on stage, eating street food, and in a practice room. The music continues throughout.\n\nEvent 15 (12.5-15.5s): A fast car passing by sound matches the visual of women in a car driving, then cuts to a woman playing guitar on stage under red lights.\n\nEvent 16 (13.4-13.8s): A fast page turn sound coincides with a visual of someone flipping a page in a book on a butcher\u2019s counter.\n\nEvent 17 (14.1-15.5s): A fast guitar riff plays as a woman in a leather jacket sings and plays guitar on stage under red lights.\n\nEvent 18 (15.3-16.6s): Five women walk down a street market, eating food, with a fish stall visible. The music continues.\n\nEvent 19 (15.5-16.1s): A woman in a red hijab speaks playfully, saying \"We're sisters.\"\n\nEvent 20 (16.6-18.2s): A woman in a red hijab speaks playfully, saying \"Our music is about representation. It's about being heard.\"\n\nEvent 21 (18.6-19.6s): A woman in a plaid shirt speaks playfully, saying \"We're sisters.\"",
+    "[Chunk 6: 100.0s - 111.0s]\nThe video opens with a high-energy concert scene, transitioning to a band entering a venue called \"Sound Smash,\" then shifts to a domestic setting where a family is reacting to a daughter\u2019s revelation about being in a punk band. The audio includes aggressive music, speech from multiple characters (female and male), and a sudden, low-confidence wet fart sound at the end. The visual context strongly supports correcting the final sound \u2014 it\u2019s clearly a comedic, intentional sound effect, not an accidental one. The male voice in the middle section is playful and exaggerated, matching the family\u2019s surprised but humorous reaction. The female voice is uncertain and questioning, fitting the daughter\u2019s nervousness. The music is fast-paced and loud, matching the concert and band performance scenes. The visuals are rich with emotional expressions and family dynamics, so descriptions should reflect both the sounds and the visual cues without inferring emotions.",
+    "[Chunk 7: 111.0s - 122.0s]\nThe video is a fast-paced, stylized promotional trailer for a show or film titled \"Lady Parts,\" featuring a group of women, many wearing hijabs, in various settings including a bedroom, an industrial yard, and a live music performance. The atmosphere is rebellious and energetic, with a strong punk rock aesthetic. The audio includes aggressive music, crowd noise, and playful female voices, which align with the visuals of the band performing and the bold text overlays.\n\nEvent 1 (0.0-0.0s): A woman in a green sweatshirt with arms crossed, looking off-screen with a slightly concerned expression. The setting is dimly lit with curtains in the background.\n\nEvent 2 (1.1-10.5s): Background sound described as \"Soft wind in trees\" \u2014 this is inconsistent with the visuals. The visuals show indoor and industrial scenes with no natural outdoor elements. The actual audio is likely part of the music or ambient noise from the scenes.\n\nEvent 3 (1.3-2.5s): \"Fast whooshing sound\" \u2014 this matches the transition between scenes, likely a quick cut or visual effect.\n\nEvent 4 (1.6-3.3s): Text appears: \"NEVER MIND THE BOLLOCKS\" \u2014 a punk rock reference, fitting the rebellious tone. The visual is a dark red, textured background.\n\nEvent 5 (1.7-10.9s): Aggressive music with fast tempo and loud guitars \u2014 this matches the band performance and energetic visuals.\n\nEvent 6 (2.7-3.4s): Female voice (playful) \u2014 a woman speaks with a lighthearted tone. Visual: woman with long dark hair in polka-dot pajamas, looking up with a smile.\n\nEvent 7 (3.3-4.3s): Woman with a pink towel on her head, standing between two hanging dresses, looking down then up with a subtle smile. The setting appears to be a bedroom or dressing area.\n\nEvent 8 (3.7-4.9s): Female voice (playful) \u2014 same woman as above, now speaking with a playful tone.\n\nEvent 9 (4.3-5.3s): Woman in a full blue niqab standing in an industrial yard with crates, barrels, and equipment. The setting is cluttered and outdoor.\n\nEvent 10 (5.8-6.3s): Female voice (playful) \u2014 woman in a red hijab and vest, standing at night in a parking lot, speaking with a confident, playful tone.\n\nEvent 11 (6.3-8.4s): Crowd yelling in panic \u2014 this is likely a mislabel. The visual shows a band performing live, with audience members raising hands. The sound is more likely energetic crowd cheering or singing along, not panic.\n\nEvent 12 (7.5-9.6s): Text appears: \"WE ARE LADY PARTS\" \u2014 bold, hand-painted style on a dark red background, matching the punk aesthetic.\n\nEvent 13 (9.6-10.7s): Text appears: \"STREAMING JUNE 3\" \u2014 same visual style, indicating release date."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      110.98721088435374
+    ],
+    [
+      110.98721088435374,
+      121.97442176870749
+    ]
+  ]
+}

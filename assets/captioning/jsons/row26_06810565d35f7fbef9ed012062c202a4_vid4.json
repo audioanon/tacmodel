@@ -1,0 +1,180 @@
+{
+  "events": [
+    {
+      "description": "Sharp gunshot sound",
+      "start_time": 0.2,
+      "end_time": 1.1,
+      "duration": 0.9000000000000001,
+      "type": "sfx",
+      "confidence": 0.996
+    },
+    {
+      "description": "Wood floor impact",
+      "start_time": 0.2,
+      "end_time": 3.5,
+      "duration": 3.3,
+      "type": "sfx",
+      "confidence": 0.982
+    },
+    {
+      "description": "Sharp gunshot sound",
+      "start_time": 1.3,
+      "end_time": 2.1,
+      "duration": 0.8,
+      "type": "sfx",
+      "confidence": 0.998
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 6.2,
+      "end_time": 7.5,
+      "duration": 1.2999999999999998,
+      "type": "speech",
+      "confidence": 0.915
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 8.0,
+      "end_time": 9.0,
+      "duration": 1.0,
+      "type": "speech",
+      "confidence": 0.91
+    },
+    {
+      "description": "Male voice (urgent)",
+      "start_time": 11.0,
+      "end_time": 11.7,
+      "duration": 0.6999999999999993,
+      "type": "speech",
+      "confidence": 0.943
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 6.292,
+        "end": 6.736,
+        "text": " All dust.",
+        "words": [
+          {
+            "word": "All",
+            "start": 6.292,
+            "end": 6.473,
+            "score": 0.704
+          },
+          {
+            "word": "dust.",
+            "start": 6.494,
+            "end": 6.736,
+            "score": 0.92
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.917,
+        "end": 7.482,
+        "text": "Burton was here.",
+        "words": [
+          {
+            "word": "Burton",
+            "start": 6.917,
+            "end": 7.159,
+            "score": 0.758
+          },
+          {
+            "word": "was",
+            "start": 7.199,
+            "end": 7.28,
+            "score": 0.858
+          },
+          {
+            "word": "here.",
+            "start": 7.32,
+            "end": 7.482,
+            "score": 0.89
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.986,
+        "end": 8.873,
+        "text": "And he didn't leave long ago.",
+        "words": [
+          {
+            "word": "And",
+            "start": 7.986,
+            "end": 8.066,
+            "score": 0.716
+          },
+          {
+            "word": "he",
+            "start": 8.086,
+            "end": 8.127,
+            "score": 0.984
+          },
+          {
+            "word": "didn't",
+            "start": 8.147,
+            "end": 8.308,
+            "score": 0.68
+          },
+          {
+            "word": "leave",
+            "start": 8.328,
+            "end": 8.449,
+            "score": 0.889
+          },
+          {
+            "word": "long",
+            "start": 8.49,
+            "end": 8.651,
+            "score": 0.844
+          },
+          {
+            "word": "ago.",
+            "start": 8.691,
+            "end": 8.873,
+            "score": 0.925
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.171,
+        "end": 11.695,
+        "text": "Let's get moving.",
+        "words": [
+          {
+            "word": "Let's",
+            "start": 11.171,
+            "end": 11.332,
+            "score": 0.787
+          },
+          {
+            "word": "get",
+            "start": 11.352,
+            "end": 11.453,
+            "score": 0.754
+          },
+          {
+            "word": "moving.",
+            "start": 11.514,
+            "end": 11.695,
+            "score": 0.407
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

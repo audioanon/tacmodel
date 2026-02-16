@@ -1,0 +1,236 @@
+{
+  "events": [
+    {
+      "description": "Crowd noise in stadium",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "background",
+      "confidence": 0.998
+    },
+    {
+      "description": "Male voice (bored)",
+      "start_time": 2.6,
+      "end_time": 4.3,
+      "duration": 1.6999999999999997,
+      "type": "speech",
+      "confidence": 0.615
+    },
+    {
+      "description": "Male voice (bored)",
+      "start_time": 4.5,
+      "end_time": 6.4,
+      "duration": 1.9000000000000004,
+      "type": "speech",
+      "confidence": 0.771
+    },
+    {
+      "description": "Driving rhythm, distorted guitars, intense energy",
+      "start_time": 6.5,
+      "end_time": 12.0,
+      "duration": 5.5,
+      "type": "music",
+      "confidence": 0.957
+    },
+    {
+      "description": "Sci-fi whoosh effect",
+      "start_time": 7.7,
+      "end_time": 9.5,
+      "duration": 1.7999999999999998,
+      "type": "sfx",
+      "confidence": 0.516
+    },
+    {
+      "description": "Male voice (conversational)",
+      "start_time": 10.3,
+      "end_time": 15.0,
+      "duration": 4.699999999999999,
+      "type": "speech",
+      "confidence": 0.966
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 2.528,
+        "end": 6.318,
+        "text": " She's the woman of the century and I'm talking about her soul now.",
+        "words": [
+          {
+            "word": "She's",
+            "start": 2.528,
+            "end": 2.929,
+            "score": 0.859
+          },
+          {
+            "word": "the",
+            "start": 3.029,
+            "end": 3.23,
+            "score": 0.925
+          },
+          {
+            "word": "woman",
+            "start": 3.33,
+            "end": 3.591,
+            "score": 0.867
+          },
+          {
+            "word": "of",
+            "start": 3.631,
+            "end": 3.671,
+            "score": 0.994
+          },
+          {
+            "word": "the",
+            "start": 3.711,
+            "end": 3.791,
+            "score": 0.975
+          },
+          {
+            "word": "century",
+            "start": 3.832,
+            "end": 4.313,
+            "score": 0.853
+          },
+          {
+            "word": "and",
+            "start": 4.674,
+            "end": 4.774,
+            "score": 0.918
+          },
+          {
+            "word": "I'm",
+            "start": 4.854,
+            "end": 4.975,
+            "score": 0.947
+          },
+          {
+            "word": "talking",
+            "start": 5.055,
+            "end": 5.336,
+            "score": 0.848
+          },
+          {
+            "word": "about",
+            "start": 5.376,
+            "end": 5.556,
+            "score": 0.656
+          },
+          {
+            "word": "her",
+            "start": 5.596,
+            "end": 5.717,
+            "score": 0.85
+          },
+          {
+            "word": "soul",
+            "start": 5.777,
+            "end": 6.038,
+            "score": 0.944
+          },
+          {
+            "word": "now.",
+            "start": 6.098,
+            "end": 6.318,
+            "score": 0.993
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.338,
+        "end": 15.002,
+        "text": "The previous Plush is about this worldwide rock star, Marianne Lane, who went",
+        "words": [
+          {
+            "word": "The",
+            "start": 6.338,
+            "end": 6.399,
+            "score": 0.333
+          },
+          {
+            "word": "previous",
+            "start": 10.49,
+            "end": 10.69,
+            "score": 0.169
+          },
+          {
+            "word": "Plush",
+            "start": 10.71,
+            "end": 10.971,
+            "score": 0.811
+          },
+          {
+            "word": "is",
+            "start": 10.991,
+            "end": 11.071,
+            "score": 0.662
+          },
+          {
+            "word": "about",
+            "start": 11.152,
+            "end": 11.513,
+            "score": 0.998
+          },
+          {
+            "word": "this",
+            "start": 11.894,
+            "end": 12.054,
+            "score": 0.958
+          },
+          {
+            "word": "worldwide",
+            "start": 12.134,
+            "end": 12.736,
+            "score": 0.803
+          },
+          {
+            "word": "rock",
+            "start": 12.816,
+            "end": 13.057,
+            "score": 0.723
+          },
+          {
+            "word": "star,",
+            "start": 13.097,
+            "end": 13.398,
+            "score": 0.909
+          },
+          {
+            "word": "Marianne",
+            "start": 13.498,
+            "end": 13.919,
+            "score": 0.519
+          },
+          {
+            "word": "Lane,",
+            "start": 13.939,
+            "end": 14.36,
+            "score": 0.959
+          },
+          {
+            "word": "who",
+            "start": 14.561,
+            "end": 14.721,
+            "score": 0.957
+          },
+          {
+            "word": "went",
+            "start": 14.761,
+            "end": 15.002,
+            "score": 0.708
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

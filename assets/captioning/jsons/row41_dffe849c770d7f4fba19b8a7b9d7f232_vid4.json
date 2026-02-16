@@ -1,0 +1,382 @@
+{
+  "events": [
+    {
+      "description": "Driving rhythm, distorted guitars, urgent pace",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.966
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 0.0,
+      "end_time": 2.2,
+      "duration": 2.2,
+      "type": "speech",
+      "confidence": 0.969
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 2.4,
+      "end_time": 2.9,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.864
+    },
+    {
+      "description": "Female voice (negative)",
+      "start_time": 3.2,
+      "end_time": 3.7,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.932
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 3.2,
+      "end_time": 3.7,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.864
+    },
+    {
+      "description": "Metal scraping sound",
+      "start_time": 3.8,
+      "end_time": 5.6,
+      "duration": 1.7999999999999998,
+      "type": "sfx",
+      "confidence": 0.603
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 7.4,
+      "end_time": 9.0,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.795
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 11.0,
+      "end_time": 11.6,
+      "duration": 0.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.531
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 11.1,
+      "end_time": 11.6,
+      "duration": 0.5,
+      "type": "speech",
+      "confidence": 0.871
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 12.3,
+      "end_time": 12.7,
+      "duration": 0.3999999999999986,
+      "type": "speech",
+      "confidence": 0.877
+    },
+    {
+      "description": "Male voice (uncertain)",
+      "start_time": 14.4,
+      "end_time": 15.0,
+      "duration": 0.5999999999999996,
+      "type": "speech",
+      "confidence": 0.877
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.031,
+        "end": 2.135,
+        "text": " There is nothing wrong with putting yourself back out there.",
+        "words": [
+          {
+            "word": "There",
+            "start": 0.031,
+            "end": 0.231,
+            "score": 0.781
+          },
+          {
+            "word": "is",
+            "start": 0.271,
+            "end": 0.332,
+            "score": 0.748
+          },
+          {
+            "word": "nothing",
+            "start": 0.372,
+            "end": 0.612,
+            "score": 0.974
+          },
+          {
+            "word": "wrong",
+            "start": 0.652,
+            "end": 0.833,
+            "score": 0.794
+          },
+          {
+            "word": "with",
+            "start": 0.873,
+            "end": 0.973,
+            "score": 0.928
+          },
+          {
+            "word": "putting",
+            "start": 1.013,
+            "end": 1.213,
+            "score": 0.614
+          },
+          {
+            "word": "yourself",
+            "start": 1.233,
+            "end": 1.514,
+            "score": 0.755
+          },
+          {
+            "word": "back",
+            "start": 1.574,
+            "end": 1.735,
+            "score": 0.992
+          },
+          {
+            "word": "out",
+            "start": 1.815,
+            "end": 1.915,
+            "score": 0.991
+          },
+          {
+            "word": "there.",
+            "start": 1.955,
+            "end": 2.135,
+            "score": 0.979
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 2.456,
+        "end": 2.917,
+        "text": "I like you.",
+        "words": [
+          {
+            "word": "I",
+            "start": 2.456,
+            "end": 2.536,
+            "score": 0.927
+          },
+          {
+            "word": "like",
+            "start": 2.576,
+            "end": 2.737,
+            "score": 0.812
+          },
+          {
+            "word": "you.",
+            "start": 2.757,
+            "end": 2.917,
+            "score": 0.929
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 2.937,
+        "end": 3.699,
+        "text": "I like you too.",
+        "words": [
+          {
+            "word": "I",
+            "start": 2.937,
+            "end": 2.957,
+            "score": 0.999
+          },
+          {
+            "word": "like",
+            "start": 3.258,
+            "end": 3.378,
+            "score": 0.863
+          },
+          {
+            "word": "you",
+            "start": 3.418,
+            "end": 3.498,
+            "score": 0.483
+          },
+          {
+            "word": "too.",
+            "start": 3.518,
+            "end": 3.699,
+            "score": 0.778
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.587,
+        "end": 10.312,
+        "text": "Well, we're both very competitive, aren't we?",
+        "words": [
+          {
+            "word": "Well,",
+            "start": 7.587,
+            "end": 7.727,
+            "score": 0.562
+          },
+          {
+            "word": "we're",
+            "start": 7.747,
+            "end": 7.867,
+            "score": 0.462
+          },
+          {
+            "word": "both",
+            "start": 7.887,
+            "end": 8.028,
+            "score": 0.918
+          },
+          {
+            "word": "very",
+            "start": 8.088,
+            "end": 8.268,
+            "score": 0.969
+          },
+          {
+            "word": "competitive,",
+            "start": 8.308,
+            "end": 10.032,
+            "score": 0.753
+          },
+          {
+            "word": "aren't",
+            "start": 10.052,
+            "end": 10.172,
+            "score": 0.126
+          },
+          {
+            "word": "we?",
+            "start": 10.192,
+            "end": 10.312,
+            "score": 0.243
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.332,
+        "end": 12.216,
+        "text": "Yeah, you shouldn't play board games with us.",
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 10.332,
+            "end": 10.473,
+            "score": 0.345
+          },
+          {
+            "word": "you",
+            "start": 10.493,
+            "end": 10.613,
+            "score": 0.891
+          },
+          {
+            "word": "shouldn't",
+            "start": 10.653,
+            "end": 10.974,
+            "score": 0.897
+          },
+          {
+            "word": "play",
+            "start": 10.994,
+            "end": 11.174,
+            "score": 0.927
+          },
+          {
+            "word": "board",
+            "start": 11.254,
+            "end": 11.415,
+            "score": 0.449
+          },
+          {
+            "word": "games",
+            "start": 11.475,
+            "end": 11.755,
+            "score": 0.888
+          },
+          {
+            "word": "with",
+            "start": 11.795,
+            "end": 11.936,
+            "score": 0.982
+          },
+          {
+            "word": "us.",
+            "start": 12.036,
+            "end": 12.216,
+            "score": 0.976
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.417,
+        "end": 12.637,
+        "text": "Yeah.",
+        "words": [
+          {
+            "word": "Yeah.",
+            "start": 12.417,
+            "end": 12.637,
+            "score": 0.667
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 12.878,
+        "end": 15.002,
+        "text": "Or games in general.",
+        "words": [
+          {
+            "word": "Or",
+            "start": 12.878,
+            "end": 12.978,
+            "score": 0.666
+          },
+          {
+            "word": "games",
+            "start": 13.058,
+            "end": 13.379,
+            "score": 0.826
+          },
+          {
+            "word": "in",
+            "start": 13.459,
+            "end": 13.519,
+            "score": 0.996
+          },
+          {
+            "word": "general.",
+            "start": 13.579,
+            "end": 15.002,
+            "score": 0.878
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

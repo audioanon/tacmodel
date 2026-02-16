@@ -1,0 +1,625 @@
+{
+  "cid": "00142f8c0f2fc5bede40c53048fab07e",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 65.01587301587301,
+  "events": [
+    {
+      "description": "Distant train passing as camera shows illuminated glass building at night with interior studio visible",
+      "start_time": 0.0,
+      "end_time": 20.0,
+      "duration": 20.0,
+      "type": "background",
+      "confidence": 0.868,
+      "audio_description": "Distant train passing"
+    },
+    {
+      "start_time": 0.0,
+      "end_time": 5.84,
+      "type": "visual",
+      "description": "Modern glass building at night, interior lit with furniture, stairs, and figures working inside",
+      "audio_description": null
+    },
+    {
+      "description": "Slow, emotional, cinematic strings swell as camera focuses on illuminated studio at night",
+      "start_time": 0.4,
+      "end_time": 20.0,
+      "duration": 19.6,
+      "type": "music",
+      "confidence": 0.973,
+      "audio_description": "Slow, emotional, and cinematic"
+    },
+    {
+      "description": "Sustained string tone hums beneath close-up of woman\u2019s profile watching screen in dim light",
+      "start_time": 0.6,
+      "end_time": 9.2,
+      "duration": 8.6,
+      "type": "sfx",
+      "confidence": 0.98,
+      "audio_description": "Sustained string tone"
+    },
+    {
+      "start_time": 5.84,
+      "end_time": 11.2,
+      "type": "visual",
+      "description": "Close-up of woman\u2019s side profile wearing glasses, gazing at screen with focused expression in darkness",
+      "audio_description": null
+    },
+    {
+      "description": "Older woman speaks seriously, lips moving, wearing glasses and gold necklace, seated in decorated room",
+      "start_time": 9.0,
+      "end_time": 12.6,
+      "duration": 3.5999999999999996,
+      "type": "speech",
+      "confidence": 0.977,
+      "audio_description": "Female voice (negative)"
+    },
+    {
+      "start_time": 11.2,
+      "end_time": 20.0,
+      "type": "visual",
+      "description": "Woman with gray hair, patterned blouse, and gold jewelry speaks in room with framed photos and statues",
+      "audio_description": null
+    },
+    {
+      "description": "Woman speaks with slight frown, eyes focused, brow slightly furrowed, head tilting as she talks",
+      "start_time": 13.0,
+      "end_time": 14.7,
+      "duration": 1.6999999999999993,
+      "type": "speech",
+      "confidence": 0.966,
+      "audio_description": "Female voice (negative)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 9.042,
+        "end": 24.064,
+        "text": " One evening I am wrestling for, you know, the tenth time with retouching a small loss which is just above the lip right here.",
+        "words": [
+          {
+            "word": "One",
+            "start": 9.042,
+            "end": 9.223,
+            "score": 0.76
+          },
+          {
+            "word": "evening",
+            "start": 9.343,
+            "end": 9.684,
+            "score": 0.832
+          },
+          {
+            "word": "I",
+            "start": 9.704,
+            "end": 9.724,
+            "score": 1.0
+          },
+          {
+            "word": "am",
+            "start": 10.667,
+            "end": 10.747,
+            "score": 0.975
+          },
+          {
+            "word": "wrestling",
+            "start": 11.208,
+            "end": 11.79,
+            "score": 0.887
+          },
+          {
+            "word": "for,",
+            "start": 12.07,
+            "end": 12.452,
+            "score": 0.898
+          },
+          {
+            "word": "you",
+            "start": 12.472,
+            "end": 12.532,
+            "score": 0.333
+          },
+          {
+            "word": "know,",
+            "start": 13.093,
+            "end": 13.254,
+            "score": 0.729
+          },
+          {
+            "word": "the",
+            "start": 13.454,
+            "end": 13.575,
+            "score": 0.799
+          },
+          {
+            "word": "tenth",
+            "start": 13.715,
+            "end": 14.096,
+            "score": 0.781
+          },
+          {
+            "word": "time",
+            "start": 14.216,
+            "end": 14.598,
+            "score": 0.948
+          },
+          {
+            "word": "with",
+            "start": 14.618,
+            "end": 15.42,
+            "score": 0.474
+          },
+          {
+            "word": "retouching",
+            "start": 16.362,
+            "end": 17.004,
+            "score": 0.903
+          },
+          {
+            "word": "a",
+            "start": 17.044,
+            "end": 17.064,
+            "score": 1.0
+          },
+          {
+            "word": "small",
+            "start": 17.385,
+            "end": 17.746,
+            "score": 0.949
+          },
+          {
+            "word": "loss",
+            "start": 17.807,
+            "end": 18.228,
+            "score": 0.913
+          },
+          {
+            "word": "which",
+            "start": 18.99,
+            "end": 19.19,
+            "score": 0.762
+          },
+          {
+            "word": "is",
+            "start": 19.21,
+            "end": 19.592,
+            "score": 0.74
+          },
+          {
+            "word": "just",
+            "start": 20.354,
+            "end": 20.675,
+            "score": 0.886
+          },
+          {
+            "word": "above",
+            "start": 20.995,
+            "end": 21.296,
+            "score": 0.934
+          },
+          {
+            "word": "the",
+            "start": 21.617,
+            "end": 21.717,
+            "score": 0.914
+          },
+          {
+            "word": "lip",
+            "start": 21.758,
+            "end": 21.958,
+            "score": 0.994
+          },
+          {
+            "word": "right",
+            "start": 22.58,
+            "end": 22.76,
+            "score": 0.874
+          },
+          {
+            "word": "here.",
+            "start": 22.801,
+            "end": 24.064,
+            "score": 0.851
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.044,
+        "end": 33.516,
+        "text": " And there is a transition in this area from the lip to the upper lip that is imperceptible.",
+        "words": [
+          {
+            "word": "And",
+            "start": 24.044,
+            "end": 24.545,
+            "score": 0.748
+          },
+          {
+            "word": "there",
+            "start": 25.125,
+            "end": 25.266,
+            "score": 0.85
+          },
+          {
+            "word": "is",
+            "start": 25.306,
+            "end": 25.366,
+            "score": 0.748
+          },
+          {
+            "word": "a",
+            "start": 25.406,
+            "end": 25.446,
+            "score": 0.5
+          },
+          {
+            "word": "transition",
+            "start": 25.486,
+            "end": 25.966,
+            "score": 0.869
+          },
+          {
+            "word": "in",
+            "start": 26.027,
+            "end": 26.067,
+            "score": 0.998
+          },
+          {
+            "word": "this",
+            "start": 26.107,
+            "end": 26.267,
+            "score": 0.841
+          },
+          {
+            "word": "area",
+            "start": 26.447,
+            "end": 26.767,
+            "score": 0.9
+          },
+          {
+            "word": "from",
+            "start": 27.288,
+            "end": 27.468,
+            "score": 0.966
+          },
+          {
+            "word": "the",
+            "start": 27.508,
+            "end": 27.829,
+            "score": 0.451
+          },
+          {
+            "word": "lip",
+            "start": 27.889,
+            "end": 28.129,
+            "score": 0.913
+          },
+          {
+            "word": "to",
+            "start": 28.73,
+            "end": 29.01,
+            "score": 0.996
+          },
+          {
+            "word": "the",
+            "start": 29.331,
+            "end": 29.511,
+            "score": 0.827
+          },
+          {
+            "word": "upper",
+            "start": 29.992,
+            "end": 30.212,
+            "score": 0.811
+          },
+          {
+            "word": "lip",
+            "start": 30.252,
+            "end": 30.492,
+            "score": 0.847
+          },
+          {
+            "word": "that",
+            "start": 31.854,
+            "end": 32.074,
+            "score": 0.923
+          },
+          {
+            "word": "is",
+            "start": 32.335,
+            "end": 32.455,
+            "score": 0.828
+          },
+          {
+            "word": "imperceptible.",
+            "start": 32.475,
+            "end": 33.516,
+            "score": 0.79
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 34.637,
+        "end": 44.29,
+        "text": "There is no line there for the edge of the lip is exactly what is present in the same area of the Mona Lisa.",
+        "words": [
+          {
+            "word": "There",
+            "start": 34.637,
+            "end": 34.778,
+            "score": 0.855
+          },
+          {
+            "word": "is",
+            "start": 34.818,
+            "end": 34.898,
+            "score": 0.909
+          },
+          {
+            "word": "no",
+            "start": 34.938,
+            "end": 35.058,
+            "score": 0.872
+          },
+          {
+            "word": "line",
+            "start": 35.138,
+            "end": 35.398,
+            "score": 0.737
+          },
+          {
+            "word": "there",
+            "start": 35.559,
+            "end": 35.779,
+            "score": 0.739
+          },
+          {
+            "word": "for",
+            "start": 36.32,
+            "end": 36.48,
+            "score": 0.91
+          },
+          {
+            "word": "the",
+            "start": 36.54,
+            "end": 36.64,
+            "score": 0.906
+          },
+          {
+            "word": "edge",
+            "start": 36.9,
+            "end": 37.02,
+            "score": 0.965
+          },
+          {
+            "word": "of",
+            "start": 37.061,
+            "end": 37.121,
+            "score": 0.89
+          },
+          {
+            "word": "the",
+            "start": 37.161,
+            "end": 37.221,
+            "score": 0.986
+          },
+          {
+            "word": "lip",
+            "start": 37.281,
+            "end": 37.481,
+            "score": 0.947
+          },
+          {
+            "word": "is",
+            "start": 38.142,
+            "end": 38.222,
+            "score": 0.947
+          },
+          {
+            "word": "exactly",
+            "start": 38.322,
+            "end": 39.003,
+            "score": 0.96
+          },
+          {
+            "word": "what",
+            "start": 39.504,
+            "end": 39.684,
+            "score": 0.98
+          },
+          {
+            "word": "is",
+            "start": 39.944,
+            "end": 40.024,
+            "score": 0.808
+          },
+          {
+            "word": "present",
+            "start": 40.104,
+            "end": 40.505,
+            "score": 0.991
+          },
+          {
+            "word": "in",
+            "start": 41.126,
+            "end": 41.246,
+            "score": 0.915
+          },
+          {
+            "word": "the",
+            "start": 41.646,
+            "end": 41.746,
+            "score": 0.954
+          },
+          {
+            "word": "same",
+            "start": 41.887,
+            "end": 42.207,
+            "score": 0.992
+          },
+          {
+            "word": "area",
+            "start": 42.247,
+            "end": 43.068,
+            "score": 0.856
+          },
+          {
+            "word": "of",
+            "start": 43.509,
+            "end": 43.569,
+            "score": 0.956
+          },
+          {
+            "word": "the",
+            "start": 43.589,
+            "end": 43.669,
+            "score": 0.823
+          },
+          {
+            "word": "Mona",
+            "start": 43.729,
+            "end": 43.929,
+            "score": 0.73
+          },
+          {
+            "word": "Lisa.",
+            "start": 43.949,
+            "end": 44.29,
+            "score": 0.982
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 48.275,
+        "end": 49.176,
+        "text": "My hands are shaking.",
+        "words": [
+          {
+            "word": "My",
+            "start": 48.275,
+            "end": 48.375,
+            "score": 0.994
+          },
+          {
+            "word": "hands",
+            "start": 48.415,
+            "end": 48.595,
+            "score": 0.734
+          },
+          {
+            "word": "are",
+            "start": 48.655,
+            "end": 48.735,
+            "score": 0.809
+          },
+          {
+            "word": "shaking.",
+            "start": 48.795,
+            "end": 49.176,
+            "score": 0.994
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 49.216,
+        "end": 53.241,
+        "text": "No one except Leonardo could have painted",
+        "words": [
+          {
+            "word": "No",
+            "start": 49.216,
+            "end": 49.897,
+            "score": 0.961
+          },
+          {
+            "word": "one",
+            "start": 49.997,
+            "end": 50.117,
+            "score": 0.643
+          },
+          {
+            "word": "except",
+            "start": 50.297,
+            "end": 50.558,
+            "score": 0.888
+          },
+          {
+            "word": "Leonardo",
+            "start": 50.598,
+            "end": 51.178,
+            "score": 0.862
+          },
+          {
+            "word": "could",
+            "start": 52.22,
+            "end": 52.38,
+            "score": 0.918
+          },
+          {
+            "word": "have",
+            "start": 52.44,
+            "end": 52.6,
+            "score": 0.99
+          },
+          {
+            "word": "painted",
+            "start": 52.8,
+            "end": 53.241,
+            "score": 0.888
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 54.335,
+        "end": 55.098,
+        "text": " This picture.",
+        "words": [
+          {
+            "word": "This",
+            "start": 54.335,
+            "end": 54.547,
+            "score": 0.844
+          },
+          {
+            "word": "picture.",
+            "start": 54.653,
+            "end": 55.098,
+            "score": 0.843
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene begins with an exterior nighttime shot of a modern glass building, likely a studio or gallery, with visible interior lighting and furniture. The camera then cuts to a close-up of a woman\u2019s profile, wearing glasses, intently watching a screen. Finally, the scene shifts to a medium close-up of an older woman in a well-decorated room, speaking directly to the camera with expressive facial movements. The audio includes a distant train sound, emotional cinematic music, a sustained string tone, and a female voice speaking with a negative tone. The train sound is likely mislabeled as it\u2019s not visually supported and the dominant audio is the music and speech. The cinematic music and sustained string tone are consistent with the mood and visuals. The female voice is clearly on-screen, speaking with a serious, focused expression. All events align with the visual transitions and audio cues.",
+    "[Chunk 2: 20.0s - 40.0s]\nThe overall scene is a documentary-style presentation about art restoration, focusing on a woman (likely an art conservator) discussing her work on a famous painting, likely the Mona Lisa, given the visual references. The setting alternates between an elegantly decorated room with art and sculptures, and a dimly lit, cluttered art studio. The woman speaks directly to the camera, using hand gestures to emphasize points about fine details in a damaged painting. The visuals include close-ups of a deteriorated painting surface, showing cracked and flaking paint, particularly around the lips and nose, which she references in her narration. The audio includes a slow, emotional string music track throughout, occasional deep bass hits, and a sharp metallic sound that coincides with a transition to the studio scene. The music and sound effects enhance the mood of careful, emotional restoration work. The woman appears thoughtful and precise in her movements and speech, maintaining eye contact with the camera, occasionally touching her face or gesturing toward the implied painting.\n\nEvent 1 (0.0-3.0s): Woman in patterned blouse and glasses speaks directly to camera, hand near face, with art and sculptures in background.  \nEvent 2 (0.0-20.0s): Emotional string music plays continuously, accompanying the entire scene, underscoring the serious tone of restoration.  \nEvent 3 (0.0-3.1s): Woman gestures near her mouth while speaking, indicating a specific area on a painting, likely above the lip.  \nEvent 4 (3.1-6.7s): Close-up of a damaged painting surface, showing cracked paint around the mouth and nose, with a fine brush touching the lip area.  \nEvent 5 (3.1-6.8s): Deep bass hit occurs as the close-up of the painting continues, emphasizing the delicate nature of the restoration.  \nEvent 6 (4.3-6.8s): Woman continues speaking, hand still near her face, emphasizing the imperceptible transition in the painting.  \nEvent 7 (6.7-14.1s): Woman continues her explanation, gesturing with her finger, maintaining focus on the subtle details of the painting.  \nEvent 8 (7.3-8.0s): Woman speaks with a focused expression, hand raised near her face, reinforcing her point about the lip area.  \nEvent 9 (8.7-9.5s): Woman continues speaking, slightly moving her hand, emphasizing the absence of a visible line in the painting.  \nEvent 10 (9.9-10.4s): Woman gestures upward with her finger, perhaps indicating another area of the painting she is discussing.  \nEvent 11 (11.2-13.5s): Woman speaks with a steady, deliberate tone, hand still raised, reinforcing her point about the painting\u2019s features.  \nEvent 12 (13.7-15.4s): Metal door slams shut as the scene transitions to a dark studio, signaling a shift in location.  \nEvent 13 (14.1-17.1s): Woman stands in dimly lit studio, facing a workbench with tools and paintings, surrounded by art supplies.  \nEvent 14 (14.6-15.8s): Woman speaks in the studio, now off-screen, as the camera focuses on her back, reinforcing the continuity of her narration.  \nEvent 15 (14.7-15.0s): Sharp metallic hit occurs as the door slams, aligning with the visual transition to the studio.  \nEvent 16 (16.3-17.4s): Woman continues speaking off-screen in the studio, with close-up of the damaged painting surface shown.  \nEvent 17 (17.1-20.0s): Close-up of the painting\u2019s damaged surface, highlighting cracked paint and texture around the mouth and nose.  \nEvent 18 (18.0-19.0s): Woman continues speaking off-screen as the close-up of the painting remains, emphasizing the restoration process.  \nEvent 19 (19.4-20.0s): Woman speaks as the final close-up of the painting\u2019s damaged surface is shown, concluding the segment.",
+    "[Chunk 3: 40.0s - 60.0s]\nThe overall scene is a documentary-style exploration of a mysterious, aged artwork, likely a fragment of the Mona Lisa, with a woman\u2014possibly an art expert or historian\u2014analyzing it in a dimly lit, scholarly setting. The video alternates between close-ups of a cracked, aged painting fragment, the woman speaking directly to the camera, and her working in a studio environment. The audio features dramatic female narration, soft reflective piano music, and occasional cinematic sound effects suggesting emotional or revelatory moments. The visuals emphasize texture, mystery, and the weight of historical discovery.\n\nEvent 1 (0.0-1.3s): [speech] Female voice (dramatic) \u2014 visual shows a close-up of a cracked, darkened painting fragment with faint lip shapes, suggesting a detailed examination.\n\nEvent 2 (0.0-20.0s): [music] Soft piano, slow, reflective, emotional \u2014 music underlies the entire sequence, matching the contemplative tone.\n\nEvent 3 (0.0-0.5s): [visual] Close-up of a dark, cracked painting fragment with visible lip outlines and text fragments, possibly from a famous artwork.\n\nEvent 4 (0.5-2.6s): [visual] Hand with ring gently touches the cracked surface of the painting fragment, suggesting careful analysis.\n\nEvent 5 (1.6-3.0s): [speech] Female voice (dramatic) \u2014 visual shows the woman speaking directly to camera, gesturing with finger, in an elegant, art-filled room.\n\nEvent 6 (2.6-4.4s): [visual] Back view of the woman observing the painting fragment mounted on an easel in a dim studio.\n\nEvent 7 (3.4-4.3s): [speech] Female voice (dramatic) \u2014 visual same as event 5: woman speaking with expressive hand gesture.\n\nEvent 8 (4.1-5.9s): [sfx] Fast-moving object sound \u2014 likely a quick camera movement or transition, but visually no fast motion is seen; perhaps a mislabel \u2014 instead, a subtle shift in lighting or focus.\n\nEvent 9 (4.4-8.2s): [sfx] Deep bass hit \u2014 likely a cinematic accent to emphasize revelation, matching the emotional tone of the woman\u2019s speech.\n\nEvent 10 (4.4-6.8s): [visual] Back view of woman observing painting fragment on easel, dim lighting, focused on the artwork.\n\nEvent 11 (6.8-9.4s): [visual] Return to close-up of the cracked painting fragment, showing texture and faint lip shapes.\n\nEvent 12 (8.2-9.2s): [speech] Female voice (dramatic) \u2014 visual same as event 5: woman speaking with expressive gesture.\n\nEvent 13 (9.4-15.3s): [visual] Woman continues speaking in elegant room, framed art and sculptures in background, hand gestures emphasizing points.\n\nEvent 14 (9.6-11.2s): [speech] Female voice (dramatic) \u2014 visual same as above.\n\nEvent 15 (12.2-13.1s): [speech] Female voice (dramatic) \u2014 visual same.\n\nEvent 16 (14.3-15.1s): [speech] Female voice (dramatic) \u2014 visual same.\n\nEvent 17 (15.2-16.4s): [sfx] Cinematic impact sound \u2014 likely a dramatic pause or reveal, matching the woman\u2019s emotional tone.\n\nEvent 18 (15.3-19.8s): [visual] Woman in dark coat in dim studio, adjusting the painting on an easel, spotlight on her work area.\n\nEvent 19 (17.4-18.6s): [sfx] Cinematic impact sound \u2014 another dramatic sound, possibly underscoring a key moment in her analysis.\n\nEvent 20 (19.8-20.0s): [visual] Final frame shows woman in studio, still adjusting the painting, focus on her hands and the artwork.",
+    "[Chunk 4: 60.0s - 65.0s]\nScene is a black screen with static text. At 0.0s, the title \"THE LOST LEONARDO\" appears in gray, cracked font. The text remains unchanged through 3.0s, then fades out by 3.5s. No movement, characters, or actions occur. The audio labels suggest music and a metal impact, but no corresponding visuals are present\u2014these likely belong to a different scene or are mislabeled. The visual is purely textual and static.\n\nEvent 1 (0.0-3.8s): The text \"THE LOST LEONARDO\" is displayed with a cracked texture, suggesting age or decay. The music label is retained as it may be ambient or thematic, though no musical instruments are visible.\n\nEvent 2 (0.0-3.8s): The \"metal impact with ring\" label is likely misattributed\u2014no metallic object hits anything in the visual. Since the text has a cracked texture, it may imply a \"crack\" sound, but no actual impact occurs. The label is corrected to \"crack sound\" to better match the visual texture.\n\nEvent 3 (0.0-5.0s): The visual is entirely text-based, static, and fades to black. No additional elements appear. The description focuses on the text and its visual properties."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      65.01587301587301
+    ]
+  ]
+}

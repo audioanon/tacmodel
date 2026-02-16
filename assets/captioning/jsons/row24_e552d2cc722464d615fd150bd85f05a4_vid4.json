@@ -1,0 +1,326 @@
+{
+  "events": [
+    {
+      "description": "Electronic interference noise",
+      "start_time": 0.8,
+      "end_time": 1.2,
+      "duration": 0.3999999999999999,
+      "type": "sfx",
+      "confidence": 0.908
+    },
+    {
+      "description": "A child speaks the phrase 'we'll move again' in a clear, youthful voice",
+      "start_time": 1.2,
+      "end_time": 3.4,
+      "duration": 2.2,
+      "type": "speech",
+      "confidence": 0.996
+    },
+    {
+      "description": "A child speaks the phrase 'we'll move again' in a clear, youthful voice",
+      "start_time": 3.5,
+      "end_time": 5.8,
+      "duration": 2.3,
+      "type": "speech",
+      "confidence": 0.996
+    },
+    {
+      "description": "Soft piano, slow, reflective, emotional",
+      "start_time": 5.3,
+      "end_time": 14.0,
+      "duration": 8.7,
+      "type": "music",
+      "confidence": 0.975
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 9.2,
+      "end_time": 10.7,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.919
+    },
+    {
+      "description": "Children playing in a park",
+      "start_time": 10.8,
+      "end_time": 15.0,
+      "duration": 4.199999999999999,
+      "type": "background",
+      "confidence": 0.026
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 10.9,
+      "end_time": 12.8,
+      "duration": 1.9000000000000004,
+      "type": "speech",
+      "confidence": 0.929
+    },
+    {
+      "description": "Male voice (formal)",
+      "start_time": 13.4,
+      "end_time": 14.9,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.949
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.212,
+        "end": 3.216,
+        "text": " I wish I saw the movie again.",
+        "words": [
+          {
+            "word": "I",
+            "start": 1.212,
+            "end": 1.453,
+            "score": 0.581
+          },
+          {
+            "word": "wish",
+            "start": 1.473,
+            "end": 1.713,
+            "score": 0.41
+          },
+          {
+            "word": "I",
+            "start": 1.733,
+            "end": 1.914,
+            "score": 0.702
+          },
+          {
+            "word": "saw",
+            "start": 1.994,
+            "end": 2.154,
+            "score": 0.574
+          },
+          {
+            "word": "the",
+            "start": 2.174,
+            "end": 2.254,
+            "score": 0.578
+          },
+          {
+            "word": "movie",
+            "start": 2.294,
+            "end": 2.735,
+            "score": 0.88
+          },
+          {
+            "word": "again.",
+            "start": 2.815,
+            "end": 3.216,
+            "score": 0.99
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 3.256,
+        "end": 5.722,
+        "text": "The music got to me in a very certain way.",
+        "words": [
+          {
+            "word": "The",
+            "start": 3.256,
+            "end": 3.597,
+            "score": 0.572
+          },
+          {
+            "word": "music",
+            "start": 3.657,
+            "end": 3.978,
+            "score": 0.964
+          },
+          {
+            "word": "got",
+            "start": 4.018,
+            "end": 4.219,
+            "score": 0.967
+          },
+          {
+            "word": "to",
+            "start": 4.239,
+            "end": 4.299,
+            "score": 0.722
+          },
+          {
+            "word": "me",
+            "start": 4.359,
+            "end": 4.439,
+            "score": 0.995
+          },
+          {
+            "word": "in",
+            "start": 4.499,
+            "end": 4.539,
+            "score": 0.81
+          },
+          {
+            "word": "a",
+            "start": 4.619,
+            "end": 4.639,
+            "score": 0.999
+          },
+          {
+            "word": "very",
+            "start": 4.72,
+            "end": 4.96,
+            "score": 0.915
+          },
+          {
+            "word": "certain",
+            "start": 5.06,
+            "end": 5.381,
+            "score": 0.755
+          },
+          {
+            "word": "way.",
+            "start": 5.461,
+            "end": 5.722,
+            "score": 0.957
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.742,
+        "end": 15.002,
+        "text": "And a heart that's sweet and true Raggedy Ann and Andy is a full-length musical adventure directed by Richard Williams.",
+        "words": [
+          {
+            "word": "And",
+            "start": 5.742,
+            "end": 5.802,
+            "score": 0.318
+          },
+          {
+            "word": "a",
+            "start": 6.904,
+            "end": 7.005,
+            "score": 0.463
+          },
+          {
+            "word": "heart",
+            "start": 7.245,
+            "end": 7.526,
+            "score": 0.932
+          },
+          {
+            "word": "that's",
+            "start": 7.626,
+            "end": 7.907,
+            "score": 0.69
+          },
+          {
+            "word": "sweet",
+            "start": 7.987,
+            "end": 8.488,
+            "score": 0.877
+          },
+          {
+            "word": "and",
+            "start": 8.648,
+            "end": 8.768,
+            "score": 0.852
+          },
+          {
+            "word": "true",
+            "start": 8.869,
+            "end": 9.35,
+            "score": 0.835
+          },
+          {
+            "word": "Raggedy",
+            "start": 9.41,
+            "end": 9.851,
+            "score": 0.78
+          },
+          {
+            "word": "Ann",
+            "start": 9.971,
+            "end": 10.151,
+            "score": 0.798
+          },
+          {
+            "word": "and",
+            "start": 10.332,
+            "end": 10.532,
+            "score": 0.491
+          },
+          {
+            "word": "Andy",
+            "start": 10.552,
+            "end": 10.653,
+            "score": 0.346
+          },
+          {
+            "word": "is",
+            "start": 10.953,
+            "end": 11.033,
+            "score": 0.965
+          },
+          {
+            "word": "a",
+            "start": 11.094,
+            "end": 11.134,
+            "score": 0.827
+          },
+          {
+            "word": "full-length",
+            "start": 11.254,
+            "end": 11.755,
+            "score": 0.823
+          },
+          {
+            "word": "musical",
+            "start": 11.835,
+            "end": 12.276,
+            "score": 0.93
+          },
+          {
+            "word": "adventure",
+            "start": 12.336,
+            "end": 12.777,
+            "score": 0.856
+          },
+          {
+            "word": "directed",
+            "start": 12.817,
+            "end": 13.92,
+            "score": 0.854
+          },
+          {
+            "word": "by",
+            "start": 14.0,
+            "end": 14.1,
+            "score": 0.946
+          },
+          {
+            "word": "Richard",
+            "start": 14.16,
+            "end": 14.381,
+            "score": 0.735
+          },
+          {
+            "word": "Williams.",
+            "start": 14.441,
+            "end": 15.002,
+            "score": 0.938
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

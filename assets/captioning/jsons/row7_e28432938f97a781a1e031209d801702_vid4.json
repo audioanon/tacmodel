@@ -1,0 +1,340 @@
+{
+  "events": [
+    {
+      "description": "Smooth bass and soft piano over steady beat",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.875
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 0.8,
+      "end_time": 1.7,
+      "duration": 0.8999999999999999,
+      "type": "sfx",
+      "confidence": 0.739
+    },
+    {
+      "description": "Female voice (narrative)",
+      "start_time": 1.1,
+      "end_time": 2.3,
+      "duration": 1.1999999999999997,
+      "type": "speech",
+      "confidence": 0.958
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 2.0,
+      "end_time": 2.9,
+      "duration": 0.8999999999999999,
+      "type": "sfx",
+      "confidence": 0.635
+    },
+    {
+      "description": "Female voice (narrative)",
+      "start_time": 3.2,
+      "end_time": 8.7,
+      "duration": 5.499999999999999,
+      "type": "speech",
+      "confidence": 0.946
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 3.2,
+      "end_time": 4.8,
+      "duration": 1.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.384
+    },
+    {
+      "description": "Airy whoosh with reverb",
+      "start_time": 4.1,
+      "end_time": 5.9,
+      "duration": 1.8000000000000007,
+      "type": "sfx",
+      "confidence": 0.74
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 5.2,
+      "end_time": 6.8,
+      "duration": 1.5999999999999996,
+      "type": "sfx",
+      "confidence": 0.47
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 7.2,
+      "end_time": 8.6,
+      "duration": 1.3999999999999995,
+      "type": "sfx",
+      "confidence": 0.29
+    },
+    {
+      "description": "Distant voices in a public space",
+      "start_time": 8.8,
+      "end_time": 10.8,
+      "duration": 2.0,
+      "type": "background",
+      "confidence": 0.946
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 8.9,
+      "end_time": 10.4,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.668
+    },
+    {
+      "description": "Female voice (narrative)",
+      "start_time": 9.7,
+      "end_time": 12.4,
+      "duration": 2.700000000000001,
+      "type": "speech",
+      "confidence": 0.924
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 10.7,
+      "end_time": 12.2,
+      "duration": 1.5,
+      "type": "sfx",
+      "confidence": 0.309
+    },
+    {
+      "description": "Deep bass pulse",
+      "start_time": 12.6,
+      "end_time": 13.8,
+      "duration": 1.200000000000001,
+      "type": "sfx",
+      "confidence": 0.723
+    },
+    {
+      "description": "Female voice (narrative)",
+      "start_time": 13.4,
+      "end_time": 15.0,
+      "duration": 1.5999999999999996,
+      "type": "speech",
+      "confidence": 0.942
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 1.111,
+        "end": 8.648,
+        "text": " One hundred years ago, after the war, our founders created a system they believed would create lasting peace.",
+        "words": [
+          {
+            "word": "One",
+            "start": 1.111,
+            "end": 1.291,
+            "score": 0.787
+          },
+          {
+            "word": "hundred",
+            "start": 1.372,
+            "end": 1.652,
+            "score": 0.851
+          },
+          {
+            "word": "years",
+            "start": 1.672,
+            "end": 1.933,
+            "score": 0.685
+          },
+          {
+            "word": "ago,",
+            "start": 1.993,
+            "end": 2.254,
+            "score": 0.953
+          },
+          {
+            "word": "after",
+            "start": 2.274,
+            "end": 3.536,
+            "score": 0.903
+          },
+          {
+            "word": "the",
+            "start": 3.577,
+            "end": 3.637,
+            "score": 0.996
+          },
+          {
+            "word": "war,",
+            "start": 3.697,
+            "end": 3.957,
+            "score": 0.964
+          },
+          {
+            "word": "our",
+            "start": 3.997,
+            "end": 4.96,
+            "score": 0.731
+          },
+          {
+            "word": "founders",
+            "start": 5.02,
+            "end": 5.401,
+            "score": 0.799
+          },
+          {
+            "word": "created",
+            "start": 5.501,
+            "end": 5.842,
+            "score": 0.893
+          },
+          {
+            "word": "a",
+            "start": 5.902,
+            "end": 5.922,
+            "score": 0.998
+          },
+          {
+            "word": "system",
+            "start": 5.982,
+            "end": 6.383,
+            "score": 0.977
+          },
+          {
+            "word": "they",
+            "start": 6.423,
+            "end": 6.744,
+            "score": 0.851
+          },
+          {
+            "word": "believed",
+            "start": 6.804,
+            "end": 7.165,
+            "score": 0.876
+          },
+          {
+            "word": "would",
+            "start": 7.225,
+            "end": 7.385,
+            "score": 0.89
+          },
+          {
+            "word": "create",
+            "start": 7.445,
+            "end": 7.746,
+            "score": 0.796
+          },
+          {
+            "word": "lasting",
+            "start": 7.806,
+            "end": 8.267,
+            "score": 0.779
+          },
+          {
+            "word": "peace.",
+            "start": 8.327,
+            "end": 8.648,
+            "score": 0.961
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.73,
+        "end": 12.236,
+        "text": "They divided society into five factions.",
+        "words": [
+          {
+            "word": "They",
+            "start": 9.73,
+            "end": 9.851,
+            "score": 0.993
+          },
+          {
+            "word": "divided",
+            "start": 9.891,
+            "end": 10.271,
+            "score": 0.931
+          },
+          {
+            "word": "society",
+            "start": 10.352,
+            "end": 10.913,
+            "score": 0.948
+          },
+          {
+            "word": "into",
+            "start": 11.093,
+            "end": 11.274,
+            "score": 0.987
+          },
+          {
+            "word": "five",
+            "start": 11.354,
+            "end": 11.614,
+            "score": 0.857
+          },
+          {
+            "word": "factions.",
+            "start": 11.695,
+            "end": 12.236,
+            "score": 0.898
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.338,
+        "end": 15.002,
+        "text": "The only way you can survive",
+        "words": [
+          {
+            "word": "The",
+            "start": 13.338,
+            "end": 13.439,
+            "score": 0.794
+          },
+          {
+            "word": "only",
+            "start": 13.519,
+            "end": 13.699,
+            "score": 0.829
+          },
+          {
+            "word": "way",
+            "start": 13.759,
+            "end": 13.94,
+            "score": 0.875
+          },
+          {
+            "word": "you",
+            "start": 14.1,
+            "end": 14.16,
+            "score": 0.598
+          },
+          {
+            "word": "can",
+            "start": 14.2,
+            "end": 14.321,
+            "score": 0.983
+          },
+          {
+            "word": "survive",
+            "start": 14.361,
+            "end": 15.002,
+            "score": 0.836
+          }
+        ],
+        "detected_language": "en"
+      }
+    ]
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

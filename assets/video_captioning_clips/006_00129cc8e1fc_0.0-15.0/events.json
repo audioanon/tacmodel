@@ -1,0 +1,1732 @@
+{
+  "cid": "00129cc8e1fcba5e6b4737589338c46c",
+  "sel_start": 0.0,
+  "sel_end": 15.0,
+  "duration": 47.09006802721088,
+  "events": [
+    {
+      "start_time": 0.0,
+      "end_time": 5.463791666666666,
+      "type": "visual",
+      "description": "Three chefs in white coats stand in kitchen, two focused on phones, one gesturing, pots hanging overhead",
+      "audio_description": null
+    },
+    {
+      "description": "Clinking metal and faint sizzle from kitchen as staff move between stations",
+      "start_time": 0.2,
+      "end_time": 19.7,
+      "duration": 19.5,
+      "type": "background",
+      "confidence": 0.997,
+      "audio_description": "Kitchen sounds with clinking"
+    },
+    {
+      "description": "Chef on right speaks, mouth open, hand raised, others look at phones",
+      "start_time": 0.2,
+      "end_time": 1.7,
+      "duration": 1.5,
+      "type": "speech",
+      "confidence": 0.684,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "description": "Chef in middle speaks, head tilted, holding phone, others watching",
+      "start_time": 2.1,
+      "end_time": 5.6,
+      "duration": 3.4999999999999996,
+      "type": "speech",
+      "confidence": 0.771,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "start_time": 5.463791666666666,
+      "end_time": 7.382375,
+      "type": "visual",
+      "description": "Close-up on two chefs, both holding phones, looking up, kitchen staff moving in background",
+      "audio_description": null
+    },
+    {
+      "description": "Chef on left speaks, eyes wide, head turned, others listen",
+      "start_time": 5.7,
+      "end_time": 9.1,
+      "duration": 3.3999999999999995,
+      "type": "speech",
+      "confidence": 0.871,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "start_time": 7.382375,
+      "end_time": 8.717041666666667,
+      "type": "visual",
+      "description": "Chef on right speaks, mouth open, eyes focused on phone, others look at him",
+      "audio_description": null
+    },
+    {
+      "description": "Chef on right speaks with exaggerated expression, hand raised, others react",
+      "start_time": 8.6,
+      "end_time": 12.5,
+      "duration": 3.9000000000000004,
+      "type": "speech",
+      "confidence": 0.862,
+      "audio_description": "Male voice (playful)"
+    },
+    {
+      "start_time": 8.717041666666667,
+      "end_time": 11.636624999999999,
+      "type": "visual",
+      "description": "Chef on left speaks, hand on hip, looking at others, middle chef looks down",
+      "audio_description": null
+    },
+    {
+      "description": "Chef on right speaks urgently, hand gesturing, others look at phones",
+      "start_time": 9.4,
+      "end_time": 16.2,
+      "duration": 6.799999999999999,
+      "type": "speech",
+      "confidence": 0.909,
+      "audio_description": "Male voice (conversational)"
+    },
+    {
+      "start_time": 11.636624999999999,
+      "end_time": 16.26625,
+      "type": "visual",
+      "description": "Chef on right speaks, head tilted, middle chef types on phone, screen shows Twitter interface",
+      "audio_description": null
+    },
+    {
+      "description": "Chef on right speaks with smirk, hand raised, others look up",
+      "start_time": 13.3,
+      "end_time": 16.2,
+      "duration": 2.8999999999999986,
+      "type": "speech",
+      "confidence": 0.807,
+      "audio_description": "Male voice (playful)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 0.267,
+        "end": 1.509,
+        "text": " You gotta be kidding me.",
+        "words": [
+          {
+            "word": "You",
+            "start": 0.267,
+            "end": 0.427,
+            "score": 0.396
+          },
+          {
+            "word": "gotta",
+            "start": 0.447,
+            "end": 0.728,
+            "score": 0.575
+          },
+          {
+            "word": "be",
+            "start": 0.788,
+            "end": 0.848,
+            "score": 0.689
+          },
+          {
+            "word": "kidding",
+            "start": 0.888,
+            "end": 1.129,
+            "score": 0.356
+          },
+          {
+            "word": "me.",
+            "start": 1.449,
+            "end": 1.509,
+            "score": 0.003
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 1.529,
+        "end": 1.69,
+        "text": "Wow.",
+        "words": [
+          {
+            "word": "Wow.",
+            "start": 1.529,
+            "end": 1.69,
+            "score": 0.846
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 2.07,
+        "end": 3.553,
+        "text": "You realize how many people have read this?",
+        "words": [
+          {
+            "word": "You",
+            "start": 2.07,
+            "end": 2.191,
+            "score": 0.901
+          },
+          {
+            "word": "realize",
+            "start": 2.231,
+            "end": 2.471,
+            "score": 0.721
+          },
+          {
+            "word": "how",
+            "start": 2.511,
+            "end": 2.571,
+            "score": 1.0
+          },
+          {
+            "word": "many",
+            "start": 2.611,
+            "end": 2.732,
+            "score": 0.873
+          },
+          {
+            "word": "people",
+            "start": 2.752,
+            "end": 2.932,
+            "score": 0.838
+          },
+          {
+            "word": "have",
+            "start": 2.972,
+            "end": 3.052,
+            "score": 0.791
+          },
+          {
+            "word": "read",
+            "start": 3.092,
+            "end": 3.232,
+            "score": 0.858
+          },
+          {
+            "word": "this?",
+            "start": 3.273,
+            "end": 3.553,
+            "score": 0.833
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 3.573,
+        "end": 5.637,
+        "text": "I'm up to 2,000 followers since last night.",
+        "words": [
+          {
+            "word": "I'm",
+            "start": 3.573,
+            "end": 3.653,
+            "score": 0.846
+          },
+          {
+            "word": "up",
+            "start": 3.713,
+            "end": 3.773,
+            "score": 0.846
+          },
+          {
+            "word": "to",
+            "start": 3.814,
+            "end": 3.874,
+            "score": 0.57
+          },
+          {
+            "word": "2,000",
+            "start": 3.894,
+            "end": 4.415,
+            "score": 0.884
+          },
+          {
+            "word": "followers",
+            "start": 4.475,
+            "end": 4.855,
+            "score": 0.976
+          },
+          {
+            "word": "since",
+            "start": 4.896,
+            "end": 5.056,
+            "score": 0.913
+          },
+          {
+            "word": "last",
+            "start": 5.096,
+            "end": 5.336,
+            "score": 0.777
+          },
+          {
+            "word": "night.",
+            "start": 5.417,
+            "end": 5.637,
+            "score": 0.717
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 5.717,
+        "end": 6.639,
+        "text": "You're trending, bro.",
+        "words": [
+          {
+            "word": "You're",
+            "start": 5.717,
+            "end": 5.857,
+            "score": 0.204
+          },
+          {
+            "word": "trending,",
+            "start": 5.917,
+            "end": 6.398,
+            "score": 0.858
+          },
+          {
+            "word": "bro.",
+            "start": 6.418,
+            "end": 6.639,
+            "score": 0.758
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 6.679,
+        "end": 7.641,
+        "text": "They're sending me messages.",
+        "words": [
+          {
+            "word": "They're",
+            "start": 6.679,
+            "end": 6.819,
+            "score": 0.295
+          },
+          {
+            "word": "sending",
+            "start": 6.839,
+            "end": 7.08,
+            "score": 0.459
+          },
+          {
+            "word": "me",
+            "start": 7.1,
+            "end": 7.16,
+            "score": 0.916
+          },
+          {
+            "word": "messages.",
+            "start": 7.22,
+            "end": 7.641,
+            "score": 0.899
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 7.661,
+        "end": 8.863,
+        "text": "They're goading me into responding.",
+        "words": [
+          {
+            "word": "They're",
+            "start": 7.661,
+            "end": 7.801,
+            "score": 0.098
+          },
+          {
+            "word": "goading",
+            "start": 7.821,
+            "end": 8.101,
+            "score": 0.864
+          },
+          {
+            "word": "me",
+            "start": 8.122,
+            "end": 8.202,
+            "score": 0.892
+          },
+          {
+            "word": "into",
+            "start": 8.242,
+            "end": 8.322,
+            "score": 0.04
+          },
+          {
+            "word": "responding.",
+            "start": 8.382,
+            "end": 8.863,
+            "score": 0.577
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 8.883,
+        "end": 9.484,
+        "text": "Don't do it.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 8.883,
+            "end": 9.123,
+            "score": 0.442
+          },
+          {
+            "word": "do",
+            "start": 9.224,
+            "end": 9.364,
+            "score": 0.694
+          },
+          {
+            "word": "it.",
+            "start": 9.384,
+            "end": 9.484,
+            "score": 0.353
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.504,
+        "end": 9.905,
+        "text": "Don't do it, man.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 9.504,
+            "end": 9.604,
+            "score": 0.035
+          },
+          {
+            "word": "do",
+            "start": 9.624,
+            "end": 9.664,
+            "score": 0.08
+          },
+          {
+            "word": "it,",
+            "start": 9.684,
+            "end": 9.765,
+            "score": 0.48
+          },
+          {
+            "word": "man.",
+            "start": 9.785,
+            "end": 9.905,
+            "score": 0.801
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 9.965,
+        "end": 10.506,
+        "text": "Don't respond.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 9.965,
+            "end": 10.105,
+            "score": 0.685
+          },
+          {
+            "word": "respond.",
+            "start": 10.165,
+            "end": 10.506,
+            "score": 0.533
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.546,
+        "end": 10.947,
+        "text": "Don't do it.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 10.546,
+            "end": 10.686,
+            "score": 0.873
+          },
+          {
+            "word": "do",
+            "start": 10.786,
+            "end": 10.827,
+            "score": 0.484
+          },
+          {
+            "word": "it.",
+            "start": 10.847,
+            "end": 10.947,
+            "score": 0.728
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 10.987,
+        "end": 11.528,
+        "text": "Take the high road.",
+        "words": [
+          {
+            "word": "Take",
+            "start": 10.987,
+            "end": 11.127,
+            "score": 0.405
+          },
+          {
+            "word": "the",
+            "start": 11.167,
+            "end": 11.227,
+            "score": 0.021
+          },
+          {
+            "word": "high",
+            "start": 11.247,
+            "end": 11.368,
+            "score": 0.348
+          },
+          {
+            "word": "road.",
+            "start": 11.388,
+            "end": 11.528,
+            "score": 0.147
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.548,
+        "end": 11.708,
+        "text": "Respond.",
+        "words": [
+          {
+            "word": "Respond.",
+            "start": 11.548,
+            "end": 11.708,
+            "score": 0.045
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.728,
+        "end": 11.969,
+        "text": "Don't do it.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 11.728,
+            "end": 11.828,
+            "score": 0.003
+          },
+          {
+            "word": "do",
+            "start": 11.848,
+            "end": 11.889,
+            "score": 0.037
+          },
+          {
+            "word": "it.",
+            "start": 11.909,
+            "end": 11.969,
+            "score": 0.017
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.989,
+        "end": 13.291,
+        "text": "I know, but half the people are saying he's right.",
+        "words": [
+          {
+            "word": "I",
+            "start": 11.989,
+            "end": 12.009,
+            "score": 0.567
+          },
+          {
+            "word": "know,",
+            "start": 12.029,
+            "end": 12.149,
+            "score": 0.275
+          },
+          {
+            "word": "but",
+            "start": 12.169,
+            "end": 12.229,
+            "score": 0.282
+          },
+          {
+            "word": "half",
+            "start": 12.249,
+            "end": 12.369,
+            "score": 0.077
+          },
+          {
+            "word": "the",
+            "start": 12.389,
+            "end": 12.45,
+            "score": 0.208
+          },
+          {
+            "word": "people",
+            "start": 12.49,
+            "end": 12.65,
+            "score": 0.494
+          },
+          {
+            "word": "are",
+            "start": 12.67,
+            "end": 12.73,
+            "score": 0.056
+          },
+          {
+            "word": "saying",
+            "start": 12.75,
+            "end": 12.87,
+            "score": 0.498
+          },
+          {
+            "word": "he's",
+            "start": 12.89,
+            "end": 13.011,
+            "score": 0.751
+          },
+          {
+            "word": "right.",
+            "start": 13.051,
+            "end": 13.291,
+            "score": 0.739
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 13.331,
+        "end": 14.954,
+        "text": "Yeah, but half the people are saying he's wrong.",
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 13.331,
+            "end": 13.512,
+            "score": 0.543
+          },
+          {
+            "word": "but",
+            "start": 13.552,
+            "end": 13.652,
+            "score": 0.432
+          },
+          {
+            "word": "half",
+            "start": 13.792,
+            "end": 13.912,
+            "score": 0.37
+          },
+          {
+            "word": "the",
+            "start": 13.932,
+            "end": 14.012,
+            "score": 0.523
+          },
+          {
+            "word": "people",
+            "start": 14.032,
+            "end": 14.213,
+            "score": 0.819
+          },
+          {
+            "word": "are",
+            "start": 14.233,
+            "end": 14.293,
+            "score": 0.007
+          },
+          {
+            "word": "saying",
+            "start": 14.313,
+            "end": 14.453,
+            "score": 0.479
+          },
+          {
+            "word": "he's",
+            "start": 14.473,
+            "end": 14.594,
+            "score": 0.788
+          },
+          {
+            "word": "wrong.",
+            "start": 14.654,
+            "end": 14.954,
+            "score": 0.881
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 14.994,
+        "end": 15.716,
+        "text": "That's the internet, bro.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 14.994,
+            "end": 15.335,
+            "score": 0.547
+          },
+          {
+            "word": "the",
+            "start": 15.355,
+            "end": 15.415,
+            "score": 0.131
+          },
+          {
+            "word": "internet,",
+            "start": 15.435,
+            "end": 15.615,
+            "score": 0.2
+          },
+          {
+            "word": "bro.",
+            "start": 15.635,
+            "end": 15.716,
+            "score": 0.324
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 15.736,
+        "end": 16.237,
+        "text": "That's right.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 15.736,
+            "end": 15.896,
+            "score": 0.633
+          },
+          {
+            "word": "right.",
+            "start": 15.976,
+            "end": 16.237,
+            "score": 0.916
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.337,
+        "end": 16.798,
+        "text": "Listen to him.",
+        "words": [
+          {
+            "word": "Listen",
+            "start": 16.337,
+            "end": 16.597,
+            "score": 0.932
+          },
+          {
+            "word": "to",
+            "start": 16.637,
+            "end": 16.697,
+            "score": 0.494
+          },
+          {
+            "word": "him.",
+            "start": 16.717,
+            "end": 16.798,
+            "score": 0.005
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.818,
+        "end": 17.679,
+        "text": "That's social media.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 16.818,
+            "end": 16.938,
+            "score": 0.158
+          },
+          {
+            "word": "social",
+            "start": 16.978,
+            "end": 17.299,
+            "score": 0.877
+          },
+          {
+            "word": "media.",
+            "start": 17.339,
+            "end": 17.679,
+            "score": 0.811
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 17.88,
+        "end": 18.701,
+        "text": "You on Twitter?",
+        "words": [
+          {
+            "word": "You",
+            "start": 17.88,
+            "end": 18.02,
+            "score": 0.738
+          },
+          {
+            "word": "on",
+            "start": 18.04,
+            "end": 18.08,
+            "score": 0.355
+          },
+          {
+            "word": "Twitter?",
+            "start": 18.22,
+            "end": 18.701,
+            "score": 0.249
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 18.721,
+        "end": 19.463,
+        "text": "Yeah, I'm Twitter.",
+        "words": [
+          {
+            "word": "Yeah,",
+            "start": 18.721,
+            "end": 19.022,
+            "score": 0.411
+          },
+          {
+            "word": "I'm",
+            "start": 19.042,
+            "end": 19.102,
+            "score": 0.327
+          },
+          {
+            "word": "Twitter.",
+            "start": 19.302,
+            "end": 19.463,
+            "score": 0.035
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 19.483,
+        "end": 20.284,
+        "text": "What's your name?",
+        "words": [
+          {
+            "word": "What's",
+            "start": 19.483,
+            "end": 19.623,
+            "score": 0.114
+          },
+          {
+            "word": "your",
+            "start": 19.643,
+            "end": 19.723,
+            "score": 0.208
+          },
+          {
+            "word": "name?",
+            "start": 20.184,
+            "end": 20.284,
+            "score": 0.2
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 20.433,
+        "end": 21.274,
+        "text": " Little Marty.",
+        "words": [
+          {
+            "word": "Little",
+            "start": 20.433,
+            "end": 20.573,
+            "score": 0.95
+          },
+          {
+            "word": "Marty.",
+            "start": 20.613,
+            "end": 21.274,
+            "score": 0.765
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 21.294,
+        "end": 23.759,
+        "text": "But all the people following me are people I don't even want to hang out during the day.",
+        "words": [
+          {
+            "word": "But",
+            "start": 21.294,
+            "end": 21.375,
+            "score": 0.997
+          },
+          {
+            "word": "all",
+            "start": 21.395,
+            "end": 21.495,
+            "score": 0.6
+          },
+          {
+            "word": "the",
+            "start": 21.515,
+            "end": 21.575,
+            "score": 0.981
+          },
+          {
+            "word": "people",
+            "start": 21.595,
+            "end": 21.795,
+            "score": 0.87
+          },
+          {
+            "word": "following",
+            "start": 21.835,
+            "end": 22.116,
+            "score": 0.617
+          },
+          {
+            "word": "me",
+            "start": 22.136,
+            "end": 22.196,
+            "score": 0.657
+          },
+          {
+            "word": "are",
+            "start": 22.256,
+            "end": 22.336,
+            "score": 0.541
+          },
+          {
+            "word": "people",
+            "start": 22.356,
+            "end": 22.517,
+            "score": 0.653
+          },
+          {
+            "word": "I",
+            "start": 22.537,
+            "end": 22.557,
+            "score": 0.929
+          },
+          {
+            "word": "don't",
+            "start": 22.577,
+            "end": 22.677,
+            "score": 0.001
+          },
+          {
+            "word": "even",
+            "start": 22.697,
+            "end": 22.777,
+            "score": 0.005
+          },
+          {
+            "word": "want",
+            "start": 22.797,
+            "end": 22.877,
+            "score": 0.484
+          },
+          {
+            "word": "to",
+            "start": 22.897,
+            "end": 22.937,
+            "score": 0.976
+          },
+          {
+            "word": "hang",
+            "start": 22.977,
+            "end": 23.118,
+            "score": 0.715
+          },
+          {
+            "word": "out",
+            "start": 23.178,
+            "end": 23.258,
+            "score": 0.941
+          },
+          {
+            "word": "during",
+            "start": 23.278,
+            "end": 23.438,
+            "score": 0.667
+          },
+          {
+            "word": "the",
+            "start": 23.478,
+            "end": 23.558,
+            "score": 0.607
+          },
+          {
+            "word": "day.",
+            "start": 23.578,
+            "end": 23.759,
+            "score": 0.992
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 23.879,
+        "end": 24.76,
+        "text": "I avoid all.",
+        "words": [
+          {
+            "word": "I",
+            "start": 23.879,
+            "end": 23.959,
+            "score": 0.7
+          },
+          {
+            "word": "avoid",
+            "start": 23.999,
+            "end": 24.3,
+            "score": 0.914
+          },
+          {
+            "word": "all.",
+            "start": 24.36,
+            "end": 24.76,
+            "score": 0.695
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 24.861,
+        "end": 25.882,
+        "text": "Hey, hey, hey, hey, what are you doing?",
+        "words": [
+          {
+            "word": "Hey,",
+            "start": 24.861,
+            "end": 24.941,
+            "score": 0.178
+          },
+          {
+            "word": "hey,",
+            "start": 24.961,
+            "end": 25.141,
+            "score": 0.608
+          },
+          {
+            "word": "hey,",
+            "start": 25.161,
+            "end": 25.261,
+            "score": 0.495
+          },
+          {
+            "word": "hey,",
+            "start": 25.281,
+            "end": 25.382,
+            "score": 0.497
+          },
+          {
+            "word": "what",
+            "start": 25.402,
+            "end": 25.502,
+            "score": 0.898
+          },
+          {
+            "word": "are",
+            "start": 25.522,
+            "end": 25.622,
+            "score": 0.53
+          },
+          {
+            "word": "you",
+            "start": 25.662,
+            "end": 25.722,
+            "score": 0.005
+          },
+          {
+            "word": "doing?",
+            "start": 25.742,
+            "end": 25.882,
+            "score": 0.685
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 26.223,
+        "end": 26.744,
+        "text": "Don't do it.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 26.223,
+            "end": 26.463,
+            "score": 0.24
+          },
+          {
+            "word": "do",
+            "start": 26.584,
+            "end": 26.624,
+            "score": 0.446
+          },
+          {
+            "word": "it.",
+            "start": 26.684,
+            "end": 26.744,
+            "score": 0.51
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 26.764,
+        "end": 27.485,
+        "text": "What are you writing?",
+        "words": [
+          {
+            "word": "What",
+            "start": 26.764,
+            "end": 26.864,
+            "score": 0.632
+          },
+          {
+            "word": "are",
+            "start": 27.044,
+            "end": 27.105,
+            "score": 0.292
+          },
+          {
+            "word": "you",
+            "start": 27.125,
+            "end": 27.185,
+            "score": 0.453
+          },
+          {
+            "word": "writing?",
+            "start": 27.205,
+            "end": 27.485,
+            "score": 0.587
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 27.605,
+        "end": 28.086,
+        "text": "Chef, don't.",
+        "words": [
+          {
+            "word": "Chef,",
+            "start": 27.605,
+            "end": 27.886,
+            "score": 0.676
+          },
+          {
+            "word": "don't.",
+            "start": 27.906,
+            "end": 28.086,
+            "score": 0.706
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.247,
+        "end": 29.088,
+        "text": "That's not a good idea.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 28.247,
+            "end": 28.427,
+            "score": 0.367
+          },
+          {
+            "word": "not",
+            "start": 28.467,
+            "end": 28.567,
+            "score": 0.549
+          },
+          {
+            "word": "a",
+            "start": 28.627,
+            "end": 28.647,
+            "score": 0.439
+          },
+          {
+            "word": "good",
+            "start": 28.687,
+            "end": 28.888,
+            "score": 0.338
+          },
+          {
+            "word": "idea.",
+            "start": 28.908,
+            "end": 29.088,
+            "score": 0.3
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 29.108,
+        "end": 29.549,
+        "text": "Just listen.",
+        "words": [
+          {
+            "word": "Just",
+            "start": 29.108,
+            "end": 29.228,
+            "score": 0.801
+          },
+          {
+            "word": "listen.",
+            "start": 29.248,
+            "end": 29.549,
+            "score": 0.866
+          }
+        ],
+        "detected_language": "ko"
+      },
+      {
+        "start": 29.809,
+        "end": 31.292,
+        "text": "I won't send it until we all say it's okay.",
+        "words": [
+          {
+            "word": "I",
+            "start": 29.809,
+            "end": 29.869,
+            "score": 0.641
+          },
+          {
+            "word": "won't",
+            "start": 29.909,
+            "end": 30.05,
+            "score": 0.911
+          },
+          {
+            "word": "send",
+            "start": 30.09,
+            "end": 30.21,
+            "score": 0.872
+          },
+          {
+            "word": "it",
+            "start": 30.25,
+            "end": 30.33,
+            "score": 0.612
+          },
+          {
+            "word": "until",
+            "start": 30.35,
+            "end": 30.51,
+            "score": 0.741
+          },
+          {
+            "word": "we",
+            "start": 30.53,
+            "end": 30.591,
+            "score": 0.669
+          },
+          {
+            "word": "all",
+            "start": 30.631,
+            "end": 30.731,
+            "score": 0.984
+          },
+          {
+            "word": "say",
+            "start": 30.751,
+            "end": 30.891,
+            "score": 0.612
+          },
+          {
+            "word": "it's",
+            "start": 30.911,
+            "end": 30.991,
+            "score": 0.072
+          },
+          {
+            "word": "okay.",
+            "start": 31.011,
+            "end": 31.292,
+            "score": 0.617
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 32.434,
+        "end": 33.956,
+        "text": "Why don't you come by again tonight?",
+        "words": [
+          {
+            "word": "Why",
+            "start": 32.434,
+            "end": 32.554,
+            "score": 0.919
+          },
+          {
+            "word": "don't",
+            "start": 32.574,
+            "end": 32.694,
+            "score": 0.69
+          },
+          {
+            "word": "you",
+            "start": 32.734,
+            "end": 32.834,
+            "score": 0.998
+          },
+          {
+            "word": "come",
+            "start": 32.895,
+            "end": 33.075,
+            "score": 0.899
+          },
+          {
+            "word": "by",
+            "start": 33.115,
+            "end": 33.275,
+            "score": 0.918
+          },
+          {
+            "word": "again",
+            "start": 33.375,
+            "end": 33.596,
+            "score": 0.773
+          },
+          {
+            "word": "tonight?",
+            "start": 33.616,
+            "end": 33.956,
+            "score": 0.863
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 34.057,
+        "end": 35.599,
+        "text": "I got a whole new menu just for you.",
+        "words": [
+          {
+            "word": "I",
+            "start": 34.057,
+            "end": 34.117,
+            "score": 0.832
+          },
+          {
+            "word": "got",
+            "start": 34.157,
+            "end": 34.277,
+            "score": 0.721
+          },
+          {
+            "word": "a",
+            "start": 34.317,
+            "end": 34.337,
+            "score": 0.869
+          },
+          {
+            "word": "whole",
+            "start": 34.377,
+            "end": 34.537,
+            "score": 0.771
+          },
+          {
+            "word": "new",
+            "start": 34.577,
+            "end": 34.698,
+            "score": 0.806
+          },
+          {
+            "word": "menu",
+            "start": 34.738,
+            "end": 35.038,
+            "score": 0.677
+          },
+          {
+            "word": "just",
+            "start": 35.058,
+            "end": 35.259,
+            "score": 0.873
+          },
+          {
+            "word": "for",
+            "start": 35.299,
+            "end": 35.419,
+            "score": 0.908
+          },
+          {
+            "word": "you.",
+            "start": 35.479,
+            "end": 35.599,
+            "score": 0.992
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 35.98,
+        "end": 36.581,
+        "text": "Oh, no, no.",
+        "words": [
+          {
+            "word": "Oh,",
+            "start": 35.98,
+            "end": 36.14,
+            "score": 0.777
+          },
+          {
+            "word": "no,",
+            "start": 36.24,
+            "end": 36.381,
+            "score": 0.922
+          },
+          {
+            "word": "no.",
+            "start": 36.441,
+            "end": 36.581,
+            "score": 0.586
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 36.601,
+        "end": 37.082,
+        "text": "That's not good.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 36.601,
+            "end": 36.721,
+            "score": 0.297
+          },
+          {
+            "word": "not",
+            "start": 36.781,
+            "end": 36.841,
+            "score": 0.27
+          },
+          {
+            "word": "good.",
+            "start": 36.881,
+            "end": 37.082,
+            "score": 0.549
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 37.262,
+        "end": 38.043,
+        "text": "Give me the phone.",
+        "words": [
+          {
+            "word": "Give",
+            "start": 37.262,
+            "end": 37.362,
+            "score": 0.287
+          },
+          {
+            "word": "me",
+            "start": 37.422,
+            "end": 37.482,
+            "score": 0.224
+          },
+          {
+            "word": "the",
+            "start": 37.502,
+            "end": 37.563,
+            "score": 0.256
+          },
+          {
+            "word": "phone.",
+            "start": 37.623,
+            "end": 38.043,
+            "score": 0.542
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 38.083,
+        "end": 38.484,
+        "text": "Give me the phone.",
+        "words": [
+          {
+            "word": "Give",
+            "start": 38.083,
+            "end": 38.164,
+            "score": 0.254
+          },
+          {
+            "word": "me",
+            "start": 38.184,
+            "end": 38.224,
+            "score": 0.837
+          },
+          {
+            "word": "the",
+            "start": 38.244,
+            "end": 38.344,
+            "score": 0.471
+          },
+          {
+            "word": "phone.",
+            "start": 38.364,
+            "end": 38.484,
+            "score": 0.093
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 38.504,
+        "end": 38.785,
+        "text": "Don't do it.",
+        "words": [
+          {
+            "word": "Don't",
+            "start": 38.504,
+            "end": 38.624,
+            "score": 0.107
+          },
+          {
+            "word": "do",
+            "start": 38.644,
+            "end": 38.685,
+            "score": 0.007
+          },
+          {
+            "word": "it.",
+            "start": 38.705,
+            "end": 38.785,
+            "score": 0.718
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 41.189,
+        "end": 42.711,
+        "text": "That's out there now, bro.",
+        "words": [
+          {
+            "word": "That's",
+            "start": 41.189,
+            "end": 41.369,
+            "score": 0.581
+          },
+          {
+            "word": "out",
+            "start": 41.57,
+            "end": 41.71,
+            "score": 0.775
+          },
+          {
+            "word": "there",
+            "start": 41.75,
+            "end": 41.91,
+            "score": 0.432
+          },
+          {
+            "word": "now,",
+            "start": 41.97,
+            "end": 42.571,
+            "score": 0.712
+          },
+          {
+            "word": "bro.",
+            "start": 42.591,
+            "end": 42.711,
+            "score": 0.228
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 42.832,
+        "end": 43.393,
+        "text": "Why would you do that?",
+        "words": [
+          {
+            "word": "Why",
+            "start": 42.832,
+            "end": 42.932,
+            "score": 0.48
+          },
+          {
+            "word": "would",
+            "start": 42.952,
+            "end": 43.052,
+            "score": 0.186
+          },
+          {
+            "word": "you",
+            "start": 43.072,
+            "end": 43.172,
+            "score": 0.859
+          },
+          {
+            "word": "do",
+            "start": 43.192,
+            "end": 43.272,
+            "score": 0.435
+          },
+          {
+            "word": "that?",
+            "start": 43.292,
+            "end": 43.393,
+            "score": 0.067
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.413,
+        "end": 44.194,
+        "text": "You can't take that back.",
+        "words": [
+          {
+            "word": "You",
+            "start": 43.413,
+            "end": 43.473,
+            "score": 0.012
+          },
+          {
+            "word": "can't",
+            "start": 43.493,
+            "end": 43.593,
+            "score": 0.165
+          },
+          {
+            "word": "take",
+            "start": 43.613,
+            "end": 43.753,
+            "score": 0.74
+          },
+          {
+            "word": "that",
+            "start": 43.773,
+            "end": 43.914,
+            "score": 0.736
+          },
+          {
+            "word": "back.",
+            "start": 43.954,
+            "end": 44.194,
+            "score": 0.575
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.214,
+        "end": 44.655,
+        "text": "You know what?",
+        "words": [
+          {
+            "word": "You",
+            "start": 44.214,
+            "end": 44.294,
+            "score": 0.972
+          },
+          {
+            "word": "know",
+            "start": 44.314,
+            "end": 44.434,
+            "score": 0.694
+          },
+          {
+            "word": "what?",
+            "start": 44.475,
+            "end": 44.655,
+            "score": 0.659
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 44.755,
+        "end": 45.917,
+        "text": "I threw down the gauntlet.",
+        "words": [
+          {
+            "word": "I",
+            "start": 44.755,
+            "end": 44.835,
+            "score": 0.985
+          },
+          {
+            "word": "threw",
+            "start": 44.855,
+            "end": 45.036,
+            "score": 0.9
+          },
+          {
+            "word": "down",
+            "start": 45.056,
+            "end": 45.176,
+            "score": 0.836
+          },
+          {
+            "word": "the",
+            "start": 45.216,
+            "end": 45.316,
+            "score": 0.722
+          },
+          {
+            "word": "gauntlet.",
+            "start": 45.356,
+            "end": 45.917,
+            "score": 0.774
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is a professional kitchen with white-tiled walls, stainless steel equipment, and hanging pots. Three chefs in white coats are central, all focused on smartphones. The atmosphere is tense and focused, with background activity of other kitchen staff working. Audio labels are mostly accurate for speech and kitchen sounds, but some need visual grounding.\n\nEvent 1 (0.0-5.5s): Wide shot shows three chefs in white coats, two looking at phones, one gesturing. Kitchen background with pots, tiles, and staff moving. No music or unusual sfx.\n\nEvent 2 (0.2-19.7s): Background kitchen sounds \u2014 clinking of metal, faint sizzling, footsteps \u2014 consistent with a busy kitchen. No major sfx events.\n\nEvent 3 (0.2-1.7s): Male voice (conversational) \u2014 the chef on the right speaks, mouth open, hand gesturing, while others look at phones. Visual matches.\n\nEvent 4 (2.1-5.6s): Male voice (conversational) \u2014 chef in middle speaks, head slightly tilted, holding phone. Others listen. Visual matches.\n\nEvent 5 (5.5-7.4s): Visual \u2014 close-up on two chefs, both holding phones, looking up and reacting. Background kitchen activity continues.\n\nEvent 6 (5.7-9.1s): Male voice (conversational) \u2014 chef on left speaks, eyes wide, head turned toward center chef. Visual matches.\n\nEvent 7 (7.4-8.7s): Visual \u2014 chef on right speaks, mouth open, eyes focused on phone screen. Others look at him.\n\nEvent 8 (8.6-12.5s): Male voice (playful) \u2014 chef on right speaks with exaggerated expression, hand raised. Others react with concern.\n\nEvent 9 (8.7-11.6s): Visual \u2014 chef on left speaks, hand on hip, looking at others. Middle chef looks down at phone.\n\nEvent 10 (9.4-16.2s): Male voice (conversational) \u2014 chef on right speaks, tone urgent, hand gesturing. Others look at phones.\n\nEvent 11 (11.6-16.3s): Visual \u2014 chef on right continues speaking, head slightly tilted. Middle chef types on phone, screen shows Twitter interface.\n\nEvent 12 (13.3-16.2s): Male voice (playful) \u2014 chef on right speaks with smirk, hand raised. Others look up.\n\nEvent 13 (16.3-20.0s): Visual \u2014 chef on right looks down at phone, typing. Others watch. Screen shows Twitter interface.\n\nEvent 14 (16.8-19.7s): Male voice (conversational) \u2014 chef on left speaks, hand on hip, looking at others.\n\nEvent 15 (16.8-19.1s): Male voice (playful) \u2014 chef on right speaks, head tilted, hand gesturing.\n\nEvent 16 (17.8-18.3s): Sfx \u2014 metal door opens and closes \u2014 visual shows chef on left turning toward doorway, metal door visible in background.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is a professional kitchen with white-tiled walls, hanging pots, and stainless steel equipment. Three men in white chef coats are central: one with a backward cap, one with a bandana, and one with curly hair and tattoos. The man with curly hair is focused on a phone, while the others watch and react. The audio suggests tension around a text message being composed.\n\nEvent 1 (0.0-20.0s): Distant kitchen sounds \u2014 clanging, movement \u2014 consistent with a busy restaurant kitchen. Not a single voice, but ambient background activity.\n\nEvent 2 (0.0-6.2s): Visual: Three chefs in white coats, one with cap, one with bandana, one with curly hair and tattoos, standing together. The man with curly hair is looking at his phone. The others are watching him. The on-screen text shows a message being typed: \u201cWhat\u2019s happening?\u201d and then \u201cWhy don\u2019t you come by again tonight. I got a whole new menu just for you.\u201d The audio is a male voice speaking, possibly off-screen or from the phone, but the visual shows the chef with curly hair focused on his phone, not speaking.\n\nEvent 3 (0.4-0.8s): Audio labeled \u201cMale voice (angry)\u201d, but visually, no one is speaking at this moment. The chefs are still, watching the phone. The audio likely comes from the phone\u2019s voice assistant or a recording, but the visual shows no speech.\n\nEvent 4 (1.3-5.9s): Audio labeled \u201cMale voice (angry)\u201d, but visually, the chefs remain focused on the phone \u2014 no one is speaking. The audio may be from a prior recording or a voice assistant, but visually, no speech is occurring.\n\nEvent 5 (6.2-16.1s): Visual: The chef with curly hair continues to look at his phone, then begins to speak, gesturing with his free hand. The other two chefs watch him intently. The on-screen text reveals the message being typed: \u201cWhy don\u2019t you come by again tonight. I got a whole new menu just for you.\u201d The audio matches this \u2014 a male voice speaking, likely the chef with curly hair, sounding intense.\n\nEvent 6 (6.2-6.6s): Audio labeled \u201cMale voice (angry)\u201d, but visually, the chef with curly hair is still focused on the phone, not speaking yet. The audio may be a mislabel; likely the same voice as in event 5, but timed incorrectly.\n\nEvent 7 (6.2-6.6s): Audio labeled \u201cMale voice (conversational)\u201d, but visually, only the chef with curly hair is present and focused on the phone. The others are silent. The audio may be from one of the other chefs off-screen, but visually, no one is speaking.\n\nEvent 8 (7.5-9.1s): Audio labeled \u201cMale voice (angry)\u201d, visually, the chef with curly hair is now speaking, gesturing with his hand, looking at the phone. The other chefs are watching him.\n\nEvent 9 (7.5-9.5s): Audio labeled \u201cMale voice (conversational)\u201d, visually, the chef with the cap speaks, turning toward the curly-haired chef, hand raised in a \u201cstop\u201d gesture. The bandana chef also looks concerned.\n\nEvent 10 (9.8-11.2s): Audio labeled \u201cMale voice (angry)\u201d, visually, the curly-haired chef continues speaking, gesturing, while the other two listen intently.\n\nEvent 11 (9.8-11.2s): Audio labeled \u201cMale voice (conversational)\u201d, visually, the chef with the cap speaks, hand raised, turning to the curly-haired chef.\n\nEvent 12 (12.4-16.0s): Audio labeled \u201cMale voice (angry)\u201d, visually, the curly-haired chef is speaking, looking at his phone, then looking up, gesturing. The on-screen text confirms the message: \u201cWhy don\u2019t you come by again tonight. I got a whole new menu just for you.\u201d The other chefs are watching, concerned.\n\nEvent 13 (15.6-19.2s): Audio labeled \u201cElectronic tone with reverb\u201d, visually, the chef with the cap reaches out and grabs the phone from the curly-haired chef\u2019s hand. The tone likely comes from the phone \u2014 a notification or message send sound.\n\nEvent 14 (16.1-17.1s): Visual: The chef with the cap grabs the phone from the curly-haired chef\u2019s hand. The curly-haired chef looks surprised, hand still raised. The bandana chef watches.\n\nEvent 15 (16.4-18.7s): Audio labeled \u201cMale voice (angry)\u201d, visually, the chef with the cap holds the phone, speaking firmly to the curly-haired chef, who looks shocked.\n\nEvent 16 (17.1-20.0s): Visual: The chef with the cap holds the phone, speaking to the curly-haired chef, who looks distressed. The bandana chef watches. The audio suggests the cap-wearing chef is demanding the phone back, saying \u201cGive me the phone.\u201d The visual matches \u2014 the cap-wearing chef has taken the phone and is speaking assertively.",
+    "[Chunk 3: 40.0s - 47.1s]\nScene is a professional restaurant kitchen with stainless steel surfaces, hanging pots, and white-tiled walls. Three men in chef\u2019s coats are present \u2014 two wearing black caps, one with curly hair and a beard. The setting is active but focused, with background staff visible working. The audio model incorrectly labels the background as \"distant voices in a cafe\" \u2014 visually, it's a kitchen, and the sounds are likely from cooking or kitchen operations, not a cafe. The speech events are clearly spoken by the chefs, with visible lip movement and expressive gestures. The audio confidence for the speech is moderate to high, and the visual cues confirm the speakers' identities and emotions (e.g., frustration, anger) through facial expressions and body language. The final speech segment includes a gesture of the hand (gauntlet throw) that matches the spoken content.\n\nEvent 1 (0.0-6.1s): Background sounds are kitchen-related \u2014 clattering, low hum of equipment \u2014 not cafe voices. Visuals show busy kitchen with staff moving.\n\nEvent 2 (0.0-0.8s): Three chefs in white coats, two wearing caps, standing close. The man with curly hair and beard appears to be listening intently, while the other two are looking at him.\n\nEvent 3 (0.8-4.1s): The man in the center (black cap, white coat) speaks, mouth open, gesturing slightly. The man on the right (curly hair) listens, brow furrowed. The man on the left (black cap, chain necklace) looks on, expression serious.\n\nEvent 4 (1.1-2.6s): The man in the center speaks with a negative tone, mouth open, eyes wide \u2014 visible lip movement matches the audio. The man on the right listens, jaw clenched.\n\nEvent 5 (2.0-5.7s): The man on the right (curly hair) speaks angrily, hands gesturing, mouth open \u2014 visible expression of frustration. The other two look at him, one holding a phone.\n\nEvent 6 (3.2-4.1s): The man on the right continues speaking, head slightly tilted, intense expression \u2014 lip movement consistent with audio.\n\nEvent 7 (4.1-6.1s): The man on the right speaks again, now gesturing with open hand \u2014 \"threw down the gauntlet\" gesture \u2014 while the others listen intently."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      47.09006802721088
+    ]
+  ]
+}

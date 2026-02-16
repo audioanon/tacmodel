@@ -1,0 +1,5271 @@
+{
+  "cid": "004e809ce07168681032accd9699d211",
+  "sel_start": 2.9,
+  "sel_end": 17.9,
+  "duration": 372.68027210884355,
+  "events": [
+    {
+      "start_time": 0.0,
+      "end_time": 3.5035,
+      "type": "visual",
+      "description": "Black screen with white text listing interview segments for \"Zooey Deschanel - 'Bridget'\" from \"Trolls,\" including timestamps and topics.",
+      "audio_description": null
+    },
+    {
+      "start_time": 4.004,
+      "end_time": 20.0,
+      "type": "visual",
+      "description": "Woman in navy top speaks expressively, gesturing with hands near chest and outward, seated before vibrant animated forest backdrop.",
+      "audio_description": null
+    },
+    {
+      "description": "Woman looks upward, mouth open mid-sentence, hands resting, beginning to speak with slight head tilt.",
+      "start_time": 5.0,
+      "end_time": 6.2,
+      "duration": 1.2000000000000002,
+      "type": "speech",
+      "confidence": 0.947,
+      "audio_description": "Female voice (conversational)"
+    },
+    {
+      "description": "Woman continues speaking, eyes slightly off-camera, one hand moving toward chest, beginning to gesture.",
+      "start_time": 7.7,
+      "end_time": 10.5,
+      "duration": 2.8,
+      "type": "speech",
+      "confidence": 0.967,
+      "audio_description": "Female voice (conversational)"
+    },
+    {
+      "description": "Woman speaks with raised hands, palms up, then toward chest, eyes wide, emphasizing her words with animated gestures.",
+      "start_time": 11.9,
+      "end_time": 19.4,
+      "duration": 7.499999999999998,
+      "type": "speech",
+      "confidence": 0.949,
+      "audio_description": "Female voice (conversational)"
+    }
+  ],
+  "transcription": {
+    "segments": [
+      {
+        "start": 5.043,
+        "end": 10.463,
+        "text": " The movie's about sort of a long-standing, um,",
+        "words": [
+          {
+            "word": "The",
+            "start": 5.043,
+            "end": 5.144,
+            "score": 0.731
+          },
+          {
+            "word": "movie's",
+            "start": 5.184,
+            "end": 5.466,
+            "score": 0.611
+          },
+          {
+            "word": "about",
+            "start": 5.527,
+            "end": 5.909,
+            "score": 0.82
+          },
+          {
+            "word": "sort",
+            "start": 5.93,
+            "end": 8.186,
+            "score": 0.645
+          },
+          {
+            "word": "of",
+            "start": 8.227,
+            "end": 8.267,
+            "score": 0.969
+          },
+          {
+            "word": "a",
+            "start": 8.327,
+            "end": 8.368,
+            "score": 0.492
+          },
+          {
+            "word": "long-standing,",
+            "start": 8.428,
+            "end": 9.597,
+            "score": 0.882
+          },
+          {
+            "word": "um,",
+            "start": 9.637,
+            "end": 10.463,
+            "score": 0.772
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 11.928,
+        "end": 16.753,
+        "text": " There's a conflict between two different species, the trolls and the bergens.",
+        "words": [
+          {
+            "word": "There's",
+            "start": 11.928,
+            "end": 12.108,
+            "score": 0.095
+          },
+          {
+            "word": "a",
+            "start": 12.128,
+            "end": 12.148,
+            "score": 0.0
+          },
+          {
+            "word": "conflict",
+            "start": 12.168,
+            "end": 12.769,
+            "score": 0.909
+          },
+          {
+            "word": "between",
+            "start": 12.929,
+            "end": 13.47,
+            "score": 0.749
+          },
+          {
+            "word": "two",
+            "start": 13.49,
+            "end": 13.79,
+            "score": 0.753
+          },
+          {
+            "word": "different",
+            "start": 13.85,
+            "end": 14.151,
+            "score": 0.774
+          },
+          {
+            "word": "species,",
+            "start": 14.231,
+            "end": 14.791,
+            "score": 0.685
+          },
+          {
+            "word": "the",
+            "start": 14.951,
+            "end": 15.092,
+            "score": 0.642
+          },
+          {
+            "word": "trolls",
+            "start": 15.292,
+            "end": 15.832,
+            "score": 0.776
+          },
+          {
+            "word": "and",
+            "start": 15.892,
+            "end": 15.973,
+            "score": 0.85
+          },
+          {
+            "word": "the",
+            "start": 16.013,
+            "end": 16.073,
+            "score": 0.981
+          },
+          {
+            "word": "bergens.",
+            "start": 16.133,
+            "end": 16.753,
+            "score": 0.872
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 16.834,
+        "end": 21.579,
+        "text": "And the bergens are bigger and they like to eat trolls.",
+        "words": [
+          {
+            "word": "And",
+            "start": 16.834,
+            "end": 16.914,
+            "score": 0.916
+          },
+          {
+            "word": "the",
+            "start": 16.934,
+            "end": 16.994,
+            "score": 0.327
+          },
+          {
+            "word": "bergens",
+            "start": 17.114,
+            "end": 17.875,
+            "score": 0.799
+          },
+          {
+            "word": "are",
+            "start": 18.035,
+            "end": 18.135,
+            "score": 0.663
+          },
+          {
+            "word": "bigger",
+            "start": 18.335,
+            "end": 18.796,
+            "score": 0.854
+          },
+          {
+            "word": "and",
+            "start": 18.916,
+            "end": 18.996,
+            "score": 0.914
+          },
+          {
+            "word": "they",
+            "start": 19.036,
+            "end": 19.236,
+            "score": 0.757
+          },
+          {
+            "word": "like",
+            "start": 20.157,
+            "end": 20.398,
+            "score": 0.818
+          },
+          {
+            "word": "to",
+            "start": 20.478,
+            "end": 20.558,
+            "score": 0.98
+          },
+          {
+            "word": "eat",
+            "start": 20.718,
+            "end": 20.898,
+            "score": 0.741
+          },
+          {
+            "word": "trolls.",
+            "start": 20.998,
+            "end": 21.579,
+            "score": 0.867
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 22.059,
+        "end": 25.543,
+        "text": "And, um, they've kind of been abusing these trolls for years.",
+        "words": [
+          {
+            "word": "And,",
+            "start": 22.059,
+            "end": 22.24,
+            "score": 0.864
+          },
+          {
+            "word": "um,",
+            "start": 22.7,
+            "end": 22.9,
+            "score": 0.827
+          },
+          {
+            "word": "they've",
+            "start": 22.92,
+            "end": 23.101,
+            "score": 0.774
+          },
+          {
+            "word": "kind",
+            "start": 23.141,
+            "end": 23.301,
+            "score": 0.614
+          },
+          {
+            "word": "of",
+            "start": 23.381,
+            "end": 23.481,
+            "score": 0.546
+          },
+          {
+            "word": "been",
+            "start": 23.521,
+            "end": 23.821,
+            "score": 0.943
+          },
+          {
+            "word": "abusing",
+            "start": 23.862,
+            "end": 24.562,
+            "score": 0.914
+          },
+          {
+            "word": "these",
+            "start": 24.622,
+            "end": 24.763,
+            "score": 0.75
+          },
+          {
+            "word": "trolls",
+            "start": 24.823,
+            "end": 25.063,
+            "score": 0.832
+          },
+          {
+            "word": "for",
+            "start": 25.123,
+            "end": 25.243,
+            "score": 0.97
+          },
+          {
+            "word": "years.",
+            "start": 25.283,
+            "end": 25.543,
+            "score": 0.82
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 25.624,
+        "end": 27.185,
+        "text": "And finally the trolls escape.",
+        "words": [
+          {
+            "word": "And",
+            "start": 25.624,
+            "end": 25.684,
+            "score": 0.832
+          },
+          {
+            "word": "finally",
+            "start": 25.744,
+            "end": 26.104,
+            "score": 0.889
+          },
+          {
+            "word": "the",
+            "start": 26.164,
+            "end": 26.224,
+            "score": 0.692
+          },
+          {
+            "word": "trolls",
+            "start": 26.284,
+            "end": 26.585,
+            "score": 0.776
+          },
+          {
+            "word": "escape.",
+            "start": 26.625,
+            "end": 27.185,
+            "score": 0.895
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 28.807,
+        "end": 35.775,
+        "text": "And the trolls, um, live peacefully for a long time and then the bergens rediscover them.",
+        "words": [
+          {
+            "word": "And",
+            "start": 28.807,
+            "end": 29.007,
+            "score": 0.863
+          },
+          {
+            "word": "the",
+            "start": 29.047,
+            "end": 30.008,
+            "score": 0.863
+          },
+          {
+            "word": "trolls,",
+            "start": 30.069,
+            "end": 30.469,
+            "score": 0.893
+          },
+          {
+            "word": "um,",
+            "start": 31.11,
+            "end": 31.29,
+            "score": 0.948
+          },
+          {
+            "word": "live",
+            "start": 31.57,
+            "end": 31.851,
+            "score": 0.873
+          },
+          {
+            "word": "peacefully",
+            "start": 32.031,
+            "end": 32.511,
+            "score": 0.846
+          },
+          {
+            "word": "for",
+            "start": 32.571,
+            "end": 32.672,
+            "score": 0.784
+          },
+          {
+            "word": "a",
+            "start": 32.712,
+            "end": 32.732,
+            "score": 0.145
+          },
+          {
+            "word": "long",
+            "start": 32.792,
+            "end": 32.972,
+            "score": 0.774
+          },
+          {
+            "word": "time",
+            "start": 33.012,
+            "end": 33.372,
+            "score": 0.712
+          },
+          {
+            "word": "and",
+            "start": 33.452,
+            "end": 33.532,
+            "score": 0.82
+          },
+          {
+            "word": "then",
+            "start": 33.573,
+            "end": 33.713,
+            "score": 0.859
+          },
+          {
+            "word": "the",
+            "start": 33.773,
+            "end": 33.833,
+            "score": 0.995
+          },
+          {
+            "word": "bergens",
+            "start": 33.893,
+            "end": 34.373,
+            "score": 0.853
+          },
+          {
+            "word": "rediscover",
+            "start": 34.454,
+            "end": 35.094,
+            "score": 0.919
+          },
+          {
+            "word": "them.",
+            "start": 35.154,
+            "end": 35.775,
+            "score": 0.853
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 35.755,
+        "end": 42.887,
+        "text": " They, one of them gets captured and the other friends go to get the captured one.",
+        "words": [
+          {
+            "word": "They,",
+            "start": 35.755,
+            "end": 36.296,
+            "score": 0.945
+          },
+          {
+            "word": "one",
+            "start": 37.177,
+            "end": 37.258,
+            "score": 0.815
+          },
+          {
+            "word": "of",
+            "start": 37.298,
+            "end": 37.338,
+            "score": 0.865
+          },
+          {
+            "word": "them",
+            "start": 37.378,
+            "end": 37.498,
+            "score": 0.636
+          },
+          {
+            "word": "gets",
+            "start": 37.538,
+            "end": 38.099,
+            "score": 0.816
+          },
+          {
+            "word": "captured",
+            "start": 38.179,
+            "end": 38.84,
+            "score": 0.898
+          },
+          {
+            "word": "and",
+            "start": 38.96,
+            "end": 39.04,
+            "score": 0.819
+          },
+          {
+            "word": "the",
+            "start": 39.081,
+            "end": 39.181,
+            "score": 0.81
+          },
+          {
+            "word": "other",
+            "start": 39.301,
+            "end": 39.481,
+            "score": 0.794
+          },
+          {
+            "word": "friends",
+            "start": 39.521,
+            "end": 40.443,
+            "score": 0.585
+          },
+          {
+            "word": "go",
+            "start": 40.543,
+            "end": 40.743,
+            "score": 0.956
+          },
+          {
+            "word": "to",
+            "start": 40.783,
+            "end": 40.884,
+            "score": 0.912
+          },
+          {
+            "word": "get",
+            "start": 40.964,
+            "end": 41.264,
+            "score": 0.857
+          },
+          {
+            "word": "the",
+            "start": 41.825,
+            "end": 41.945,
+            "score": 0.958
+          },
+          {
+            "word": "captured",
+            "start": 41.985,
+            "end": 42.446,
+            "score": 0.945
+          },
+          {
+            "word": "one.",
+            "start": 42.687,
+            "end": 42.887,
+            "score": 0.909
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 43.728,
+        "end": 52.663,
+        "text": "Um, and, um, my character is kind of a, um, servant, Bergen.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 43.728,
+            "end": 43.889,
+            "score": 0.878
+          },
+          {
+            "word": "and,",
+            "start": 44.409,
+            "end": 44.73,
+            "score": 0.905
+          },
+          {
+            "word": "um,",
+            "start": 45.371,
+            "end": 45.491,
+            "score": 0.795
+          },
+          {
+            "word": "my",
+            "start": 46.673,
+            "end": 46.934,
+            "score": 0.826
+          },
+          {
+            "word": "character",
+            "start": 47.054,
+            "end": 48.036,
+            "score": 0.762
+          },
+          {
+            "word": "is",
+            "start": 48.076,
+            "end": 48.436,
+            "score": 0.652
+          },
+          {
+            "word": "kind",
+            "start": 48.556,
+            "end": 48.857,
+            "score": 0.9
+          },
+          {
+            "word": "of",
+            "start": 48.937,
+            "end": 48.997,
+            "score": 0.966
+          },
+          {
+            "word": "a,",
+            "start": 49.177,
+            "end": 49.338,
+            "score": 0.98
+          },
+          {
+            "word": "um,",
+            "start": 50.219,
+            "end": 50.419,
+            "score": 0.928
+          },
+          {
+            "word": "servant,",
+            "start": 50.74,
+            "end": 51.261,
+            "score": 0.928
+          },
+          {
+            "word": "Bergen.",
+            "start": 52.122,
+            "end": 52.663,
+            "score": 0.871
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 53.685,
+        "end": 57.932,
+        "text": "And, um, she ends up helping the trolls, um, survive.",
+        "words": [
+          {
+            "word": "And,",
+            "start": 53.685,
+            "end": 53.885,
+            "score": 0.902
+          },
+          {
+            "word": "um,",
+            "start": 54.166,
+            "end": 54.306,
+            "score": 0.86
+          },
+          {
+            "word": "she",
+            "start": 54.346,
+            "end": 54.466,
+            "score": 0.552
+          },
+          {
+            "word": "ends",
+            "start": 54.486,
+            "end": 54.627,
+            "score": 0.656
+          },
+          {
+            "word": "up",
+            "start": 54.667,
+            "end": 54.727,
+            "score": 0.622
+          },
+          {
+            "word": "helping",
+            "start": 54.787,
+            "end": 55.187,
+            "score": 0.91
+          },
+          {
+            "word": "the",
+            "start": 55.248,
+            "end": 55.528,
+            "score": 0.834
+          },
+          {
+            "word": "trolls,",
+            "start": 55.588,
+            "end": 56.009,
+            "score": 0.789
+          },
+          {
+            "word": "um,",
+            "start": 56.55,
+            "end": 57.251,
+            "score": 0.554
+          },
+          {
+            "word": "survive.",
+            "start": 57.271,
+            "end": 57.932,
+            "score": 0.894
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 61.135,
+        "end": 65.645,
+        "text": " Bridget's a really sweet, um, kind of guileless character.",
+        "words": [
+          {
+            "word": "Bridget's",
+            "start": 61.135,
+            "end": 61.616,
+            "score": 0.77
+          },
+          {
+            "word": "a",
+            "start": 61.656,
+            "end": 61.756,
+            "score": 0.517
+          },
+          {
+            "word": "really",
+            "start": 61.776,
+            "end": 62.177,
+            "score": 0.909
+          },
+          {
+            "word": "sweet,",
+            "start": 62.458,
+            "end": 63.16,
+            "score": 0.87
+          },
+          {
+            "word": "um,",
+            "start": 63.601,
+            "end": 63.781,
+            "score": 0.923
+          },
+          {
+            "word": "kind",
+            "start": 64.062,
+            "end": 64.262,
+            "score": 0.748
+          },
+          {
+            "word": "of",
+            "start": 64.322,
+            "end": 64.362,
+            "score": 0.999
+          },
+          {
+            "word": "guileless",
+            "start": 64.442,
+            "end": 65.064,
+            "score": 0.89
+          },
+          {
+            "word": "character.",
+            "start": 65.124,
+            "end": 65.645,
+            "score": 0.883
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 66.407,
+        "end": 80.258,
+        "text": "She, um, works for the, uh, the main chef to the king and the, the main chef is very, um, mean and cruel and kind of, um,",
+        "words": [
+          {
+            "word": "She,",
+            "start": 66.407,
+            "end": 67.088,
+            "score": 0.942
+          },
+          {
+            "word": "um,",
+            "start": 67.61,
+            "end": 67.83,
+            "score": 0.954
+          },
+          {
+            "word": "works",
+            "start": 68.111,
+            "end": 68.552,
+            "score": 0.88
+          },
+          {
+            "word": "for",
+            "start": 68.692,
+            "end": 68.892,
+            "score": 0.93
+          },
+          {
+            "word": "the,",
+            "start": 68.953,
+            "end": 69.113,
+            "score": 0.951
+          },
+          {
+            "word": "uh,",
+            "start": 69.554,
+            "end": 69.674,
+            "score": 0.529
+          },
+          {
+            "word": "the",
+            "start": 69.694,
+            "end": 69.794,
+            "score": 0.58
+          },
+          {
+            "word": "main",
+            "start": 69.855,
+            "end": 70.175,
+            "score": 0.774
+          },
+          {
+            "word": "chef",
+            "start": 70.316,
+            "end": 70.797,
+            "score": 0.904
+          },
+          {
+            "word": "to",
+            "start": 70.857,
+            "end": 70.977,
+            "score": 0.859
+          },
+          {
+            "word": "the",
+            "start": 71.037,
+            "end": 71.097,
+            "score": 0.985
+          },
+          {
+            "word": "king",
+            "start": 71.158,
+            "end": 71.498,
+            "score": 0.742
+          },
+          {
+            "word": "and",
+            "start": 71.518,
+            "end": 71.859,
+            "score": 0.753
+          },
+          {
+            "word": "the,",
+            "start": 71.899,
+            "end": 72.2,
+            "score": 0.762
+          },
+          {
+            "word": "the",
+            "start": 72.22,
+            "end": 72.32,
+            "score": 0.897
+          },
+          {
+            "word": "main",
+            "start": 72.36,
+            "end": 72.621,
+            "score": 0.918
+          },
+          {
+            "word": "chef",
+            "start": 72.761,
+            "end": 73.122,
+            "score": 0.932
+          },
+          {
+            "word": "is",
+            "start": 73.202,
+            "end": 73.282,
+            "score": 0.716
+          },
+          {
+            "word": "very,",
+            "start": 73.403,
+            "end": 73.884,
+            "score": 0.954
+          },
+          {
+            "word": "um,",
+            "start": 73.904,
+            "end": 73.964,
+            "score": 0.665
+          },
+          {
+            "word": "mean",
+            "start": 75.848,
+            "end": 76.289,
+            "score": 0.937
+          },
+          {
+            "word": "and",
+            "start": 76.309,
+            "end": 77.432,
+            "score": 0.835
+          },
+          {
+            "word": "cruel",
+            "start": 77.632,
+            "end": 78.073,
+            "score": 0.732
+          },
+          {
+            "word": "and",
+            "start": 78.113,
+            "end": 79.216,
+            "score": 0.892
+          },
+          {
+            "word": "kind",
+            "start": 79.316,
+            "end": 79.597,
+            "score": 0.854
+          },
+          {
+            "word": "of,",
+            "start": 79.677,
+            "end": 79.757,
+            "score": 0.838
+          },
+          {
+            "word": "um,",
+            "start": 79.957,
+            "end": 80.258,
+            "score": 0.892
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 81.638,
+        "end": 85.323,
+        "text": " You know, uh, kicks Bridget around, really.",
+        "words": [
+          {
+            "word": "You",
+            "start": 81.638,
+            "end": 81.838,
+            "score": 0.709
+          },
+          {
+            "word": "know,",
+            "start": 81.878,
+            "end": 82.099,
+            "score": 0.766
+          },
+          {
+            "word": "uh,",
+            "start": 82.479,
+            "end": 83.22,
+            "score": 0.587
+          },
+          {
+            "word": "kicks",
+            "start": 83.24,
+            "end": 83.62,
+            "score": 0.841
+          },
+          {
+            "word": "Bridget",
+            "start": 83.821,
+            "end": 84.221,
+            "score": 0.859
+          },
+          {
+            "word": "around,",
+            "start": 84.261,
+            "end": 84.762,
+            "score": 0.835
+          },
+          {
+            "word": "really.",
+            "start": 85.002,
+            "end": 85.323,
+            "score": 0.874
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 85.443,
+        "end": 89.087,
+        "text": "Bosses her around and is kind of a little bit abusive toward her.",
+        "words": [
+          {
+            "word": "Bosses",
+            "start": 85.443,
+            "end": 85.943,
+            "score": 0.977
+          },
+          {
+            "word": "her",
+            "start": 86.023,
+            "end": 86.124,
+            "score": 0.405
+          },
+          {
+            "word": "around",
+            "start": 86.184,
+            "end": 86.644,
+            "score": 0.878
+          },
+          {
+            "word": "and",
+            "start": 86.724,
+            "end": 86.804,
+            "score": 0.81
+          },
+          {
+            "word": "is",
+            "start": 86.884,
+            "end": 86.965,
+            "score": 0.629
+          },
+          {
+            "word": "kind",
+            "start": 87.045,
+            "end": 87.285,
+            "score": 0.91
+          },
+          {
+            "word": "of",
+            "start": 87.345,
+            "end": 87.405,
+            "score": 0.28
+          },
+          {
+            "word": "a",
+            "start": 87.425,
+            "end": 87.445,
+            "score": 0.999
+          },
+          {
+            "word": "little",
+            "start": 87.505,
+            "end": 87.866,
+            "score": 0.739
+          },
+          {
+            "word": "bit",
+            "start": 87.906,
+            "end": 88.046,
+            "score": 0.824
+          },
+          {
+            "word": "abusive",
+            "start": 88.126,
+            "end": 88.587,
+            "score": 0.929
+          },
+          {
+            "word": "toward",
+            "start": 88.647,
+            "end": 88.927,
+            "score": 0.875
+          },
+          {
+            "word": "her.",
+            "start": 88.967,
+            "end": 89.087,
+            "score": 0.956
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 89.127,
+        "end": 95.235,
+        "text": "And Bridget has a big crush on the king.",
+        "words": [
+          {
+            "word": "And",
+            "start": 89.127,
+            "end": 89.187,
+            "score": 0.334
+          },
+          {
+            "word": "Bridget",
+            "start": 91.55,
+            "end": 91.991,
+            "score": 0.791
+          },
+          {
+            "word": "has",
+            "start": 92.211,
+            "end": 92.612,
+            "score": 0.775
+          },
+          {
+            "word": "a",
+            "start": 92.632,
+            "end": 92.652,
+            "score": 0.999
+          },
+          {
+            "word": "big",
+            "start": 93.853,
+            "end": 94.093,
+            "score": 0.929
+          },
+          {
+            "word": "crush",
+            "start": 94.193,
+            "end": 94.514,
+            "score": 0.892
+          },
+          {
+            "word": "on",
+            "start": 94.594,
+            "end": 94.674,
+            "score": 0.96
+          },
+          {
+            "word": "the",
+            "start": 94.714,
+            "end": 94.774,
+            "score": 0.765
+          },
+          {
+            "word": "king.",
+            "start": 94.874,
+            "end": 95.235,
+            "score": 0.794
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 95.255,
+        "end": 98.499,
+        "text": "Um, she's in love with him.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 95.255,
+            "end": 95.315,
+            "score": 0.656
+          },
+          {
+            "word": "she's",
+            "start": 97.397,
+            "end": 97.678,
+            "score": 0.822
+          },
+          {
+            "word": "in",
+            "start": 97.738,
+            "end": 97.798,
+            "score": 0.955
+          },
+          {
+            "word": "love",
+            "start": 97.858,
+            "end": 98.018,
+            "score": 0.867
+          },
+          {
+            "word": "with",
+            "start": 98.058,
+            "end": 98.178,
+            "score": 0.725
+          },
+          {
+            "word": "him.",
+            "start": 98.238,
+            "end": 98.499,
+            "score": 0.95
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 98.539,
+        "end": 102.203,
+        "text": "And that's her kind of main motivation.",
+        "words": [
+          {
+            "word": "And",
+            "start": 98.539,
+            "end": 99.62,
+            "score": 0.556
+          },
+          {
+            "word": "that's",
+            "start": 99.66,
+            "end": 100.181,
+            "score": 0.874
+          },
+          {
+            "word": "her",
+            "start": 100.481,
+            "end": 100.701,
+            "score": 0.563
+          },
+          {
+            "word": "kind",
+            "start": 100.822,
+            "end": 101.042,
+            "score": 0.887
+          },
+          {
+            "word": "of",
+            "start": 101.082,
+            "end": 101.142,
+            "score": 0.75
+          },
+          {
+            "word": "main",
+            "start": 101.222,
+            "end": 101.462,
+            "score": 0.972
+          },
+          {
+            "word": "motivation.",
+            "start": 101.502,
+            "end": 102.203,
+            "score": 0.943
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 102.303,
+        "end": 104.406,
+        "text": "She has this kind of like spark of",
+        "words": [
+          {
+            "word": "She",
+            "start": 102.303,
+            "end": 102.424,
+            "score": 0.884
+          },
+          {
+            "word": "has",
+            "start": 102.464,
+            "end": 102.624,
+            "score": 0.839
+          },
+          {
+            "word": "this",
+            "start": 102.684,
+            "end": 102.804,
+            "score": 0.837
+          },
+          {
+            "word": "kind",
+            "start": 102.864,
+            "end": 103.024,
+            "score": 0.872
+          },
+          {
+            "word": "of",
+            "start": 103.064,
+            "end": 103.104,
+            "score": 0.595
+          },
+          {
+            "word": "like",
+            "start": 103.144,
+            "end": 103.285,
+            "score": 0.95
+          },
+          {
+            "word": "spark",
+            "start": 103.385,
+            "end": 103.885,
+            "score": 0.956
+          },
+          {
+            "word": "of",
+            "start": 104.026,
+            "end": 104.406,
+            "score": 0.849
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 104.386,
+        "end": 108.105,
+        "text": " Love and happiness inside her that none of the other Bergens have.",
+        "words": [
+          {
+            "word": "Love",
+            "start": 104.386,
+            "end": 105.17,
+            "score": 0.938
+          },
+          {
+            "word": "and",
+            "start": 105.23,
+            "end": 105.311,
+            "score": 0.932
+          },
+          {
+            "word": "happiness",
+            "start": 105.351,
+            "end": 105.834,
+            "score": 0.894
+          },
+          {
+            "word": "inside",
+            "start": 105.914,
+            "end": 106.256,
+            "score": 0.943
+          },
+          {
+            "word": "her",
+            "start": 106.276,
+            "end": 106.356,
+            "score": 0.775
+          },
+          {
+            "word": "that",
+            "start": 106.397,
+            "end": 106.557,
+            "score": 0.586
+          },
+          {
+            "word": "none",
+            "start": 106.598,
+            "end": 106.738,
+            "score": 0.86
+          },
+          {
+            "word": "of",
+            "start": 106.779,
+            "end": 106.819,
+            "score": 0.714
+          },
+          {
+            "word": "the",
+            "start": 106.859,
+            "end": 106.939,
+            "score": 0.945
+          },
+          {
+            "word": "other",
+            "start": 106.98,
+            "end": 107.161,
+            "score": 0.927
+          },
+          {
+            "word": "Bergens",
+            "start": 107.201,
+            "end": 107.663,
+            "score": 0.806
+          },
+          {
+            "word": "have.",
+            "start": 107.744,
+            "end": 108.105,
+            "score": 0.979
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 108.186,
+        "end": 112.81,
+        "text": "But she's a little kind of um, you know, uh, scullery maid.",
+        "words": [
+          {
+            "word": "But",
+            "start": 108.186,
+            "end": 108.307,
+            "score": 0.973
+          },
+          {
+            "word": "she's",
+            "start": 108.367,
+            "end": 108.588,
+            "score": 0.898
+          },
+          {
+            "word": "a",
+            "start": 108.668,
+            "end": 108.689,
+            "score": 0.999
+          },
+          {
+            "word": "little",
+            "start": 108.749,
+            "end": 109.01,
+            "score": 0.897
+          },
+          {
+            "word": "kind",
+            "start": 109.131,
+            "end": 109.352,
+            "score": 0.894
+          },
+          {
+            "word": "of",
+            "start": 109.432,
+            "end": 109.493,
+            "score": 0.902
+          },
+          {
+            "word": "um,",
+            "start": 110.015,
+            "end": 110.176,
+            "score": 0.983
+          },
+          {
+            "word": "you",
+            "start": 111.001,
+            "end": 111.101,
+            "score": 0.799
+          },
+          {
+            "word": "know,",
+            "start": 111.141,
+            "end": 111.342,
+            "score": 0.873
+          },
+          {
+            "word": "uh,",
+            "start": 111.363,
+            "end": 111.423,
+            "score": 0.666
+          },
+          {
+            "word": "scullery",
+            "start": 111.785,
+            "end": 112.307,
+            "score": 0.769
+          },
+          {
+            "word": "maid.",
+            "start": 112.368,
+            "end": 112.81,
+            "score": 0.822
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 116.232,
+        "end": 122.123,
+        "text": " Bridget helps the trolls, um, basically there's that kind of an agreement.",
+        "words": [
+          {
+            "word": "Bridget",
+            "start": 116.232,
+            "end": 116.713,
+            "score": 0.794
+          },
+          {
+            "word": "helps",
+            "start": 116.813,
+            "end": 117.114,
+            "score": 0.802
+          },
+          {
+            "word": "the",
+            "start": 117.214,
+            "end": 117.314,
+            "score": 0.772
+          },
+          {
+            "word": "trolls,",
+            "start": 117.414,
+            "end": 118.096,
+            "score": 0.827
+          },
+          {
+            "word": "um,",
+            "start": 118.817,
+            "end": 119.037,
+            "score": 0.937
+          },
+          {
+            "word": "basically",
+            "start": 119.699,
+            "end": 120.119,
+            "score": 0.754
+          },
+          {
+            "word": "there's",
+            "start": 120.159,
+            "end": 120.4,
+            "score": 0.725
+          },
+          {
+            "word": "that",
+            "start": 120.44,
+            "end": 120.58,
+            "score": 0.906
+          },
+          {
+            "word": "kind",
+            "start": 120.64,
+            "end": 120.821,
+            "score": 0.675
+          },
+          {
+            "word": "of",
+            "start": 120.881,
+            "end": 120.921,
+            "score": 0.938
+          },
+          {
+            "word": "an",
+            "start": 120.941,
+            "end": 120.981,
+            "score": 0.466
+          },
+          {
+            "word": "agreement.",
+            "start": 121.262,
+            "end": 122.123,
+            "score": 0.88
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 122.283,
+        "end": 138.915,
+        "text": "Poppy, who's the main, one of the main trolls, um, offers to help Bridget win the king over by, you know, dressing her up and making her into this more sophisticated",
+        "words": [
+          {
+            "word": "Poppy,",
+            "start": 122.283,
+            "end": 122.744,
+            "score": 0.955
+          },
+          {
+            "word": "who's",
+            "start": 122.764,
+            "end": 122.965,
+            "score": 0.941
+          },
+          {
+            "word": "the",
+            "start": 123.025,
+            "end": 123.105,
+            "score": 0.991
+          },
+          {
+            "word": "main,",
+            "start": 123.145,
+            "end": 123.466,
+            "score": 0.901
+          },
+          {
+            "word": "one",
+            "start": 123.486,
+            "end": 124.468,
+            "score": 0.889
+          },
+          {
+            "word": "of",
+            "start": 124.508,
+            "end": 124.548,
+            "score": 0.846
+          },
+          {
+            "word": "the",
+            "start": 124.588,
+            "end": 124.668,
+            "score": 0.808
+          },
+          {
+            "word": "main",
+            "start": 124.708,
+            "end": 124.929,
+            "score": 0.682
+          },
+          {
+            "word": "trolls,",
+            "start": 125.009,
+            "end": 125.53,
+            "score": 0.864
+          },
+          {
+            "word": "um,",
+            "start": 125.991,
+            "end": 126.171,
+            "score": 0.964
+          },
+          {
+            "word": "offers",
+            "start": 127.794,
+            "end": 128.135,
+            "score": 0.945
+          },
+          {
+            "word": "to",
+            "start": 128.215,
+            "end": 128.295,
+            "score": 0.998
+          },
+          {
+            "word": "help",
+            "start": 128.355,
+            "end": 128.595,
+            "score": 0.847
+          },
+          {
+            "word": "Bridget",
+            "start": 129.197,
+            "end": 129.818,
+            "score": 0.77
+          },
+          {
+            "word": "win",
+            "start": 130.74,
+            "end": 131.1,
+            "score": 0.861
+          },
+          {
+            "word": "the",
+            "start": 131.12,
+            "end": 131.18,
+            "score": 0.333
+          },
+          {
+            "word": "king",
+            "start": 131.842,
+            "end": 132.182,
+            "score": 0.685
+          },
+          {
+            "word": "over",
+            "start": 132.202,
+            "end": 133.745,
+            "score": 0.912
+          },
+          {
+            "word": "by,",
+            "start": 133.926,
+            "end": 134.106,
+            "score": 0.976
+          },
+          {
+            "word": "you",
+            "start": 134.286,
+            "end": 134.406,
+            "score": 0.607
+          },
+          {
+            "word": "know,",
+            "start": 134.427,
+            "end": 134.627,
+            "score": 0.651
+          },
+          {
+            "word": "dressing",
+            "start": 134.647,
+            "end": 135.008,
+            "score": 0.961
+          },
+          {
+            "word": "her",
+            "start": 135.068,
+            "end": 135.168,
+            "score": 0.819
+          },
+          {
+            "word": "up",
+            "start": 135.268,
+            "end": 135.368,
+            "score": 0.995
+          },
+          {
+            "word": "and",
+            "start": 135.428,
+            "end": 135.509,
+            "score": 0.926
+          },
+          {
+            "word": "making",
+            "start": 135.549,
+            "end": 135.789,
+            "score": 0.892
+          },
+          {
+            "word": "her",
+            "start": 136.23,
+            "end": 136.35,
+            "score": 0.84
+          },
+          {
+            "word": "into",
+            "start": 136.41,
+            "end": 136.591,
+            "score": 0.834
+          },
+          {
+            "word": "this",
+            "start": 136.611,
+            "end": 136.751,
+            "score": 0.66
+          },
+          {
+            "word": "more",
+            "start": 136.811,
+            "end": 136.951,
+            "score": 0.769
+          },
+          {
+            "word": "sophisticated",
+            "start": 136.991,
+            "end": 138.915,
+            "score": 0.804
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 138.895,
+        "end": 141.442,
+        "text": " Lady named Lady Glitter Sparkles.",
+        "words": [
+          {
+            "word": "Lady",
+            "start": 138.895,
+            "end": 139.677,
+            "score": 0.916
+          },
+          {
+            "word": "named",
+            "start": 139.838,
+            "end": 140.058,
+            "score": 0.975
+          },
+          {
+            "word": "Lady",
+            "start": 140.138,
+            "end": 140.459,
+            "score": 0.868
+          },
+          {
+            "word": "Glitter",
+            "start": 140.519,
+            "end": 140.82,
+            "score": 0.806
+          },
+          {
+            "word": "Sparkles.",
+            "start": 140.84,
+            "end": 141.442,
+            "score": 0.843
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 143.608,
+        "end": 152.331,
+        "text": "Um, and um, it's kind of like a little Cinderella-esque micro story within the broader story.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 143.608,
+            "end": 143.848,
+            "score": 0.867
+          },
+          {
+            "word": "and",
+            "start": 144.45,
+            "end": 144.771,
+            "score": 0.797
+          },
+          {
+            "word": "um,",
+            "start": 145.272,
+            "end": 145.453,
+            "score": 0.881
+          },
+          {
+            "word": "it's",
+            "start": 145.473,
+            "end": 145.573,
+            "score": 0.985
+          },
+          {
+            "word": "kind",
+            "start": 145.613,
+            "end": 145.773,
+            "score": 0.75
+          },
+          {
+            "word": "of",
+            "start": 145.814,
+            "end": 145.854,
+            "score": 0.996
+          },
+          {
+            "word": "like",
+            "start": 145.914,
+            "end": 146.034,
+            "score": 0.868
+          },
+          {
+            "word": "a",
+            "start": 146.074,
+            "end": 146.114,
+            "score": 0.499
+          },
+          {
+            "word": "little",
+            "start": 146.154,
+            "end": 146.395,
+            "score": 0.778
+          },
+          {
+            "word": "Cinderella-esque",
+            "start": 146.596,
+            "end": 148.16,
+            "score": 0.726
+          },
+          {
+            "word": "micro",
+            "start": 149.343,
+            "end": 149.844,
+            "score": 0.897
+          },
+          {
+            "word": "story",
+            "start": 149.884,
+            "end": 150.225,
+            "score": 0.959
+          },
+          {
+            "word": "within",
+            "start": 150.286,
+            "end": 150.546,
+            "score": 0.974
+          },
+          {
+            "word": "the",
+            "start": 150.606,
+            "end": 150.727,
+            "score": 0.981
+          },
+          {
+            "word": "broader",
+            "start": 151.088,
+            "end": 151.669,
+            "score": 0.907
+          },
+          {
+            "word": "story.",
+            "start": 151.81,
+            "end": 152.331,
+            "score": 0.769
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 155.804,
+        "end": 177.079,
+        "text": " Bridget and King Gristle meet officially when she's dressed up as Lady Glitter Sparkles and she, you know, he believes that she's the sophisticated lady and he falls in love with her and they go on a, um, roller skating date and, um, eat pizza and connect on a lot of things.",
+        "words": [
+          {
+            "word": "Bridget",
+            "start": 155.804,
+            "end": 156.305,
+            "score": 0.755
+          },
+          {
+            "word": "and",
+            "start": 156.445,
+            "end": 156.585,
+            "score": 0.707
+          },
+          {
+            "word": "King",
+            "start": 157.146,
+            "end": 157.387,
+            "score": 0.739
+          },
+          {
+            "word": "Gristle",
+            "start": 157.407,
+            "end": 157.867,
+            "score": 0.752
+          },
+          {
+            "word": "meet",
+            "start": 158.188,
+            "end": 158.368,
+            "score": 0.878
+          },
+          {
+            "word": "officially",
+            "start": 158.468,
+            "end": 159.25,
+            "score": 0.911
+          },
+          {
+            "word": "when",
+            "start": 159.33,
+            "end": 159.951,
+            "score": 0.902
+          },
+          {
+            "word": "she's",
+            "start": 160.011,
+            "end": 160.191,
+            "score": 0.784
+          },
+          {
+            "word": "dressed",
+            "start": 160.251,
+            "end": 160.512,
+            "score": 0.743
+          },
+          {
+            "word": "up",
+            "start": 160.572,
+            "end": 160.632,
+            "score": 0.908
+          },
+          {
+            "word": "as",
+            "start": 160.712,
+            "end": 160.772,
+            "score": 0.662
+          },
+          {
+            "word": "Lady",
+            "start": 160.832,
+            "end": 161.093,
+            "score": 0.855
+          },
+          {
+            "word": "Glitter",
+            "start": 161.153,
+            "end": 161.473,
+            "score": 0.897
+          },
+          {
+            "word": "Sparkles",
+            "start": 161.493,
+            "end": 161.874,
+            "score": 0.898
+          },
+          {
+            "word": "and",
+            "start": 162.715,
+            "end": 162.896,
+            "score": 0.728
+          },
+          {
+            "word": "she,",
+            "start": 163.076,
+            "end": 163.377,
+            "score": 0.864
+          },
+          {
+            "word": "you",
+            "start": 164.258,
+            "end": 164.378,
+            "score": 0.866
+          },
+          {
+            "word": "know,",
+            "start": 164.418,
+            "end": 164.538,
+            "score": 0.966
+          },
+          {
+            "word": "he",
+            "start": 164.679,
+            "end": 164.839,
+            "score": 0.995
+          },
+          {
+            "word": "believes",
+            "start": 165.059,
+            "end": 165.48,
+            "score": 0.73
+          },
+          {
+            "word": "that",
+            "start": 165.54,
+            "end": 165.66,
+            "score": 0.993
+          },
+          {
+            "word": "she's",
+            "start": 165.7,
+            "end": 165.901,
+            "score": 0.831
+          },
+          {
+            "word": "the",
+            "start": 165.961,
+            "end": 166.041,
+            "score": 0.969
+          },
+          {
+            "word": "sophisticated",
+            "start": 166.121,
+            "end": 166.983,
+            "score": 0.878
+          },
+          {
+            "word": "lady",
+            "start": 167.043,
+            "end": 167.323,
+            "score": 0.949
+          },
+          {
+            "word": "and",
+            "start": 167.383,
+            "end": 167.483,
+            "score": 0.8
+          },
+          {
+            "word": "he",
+            "start": 167.523,
+            "end": 167.563,
+            "score": 0.564
+          },
+          {
+            "word": "falls",
+            "start": 168.084,
+            "end": 168.345,
+            "score": 0.876
+          },
+          {
+            "word": "in",
+            "start": 168.425,
+            "end": 168.465,
+            "score": 0.998
+          },
+          {
+            "word": "love",
+            "start": 168.525,
+            "end": 168.645,
+            "score": 0.877
+          },
+          {
+            "word": "with",
+            "start": 168.665,
+            "end": 168.765,
+            "score": 0.902
+          },
+          {
+            "word": "her",
+            "start": 168.806,
+            "end": 168.906,
+            "score": 0.893
+          },
+          {
+            "word": "and",
+            "start": 168.946,
+            "end": 169.026,
+            "score": 0.683
+          },
+          {
+            "word": "they",
+            "start": 169.086,
+            "end": 169.226,
+            "score": 0.956
+          },
+          {
+            "word": "go",
+            "start": 169.266,
+            "end": 169.447,
+            "score": 0.918
+          },
+          {
+            "word": "on",
+            "start": 169.567,
+            "end": 169.647,
+            "score": 0.931
+          },
+          {
+            "word": "a,",
+            "start": 169.787,
+            "end": 170.068,
+            "score": 0.84
+          },
+          {
+            "word": "um,",
+            "start": 170.088,
+            "end": 170.228,
+            "score": 0.82
+          },
+          {
+            "word": "roller",
+            "start": 170.629,
+            "end": 171.049,
+            "score": 0.734
+          },
+          {
+            "word": "skating",
+            "start": 171.51,
+            "end": 171.971,
+            "score": 0.943
+          },
+          {
+            "word": "date",
+            "start": 172.031,
+            "end": 172.412,
+            "score": 0.832
+          },
+          {
+            "word": "and,",
+            "start": 173.593,
+            "end": 173.814,
+            "score": 0.889
+          },
+          {
+            "word": "um,",
+            "start": 174.295,
+            "end": 174.455,
+            "score": 0.889
+          },
+          {
+            "word": "eat",
+            "start": 174.595,
+            "end": 174.715,
+            "score": 0.789
+          },
+          {
+            "word": "pizza",
+            "start": 174.795,
+            "end": 175.316,
+            "score": 0.846
+          },
+          {
+            "word": "and",
+            "start": 175.396,
+            "end": 175.497,
+            "score": 0.837
+          },
+          {
+            "word": "connect",
+            "start": 175.637,
+            "end": 176.078,
+            "score": 0.845
+          },
+          {
+            "word": "on",
+            "start": 176.198,
+            "end": 176.278,
+            "score": 0.956
+          },
+          {
+            "word": "a",
+            "start": 176.338,
+            "end": 176.358,
+            "score": 0.99
+          },
+          {
+            "word": "lot",
+            "start": 176.418,
+            "end": 176.598,
+            "score": 0.983
+          },
+          {
+            "word": "of",
+            "start": 176.639,
+            "end": 176.679,
+            "score": 1.0
+          },
+          {
+            "word": "things.",
+            "start": 176.699,
+            "end": 177.079,
+            "score": 0.834
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 177.139,
+        "end": 182.368,
+        "text": "But then she has to leave right away because, you know, she's pretending to be somebody that she's not.",
+        "words": [
+          {
+            "word": "But",
+            "start": 177.139,
+            "end": 177.24,
+            "score": 0.851
+          },
+          {
+            "word": "then",
+            "start": 177.26,
+            "end": 177.42,
+            "score": 0.872
+          },
+          {
+            "word": "she",
+            "start": 177.46,
+            "end": 177.58,
+            "score": 0.447
+          },
+          {
+            "word": "has",
+            "start": 177.62,
+            "end": 177.76,
+            "score": 0.744
+          },
+          {
+            "word": "to",
+            "start": 177.8,
+            "end": 177.901,
+            "score": 0.896
+          },
+          {
+            "word": "leave",
+            "start": 177.961,
+            "end": 178.181,
+            "score": 0.878
+          },
+          {
+            "word": "right",
+            "start": 178.241,
+            "end": 178.401,
+            "score": 0.745
+          },
+          {
+            "word": "away",
+            "start": 178.421,
+            "end": 178.602,
+            "score": 0.98
+          },
+          {
+            "word": "because,",
+            "start": 178.662,
+            "end": 179.002,
+            "score": 0.948
+          },
+          {
+            "word": "you",
+            "start": 179.623,
+            "end": 179.704,
+            "score": 0.995
+          },
+          {
+            "word": "know,",
+            "start": 179.744,
+            "end": 179.884,
+            "score": 0.869
+          },
+          {
+            "word": "she's",
+            "start": 179.904,
+            "end": 180.144,
+            "score": 0.813
+          },
+          {
+            "word": "pretending",
+            "start": 180.605,
+            "end": 181.006,
+            "score": 0.954
+          },
+          {
+            "word": "to",
+            "start": 181.046,
+            "end": 181.086,
+            "score": 0.996
+          },
+          {
+            "word": "be",
+            "start": 181.126,
+            "end": 181.206,
+            "score": 0.998
+          },
+          {
+            "word": "somebody",
+            "start": 181.246,
+            "end": 181.607,
+            "score": 0.87
+          },
+          {
+            "word": "that",
+            "start": 181.667,
+            "end": 181.787,
+            "score": 0.985
+          },
+          {
+            "word": "she's",
+            "start": 181.827,
+            "end": 181.987,
+            "score": 0.933
+          },
+          {
+            "word": "not.",
+            "start": 182.048,
+            "end": 182.368,
+            "score": 0.841
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 185.656,
+        "end": 194.669,
+        "text": " I just thought about like what her voice would sound like cause it wasn't, sometimes you do a, you know, an animated thing and you kind of sound like yourself.",
+        "words": [
+          {
+            "word": "I",
+            "start": 185.656,
+            "end": 185.776,
+            "score": 0.666
+          },
+          {
+            "word": "just",
+            "start": 185.836,
+            "end": 185.996,
+            "score": 0.979
+          },
+          {
+            "word": "thought",
+            "start": 186.077,
+            "end": 186.357,
+            "score": 0.72
+          },
+          {
+            "word": "about",
+            "start": 186.417,
+            "end": 186.617,
+            "score": 0.821
+          },
+          {
+            "word": "like",
+            "start": 186.717,
+            "end": 186.898,
+            "score": 0.824
+          },
+          {
+            "word": "what",
+            "start": 187.118,
+            "end": 187.358,
+            "score": 0.828
+          },
+          {
+            "word": "her",
+            "start": 187.499,
+            "end": 187.619,
+            "score": 0.829
+          },
+          {
+            "word": "voice",
+            "start": 187.699,
+            "end": 187.899,
+            "score": 0.8
+          },
+          {
+            "word": "would",
+            "start": 187.919,
+            "end": 188.059,
+            "score": 0.919
+          },
+          {
+            "word": "sound",
+            "start": 188.079,
+            "end": 188.26,
+            "score": 0.826
+          },
+          {
+            "word": "like",
+            "start": 188.28,
+            "end": 188.42,
+            "score": 0.708
+          },
+          {
+            "word": "cause",
+            "start": 188.46,
+            "end": 188.64,
+            "score": 0.895
+          },
+          {
+            "word": "it",
+            "start": 188.72,
+            "end": 188.8,
+            "score": 0.861
+          },
+          {
+            "word": "wasn't,",
+            "start": 188.921,
+            "end": 189.361,
+            "score": 0.836
+          },
+          {
+            "word": "sometimes",
+            "start": 189.441,
+            "end": 190.743,
+            "score": 0.834
+          },
+          {
+            "word": "you",
+            "start": 190.803,
+            "end": 190.923,
+            "score": 0.932
+          },
+          {
+            "word": "do",
+            "start": 190.963,
+            "end": 191.124,
+            "score": 0.982
+          },
+          {
+            "word": "a,",
+            "start": 191.144,
+            "end": 191.184,
+            "score": 0.994
+          },
+          {
+            "word": "you",
+            "start": 191.504,
+            "end": 191.584,
+            "score": 0.818
+          },
+          {
+            "word": "know,",
+            "start": 191.624,
+            "end": 191.805,
+            "score": 0.895
+          },
+          {
+            "word": "an",
+            "start": 192.025,
+            "end": 192.105,
+            "score": 0.973
+          },
+          {
+            "word": "animated",
+            "start": 192.265,
+            "end": 192.686,
+            "score": 0.834
+          },
+          {
+            "word": "thing",
+            "start": 192.966,
+            "end": 193.207,
+            "score": 0.894
+          },
+          {
+            "word": "and",
+            "start": 193.267,
+            "end": 193.327,
+            "score": 0.858
+          },
+          {
+            "word": "you",
+            "start": 193.367,
+            "end": 193.467,
+            "score": 0.556
+          },
+          {
+            "word": "kind",
+            "start": 193.507,
+            "end": 193.667,
+            "score": 0.933
+          },
+          {
+            "word": "of",
+            "start": 193.727,
+            "end": 193.767,
+            "score": 0.914
+          },
+          {
+            "word": "sound",
+            "start": 193.827,
+            "end": 194.048,
+            "score": 0.854
+          },
+          {
+            "word": "like",
+            "start": 194.068,
+            "end": 194.208,
+            "score": 0.956
+          },
+          {
+            "word": "yourself.",
+            "start": 194.228,
+            "end": 194.669,
+            "score": 0.734
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 194.689,
+        "end": 198.033,
+        "text": "Well, this was very different and I, I don't really sound like myself.",
+        "words": [
+          {
+            "word": "Well,",
+            "start": 194.689,
+            "end": 194.869,
+            "score": 0.654
+          },
+          {
+            "word": "this",
+            "start": 194.889,
+            "end": 195.069,
+            "score": 0.868
+          },
+          {
+            "word": "was",
+            "start": 195.129,
+            "end": 195.249,
+            "score": 0.75
+          },
+          {
+            "word": "very",
+            "start": 195.31,
+            "end": 195.53,
+            "score": 0.828
+          },
+          {
+            "word": "different",
+            "start": 195.57,
+            "end": 195.87,
+            "score": 0.797
+          },
+          {
+            "word": "and",
+            "start": 195.93,
+            "end": 195.99,
+            "score": 0.682
+          },
+          {
+            "word": "I,",
+            "start": 196.011,
+            "end": 196.051,
+            "score": 0.908
+          },
+          {
+            "word": "I",
+            "start": 196.071,
+            "end": 196.091,
+            "score": 0.938
+          },
+          {
+            "word": "don't",
+            "start": 196.792,
+            "end": 196.992,
+            "score": 0.766
+          },
+          {
+            "word": "really",
+            "start": 197.032,
+            "end": 197.232,
+            "score": 0.886
+          },
+          {
+            "word": "sound",
+            "start": 197.292,
+            "end": 197.473,
+            "score": 0.774
+          },
+          {
+            "word": "like",
+            "start": 197.513,
+            "end": 197.633,
+            "score": 0.912
+          },
+          {
+            "word": "myself.",
+            "start": 197.673,
+            "end": 198.033,
+            "score": 0.8
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 198.053,
+        "end": 210.651,
+        "text": "So we, we really played a lot, um, in the room and I, you know, I just thought a lot about it, but beforehand, but, um, but it, we experimented a lot with where",
+        "words": [
+          {
+            "word": "So",
+            "start": 198.053,
+            "end": 198.194,
+            "score": 0.98
+          },
+          {
+            "word": "we,",
+            "start": 198.234,
+            "end": 198.374,
+            "score": 0.979
+          },
+          {
+            "word": "we",
+            "start": 198.734,
+            "end": 198.875,
+            "score": 0.926
+          },
+          {
+            "word": "really",
+            "start": 198.935,
+            "end": 199.235,
+            "score": 0.615
+          },
+          {
+            "word": "played",
+            "start": 199.315,
+            "end": 199.616,
+            "score": 0.871
+          },
+          {
+            "word": "a",
+            "start": 199.676,
+            "end": 199.696,
+            "score": 0.048
+          },
+          {
+            "word": "lot,",
+            "start": 199.756,
+            "end": 200.116,
+            "score": 0.945
+          },
+          {
+            "word": "um,",
+            "start": 200.817,
+            "end": 201.178,
+            "score": 0.851
+          },
+          {
+            "word": "in",
+            "start": 201.198,
+            "end": 201.258,
+            "score": 0.922
+          },
+          {
+            "word": "the",
+            "start": 201.338,
+            "end": 201.418,
+            "score": 0.973
+          },
+          {
+            "word": "room",
+            "start": 201.558,
+            "end": 202.099,
+            "score": 0.806
+          },
+          {
+            "word": "and",
+            "start": 202.339,
+            "end": 202.419,
+            "score": 0.71
+          },
+          {
+            "word": "I,",
+            "start": 202.44,
+            "end": 202.52,
+            "score": 0.524
+          },
+          {
+            "word": "you",
+            "start": 202.54,
+            "end": 202.6,
+            "score": 0.321
+          },
+          {
+            "word": "know,",
+            "start": 202.86,
+            "end": 203.06,
+            "score": 0.8
+          },
+          {
+            "word": "I",
+            "start": 203.12,
+            "end": 203.201,
+            "score": 0.899
+          },
+          {
+            "word": "just",
+            "start": 203.261,
+            "end": 203.401,
+            "score": 0.984
+          },
+          {
+            "word": "thought",
+            "start": 203.441,
+            "end": 203.721,
+            "score": 0.695
+          },
+          {
+            "word": "a",
+            "start": 203.781,
+            "end": 203.801,
+            "score": 0.998
+          },
+          {
+            "word": "lot",
+            "start": 203.862,
+            "end": 204.002,
+            "score": 0.941
+          },
+          {
+            "word": "about",
+            "start": 204.042,
+            "end": 204.242,
+            "score": 0.916
+          },
+          {
+            "word": "it,",
+            "start": 204.302,
+            "end": 204.362,
+            "score": 0.998
+          },
+          {
+            "word": "but",
+            "start": 204.402,
+            "end": 204.542,
+            "score": 0.991
+          },
+          {
+            "word": "beforehand,",
+            "start": 204.723,
+            "end": 205.284,
+            "score": 0.831
+          },
+          {
+            "word": "but,",
+            "start": 205.324,
+            "end": 205.644,
+            "score": 0.909
+          },
+          {
+            "word": "um,",
+            "start": 205.664,
+            "end": 205.804,
+            "score": 0.982
+          },
+          {
+            "word": "but",
+            "start": 206.525,
+            "end": 206.746,
+            "score": 0.841
+          },
+          {
+            "word": "it,",
+            "start": 207.146,
+            "end": 207.226,
+            "score": 0.831
+          },
+          {
+            "word": "we",
+            "start": 207.467,
+            "end": 207.787,
+            "score": 0.85
+          },
+          {
+            "word": "experimented",
+            "start": 207.947,
+            "end": 208.688,
+            "score": 0.892
+          },
+          {
+            "word": "a",
+            "start": 208.708,
+            "end": 208.728,
+            "score": 0.999
+          },
+          {
+            "word": "lot",
+            "start": 208.949,
+            "end": 209.169,
+            "score": 0.789
+          },
+          {
+            "word": "with",
+            "start": 209.249,
+            "end": 209.449,
+            "score": 0.855
+          },
+          {
+            "word": "where",
+            "start": 209.81,
+            "end": 210.651,
+            "score": 0.592
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 210.631,
+        "end": 234.715,
+        "text": " Bridget, like, how Bridget's voice sounds and, and then how Lady Glitter Sparkle's voice sounds, like how it changes when she's trying to appear more sophisticated, um, and how much of a change, um, that was and we kind of went kind of far and then dialed it back and then found a really good, um, you know, happy medium.",
+        "words": [
+          {
+            "word": "Bridget,",
+            "start": 210.631,
+            "end": 211.913,
+            "score": 0.881
+          },
+          {
+            "word": "like,",
+            "start": 212.635,
+            "end": 212.875,
+            "score": 0.923
+          },
+          {
+            "word": "how",
+            "start": 213.256,
+            "end": 213.616,
+            "score": 0.971
+          },
+          {
+            "word": "Bridget's",
+            "start": 213.737,
+            "end": 214.198,
+            "score": 0.715
+          },
+          {
+            "word": "voice",
+            "start": 214.318,
+            "end": 214.678,
+            "score": 0.737
+          },
+          {
+            "word": "sounds",
+            "start": 214.919,
+            "end": 215.56,
+            "score": 0.739
+          },
+          {
+            "word": "and,",
+            "start": 215.68,
+            "end": 215.8,
+            "score": 0.826
+          },
+          {
+            "word": "and",
+            "start": 216.762,
+            "end": 216.862,
+            "score": 0.914
+          },
+          {
+            "word": "then",
+            "start": 216.902,
+            "end": 217.063,
+            "score": 0.912
+          },
+          {
+            "word": "how",
+            "start": 217.103,
+            "end": 217.363,
+            "score": 0.855
+          },
+          {
+            "word": "Lady",
+            "start": 217.443,
+            "end": 217.724,
+            "score": 0.897
+          },
+          {
+            "word": "Glitter",
+            "start": 217.864,
+            "end": 218.205,
+            "score": 0.537
+          },
+          {
+            "word": "Sparkle's",
+            "start": 218.225,
+            "end": 218.826,
+            "score": 0.82
+          },
+          {
+            "word": "voice",
+            "start": 218.866,
+            "end": 219.086,
+            "score": 0.888
+          },
+          {
+            "word": "sounds,",
+            "start": 219.147,
+            "end": 219.547,
+            "score": 0.757
+          },
+          {
+            "word": "like",
+            "start": 219.587,
+            "end": 219.788,
+            "score": 0.938
+          },
+          {
+            "word": "how",
+            "start": 219.848,
+            "end": 220.088,
+            "score": 0.765
+          },
+          {
+            "word": "it",
+            "start": 220.168,
+            "end": 220.209,
+            "score": 0.998
+          },
+          {
+            "word": "changes",
+            "start": 220.329,
+            "end": 220.83,
+            "score": 0.911
+          },
+          {
+            "word": "when",
+            "start": 220.91,
+            "end": 221.05,
+            "score": 0.917
+          },
+          {
+            "word": "she's",
+            "start": 221.09,
+            "end": 221.25,
+            "score": 0.78
+          },
+          {
+            "word": "trying",
+            "start": 221.29,
+            "end": 221.511,
+            "score": 0.825
+          },
+          {
+            "word": "to",
+            "start": 221.571,
+            "end": 221.651,
+            "score": 0.954
+          },
+          {
+            "word": "appear",
+            "start": 221.731,
+            "end": 221.992,
+            "score": 0.985
+          },
+          {
+            "word": "more",
+            "start": 222.052,
+            "end": 222.192,
+            "score": 0.834
+          },
+          {
+            "word": "sophisticated,",
+            "start": 222.252,
+            "end": 223.034,
+            "score": 0.917
+          },
+          {
+            "word": "um,",
+            "start": 223.735,
+            "end": 223.855,
+            "score": 0.65
+          },
+          {
+            "word": "and",
+            "start": 223.915,
+            "end": 224.036,
+            "score": 0.643
+          },
+          {
+            "word": "how",
+            "start": 224.156,
+            "end": 224.356,
+            "score": 0.973
+          },
+          {
+            "word": "much",
+            "start": 224.416,
+            "end": 224.576,
+            "score": 0.836
+          },
+          {
+            "word": "of",
+            "start": 224.617,
+            "end": 224.657,
+            "score": 0.993
+          },
+          {
+            "word": "a",
+            "start": 224.677,
+            "end": 224.697,
+            "score": 0.995
+          },
+          {
+            "word": "change,",
+            "start": 224.817,
+            "end": 225.298,
+            "score": 0.851
+          },
+          {
+            "word": "um,",
+            "start": 226.62,
+            "end": 226.781,
+            "score": 0.947
+          },
+          {
+            "word": "that",
+            "start": 226.961,
+            "end": 227.161,
+            "score": 0.938
+          },
+          {
+            "word": "was",
+            "start": 227.221,
+            "end": 227.642,
+            "score": 0.872
+          },
+          {
+            "word": "and",
+            "start": 227.662,
+            "end": 228.043,
+            "score": 0.706
+          },
+          {
+            "word": "we",
+            "start": 228.243,
+            "end": 228.403,
+            "score": 0.931
+          },
+          {
+            "word": "kind",
+            "start": 228.464,
+            "end": 228.664,
+            "score": 0.813
+          },
+          {
+            "word": "of",
+            "start": 228.744,
+            "end": 228.784,
+            "score": 0.82
+          },
+          {
+            "word": "went",
+            "start": 229.285,
+            "end": 229.526,
+            "score": 0.921
+          },
+          {
+            "word": "kind",
+            "start": 229.686,
+            "end": 229.866,
+            "score": 0.852
+          },
+          {
+            "word": "of",
+            "start": 229.906,
+            "end": 229.946,
+            "score": 0.882
+          },
+          {
+            "word": "far",
+            "start": 229.986,
+            "end": 230.227,
+            "score": 0.773
+          },
+          {
+            "word": "and",
+            "start": 230.267,
+            "end": 230.347,
+            "score": 0.737
+          },
+          {
+            "word": "then",
+            "start": 230.387,
+            "end": 230.487,
+            "score": 0.934
+          },
+          {
+            "word": "dialed",
+            "start": 230.527,
+            "end": 230.788,
+            "score": 0.584
+          },
+          {
+            "word": "it",
+            "start": 230.828,
+            "end": 230.888,
+            "score": 0.319
+          },
+          {
+            "word": "back",
+            "start": 230.908,
+            "end": 231.169,
+            "score": 0.998
+          },
+          {
+            "word": "and",
+            "start": 231.229,
+            "end": 231.309,
+            "score": 0.914
+          },
+          {
+            "word": "then",
+            "start": 231.349,
+            "end": 231.469,
+            "score": 0.97
+          },
+          {
+            "word": "found",
+            "start": 231.509,
+            "end": 231.69,
+            "score": 0.781
+          },
+          {
+            "word": "a",
+            "start": 231.75,
+            "end": 231.77,
+            "score": 0.937
+          },
+          {
+            "word": "really",
+            "start": 231.81,
+            "end": 231.99,
+            "score": 0.97
+          },
+          {
+            "word": "good,",
+            "start": 232.05,
+            "end": 232.331,
+            "score": 0.874
+          },
+          {
+            "word": "um,",
+            "start": 232.491,
+            "end": 232.631,
+            "score": 0.965
+          },
+          {
+            "word": "you",
+            "start": 233.613,
+            "end": 233.693,
+            "score": 0.911
+          },
+          {
+            "word": "know,",
+            "start": 233.733,
+            "end": 233.873,
+            "score": 0.661
+          },
+          {
+            "word": "happy",
+            "start": 233.894,
+            "end": 234.174,
+            "score": 0.939
+          },
+          {
+            "word": "medium.",
+            "start": 234.214,
+            "end": 234.715,
+            "score": 0.845
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 237.952,
+        "end": 241.596,
+        "text": " Mike and Walt are so amazing, such great directors.",
+        "words": [
+          {
+            "word": "Mike",
+            "start": 237.952,
+            "end": 238.433,
+            "score": 0.834
+          },
+          {
+            "word": "and",
+            "start": 238.513,
+            "end": 238.613,
+            "score": 0.962
+          },
+          {
+            "word": "Walt",
+            "start": 238.653,
+            "end": 239.033,
+            "score": 0.907
+          },
+          {
+            "word": "are",
+            "start": 239.193,
+            "end": 239.293,
+            "score": 0.593
+          },
+          {
+            "word": "so",
+            "start": 239.313,
+            "end": 239.354,
+            "score": 0.5
+          },
+          {
+            "word": "amazing,",
+            "start": 240.014,
+            "end": 240.575,
+            "score": 0.922
+          },
+          {
+            "word": "such",
+            "start": 240.655,
+            "end": 240.835,
+            "score": 0.976
+          },
+          {
+            "word": "great",
+            "start": 240.875,
+            "end": 241.035,
+            "score": 0.738
+          },
+          {
+            "word": "directors.",
+            "start": 241.055,
+            "end": 241.596,
+            "score": 0.795
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 241.716,
+        "end": 266.203,
+        "text": "It was great to work with them because they really, even though I wasn't getting to work with the other actors, um, when I was recording my voice parts, they're the types of directors that can kind of create the world for you without, you know, me having to have the other actors there, you know, um, and they'd kind of switch off, you know, reading the parts and",
+        "words": [
+          {
+            "word": "It",
+            "start": 241.716,
+            "end": 241.776,
+            "score": 0.944
+          },
+          {
+            "word": "was",
+            "start": 241.796,
+            "end": 241.916,
+            "score": 0.776
+          },
+          {
+            "word": "great",
+            "start": 242.016,
+            "end": 242.357,
+            "score": 0.932
+          },
+          {
+            "word": "to",
+            "start": 242.417,
+            "end": 242.517,
+            "score": 0.64
+          },
+          {
+            "word": "work",
+            "start": 242.577,
+            "end": 242.777,
+            "score": 0.85
+          },
+          {
+            "word": "with",
+            "start": 242.817,
+            "end": 242.917,
+            "score": 0.987
+          },
+          {
+            "word": "them",
+            "start": 242.957,
+            "end": 243.098,
+            "score": 0.981
+          },
+          {
+            "word": "because",
+            "start": 243.138,
+            "end": 243.378,
+            "score": 0.862
+          },
+          {
+            "word": "they",
+            "start": 243.398,
+            "end": 243.758,
+            "score": 0.664
+          },
+          {
+            "word": "really,",
+            "start": 243.798,
+            "end": 245.06,
+            "score": 0.92
+          },
+          {
+            "word": "even",
+            "start": 245.12,
+            "end": 245.54,
+            "score": 0.813
+          },
+          {
+            "word": "though",
+            "start": 245.58,
+            "end": 245.761,
+            "score": 0.879
+          },
+          {
+            "word": "I",
+            "start": 245.781,
+            "end": 245.801,
+            "score": 0.999
+          },
+          {
+            "word": "wasn't",
+            "start": 246.041,
+            "end": 246.281,
+            "score": 0.799
+          },
+          {
+            "word": "getting",
+            "start": 246.301,
+            "end": 246.521,
+            "score": 0.862
+          },
+          {
+            "word": "to",
+            "start": 246.561,
+            "end": 246.622,
+            "score": 0.758
+          },
+          {
+            "word": "work",
+            "start": 246.662,
+            "end": 246.842,
+            "score": 0.899
+          },
+          {
+            "word": "with",
+            "start": 246.882,
+            "end": 247.062,
+            "score": 0.741
+          },
+          {
+            "word": "the",
+            "start": 247.182,
+            "end": 247.302,
+            "score": 0.619
+          },
+          {
+            "word": "other",
+            "start": 247.342,
+            "end": 247.523,
+            "score": 0.826
+          },
+          {
+            "word": "actors,",
+            "start": 247.683,
+            "end": 248.203,
+            "score": 0.836
+          },
+          {
+            "word": "um,",
+            "start": 248.684,
+            "end": 248.884,
+            "score": 0.957
+          },
+          {
+            "word": "when",
+            "start": 249.184,
+            "end": 249.324,
+            "score": 0.876
+          },
+          {
+            "word": "I",
+            "start": 249.365,
+            "end": 249.405,
+            "score": 0.962
+          },
+          {
+            "word": "was",
+            "start": 249.445,
+            "end": 249.545,
+            "score": 0.808
+          },
+          {
+            "word": "recording",
+            "start": 249.625,
+            "end": 249.985,
+            "score": 0.848
+          },
+          {
+            "word": "my",
+            "start": 250.025,
+            "end": 250.125,
+            "score": 0.993
+          },
+          {
+            "word": "voice",
+            "start": 250.165,
+            "end": 250.726,
+            "score": 0.878
+          },
+          {
+            "word": "parts,",
+            "start": 250.766,
+            "end": 251.126,
+            "score": 0.982
+          },
+          {
+            "word": "they're",
+            "start": 251.907,
+            "end": 252.228,
+            "score": 0.576
+          },
+          {
+            "word": "the",
+            "start": 252.248,
+            "end": 252.308,
+            "score": 0.333
+          },
+          {
+            "word": "types",
+            "start": 252.388,
+            "end": 252.748,
+            "score": 0.69
+          },
+          {
+            "word": "of",
+            "start": 252.828,
+            "end": 252.868,
+            "score": 1.0
+          },
+          {
+            "word": "directors",
+            "start": 252.928,
+            "end": 253.569,
+            "score": 0.855
+          },
+          {
+            "word": "that",
+            "start": 253.689,
+            "end": 253.93,
+            "score": 0.873
+          },
+          {
+            "word": "can",
+            "start": 254.45,
+            "end": 254.811,
+            "score": 0.857
+          },
+          {
+            "word": "kind",
+            "start": 255.271,
+            "end": 255.471,
+            "score": 0.968
+          },
+          {
+            "word": "of",
+            "start": 255.511,
+            "end": 255.551,
+            "score": 0.881
+          },
+          {
+            "word": "create",
+            "start": 255.631,
+            "end": 255.972,
+            "score": 0.781
+          },
+          {
+            "word": "the",
+            "start": 256.012,
+            "end": 256.112,
+            "score": 0.83
+          },
+          {
+            "word": "world",
+            "start": 256.152,
+            "end": 256.432,
+            "score": 0.758
+          },
+          {
+            "word": "for",
+            "start": 256.512,
+            "end": 256.693,
+            "score": 0.884
+          },
+          {
+            "word": "you",
+            "start": 256.753,
+            "end": 256.893,
+            "score": 1.0
+          },
+          {
+            "word": "without,",
+            "start": 256.933,
+            "end": 257.333,
+            "score": 0.813
+          },
+          {
+            "word": "you",
+            "start": 257.894,
+            "end": 257.994,
+            "score": 0.733
+          },
+          {
+            "word": "know,",
+            "start": 258.014,
+            "end": 258.194,
+            "score": 0.702
+          },
+          {
+            "word": "me",
+            "start": 259.135,
+            "end": 259.275,
+            "score": 0.992
+          },
+          {
+            "word": "having",
+            "start": 259.315,
+            "end": 259.556,
+            "score": 0.894
+          },
+          {
+            "word": "to",
+            "start": 259.596,
+            "end": 259.656,
+            "score": 0.568
+          },
+          {
+            "word": "have",
+            "start": 259.716,
+            "end": 259.876,
+            "score": 0.791
+          },
+          {
+            "word": "the",
+            "start": 259.916,
+            "end": 259.996,
+            "score": 0.769
+          },
+          {
+            "word": "other",
+            "start": 260.056,
+            "end": 260.196,
+            "score": 0.783
+          },
+          {
+            "word": "actors",
+            "start": 260.297,
+            "end": 260.557,
+            "score": 0.858
+          },
+          {
+            "word": "there,",
+            "start": 260.617,
+            "end": 260.857,
+            "score": 0.986
+          },
+          {
+            "word": "you",
+            "start": 260.897,
+            "end": 261.017,
+            "score": 0.776
+          },
+          {
+            "word": "know,",
+            "start": 261.057,
+            "end": 261.238,
+            "score": 0.898
+          },
+          {
+            "word": "um,",
+            "start": 261.458,
+            "end": 261.618,
+            "score": 0.937
+          },
+          {
+            "word": "and",
+            "start": 262.119,
+            "end": 262.319,
+            "score": 0.796
+          },
+          {
+            "word": "they'd",
+            "start": 262.639,
+            "end": 262.819,
+            "score": 0.818
+          },
+          {
+            "word": "kind",
+            "start": 262.859,
+            "end": 263.0,
+            "score": 0.935
+          },
+          {
+            "word": "of",
+            "start": 263.04,
+            "end": 263.08,
+            "score": 0.753
+          },
+          {
+            "word": "switch",
+            "start": 263.12,
+            "end": 263.36,
+            "score": 0.937
+          },
+          {
+            "word": "off,",
+            "start": 263.52,
+            "end": 263.68,
+            "score": 0.982
+          },
+          {
+            "word": "you",
+            "start": 264.181,
+            "end": 264.281,
+            "score": 0.804
+          },
+          {
+            "word": "know,",
+            "start": 264.301,
+            "end": 264.441,
+            "score": 0.88
+          },
+          {
+            "word": "reading",
+            "start": 264.481,
+            "end": 264.701,
+            "score": 0.803
+          },
+          {
+            "word": "the",
+            "start": 264.741,
+            "end": 264.801,
+            "score": 0.992
+          },
+          {
+            "word": "parts",
+            "start": 264.842,
+            "end": 265.222,
+            "score": 0.79
+          },
+          {
+            "word": "and",
+            "start": 265.362,
+            "end": 266.203,
+            "score": 0.917
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 266.183,
+        "end": 283.419,
+        "text": " Um, they are just, they really allowed me to also explore the character and really find the character's voice because some people might just say, you know, just do your own voice or, you know, or they really let me play with it.",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 266.183,
+            "end": 266.824,
+            "score": 0.86
+          },
+          {
+            "word": "they",
+            "start": 267.666,
+            "end": 267.806,
+            "score": 0.858
+          },
+          {
+            "word": "are",
+            "start": 267.846,
+            "end": 267.947,
+            "score": 0.737
+          },
+          {
+            "word": "just,",
+            "start": 268.047,
+            "end": 268.648,
+            "score": 0.974
+          },
+          {
+            "word": "they",
+            "start": 268.668,
+            "end": 268.828,
+            "score": 0.68
+          },
+          {
+            "word": "really",
+            "start": 268.869,
+            "end": 269.209,
+            "score": 0.748
+          },
+          {
+            "word": "allowed",
+            "start": 269.249,
+            "end": 270.171,
+            "score": 0.61
+          },
+          {
+            "word": "me",
+            "start": 270.251,
+            "end": 270.352,
+            "score": 0.81
+          },
+          {
+            "word": "to",
+            "start": 270.432,
+            "end": 270.532,
+            "score": 0.894
+          },
+          {
+            "word": "also",
+            "start": 270.632,
+            "end": 270.853,
+            "score": 0.884
+          },
+          {
+            "word": "explore",
+            "start": 270.933,
+            "end": 271.714,
+            "score": 0.747
+          },
+          {
+            "word": "the",
+            "start": 271.755,
+            "end": 271.815,
+            "score": 0.333
+          },
+          {
+            "word": "character",
+            "start": 272.516,
+            "end": 273.117,
+            "score": 0.846
+          },
+          {
+            "word": "and",
+            "start": 273.137,
+            "end": 273.618,
+            "score": 0.826
+          },
+          {
+            "word": "really",
+            "start": 273.659,
+            "end": 273.999,
+            "score": 0.642
+          },
+          {
+            "word": "find",
+            "start": 274.621,
+            "end": 275.081,
+            "score": 0.921
+          },
+          {
+            "word": "the",
+            "start": 275.242,
+            "end": 275.663,
+            "score": 0.894
+          },
+          {
+            "word": "character's",
+            "start": 275.683,
+            "end": 276.104,
+            "score": 0.741
+          },
+          {
+            "word": "voice",
+            "start": 276.164,
+            "end": 276.484,
+            "score": 0.8
+          },
+          {
+            "word": "because",
+            "start": 276.645,
+            "end": 277.086,
+            "score": 0.899
+          },
+          {
+            "word": "some",
+            "start": 277.126,
+            "end": 277.827,
+            "score": 0.776
+          },
+          {
+            "word": "people",
+            "start": 277.867,
+            "end": 278.088,
+            "score": 0.86
+          },
+          {
+            "word": "might",
+            "start": 278.148,
+            "end": 278.268,
+            "score": 0.867
+          },
+          {
+            "word": "just",
+            "start": 278.328,
+            "end": 278.489,
+            "score": 0.996
+          },
+          {
+            "word": "say,",
+            "start": 278.569,
+            "end": 278.769,
+            "score": 0.884
+          },
+          {
+            "word": "you",
+            "start": 278.809,
+            "end": 278.97,
+            "score": 0.632
+          },
+          {
+            "word": "know,",
+            "start": 279.01,
+            "end": 279.13,
+            "score": 0.896
+          },
+          {
+            "word": "just",
+            "start": 279.19,
+            "end": 279.33,
+            "score": 0.785
+          },
+          {
+            "word": "do",
+            "start": 279.39,
+            "end": 279.451,
+            "score": 0.933
+          },
+          {
+            "word": "your",
+            "start": 279.491,
+            "end": 279.611,
+            "score": 0.742
+          },
+          {
+            "word": "own",
+            "start": 279.671,
+            "end": 279.751,
+            "score": 0.919
+          },
+          {
+            "word": "voice",
+            "start": 279.791,
+            "end": 280.032,
+            "score": 0.645
+          },
+          {
+            "word": "or,",
+            "start": 280.172,
+            "end": 280.272,
+            "score": 0.915
+          },
+          {
+            "word": "you",
+            "start": 280.332,
+            "end": 280.493,
+            "score": 0.626
+          },
+          {
+            "word": "know,",
+            "start": 280.533,
+            "end": 280.653,
+            "score": 0.743
+          },
+          {
+            "word": "or",
+            "start": 281.314,
+            "end": 281.435,
+            "score": 0.786
+          },
+          {
+            "word": "they",
+            "start": 281.815,
+            "end": 281.976,
+            "score": 0.718
+          },
+          {
+            "word": "really",
+            "start": 281.996,
+            "end": 282.236,
+            "score": 0.709
+          },
+          {
+            "word": "let",
+            "start": 282.296,
+            "end": 282.437,
+            "score": 0.836
+          },
+          {
+            "word": "me",
+            "start": 282.477,
+            "end": 282.617,
+            "score": 0.861
+          },
+          {
+            "word": "play",
+            "start": 282.858,
+            "end": 283.078,
+            "score": 0.993
+          },
+          {
+            "word": "with",
+            "start": 283.118,
+            "end": 283.238,
+            "score": 0.638
+          },
+          {
+            "word": "it.",
+            "start": 283.359,
+            "end": 283.419,
+            "score": 0.925
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 283.539,
+        "end": 285.964,
+        "text": "So, um, I'm so grateful to them.",
+        "words": [
+          {
+            "word": "So,",
+            "start": 283.539,
+            "end": 283.78,
+            "score": 0.95
+          },
+          {
+            "word": "um,",
+            "start": 284.02,
+            "end": 284.261,
+            "score": 0.775
+          },
+          {
+            "word": "I'm",
+            "start": 284.281,
+            "end": 284.401,
+            "score": 0.974
+          },
+          {
+            "word": "so",
+            "start": 284.601,
+            "end": 284.742,
+            "score": 0.998
+          },
+          {
+            "word": "grateful",
+            "start": 284.782,
+            "end": 285.182,
+            "score": 0.891
+          },
+          {
+            "word": "to",
+            "start": 285.343,
+            "end": 285.463,
+            "score": 0.846
+          },
+          {
+            "word": "them.",
+            "start": 285.503,
+            "end": 285.964,
+            "score": 0.908
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 288.863,
+        "end": 290.905,
+        "text": " Music makes everyone happy, I think.",
+        "words": [
+          {
+            "word": "Music",
+            "start": 288.863,
+            "end": 289.283,
+            "score": 0.869
+          },
+          {
+            "word": "makes",
+            "start": 289.364,
+            "end": 289.584,
+            "score": 0.864
+          },
+          {
+            "word": "everyone",
+            "start": 289.724,
+            "end": 290.124,
+            "score": 0.775
+          },
+          {
+            "word": "happy,",
+            "start": 290.164,
+            "end": 290.525,
+            "score": 0.965
+          },
+          {
+            "word": "I",
+            "start": 290.605,
+            "end": 290.665,
+            "score": 0.977
+          },
+          {
+            "word": "think.",
+            "start": 290.705,
+            "end": 290.905,
+            "score": 0.821
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 290.985,
+        "end": 291.946,
+        "text": "Most people happy.",
+        "words": [
+          {
+            "word": "Most",
+            "start": 290.985,
+            "end": 291.206,
+            "score": 0.694
+          },
+          {
+            "word": "people",
+            "start": 291.266,
+            "end": 291.526,
+            "score": 0.816
+          },
+          {
+            "word": "happy.",
+            "start": 291.586,
+            "end": 291.946,
+            "score": 0.996
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 292.627,
+        "end": 296.872,
+        "text": "And I think that's part of the, you know, the trolls, like, key to their happiness.",
+        "words": [
+          {
+            "word": "And",
+            "start": 292.627,
+            "end": 292.727,
+            "score": 0.66
+          },
+          {
+            "word": "I",
+            "start": 292.807,
+            "end": 292.867,
+            "score": 0.984
+          },
+          {
+            "word": "think",
+            "start": 292.907,
+            "end": 293.048,
+            "score": 0.791
+          },
+          {
+            "word": "that's",
+            "start": 293.088,
+            "end": 293.248,
+            "score": 0.927
+          },
+          {
+            "word": "part",
+            "start": 293.348,
+            "end": 293.548,
+            "score": 0.945
+          },
+          {
+            "word": "of",
+            "start": 293.588,
+            "end": 293.628,
+            "score": 0.788
+          },
+          {
+            "word": "the,",
+            "start": 293.688,
+            "end": 294.069,
+            "score": 0.593
+          },
+          {
+            "word": "you",
+            "start": 294.089,
+            "end": 294.169,
+            "score": 0.857
+          },
+          {
+            "word": "know,",
+            "start": 294.209,
+            "end": 294.349,
+            "score": 0.862
+          },
+          {
+            "word": "the",
+            "start": 294.389,
+            "end": 294.449,
+            "score": 0.988
+          },
+          {
+            "word": "trolls,",
+            "start": 294.509,
+            "end": 294.829,
+            "score": 0.891
+          },
+          {
+            "word": "like,",
+            "start": 294.869,
+            "end": 295.01,
+            "score": 0.938
+          },
+          {
+            "word": "key",
+            "start": 295.13,
+            "end": 295.47,
+            "score": 0.89
+          },
+          {
+            "word": "to",
+            "start": 295.61,
+            "end": 295.73,
+            "score": 0.872
+          },
+          {
+            "word": "their",
+            "start": 295.77,
+            "end": 296.051,
+            "score": 0.639
+          },
+          {
+            "word": "happiness.",
+            "start": 296.211,
+            "end": 296.872,
+            "score": 0.718
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 297.432,
+        "end": 306.162,
+        "text": "And, um, I think kind of when the Bergens start joining in on that, that's when they're finding their own happiness.",
+        "words": [
+          {
+            "word": "And,",
+            "start": 297.432,
+            "end": 297.693,
+            "score": 0.696
+          },
+          {
+            "word": "um,",
+            "start": 298.954,
+            "end": 299.134,
+            "score": 0.91
+          },
+          {
+            "word": "I",
+            "start": 300.035,
+            "end": 300.135,
+            "score": 0.722
+          },
+          {
+            "word": "think",
+            "start": 300.315,
+            "end": 300.576,
+            "score": 0.933
+          },
+          {
+            "word": "kind",
+            "start": 300.776,
+            "end": 300.956,
+            "score": 0.719
+          },
+          {
+            "word": "of",
+            "start": 300.996,
+            "end": 301.036,
+            "score": 0.892
+          },
+          {
+            "word": "when",
+            "start": 301.076,
+            "end": 301.176,
+            "score": 0.97
+          },
+          {
+            "word": "the",
+            "start": 301.196,
+            "end": 301.276,
+            "score": 0.499
+          },
+          {
+            "word": "Bergens",
+            "start": 301.336,
+            "end": 301.977,
+            "score": 0.863
+          },
+          {
+            "word": "start",
+            "start": 302.057,
+            "end": 302.358,
+            "score": 0.86
+          },
+          {
+            "word": "joining",
+            "start": 302.498,
+            "end": 302.958,
+            "score": 0.924
+          },
+          {
+            "word": "in",
+            "start": 303.058,
+            "end": 303.158,
+            "score": 0.7
+          },
+          {
+            "word": "on",
+            "start": 303.279,
+            "end": 303.339,
+            "score": 0.906
+          },
+          {
+            "word": "that,",
+            "start": 303.399,
+            "end": 303.779,
+            "score": 0.958
+          },
+          {
+            "word": "that's",
+            "start": 303.819,
+            "end": 304.26,
+            "score": 0.865
+          },
+          {
+            "word": "when",
+            "start": 304.32,
+            "end": 304.46,
+            "score": 0.872
+          },
+          {
+            "word": "they're",
+            "start": 304.48,
+            "end": 304.74,
+            "score": 0.774
+          },
+          {
+            "word": "finding",
+            "start": 304.8,
+            "end": 305.121,
+            "score": 0.876
+          },
+          {
+            "word": "their",
+            "start": 305.181,
+            "end": 305.381,
+            "score": 0.802
+          },
+          {
+            "word": "own",
+            "start": 305.441,
+            "end": 305.561,
+            "score": 0.885
+          },
+          {
+            "word": "happiness.",
+            "start": 305.621,
+            "end": 306.162,
+            "score": 0.788
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 309.425,
+        "end": 310.907,
+        "text": "It was so great working with Justin.",
+        "words": [
+          {
+            "word": "It",
+            "start": 309.425,
+            "end": 309.465,
+            "score": 0.03
+          },
+          {
+            "word": "was",
+            "start": 309.485,
+            "end": 309.545,
+            "score": 0.0
+          },
+          {
+            "word": "so",
+            "start": 309.565,
+            "end": 309.745,
+            "score": 1.0
+          },
+          {
+            "word": "great",
+            "start": 309.786,
+            "end": 309.966,
+            "score": 0.919
+          },
+          {
+            "word": "working",
+            "start": 310.006,
+            "end": 310.266,
+            "score": 0.847
+          },
+          {
+            "word": "with",
+            "start": 310.306,
+            "end": 310.426,
+            "score": 0.921
+          },
+          {
+            "word": "Justin.",
+            "start": 310.466,
+            "end": 310.907,
+            "score": 0.868
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 310.967,
+        "end": 314.871,
+        "text": "He was such a, like, supportive producer and, um,",
+        "words": [
+          {
+            "word": "He",
+            "start": 310.967,
+            "end": 311.067,
+            "score": 0.636
+          },
+          {
+            "word": "was",
+            "start": 311.087,
+            "end": 311.187,
+            "score": 0.858
+          },
+          {
+            "word": "such",
+            "start": 311.247,
+            "end": 311.467,
+            "score": 0.908
+          },
+          {
+            "word": "a,",
+            "start": 311.567,
+            "end": 311.668,
+            "score": 0.936
+          },
+          {
+            "word": "like,",
+            "start": 311.708,
+            "end": 312.068,
+            "score": 0.939
+          },
+          {
+            "word": "supportive",
+            "start": 312.108,
+            "end": 312.729,
+            "score": 0.709
+          },
+          {
+            "word": "producer",
+            "start": 312.849,
+            "end": 313.51,
+            "score": 0.945
+          },
+          {
+            "word": "and,",
+            "start": 313.91,
+            "end": 314.09,
+            "score": 0.858
+          },
+          {
+            "word": "um,",
+            "start": 314.491,
+            "end": 314.871,
+            "score": 0.943
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 315.88,
+        "end": 331.772,
+        "text": " Had, you know, he also is a great actor, so he was really able to, like, have a perfect mix of being able to, like, guide, you know, the vocal performance from both a musical and a dramatic perspective.",
+        "words": [
+          {
+            "word": "Had,",
+            "start": 315.88,
+            "end": 316.361,
+            "score": 0.675
+          },
+          {
+            "word": "you",
+            "start": 316.461,
+            "end": 316.541,
+            "score": 0.849
+          },
+          {
+            "word": "know,",
+            "start": 316.581,
+            "end": 316.702,
+            "score": 0.659
+          },
+          {
+            "word": "he",
+            "start": 316.762,
+            "end": 316.862,
+            "score": 0.964
+          },
+          {
+            "word": "also",
+            "start": 317.002,
+            "end": 317.403,
+            "score": 0.92
+          },
+          {
+            "word": "is",
+            "start": 317.423,
+            "end": 317.463,
+            "score": 0.5
+          },
+          {
+            "word": "a",
+            "start": 317.864,
+            "end": 317.884,
+            "score": 1.0
+          },
+          {
+            "word": "great",
+            "start": 317.924,
+            "end": 318.125,
+            "score": 0.905
+          },
+          {
+            "word": "actor,",
+            "start": 318.225,
+            "end": 318.485,
+            "score": 0.902
+          },
+          {
+            "word": "so",
+            "start": 318.585,
+            "end": 318.746,
+            "score": 0.978
+          },
+          {
+            "word": "he",
+            "start": 318.806,
+            "end": 318.986,
+            "score": 0.844
+          },
+          {
+            "word": "was",
+            "start": 319.066,
+            "end": 319.207,
+            "score": 0.923
+          },
+          {
+            "word": "really",
+            "start": 319.247,
+            "end": 319.487,
+            "score": 0.567
+          },
+          {
+            "word": "able",
+            "start": 319.628,
+            "end": 319.928,
+            "score": 0.644
+          },
+          {
+            "word": "to,",
+            "start": 320.008,
+            "end": 320.189,
+            "score": 0.923
+          },
+          {
+            "word": "like,",
+            "start": 320.269,
+            "end": 320.509,
+            "score": 0.973
+          },
+          {
+            "word": "have",
+            "start": 321.832,
+            "end": 322.052,
+            "score": 0.992
+          },
+          {
+            "word": "a",
+            "start": 322.112,
+            "end": 322.133,
+            "score": 0.999
+          },
+          {
+            "word": "perfect",
+            "start": 322.193,
+            "end": 322.513,
+            "score": 0.948
+          },
+          {
+            "word": "mix",
+            "start": 322.593,
+            "end": 322.854,
+            "score": 0.986
+          },
+          {
+            "word": "of",
+            "start": 322.934,
+            "end": 322.994,
+            "score": 0.996
+          },
+          {
+            "word": "being",
+            "start": 323.054,
+            "end": 323.255,
+            "score": 0.739
+          },
+          {
+            "word": "able",
+            "start": 323.335,
+            "end": 323.535,
+            "score": 0.609
+          },
+          {
+            "word": "to,",
+            "start": 323.595,
+            "end": 323.736,
+            "score": 0.69
+          },
+          {
+            "word": "like,",
+            "start": 323.756,
+            "end": 323.956,
+            "score": 0.902
+          },
+          {
+            "word": "guide,",
+            "start": 324.297,
+            "end": 324.878,
+            "score": 0.938
+          },
+          {
+            "word": "you",
+            "start": 325.96,
+            "end": 326.06,
+            "score": 0.781
+          },
+          {
+            "word": "know,",
+            "start": 326.1,
+            "end": 326.241,
+            "score": 0.694
+          },
+          {
+            "word": "the",
+            "start": 326.261,
+            "end": 326.321,
+            "score": 0.544
+          },
+          {
+            "word": "vocal",
+            "start": 326.381,
+            "end": 326.622,
+            "score": 0.837
+          },
+          {
+            "word": "performance",
+            "start": 326.682,
+            "end": 327.343,
+            "score": 0.914
+          },
+          {
+            "word": "from",
+            "start": 327.784,
+            "end": 327.984,
+            "score": 0.683
+          },
+          {
+            "word": "both",
+            "start": 328.325,
+            "end": 328.606,
+            "score": 0.805
+          },
+          {
+            "word": "a",
+            "start": 328.646,
+            "end": 328.706,
+            "score": 0.333
+          },
+          {
+            "word": "musical",
+            "start": 328.766,
+            "end": 329.968,
+            "score": 0.777
+          },
+          {
+            "word": "and",
+            "start": 329.988,
+            "end": 330.129,
+            "score": 0.976
+          },
+          {
+            "word": "a",
+            "start": 330.149,
+            "end": 330.169,
+            "score": 1.0
+          },
+          {
+            "word": "dramatic",
+            "start": 330.429,
+            "end": 331.01,
+            "score": 0.841
+          },
+          {
+            "word": "perspective.",
+            "start": 331.091,
+            "end": 331.772,
+            "score": 0.94
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 332.794,
+        "end": 336.842,
+        "text": "Um, and I really think that he, like,",
+        "words": [
+          {
+            "word": "Um,",
+            "start": 332.794,
+            "end": 333.014,
+            "score": 0.889
+          },
+          {
+            "word": "and",
+            "start": 333.816,
+            "end": 334.117,
+            "score": 0.784
+          },
+          {
+            "word": "I",
+            "start": 334.137,
+            "end": 334.157,
+            "score": 1.0
+          },
+          {
+            "word": "really",
+            "start": 335.079,
+            "end": 335.339,
+            "score": 0.852
+          },
+          {
+            "word": "think",
+            "start": 335.419,
+            "end": 335.66,
+            "score": 0.957
+          },
+          {
+            "word": "that",
+            "start": 335.76,
+            "end": 336.0,
+            "score": 0.992
+          },
+          {
+            "word": "he,",
+            "start": 336.161,
+            "end": 336.421,
+            "score": 0.933
+          },
+          {
+            "word": "like,",
+            "start": 336.481,
+            "end": 336.842,
+            "score": 0.956
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 337.919,
+        "end": 345.39,
+        "text": " You know, there were things that I did that were out of my comfort zone, like the rap and I'm coming out.",
+        "words": [
+          {
+            "word": "You",
+            "start": 337.919,
+            "end": 338.119,
+            "score": 0.648
+          },
+          {
+            "word": "know,",
+            "start": 338.159,
+            "end": 338.3,
+            "score": 0.969
+          },
+          {
+            "word": "there",
+            "start": 338.32,
+            "end": 339.441,
+            "score": 0.788
+          },
+          {
+            "word": "were",
+            "start": 339.481,
+            "end": 339.601,
+            "score": 0.738
+          },
+          {
+            "word": "things",
+            "start": 339.641,
+            "end": 339.922,
+            "score": 0.873
+          },
+          {
+            "word": "that",
+            "start": 339.982,
+            "end": 340.142,
+            "score": 0.912
+          },
+          {
+            "word": "I",
+            "start": 340.202,
+            "end": 340.282,
+            "score": 0.952
+          },
+          {
+            "word": "did",
+            "start": 340.342,
+            "end": 340.483,
+            "score": 0.898
+          },
+          {
+            "word": "that",
+            "start": 340.503,
+            "end": 340.603,
+            "score": 0.978
+          },
+          {
+            "word": "were",
+            "start": 340.623,
+            "end": 340.723,
+            "score": 0.568
+          },
+          {
+            "word": "out",
+            "start": 340.763,
+            "end": 340.823,
+            "score": 0.956
+          },
+          {
+            "word": "of",
+            "start": 340.863,
+            "end": 340.903,
+            "score": 0.962
+          },
+          {
+            "word": "my",
+            "start": 340.923,
+            "end": 341.003,
+            "score": 0.774
+          },
+          {
+            "word": "comfort",
+            "start": 341.043,
+            "end": 341.404,
+            "score": 0.85
+          },
+          {
+            "word": "zone,",
+            "start": 341.544,
+            "end": 341.724,
+            "score": 0.835
+          },
+          {
+            "word": "like",
+            "start": 341.764,
+            "end": 341.945,
+            "score": 0.918
+          },
+          {
+            "word": "the",
+            "start": 342.005,
+            "end": 342.105,
+            "score": 0.857
+          },
+          {
+            "word": "rap",
+            "start": 342.165,
+            "end": 342.506,
+            "score": 0.917
+          },
+          {
+            "word": "and",
+            "start": 342.646,
+            "end": 342.786,
+            "score": 0.821
+          },
+          {
+            "word": "I'm",
+            "start": 344.569,
+            "end": 344.689,
+            "score": 0.921
+          },
+          {
+            "word": "coming",
+            "start": 344.769,
+            "end": 345.009,
+            "score": 0.772
+          },
+          {
+            "word": "out.",
+            "start": 345.049,
+            "end": 345.39,
+            "score": 0.796
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 346.451,
+        "end": 352.6,
+        "text": "And he definitely like was able to like coax something out of me that was way out of my comfort zone.",
+        "words": [
+          {
+            "word": "And",
+            "start": 346.451,
+            "end": 346.591,
+            "score": 0.797
+          },
+          {
+            "word": "he",
+            "start": 346.611,
+            "end": 346.651,
+            "score": 0.5
+          },
+          {
+            "word": "definitely",
+            "start": 346.952,
+            "end": 347.252,
+            "score": 0.563
+          },
+          {
+            "word": "like",
+            "start": 347.292,
+            "end": 347.513,
+            "score": 0.813
+          },
+          {
+            "word": "was",
+            "start": 348.414,
+            "end": 348.594,
+            "score": 0.933
+          },
+          {
+            "word": "able",
+            "start": 348.754,
+            "end": 348.975,
+            "score": 0.874
+          },
+          {
+            "word": "to",
+            "start": 349.015,
+            "end": 349.095,
+            "score": 0.988
+          },
+          {
+            "word": "like",
+            "start": 349.135,
+            "end": 349.315,
+            "score": 0.791
+          },
+          {
+            "word": "coax",
+            "start": 349.576,
+            "end": 350.016,
+            "score": 0.898
+          },
+          {
+            "word": "something",
+            "start": 350.136,
+            "end": 350.517,
+            "score": 0.907
+          },
+          {
+            "word": "out",
+            "start": 350.617,
+            "end": 350.717,
+            "score": 0.73
+          },
+          {
+            "word": "of",
+            "start": 350.777,
+            "end": 350.837,
+            "score": 0.722
+          },
+          {
+            "word": "me",
+            "start": 350.878,
+            "end": 350.938,
+            "score": 0.985
+          },
+          {
+            "word": "that",
+            "start": 350.978,
+            "end": 351.098,
+            "score": 0.964
+          },
+          {
+            "word": "was",
+            "start": 351.138,
+            "end": 351.258,
+            "score": 0.506
+          },
+          {
+            "word": "way",
+            "start": 351.398,
+            "end": 351.599,
+            "score": 0.576
+          },
+          {
+            "word": "out",
+            "start": 351.659,
+            "end": 351.739,
+            "score": 0.995
+          },
+          {
+            "word": "of",
+            "start": 351.779,
+            "end": 351.819,
+            "score": 0.967
+          },
+          {
+            "word": "my",
+            "start": 351.859,
+            "end": 351.919,
+            "score": 0.976
+          },
+          {
+            "word": "comfort",
+            "start": 351.979,
+            "end": 352.32,
+            "score": 0.835
+          },
+          {
+            "word": "zone.",
+            "start": 352.44,
+            "end": 352.6,
+            "score": 0.812
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 352.64,
+        "end": 355.584,
+        "text": "And by the end, it was something really fun and cool.",
+        "words": [
+          {
+            "word": "And",
+            "start": 352.64,
+            "end": 352.7,
+            "score": 0.904
+          },
+          {
+            "word": "by",
+            "start": 352.76,
+            "end": 352.86,
+            "score": 0.982
+          },
+          {
+            "word": "the",
+            "start": 352.92,
+            "end": 353.001,
+            "score": 0.662
+          },
+          {
+            "word": "end,",
+            "start": 353.201,
+            "end": 353.361,
+            "score": 0.937
+          },
+          {
+            "word": "it",
+            "start": 353.401,
+            "end": 353.441,
+            "score": 0.848
+          },
+          {
+            "word": "was",
+            "start": 353.481,
+            "end": 353.581,
+            "score": 0.793
+          },
+          {
+            "word": "something",
+            "start": 353.601,
+            "end": 353.882,
+            "score": 0.835
+          },
+          {
+            "word": "really",
+            "start": 353.962,
+            "end": 354.282,
+            "score": 0.839
+          },
+          {
+            "word": "fun",
+            "start": 354.322,
+            "end": 354.883,
+            "score": 0.795
+          },
+          {
+            "word": "and",
+            "start": 354.983,
+            "end": 355.064,
+            "score": 0.944
+          },
+          {
+            "word": "cool.",
+            "start": 355.204,
+            "end": 355.584,
+            "score": 0.439
+          }
+        ],
+        "detected_language": "en"
+      },
+      {
+        "start": 355.604,
+        "end": 364.517,
+        "text": "So, um, I, I really thought he was an amazing, um, producer and, and, um, person to work with.",
+        "words": [
+          {
+            "word": "So,",
+            "start": 355.604,
+            "end": 355.845,
+            "score": 0.985
+          },
+          {
+            "word": "um,",
+            "start": 356.546,
+            "end": 356.926,
+            "score": 0.77
+          },
+          {
+            "word": "I,",
+            "start": 356.946,
+            "end": 357.447,
+            "score": 0.91
+          },
+          {
+            "word": "I",
+            "start": 357.467,
+            "end": 357.547,
+            "score": 0.913
+          },
+          {
+            "word": "really",
+            "start": 357.627,
+            "end": 357.928,
+            "score": 0.916
+          },
+          {
+            "word": "thought",
+            "start": 358.028,
+            "end": 358.248,
+            "score": 0.793
+          },
+          {
+            "word": "he",
+            "start": 358.328,
+            "end": 358.448,
+            "score": 0.865
+          },
+          {
+            "word": "was",
+            "start": 358.508,
+            "end": 358.669,
+            "score": 0.843
+          },
+          {
+            "word": "an",
+            "start": 358.689,
+            "end": 358.729,
+            "score": 0.5
+          },
+          {
+            "word": "amazing,",
+            "start": 358.889,
+            "end": 359.75,
+            "score": 0.84
+          },
+          {
+            "word": "um,",
+            "start": 360.311,
+            "end": 360.511,
+            "score": 0.943
+          },
+          {
+            "word": "producer",
+            "start": 361.393,
+            "end": 361.973,
+            "score": 0.922
+          },
+          {
+            "word": "and,",
+            "start": 362.134,
+            "end": 362.274,
+            "score": 0.74
+          },
+          {
+            "word": "and,",
+            "start": 362.714,
+            "end": 362.855,
+            "score": 0.849
+          },
+          {
+            "word": "um,",
+            "start": 363.556,
+            "end": 363.656,
+            "score": 0.473
+          },
+          {
+            "word": "person",
+            "start": 363.676,
+            "end": 363.936,
+            "score": 0.92
+          },
+          {
+            "word": "to",
+            "start": 363.956,
+            "end": 364.016,
+            "score": 0.639
+          },
+          {
+            "word": "work",
+            "start": 364.056,
+            "end": 364.217,
+            "score": 0.824
+          },
+          {
+            "word": "with.",
+            "start": 364.257,
+            "end": 364.517,
+            "score": 0.793
+          }
+        ],
+        "detected_language": "en"
+      }
+    ],
+    "language": "en"
+  },
+  "reasoning": [
+    "[Chunk 1: 0.0s - 20.0s]\nScene is an interview setup with a woman seated in front of a colorful, animated forest backdrop. The backdrop features vibrant greens, purples, and yellows, resembling a whimsical forest from the movie \"Trolls.\" The woman has shoulder-length brown hair with bangs, wears a sleeveless navy blue top, and is seated in a black chair. She speaks with expressive hand gestures and facial movements.\n\nEvent 1 (0.0-3.5s): Black screen with white text listing interview segments for \"Zooey Deschanel - 'Bridget'\" from the movie \"Trolls.\" The text includes timestamps and topic titles, with the \"Trolls\" logo and studio logos at the top.\n\nEvent 2 (4.0-20.0s): Woman seated, speaking directly to an off-screen interviewer. She uses hand gestures for emphasis, with her hands often near her chest or moving outward. Her facial expressions shift from thoughtful to expressive as she speaks.\n\nEvent 3 (5.0-6.2s): Woman\u2019s eyes look upward slightly as she speaks, mouth open mid-sentence. Her hands are not yet gesturing, suggesting she is starting her explanation.\n\nEvent 4 (7.7-10.5s): Woman continues speaking, looking slightly off-camera. Her hands are now beginning to gesture, one hand moving toward her chest, indicating emphasis.\n\nEvent 5 (11.9-19.4s): Woman speaks with more animated hand movements, raising both hands with palms up, then bringing them toward her chest. Her eyes remain wide and engaged, indicating active explanation.\n\nAll audio labels are [speech] and match the visuals: a woman speaking in an interview setting. No corrections needed.",
+    "[Chunk 2: 20.0s - 40.0s]\nScene is a woman seated in front of a colorful, animated forest backdrop, likely from a children\u2019s animated film. She is wearing a dark sleeveless top, with shoulder-length brown hair and bangs, and is actively speaking and gesturing with her hands. The background features vibrant greens, purples, and pinks with stylized trees and foliage, suggesting a fantasy or fairy-tale setting.\n\nEvent 1 (0.0\u20137.4s): The woman speaks with expressive hand gestures, palms open and moving outward, as if describing something expansive. Her facial expression is animated, eyes wide and mouth open, indicating an engaging narrative tone. The audio is labeled as [speech], which matches the visual \u2014 she is clearly speaking.\n\nEvent 2 (0.0\u201320.0s): This is a long visual segment covering the entire clip. The woman continues speaking throughout, with consistent hand movements and facial expressions, reinforcing her storytelling. The audio label [visual] is technically accurate as it describes the entire visual content, but since the audio is consistently speech, it\u2019s redundant to label it only as [visual]. However, since the instruction says to write exactly 6 lines, and this is one long visual segment, we\u2019ll keep it as [visual] but note that speech is the dominant audio.\n\nEvent 3 (7.9\u20138.3s): A brief [sfx] labeled \u201cClicking and turning of a camera\u201d is noted. However, visually, there is no camera movement or sound source visible \u2014 the woman continues speaking without interruption. This sound is likely an editorial or technical artifact, not present in the video. Therefore, it is mislabeled. In the description, we will describe the visual continuity and omit the sound since it\u2019s not visually supported.\n\nEvent 4 (8.4\u20139.2s): The woman continues speaking, maintaining eye contact and using hand gestures. The audio label [speech] is correct and matches the visual.\n\nEvent 5 (9.8\u201316.3s): The woman continues speaking, now with more deliberate hand gestures \u2014 one hand raised, palm up, as if presenting an idea. Her expression remains engaged. The [speech] label is accurate.\n\nEvent 6 (16.9\u201319.7s): The woman continues speaking, slightly lowering her hand, still gesturing with her right hand. Her expression remains focused and animated. The [speech] label is correct.\n\nNote: The audio model\u2019s [sfx] label in Event 3 is likely incorrect \u2014 no visual or contextual evidence of camera clicking or turning. We will describe the visual continuity instead.",
+    "[Chunk 3: 40.0s - 60.0s]\nScene is a studio interview setting with a colorful, animated forest backdrop. The woman is seated in a black chair, wearing a dark sleeveless top, with shoulder-length brown hair and bangs. She is actively gesturing with her hands while speaking. The audio is consistently labeled as [speech] with a female voice (playful), which matches the visual of a woman speaking expressively. No other sounds are present, so the [speech] labels are accurate. The visual context shows her engaging in conversation, using hand movements for emphasis, and changing facial expressions as she talks. The playful tone in the audio is supported by her animated gestures and expressive face.\n\nEvent 1 (0.0-3.0s): Woman begins speaking, raising her right hand in a gesture, palm open, then bringing it down with fingers curled.\nEvent 2 (0.0-19.1s): Continuous visual of woman speaking, with various hand movements and facial expressions throughout the segment.\nEvent 3 (3.4-5.0s): Woman continues speaking, hand now curled near her chest, then slowly lowering.\nEvent 4 (5.0-5.9s): Woman maintains eye contact, slight head tilt, hand still near chest.\nEvent 5 (6.5-9.4s): Woman gestures with right hand, palm down, then moves it slightly outward, fingers spread.\nEvent 6 (9.9-11.4s): Woman touches her hair with left hand, then brings it down, right hand still gesturing.\nEvent 7 (12.0-12.8s): Woman lowers both hands, looks slightly to her right, then back to center.\nEvent 8 (13.4-18.1s): Woman raises her right hand again, palm up, then brings it down while speaking.",
+    "[Chunk 4: 60.0s - 80.0s]\nScene is a studio interview setup with a woman seated in front of a vibrant, colorful, fantasy-style painted backdrop resembling an enchanted forest with glowing trees and foliage. The woman has shoulder-length brown hair with bangs, wears a dark sleeveless top, and is speaking directly to the camera. Her expressions shift from neutral to engaged as she talks, with hand gestures emphasizing her points.\n\nEvent 1 (0.1-20.0s): Visuals show the woman seated, speaking consistently throughout. Her mouth moves in sync with the speech audio, and her hands gesture occasionally. The backdrop remains static and colorful, suggesting a controlled studio environment.\n\nEvent 2 (1.1-5.9s): The woman speaks with a playful tone, as indicated by the audio label. Her eyes are open and expressive, lips moving in rhythm with the speech. She maintains eye contact with the camera, occasionally glancing slightly to the side.\n\nEvent 3 (6.2-20.0s): The woman continues speaking, with her tone remaining playful. Her hands come into view more frequently, gesturing to emphasize her words. Her facial expressions remain animated, with slight nods and blinks as she speaks.",
+    "[Chunk 5: 80.0s - 100.0s]\nScene is a medium close-up of a woman seated in front of a vibrant, colorful, fantastical forest backdrop. She appears to be speaking directly to the camera in an interview or monologue setting. The lighting is soft and even, highlighting her face and upper body. Her expression is animated and engaged throughout, with frequent eye movements and hand gestures. The audio labels indicate female speech with a negative tone, which matches the visual context of her expressive delivery. The speech content (transcribed) discusses a character named Bridget, her abusive relationship with a chef, and her crush on the king \u2014 all of which are narrative elements being relayed verbally, not shown visually. No other sounds are present or implied in the frames \u2014 only the woman\u2019s speech. The audio labels are accurate: [speech] is correct and consistent with the visuals.\n\nEvent 1 (0.0-9.2s): Woman speaks with slight hesitation, mouth moving, eyes shifting, hands resting. Visual: seated, focused, mid-sentence.\nEvent 2 (0.0-20.0s): Covers entire clip \u2014 woman continues speaking, making slight hand gestures, eyes occasionally closing or looking away.\nEvent 3 (10.1-10.7s): Woman continues speaking, mouth open, slight head tilt \u2014 no change in audio label needed.\nEvent 4 (11.5-15.4s): Woman places hand on chest, then gestures outward \u2014 still speaking, expression earnest.\nEvent 5 (16.4-20.0s): Woman continues speaking, hand still gesturing \u2014 consistent with previous events.\n\nAll audio labels are [speech], and visuals confirm she is speaking throughout. No correction needed. Use varied descriptors for [speech] to reflect her tone and physicality.",
+    "[Chunk 6: 100.0s - 120.0s]\nScene is a medium close-up of a woman seated in a chair against a vibrant, colorful animated background resembling a fantastical forest with glowing plants and trees. She is wearing a dark sleeveless top and has shoulder-length brown hair with bangs. Throughout the video, she speaks directly to the camera, using expressive hand gestures. Her facial expressions shift subtly as she talks, indicating engagement and emphasis on her words. The lighting is bright and even, highlighting her features clearly. The background remains static and out-of-focus, drawing attention to her. The audio labels are consistently \"Female voice (positive)\" which aligns with her calm, articulate, and confident speaking style. No other sounds are present, so the label is accurate. The visual context supports a studio interview or commentary setting.\n\nEvent 1 (0.0-4.1s): Woman speaking, hands resting, then raises right hand slightly, fingers spread. Lips moving, eyes focused forward.\nEvent 2 (0.0-14.1s): Continuous speaking with varied hand gestures \u2014 raising hand, touching hair, clasping hands. Background remains unchanged.\nEvent 3 (4.7-10.2s): Woman continues speaking, now using both hands to gesture, palms up, then clasping them together. Slight head tilt.\nEvent 4 (10.9-12.8s): Hands clasped in lap, then opens them slightly. Eyes shift slightly to the side, then back to center.\nEvent 5 (15.1-20.0s): Returns to speaking, hands mostly still, then raises right hand again. Lips moving steadily.\nEvent 6 (16.1-19.2s): Speaking continues, eyes glance to the side, then return to center. Subtle head movements.\nEvent 7 (19.7-20.0s): Final moment, eyes slightly lifted, mouth slightly open as if finishing a sentence.",
+    "[Chunk 7: 120.0s - 140.0s]\nScene is a studio interview setting with a woman seated in front of a colorful, animated forest backdrop. The woman appears to be speaking directly to the camera or an off-screen interviewer. Her expressions and hand gestures change throughout the clip, indicating an engaged, conversational tone. The audio consistently matches a female voice speaking in a conversational manner, with no off-screen voices or environmental sounds detected. All [speech] labels are accurate as per visuals \u2014 the woman is clearly speaking, with visible mouth movements and expressive gestures. No corrections needed for audio labels. The visual context remains consistent: medium close-up, stable camera, no movement, vibrant background, and the woman\u2019s attire and accessories (ring, bracelet) are visible. The lighting is even and professional, suggesting a controlled studio environment. The woman\u2019s gestures become more animated over time, especially from 0:06 onward, with hand movements near her face and chest, indicating emphasis in her speech.",
+    "[Chunk 8: 140.0s - 160.0s]\nScene is a studio interview setup with a colorful, animated fantasy forest background. The woman is seated, wearing a dark sleeveless dress, and speaking expressively with hand gestures. Her facial expressions shift from animated to thoughtful, and she occasionally touches her hair or neck. The audio labels are mostly accurate for a female voice speaking playfully, though the \"Cartoon-style laugh\" at 1.6s seems to be a mislabel \u2014 the visual shows no laughter or comedic timing, just a smooth transition in speech. The sound likely corresponds to a vocal inflection or pause rather than a laugh. The audio model may have misclassified a soft vocal tick as a cartoon laugh. All speech segments align with the woman speaking on-screen, with no off-screen voices. The visual remains consistent throughout: mid-shot, steady camera, no cuts or scene changes.\n\nEvent 1 (0.0-10.8s): Woman speaks playfully, hands gesturing with open palms, lively eye movement\nEvent 2 (0.0-13.4s): Visual matches \u2014 woman speaking, background vibrant, no other characters\nEvent 3 (1.6-2.9s): No actual laugh visible \u2014 woman\u2019s mouth is open mid-sentence, not laughing \u2014 correct to label as speech\nEvent 4 (11.0-20.0s): Woman continues speaking, now with hand near neck, slight head tilt, expressive\nEvent 5 (14.4-20.0s): Woman touches hair/neck, continues speech, gestures with right hand, eyes focused",
+    "[Chunk 9: 160.0s - 180.0s]\nScene is a studio interview with a woman seated in front of a colorful, animated forest background. The woman is speaking directly to the camera, using expressive hand gestures. Her facial expressions shift with her speech, showing engagement and emphasis. The audio is consistently labeled as \"female voice (conversational)\" across all segments, which matches the visual of a woman speaking in a relaxed, conversational tone. No other sounds or music are present. All audio labels are accurate and do not require correction.\n\nEvent 1 (0.0-1.9s): Woman begins speaking, hand raised slightly with palm up, looking slightly down then up.\nEvent 2 (0.0-20.0s): Continuous visual of woman speaking with varied hand gestures and facial expressions, background remains static.\nEvent 3 (2.5-3.5s): Woman continues speaking, hand near chest, then lowers slightly, eyes focused forward.\nEvent 4 (4.2-10.2s): Woman gestures with both hands, palms open, then brings them together in front of her.\nEvent 5 (10.5-20.0s): Woman continues speaking, hand near chin, then lowers, maintaining eye contact.\n\nAll events show consistent visual and audio alignment: a woman speaking conversationally in a studio setting with animated background.",
+    "[Chunk 10: 180.0s - 200.0s]\nThe scene is a studio interview setup with a woman seated in front of a vibrant, colorful, animated forest backdrop. The woman has shoulder-length brown hair with bangs, wears a dark sleeveless top, and is seated in a black chair. She speaks directly to the camera, using expressive hand gestures and facial movements. The audio is consistently labeled as female voice (negative) with high confidence, which matches the visual of the woman speaking. The audio content involves her discussing vocal performance and experimentation, which aligns with her expressive gestures and thoughtful expressions. No other sounds or music are present. The description must fuse the visual context with the audio label, keeping descriptions concise and accurate.",
+    "[Chunk 11: 200.0s - 220.0s]\nScene is a studio interview setting with a colorful, animated forest backdrop. The subject is a woman with shoulder-length brown hair and bangs, wearing a dark sleeveless top, seated in a black chair. She is speaking and gesturing with her right hand, often touching her face or raising her palm. The audio consistently identifies her as speaking, and the visual confirms this with visible lip movement and expressive hand gestures. The confidence scores are high (0.92\u20130.96), and the visuals align perfectly with the speech label \u2014 no corrections needed. The description should focus on her speech, hand movements, and facial expressions, integrating the visual context of the animated background.\n\nEvent 1 (0.0\u20135.9s): Woman speaks, touching her cheek with right hand, eyes shifting slightly, fingers slightly curled.\nEvent 2 (0.0\u201320.0s): Continuous speaking with hand gestures \u2014 palm up, fingers spread, then moving toward body \u2014 while seated against animated forest backdrop.\nEvent 3 (6.5\u201310.7s): Woman continues speaking, hand still raised, palm up, fingers curled slightly, then moving downward with subtle head tilt.\nEvent 4 (11.5\u201311.9s): Brief moment where hand is slightly lowered, palm still up, mouth open mid-speech.\nEvent 5 (12.6\u201315.9s): Woman gestures with open palm, fingers spread, hand moving slightly forward and upward as she speaks.\nEvent 6 (16.7\u201320.0s): Hand moves across body, palm facing outward, fingers slightly spread, as she continues speaking with expressive eyes.\n\nAll are on-screen speech events with clear visual cues \u2014 no need to alter audio labels.",
+    "[Chunk 12: 220.0s - 240.0s]\nScene is a studio interview with a woman seated in front of a colorful, fantastical forest backdrop. The woman is actively speaking and gesturing throughout the clip. The audio is consistently labeled as female speech, which matches the visual of the woman speaking on-screen. All audio labels are accurate based on the visuals. The woman\u2019s expressions and hand movements suggest she is discussing a topic with nuance, possibly related to voice modulation or character performance, as indicated by the transcript. The background remains static and vibrant, with no other characters or movement.\n\nEvent 1 (0.0-3.1s): Woman speaks, gesturing with right hand raised, palm open, eyes expressive.\nEvent 2 (0.0-15.8s): Continuous on-screen speech, woman uses varied hand gestures, facial expressions shift from thoughtful to animated.\nEvent 3 (3.5-5.6s): Woman continues speaking, hand movements become more precise, fingers spread as if emphasizing points.\nEvent 4 (6.4-12.7s): Woman speaks with both hands gesturing, then touches chin thoughtfully, eyes slightly narrowed.\nEvent 5 (13.5-14.7s): Woman speaks with mouth open, hand briefly raised, then lowers hands, posture relaxed.\nEvent 6 (16.8-20.0s): Woman resumes speaking, slight smile, eyes looking slightly upward, hands resting.\nEvent 7 (17.9-20.0s): Woman speaks in same seated position, slight head tilt, expression appreciative.\n\nAll audio labels as [speech] are correct and consistent with on-screen visuals.",
+    "[Chunk 13: 240.0s - 260.0s]\nScene is a studio interview setup with a woman seated in front of a colorful, animated forest backdrop. The woman has shoulder-length brown hair with bangs, wears a dark sleeveless top, and is speaking directly to the camera. Her expressions and hand gestures vary throughout the clip, indicating active conversation. The audio is consistently a female voice speaking positively, with no other sounds detected. The visual context matches the audio perfectly \u2014 it\u2019s a clear, on-camera interview with no background noise or other audio elements. All audio labels are correct as given: [speech] with positive tone and clear speaker identification. No corrections needed.\n\nEvent 1 (0.0-3.8s): Woman begins speaking, seated, slight head tilt, hands resting. Visuals match \"female voice (positive)\".\nEvent 2 (0.0-20.0s): Continuous speaking with hand gestures \u2014 starts with right hand, then both hands. Visuals confirm ongoing speech.\nEvent 3 (4.4-11.2s): Hands move expressively, palms up, then hand to chest \u2014 consistent with vocal delivery.\nEvent 4 (11.8-20.0s): More animated hand movements, fingers spread, expressive face \u2014 matches \"female voice (positive)\".\n\nAll descriptions will include the speaker\u2019s appearance, gesture, and visual setting, while preserving the [speech] label as accurate.",
+    "[Chunk 14: 260.0s - 280.0s]\nScene is a studio interview with a woman seated in front of a vibrant, animated forest backdrop. The woman is speaking directly to the camera, using expressive hand gestures. Her facial expressions shift subtly as she speaks, indicating engagement and emphasis. The audio is clearly a female voice speaking conversationally, with no other sounds or music present. All audio labels are accurate and match the visuals: the woman is speaking on-screen, with no off-screen or environmental sounds. Confidence scores are high (all >0.9), and visuals confirm the speech is consistent throughout.\n\nEvent 1 (0.0-7.1s): Woman speaks with open palms, smiling slightly, gesturing with both hands. Background is colorful animated forest.\nEvent 2 (0.0-20.0s): Continuous speech, with hand movements emphasizing points. She occasionally looks up or to the side while talking.\nEvent 3 (7.6-14.0s): She continues speaking, using one hand to gesture, eyes shifting upward as if recalling something.\nEvent 4 (14.4-17.2s): She gestures with right hand, fingers spread, then brings hand down, maintaining eye contact with camera.\nEvent 5 (17.6-20.0s): She speaks with left hand raised slightly, then lowers it, finishing with a slight nod and hand resting on lap.\n\nNo audio corrections needed \u2014 all events are correctly labeled as [speech] and match the visual of a woman speaking on-screen.",
+    "[Chunk 15: 280.0s - 300.0s]\nScene is a studio interview with a woman seated against a colorful, animated forest backdrop resembling the world of Trolls. The woman has shoulder-length brown hair with bangs, wears a sleeveless navy dress, and speaks expressively with hand gestures. The lighting is soft and even, suggesting a professional setup.\n\nEvent 1 (0.0-5.9s): The woman is speaking, lips moving, hands gesturing near her chest. Her expression is engaged and earnest. The audio is labeled as [speech] female voice (positive) \u2014 this matches the visual of her speaking in a calm, thoughtful manner.\n\nEvent 2 (0.0-6.9s): Visuals show the same woman continuing to speak, with slight head tilts and hand movements. The audio label [visual] is incorrect \u2014 it should be [speech] since she is clearly talking. The speech content is about exploring a character's voice, which aligns with her expressive delivery.\n\nEvent 3 (7.9-20.0s): The woman resumes speaking after a brief black screen. She gestures with both hands, palms up, as if explaining or emphasizing a point. Her expression is open and animated. The audio label [visual] is again incorrect \u2014 should be [speech].\n\nEvent 4 (8.8-12.0s): The woman continues speaking, with slight head tilts and expressive hand movements. The music label \u201cCalm, reflective, and soothing instrumental\u201d is plausible \u2014 no actual music is heard in the frames, but the tone of her speech and the serene backdrop suggest a reflective mood. However, since the audio model flagged music, and it\u2019s likely background music is present, we keep the label but note it\u2019s accompanied by her speech.\n\nEvent 5 (8.9-20.0s): The woman speaks continuously, using open hand gestures and varied facial expressions \u2014 eyes wide, mouth open as she emphasizes points. The audio label [speech] female voice (positive) is accurate. Her delivery appears enthusiastic and warm, matching the positive label.\n\nAll audio labels except for Events 2 and 3 need correction from [visual] to [speech], as the woman is speaking throughout. The music label in Event 4 is retained as plausible, though visually unconfirmed \u2014 it may be background music to accompany her speech.",
+    "[Chunk 16: 300.0s - 320.0s]\nScene is a medium close-up of a woman seated in front of a colorful, animated forest backdrop. She appears to be in an interview or discussion setting, speaking directly to the camera or an off-screen interviewer. Her expressions are animated, and she uses hand gestures as she speaks. The audio includes her conversational voice and a brief mechanical click/hum sound, likely from studio equipment.\n\nEvent 1 (0.0-6.2s): Woman speaks with expressive hand gestures, eyes wide, mouth moving. Audio matches her speech.\nEvent 2 (0.0-7.3s): Visual matches audio \u2014 woman speaking, hands moving, no other sounds evident in frames.\nEvent 3 (8.3-20.0s): Woman continues speaking with varied hand movements, sometimes pointing, sometimes open palms. No visual cues for mechanical sounds.\nEvent 4 (9.3-14.8s): Woman speaks with head slightly tilted, right hand gesturing. Audio is conversational.\nEvent 5 (9.3-10.8s): Mechanical click and hum \u2014 likely camera or studio equipment \u2014 occurs briefly. Visual shows woman mid-speech, no visible source.\nEvent 6 (15.9-20.0s): Woman continues speaking, hand movements include pointing and open-palmed gestures. Audio matches.\n\nAudio labels are mostly accurate. The mechanical click/hum is likely studio equipment, not a mislabeled sound. Visuals show no obvious source, so describe it as a background studio sound.",
+    "[Chunk 17: 320.0s - 340.0s]\nScene is a studio interview setting with a woman seated in front of a colorful, animated forest backdrop. The woman has shoulder-length brown hair with bangs, wears a dark sleeveless top, and is actively gesturing while speaking. The audio is consistently labeled as [speech] with low confidence, but visuals confirm she is speaking throughout. The speech is on-screen, lips moving, and gestures match natural conversational rhythm. No other audio sources or effects are present. All events involve her speaking, with varying hand gestures and facial expressions, but no off-screen voices or sound effects. The backdrop remains static and vibrant throughout.\n\nEvent 1 (0.0-0.8s): Woman begins speaking, hand raised with fingers spread, eyes wide, mouth open.\nEvent 2 (0.0-20.0s): Continuous speaking with dynamic hand gestures, shifting gaze, and expressive facial movements.\nEvent 3 (1.6-5.0s): Hand moves to chest, then opens palm, eyes look upward, mouth forming words.\nEvent 4 (5.9-11.8s): Hand gestures outward, then crosses arms, head tilts slightly, continues speaking.\nEvent 5 (12.4-14.5s): Hands rest, gaze shifts slightly, lips moving in mid-sentence.\nEvent 6 (14.9-16.8s): Eyes briefly close, then open, mouth moving, slight head nod.\nEvent 7 (17.9-20.0s): Eyes look down, then up, hand moves to chest, continues speaking.\n\nAll audio labels are [speech] and visually confirmed. No need to correct audio labels as they match visuals. Use varied descriptors for speech quality and gestures.",
+    "[Chunk 18: 340.0s - 360.0s]\nScene is a studio interview setup with a woman seated against a vibrant, animated forest backdrop. The woman has shoulder-length brown hair with bangs and is wearing a dark sleeveless top. She speaks directly to the camera with expressive hand gestures. The audio is consistently labeled as [speech] with a female voice, which matches the visual of a woman speaking. No other sounds are present. The visual context shows no movement or activity beyond the speaker\u2019s gestures, so all audio events are correctly labeled as [speech] with appropriate visual context.\n\nEvent 1 (0.0-3.2s): Woman seated, speaking with neutral expression, slight hand movement.\nEvent 2 (0.0-20.0s): Continuous visual of woman speaking, using hand gestures, facial expressions shifting with speech.\nEvent 3 (3.8-5.4s): Woman continues speaking, eyes briefly glance upward, mouth open mid-sentence.\nEvent 4 (6.1-7.5s): Woman gestures toward her chest with both hands, speaking with emphasis.\nEvent 5 (8.3-11.1s): Woman uses open-handed gestures, palms up, eyes looking slightly to side.\nEvent 6 (11.4-15.9s): Woman continues speaking, hand gestures more relaxed, occasional glance to side.\nEvent 7 (16.2-20.0s): Woman speaks with slight smile, hands resting, gaze steady.\n\nAll audio labels are correct as [speech] \u2014 no correction needed. Visuals consistently show the woman speaking with expressive gestures and facial movements.",
+    "[Chunk 19: 360.0s - 372.7s]\nScene is a studio interview setup with a woman seated in front of a colorful, fantastical forest backdrop. At 0.0s, the woman is visible, speaking directly to the camera with expressive facial movements. The audio labels \"Female voice (uncertain)\" for events 1 and 3 are consistent with the visual of a woman speaking, and the confidence is high enough to trust the label. Event 2 (0.0-5.7s) shows continuous speaking with lip movement matching the speech transcript, confirming it\u2019s on-screen speech. Event 4 (5.7-12.7s) shows a black screen with copyright text, indicating no visual or audio content beyond the text.\n\nEvent 1 (0.0-0.7s): Woman speaking on-screen, mouth moving, seated in front of vibrant forest background  \nEvent 2 (0.0-5.7s): Same woman continues speaking, head slightly tilting, eyes shifting, consistent with speech  \nEvent 3 (1.3-4.4s): Woman still speaking, eyebrows slightly raised, mouth forming words, on-screen  \nEvent 4 (5.7-12.7s): Black screen with white copyright text, no audio or visual action\n\nFixes: No audio mislabels \u2014 all match visuals. Use \"speech\" for all talking segments, \"visual\" for black screen with text."
+  ],
+  "chunks": [
+    [
+      0.0,
+      20.0
+    ],
+    [
+      20.0,
+      40.0
+    ],
+    [
+      40.0,
+      60.0
+    ],
+    [
+      60.0,
+      80.0
+    ],
+    [
+      80.0,
+      100.0
+    ],
+    [
+      100.0,
+      120.0
+    ],
+    [
+      120.0,
+      140.0
+    ],
+    [
+      140.0,
+      160.0
+    ],
+    [
+      160.0,
+      180.0
+    ],
+    [
+      180.0,
+      200.0
+    ],
+    [
+      200.0,
+      220.0
+    ],
+    [
+      220.0,
+      240.0
+    ],
+    [
+      240.0,
+      260.0
+    ],
+    [
+      260.0,
+      280.0
+    ],
+    [
+      280.0,
+      300.0
+    ],
+    [
+      300.0,
+      320.0
+    ],
+    [
+      320.0,
+      340.0
+    ],
+    [
+      340.0,
+      360.0
+    ],
+    [
+      360.0,
+      372.68027210884355
+    ]
+  ]
+}

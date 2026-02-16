@@ -1,0 +1,23 @@
+{
+  "events": [
+    {
+      "description": "Solo piano, slow, reflective, quiet",
+      "start_time": 0.0,
+      "end_time": 15.0,
+      "duration": 15.0,
+      "type": "music",
+      "confidence": 0.998
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "events": [
+    {
+      "description": "People talking in a busy market",
+      "start_time": 0.0,
+      "end_time": 3.3,
+      "duration": 3.3,
+      "type": "background",
+      "confidence": 0.979
+    },
+    {
+      "description": "Footsteps on dry leaves",
+      "start_time": 0.0,
+      "end_time": 6.6,
+      "duration": 6.6,
+      "type": "sfx",
+      "confidence": 0.987
+    },
+    {
+      "description": "Horse walking on grass",
+      "start_time": 3.2,
+      "end_time": 9.8,
+      "duration": 6.6000000000000005,
+      "type": "sfx",
+      "confidence": 0.742
+    },
+    {
+      "description": "Fast whooshing sound",
+      "start_time": 3.8,
+      "end_time": 4.4,
+      "duration": 0.6000000000000005,
+      "type": "sfx",
+      "confidence": 0.698
+    },
+    {
+      "description": "People talking in a busy market",
+      "start_time": 6.0,
+      "end_time": 15.0,
+      "duration": 9.0,
+      "type": "background",
+      "confidence": 0.736
+    },
+    {
+      "description": "Sustained metallic tone",
+      "start_time": 6.6,
+      "end_time": 9.8,
+      "duration": 3.200000000000001,
+      "type": "sfx",
+      "confidence": 0.16
+    },
+    {
+      "description": "Sustained strings, slow and deep",
+      "start_time": 12.5,
+      "end_time": 15.0,
+      "duration": 2.5,
+      "type": "music",
+      "confidence": 0.86
+    },
+    {
+      "description": "Low-frequency whoosh",
+      "start_time": 13.1,
+      "end_time": 14.4,
+      "duration": 1.3000000000000007,
+      "type": "sfx",
+      "confidence": 0.863
+    }
+  ],
+  "transcription": {
+    "segments": []
+  },
+  "reasoning": null,
+  "duration": 15.0,
+  "chunks": [
+    [
+      0.0,
+      15.0
+    ]
+  ]
+}
