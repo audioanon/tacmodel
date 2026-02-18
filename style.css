@@ -2145,9 +2145,37 @@ body::before {
 }
 
 /* Caption overlay at bottom of video */
-.vc-caption-overlay {
+.vc-transcription-overlay {
     position: absolute;
     bottom: 40px;
+    left: 0;
+    right: 0;
+    padding: 8px 14px;
+    background: rgba(0, 0, 0, 0.82);
+    backdrop-filter: blur(4px);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+    text-align: center;
+    font-size: 0.88rem;
+    line-height: 1.5;
+    z-index: 2;
+}
+
+.vc-transcription-overlay.visible {
+    opacity: 1;
+}
+
+.vc-transcription-line {
+    color: #fff;
+    font-weight: 600;
+    text-shadow: 0 1px 4px rgba(0, 0, 0, 0.6);
+    padding: 2px 0;
+}
+
+.vc-caption-overlay {
+    position: absolute;
+    top: 0;
     left: 0;
     right: 0;
     padding: 10px 14px;
@@ -2159,6 +2187,9 @@ body::before {
     text-align: center;
     font-size: 0.82rem;
     line-height: 1.5;
+    z-index: 1;
+    max-height: 40%;
+    overflow-y: auto;
 }
 
 .vc-caption-overlay.visible {
