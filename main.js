@@ -170,7 +170,10 @@ async function renderHomePage() {
             `;
         }).join('');
         audioHtml = `
-            <div class="home-showcase-header">🎵 Audio Captioning</div>
+            <div class="home-showcase-header" style="display: flex; align-items: center; gap: 8px;">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 10v3" /><path d="M6 6v11" /><path d="M10 3v18" /><path d="M14 7v9" /><path d="M18 5v13" /><path d="M22 9v5" /></svg>
+                Audio Captioning
+            </div>
             <div class="home-showcase-media">
                 <div class="ac-spec-wrapper home-spec" data-home-audio="0">
                     <img src="${audioClip.melspecSrc}" class="ac-melspec" draggable="false">
@@ -936,17 +939,19 @@ function createBenchmarkCardHTML(example, index) {
             </div>
             <div class="reasoning-section" id="reasoning-${index}">
                 <div class="reasoning-tabs">
-                    <button class="reasoning-tab-btn active" onclick="switchReasoningTab(${index}, 'structured')">Structured Shots</button>
-                    <button class="reasoning-tab-btn" onclick="switchReasoningTab(${index}, 'raw')">Raw Caption</button>
+                    <!-- <button class="reasoning-tab-btn mixed" onclick="switchReasoningTab(${index}, 'structured')">Structured Shots</button> -->
+                    <button class="reasoning-tab-btn active" onclick="switchReasoningTab(${index}, 'raw')">Shot-list from TAC-V</button>
                 </div>
-                <div class="reasoning-tab-content structured-content active" id="structured-${index}">
+                <!--
+                <div class="reasoning-tab-content structured-content" id="structured-${index}">
                     <h4 style="margin-bottom: 16px; color: var(--accent-primary);">Shot-by-Shot Analysis</h4>
                     <div class="shot-list">
                         ${shotListHTML}
                     </div>
                 </div>
-                <div class="reasoning-tab-content raw-content" id="raw-${index}">
-                    <h4 style="margin-bottom: 16px; color: var(--accent-primary);">Raw Caption</h4>
+                -->
+                <div class="reasoning-tab-content raw-content active" id="raw-${index}">
+                    <h4 style="margin-bottom: 16px; color: var(--accent-primary);">Shot-list from TAC-V</h4>
                     <div class="raw-caption">
                         ${rawCaptionHTML}
                     </div>
@@ -1068,13 +1073,18 @@ function switchReasoningTab(index, tabType) {
     tabs.forEach(tab => tab.classList.remove('active'));
 
     if (tabType === 'structured') {
-        structuredContent.classList.add('active');
-        rawContent.classList.remove('active');
-        tabs[0].classList.add('active');
+        if (structuredContent) structuredContent.classList.add('active');
+        if (rawContent) rawContent.classList.remove('active');
+        if (tabs.length > 0) tabs[0].classList.add('active');
     } else {
-        rawContent.classList.add('active');
-        structuredContent.classList.remove('active');
-        tabs[1].classList.add('active');
+        if (rawContent) rawContent.classList.add('active');
+        if (structuredContent) structuredContent.classList.remove('active');
+        // If structured tab is hidden, raw tab is at index 0
+        if (tabs.length === 1) {
+            tabs[0].classList.add('active');
+        } else if (tabs.length > 1) {
+            tabs[1].classList.add('active');
+        }
     }
 }
 
