@@ -1317,7 +1317,8 @@ function getSampleBenchmarkData() {
 const vcState = {
     clips: [],
     visibleCount: 6,
-    activeFilter: 'all'
+    activeFilter: 'all',
+    transcriptionByClip: {}
 };
 
 // Audio Captioning State
@@ -1343,10 +1344,16 @@ async function loadVideoCaptioningData() {
                 const eventsData = await eventsRes.json();
                 const rawEvents = eventsData.events || [];
                 const mergedEvents = mergeTranscriptionAsEvents(rawEvents, eventsData.transcription);
+                const transcriptionSegments = (eventsData.transcription?.segments || []).map(seg => ({
+                    start: seg.start,
+                    end: seg.end,
+                    text: seg.text.trim()
+                }));
                 return {
                     id: dir,
                     videoSrc: `${basePath}/clip.mp4`,
                     events: mergedEvents,
+                    transcriptionSegments,
                     duration: eventsData.duration,
                     selStart: eventsData.sel_start,
                     selEnd: eventsData.sel_end
@@ -1387,29 +1394,20 @@ function formatTime(seconds) {
 }
 
 /**
- * Merge transcription segments into an events array as speech-type events.
- * Avoids duplicates by checking if a speech event already covers the same time.
+ * Merge transcription segments into an events array as their own type.
  */
 function mergeTranscriptionAsEvents(events, transcription) {
     if (!transcription?.segments || transcription.segments.length === 0) return events;
     const merged = [...events];
     transcription.segments.forEach(seg => {
-        // Check for existing speech event that overlaps
-        const alreadyExists = merged.some(ev =>
-            ev.type === 'speech' &&
-            Math.abs(ev.start_time - seg.start) < 0.5 &&
-            Math.abs(ev.end_time - seg.end) < 0.5
-        );
-        if (!alreadyExists) {
-            merged.push({
-                type: 'speech',
-                start_time: seg.start,
-                end_time: seg.end,
-                description: `🗣️ "${seg.text.trim()}"`,
-                confidence: null,
-                _isTranscription: true
-            });
-        }
+        merged.push({
+            type: 'transcription',
+            start_time: seg.start,
+            end_time: seg.end,
+            description: `"${seg.text.trim()}"`,
+            confidence: null,
+            _isTranscription: true
+        });
     });
     return merged.sort((a, b) => a.start_time - b.start_time);
 }
@@ -1419,7 +1417,8 @@ function getEventTypeColor(type) {
         visual: { bg: 'rgba(16, 185, 129, 0.12)', border: '#10b981', text: '#10b981' },
         music: { bg: 'rgba(139, 92, 246, 0.12)', border: '#8b5cf6', text: '#8b5cf6' },
         speech: { bg: 'rgba(236, 72, 153, 0.12)', border: '#ec4899', text: '#ec4899' },
-        sfx: { bg: 'rgba(245, 158, 11, 0.12)', border: '#f59e0b', text: '#f59e0b' }
+        sfx: { bg: 'rgba(245, 158, 11, 0.12)', border: '#f59e0b', text: '#f59e0b' },
+        transcription: { bg: 'rgba(56, 189, 248, 0.12)', border: '#38bdf8', text: '#38bdf8' }
     };
     return colors[type] || { bg: 'rgba(255,255,255,0.05)', border: 'var(--border-color)', text: 'var(--text-secondary)' };
 }
@@ -1429,6 +1428,9 @@ function renderVideoCaptioningExamples() {
     const visibleClips = vcState.clips.slice(0, vcState.visibleCount);
 
     let html = visibleClips.map((clip, idx) => {
+        vcState.transcriptionByClip[idx] = (clip.transcriptionSegments || [])
+            .filter(seg => seg.start >= clip.selStart && seg.start < clip.selEnd);
+
         const filteredEvents = clip.events
             .filter(e => e.start_time >= clip.selStart && e.start_time < clip.selEnd)
             .sort((a, b) => a.start_time - b.start_time);
@@ -1457,6 +1459,7 @@ function renderVideoCaptioningExamples() {
                         <video controls preload="metadata" class="vc-video" data-clip-index="${idx}">
                             <source src="${clip.videoSrc}" type="video/mp4">
                         </video>
+                        <div class="vc-transcription-overlay" data-transcription-overlay="${idx}"></div>
                         <div class="vc-caption-overlay" data-overlay="${idx}"></div>
                     </div>
                 </div>
@@ -1515,10 +1518,13 @@ function attachVideoSyncListeners() {
         const card = video.closest('.vc-example-card');
         const eventList = card?.querySelector(`.vc-events-list[data-clip-list="${clipIdx}"]`);
         const overlay = card?.querySelector('.vc-caption-overlay');
+        const transcriptionOverlay = card?.querySelector('.vc-transcription-overlay');
+        const transcriptionSegments = vcState.transcriptionByClip[clipIdx] || [];
         if (!eventList) return;
 
         let lastScrolledItem = null;
         let lastOverlayHtml = '';
+        let lastTranscriptionHtml = '';
 
         video.addEventListener('timeupdate', () => {
             const t = video.currentTime;
@@ -1551,12 +1557,21 @@ function attachVideoSyncListeners() {
                 eventList.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
             }
 
+            // Update transcription overlay
+            if (transcriptionOverlay) {
+                const activeSegments = transcriptionSegments.filter(seg => t >= seg.start && t <= seg.end);
+                const transHtml = activeSegments.map(seg =>
+                    `<div class="vc-transcription-line">${seg.text}</div>`
+                ).join('');
+                if (transHtml !== lastTranscriptionHtml) {
+                    lastTranscriptionHtml = transHtml;
+                    transcriptionOverlay.innerHTML = transHtml;
+                    transcriptionOverlay.classList.toggle('visible', activeSegments.length > 0);
+                }
+            }
+
             // Update caption overlay
             if (overlay) {
-                const typeColors = {
-                    music: '#e8a850', background: '#e8a850', visual: '#e8a850',
-                    speech: '#e8a850', sfx: '#e8a850'
-                };
                 let overlayHtml = activeEvents.map(item => {
                     const evType = item.dataset.eventType || '';
                     const conf = item.dataset.confidence;
